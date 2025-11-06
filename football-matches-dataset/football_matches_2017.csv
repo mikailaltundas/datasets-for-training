@@ -1,0 +1,613 @@
+Match_ID,Div,Season,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+4764,D1,2017,2018-01-15,Leverkusen,Bayern Munich,-1,-1,H
+4765,D1,2017,2018-02-05,Mainz,Bayern Munich,-1,-1,H
+4766,D1,2017,2018-04-23,Hannover,Bayern Munich,-1,-1,H
+4767,D1,2017,2017-10-22,Hamburg,Bayern Munich,-1,-1,H
+4768,D1,2017,2018-02-19,Wolfsburg,Bayern Munich,-1,-1,H
+4769,D1,2017,2017-09-10,Hoffenheim,Bayern Munich,-1,-1,H
+4770,D1,2017,2018-05-05,FC Koln,Bayern Munich,-1,-1,H
+4771,D1,2017,2018-03-05,Freiburg,Bayern Munich,-1,-1,H
+4772,D1,2017,2017-09-20,Schalke 04,Bayern Munich,-1,-1,H
+4773,D1,2017,2017-12-10,Ein Frankfurt,Bayern Munich,-1,-1,H
+4774,D1,2017,2018-04-09,Augsburg,Bayern Munich,-1,-1,H
+4775,D1,2017,2017-08-27,Werder Bremen,Bayern Munich,-1,-1,H
+4776,D1,2017,2018-03-18,RB Leipzig,Bayern Munich,-1,-1,H
+4777,D1,2017,2017-11-27,M'gladbach,Bayern Munich,-1,-1,H
+4778,D1,2017,2017-12-17,Stuttgart,Bayern Munich,-1,-1,H
+4779,D1,2017,2017-10-01,Hertha,Bayern Munich,-1,-1,H
+4780,D1,2017,2017-11-05,Dortmund,Bayern Munich,-1,-1,H
+4781,D1,2017,2017-10-29,Hannover,Dortmund,-1,-1,H
+4782,D1,2017,2018-04-30,Werder Bremen,Dortmund,-1,-1,H
+4783,D1,2017,2018-02-05,FC Koln,Dortmund,-1,-1,H
+4784,D1,2017,2018-01-22,Hertha,Dortmund,-1,-1,H
+4785,D1,2017,2018-03-05,RB Leipzig,Dortmund,-1,-1,H
+4786,D1,2017,2018-04-02,Bayern Munich,Dortmund,-1,-1,H
+4787,D1,2017,2018-04-16,Schalke 04,Dortmund,-1,-1,H
+4788,D1,2017,2017-08-20,Wolfsburg,Dortmund,-1,-1,H
+4789,D1,2017,2017-09-10,Freiburg,Dortmund,-1,-1,H
+4790,D1,2017,2017-10-22,Ein Frankfurt,Dortmund,-1,-1,H
+4791,D1,2017,2017-12-03,Leverkusen,Dortmund,-1,-1,H
+4792,D1,2017,2017-11-19,Stuttgart,Dortmund,-1,-1,H
+4793,D1,2017,2018-05-12,Hoffenheim,Dortmund,-1,-1,H
+4794,D1,2017,2017-12-13,Mainz,Dortmund,-1,-1,H
+4795,D1,2017,2017-09-20,Hamburg,Dortmund,-1,-1,H
+4796,D1,2017,2017-10-01,Augsburg,Dortmund,-1,-1,H
+4797,D1,2017,2018-02-19,M'gladbach,Dortmund,-1,-1,H
+4798,D2,2017,2017-09-17,Regensburg,Dresden,-1,-1,H
+4799,D2,2017,2018-04-23,Kaiserslautern,Dresden,-1,-1,H
+4800,D2,2017,2017-10-23,Nurnberg,Dresden,-1,-1,H
+4801,D2,2017,2017-09-25,Darmstadt,Dresden,-1,-1,H
+4802,D2,2017,2017-11-06,Kiel,Dresden,-1,-1,H
+4803,D2,2017,2018-02-26,Bielefeld,Dresden,-1,-1,H
+4804,D2,2017,2017-08-28,Bochum,Dresden,-1,-1,H
+4805,D2,2017,2018-02-12,Greuther Furth,Dresden,-1,-1,H
+4806,D2,2017,2017-11-27,Fortuna Dusseldorf,Dresden,-1,-1,H
+4807,D2,2017,2017-08-07,St Pauli,Dresden,-1,-1,H
+4808,D2,2017,2018-04-09,Braunschweig,Dresden,-1,-1,H
+4809,D2,2017,2017-12-11,Union Berlin,Dresden,-1,-1,H
+4810,D2,2017,2018-05-06,Erzgebirge Aue,Dresden,-1,-1,H
+4811,D2,2017,2017-10-02,Heidenheim,Dresden,-1,-1,H
+4812,D2,2017,2017-12-18,Duisburg,Dresden,-1,-1,H
+4813,D2,2017,2018-03-19,Ingolstadt,Dresden,-1,-1,H
+4814,D2,2017,2018-01-29,Sandhausen,Dresden,-1,-1,H
+4815,D2,2017,2017-07-31,Dresden,Duisburg,-1,-1,H
+4816,D2,2017,2017-09-21,Ingolstadt,Duisburg,-1,-1,H
+4817,D2,2017,2017-10-02,Fortuna Dusseldorf,Duisburg,-1,-1,H
+4818,D2,2017,2018-04-09,Union Berlin,Duisburg,-1,-1,H
+4819,D2,2017,2017-12-11,St Pauli,Duisburg,-1,-1,H
+4820,D2,2017,2017-09-11,Bielefeld,Duisburg,-1,-1,H
+4821,D2,2017,2018-04-23,Erzgebirge Aue,Duisburg,-1,-1,H
+4822,D2,2017,2018-03-19,Braunschweig,Duisburg,-1,-1,H
+4823,D2,2017,2018-02-05,Darmstadt,Duisburg,-1,-1,H
+4824,D2,2017,2017-11-27,Regensburg,Duisburg,-1,-1,H
+4825,D2,2017,2017-10-23,Kaiserslautern,Duisburg,-1,-1,H
+4826,D2,2017,2017-11-06,Sandhausen,Duisburg,-1,-1,H
+4827,D2,2017,2018-01-25,Bochum,Duisburg,-1,-1,H
+4828,D2,2017,2018-03-05,Kiel,Duisburg,-1,-1,H
+4829,D2,2017,2017-08-21,Heidenheim,Duisburg,-1,-1,H
+4830,D2,2017,2018-02-19,Nurnberg,Duisburg,-1,-1,H
+4831,D2,2017,2018-05-06,Greuther Furth,Duisburg,-1,-1,H
+4832,D1,2017,2018-04-30,Bayern Munich,Ein Frankfurt,-1,-1,H
+4833,D1,2017,2017-09-20,FC Koln,Ein Frankfurt,-1,-1,H
+4834,D1,2017,2017-10-29,Mainz,Ein Frankfurt,-1,-1,H
+4835,D1,2017,2017-09-10,M'gladbach,Ein Frankfurt,-1,-1,H
+4836,D1,2017,2018-04-02,Werder Bremen,Ein Frankfurt,-1,-1,H
+4837,D1,2017,2018-02-05,Augsburg,Ein Frankfurt,-1,-1,H
+4838,D1,2017,2018-02-26,Stuttgart,Ein Frankfurt,-1,-1,H
+4839,D1,2017,2017-08-20,Freiburg,Ein Frankfurt,-1,-1,H
+4840,D1,2017,2017-11-19,Hoffenheim,Ein Frankfurt,-1,-1,H
+4841,D1,2017,2018-03-12,Dortmund,Ein Frankfurt,-1,-1,H
+4842,D1,2017,2017-12-13,Hamburg,Ein Frankfurt,-1,-1,H
+4843,D1,2017,2017-09-24,RB Leipzig,Ein Frankfurt,-1,-1,H
+4844,D1,2017,2018-05-12,Schalke 04,Ein Frankfurt,-1,-1,H
+4845,D1,2017,2018-04-16,Leverkusen,Ein Frankfurt,-1,-1,H
+4846,D1,2017,2017-12-03,Hertha,Ein Frankfurt,-1,-1,H
+4847,D1,2017,2017-10-15,Hannover,Ein Frankfurt,-1,-1,H
+4848,D1,2017,2018-01-22,Wolfsburg,Ein Frankfurt,-1,-1,H
+4849,D1,2017,2017-09-24,Hannover,FC Koln,-1,-1,H
+4850,D1,2017,2018-01-22,Hamburg,FC Koln,-1,-1,H
+4851,D1,2017,2018-02-26,RB Leipzig,FC Koln,-1,-1,H
+4852,D1,2017,2018-04-30,Freiburg,FC Koln,-1,-1,H
+4853,D1,2017,2017-12-13,Bayern Munich,FC Koln,-1,-1,H
+4854,D1,2017,2018-04-16,Hertha,FC Koln,-1,-1,H
+4855,D1,2017,2017-09-10,Augsburg,FC Koln,-1,-1,H
+4856,D1,2017,2018-03-12,Werder Bremen,FC Koln,-1,-1,H
+4857,D1,2017,2017-10-15,Stuttgart,FC Koln,-1,-1,H
+4858,D1,2017,2017-12-03,Schalke 04,FC Koln,-1,-1,H
+4859,D1,2017,2018-04-02,Hoffenheim,FC Koln,-1,-1,H
+4860,D1,2017,2017-08-20,M'gladbach,FC Koln,-1,-1,H
+4861,D1,2017,2018-02-12,Ein Frankfurt,FC Koln,-1,-1,H
+4862,D1,2017,2017-11-19,Mainz,FC Koln,-1,-1,H
+4863,D1,2017,2017-09-17,Dortmund,FC Koln,-1,-1,H
+4864,D1,2017,2018-05-12,Wolfsburg,FC Koln,-1,-1,H
+4865,D1,2017,2017-10-29,Leverkusen,FC Koln,-1,-1,H
+4866,D1,2017,2017-09-17,Leverkusen,Freiburg,-1,-1,H
+4867,D1,2017,2018-04-23,Hamburg,Freiburg,-1,-1,H
+4868,D1,2017,2018-04-16,Mainz,Freiburg,-1,-1,H
+4869,D1,2017,2018-01-15,Ein Frankfurt,Freiburg,-1,-1,H
+4870,D1,2017,2018-01-29,Dortmund,Freiburg,-1,-1,H
+4871,D1,2017,2018-03-12,Hertha,Freiburg,-1,-1,H
+4872,D1,2017,2017-11-19,Wolfsburg,Freiburg,-1,-1,H
+4873,D1,2017,2018-05-05,M'gladbach,Freiburg,-1,-1,H
+4874,D1,2017,2017-12-10,FC Koln,Freiburg,-1,-1,H
+4875,D1,2017,2017-09-24,Werder Bremen,Freiburg,-1,-1,H
+4876,D1,2017,2017-10-15,Bayern Munich,Freiburg,-1,-1,H
+4877,D1,2017,2018-04-02,Schalke 04,Freiburg,-1,-1,H
+4878,D1,2017,2017-12-17,Augsburg,Freiburg,-1,-1,H
+4879,D1,2017,2017-08-27,RB Leipzig,Freiburg,-1,-1,H
+4880,D1,2017,2018-02-26,Hoffenheim,Freiburg,-1,-1,H
+4881,D1,2017,2018-02-12,Hannover,Freiburg,-1,-1,H
+4882,D1,2017,2017-10-29,Stuttgart,Freiburg,-1,-1,H
+4883,D1,2017,2018-01-15,Augsburg,Hamburg,-1,-1,H
+4884,D1,2017,2018-04-30,Wolfsburg,Hamburg,-1,-1,H
+4885,D1,2017,2018-04-16,Hoffenheim,Hamburg,-1,-1,H
+4886,D1,2017,2018-03-12,Bayern Munich,Hamburg,-1,-1,H
+4887,D1,2017,2018-02-12,Dortmund,Hamburg,-1,-1,H
+4888,D1,2017,2017-08-27,FC Koln,Hamburg,-1,-1,H
+4889,D1,2017,2018-05-05,Ein Frankfurt,Hamburg,-1,-1,H
+4890,D1,2017,2017-10-29,Hertha,Hamburg,-1,-1,H
+4891,D1,2017,2018-01-29,RB Leipzig,Hamburg,-1,-1,H
+4892,D1,2017,2017-09-17,Hannover,Hamburg,-1,-1,H
+4893,D1,2017,2017-12-17,M'gladbach,Hamburg,-1,-1,H
+4894,D1,2017,2017-10-15,Mainz,Hamburg,-1,-1,H
+4895,D1,2017,2017-11-19,Schalke 04,Hamburg,-1,-1,H
+4896,D1,2017,2017-12-03,Freiburg,Hamburg,-1,-1,H
+4897,D1,2017,2018-02-26,Werder Bremen,Hamburg,-1,-1,H
+4898,D1,2017,2017-09-24,Leverkusen,Hamburg,-1,-1,H
+4899,D1,2017,2018-04-02,Stuttgart,Hamburg,-1,-1,H
+4900,D2,2017,2017-11-20,Dresden,Kaiserslautern,-1,-1,H
+4901,D2,2017,2017-09-25,Union Berlin,Kaiserslautern,-1,-1,H
+4902,D2,2017,2018-04-16,Bochum,Kaiserslautern,-1,-1,H
+4903,D2,2017,2017-07-31,Nurnberg,Kaiserslautern,-1,-1,H
+4904,D2,2017,2017-08-21,Fortuna Dusseldorf,Kaiserslautern,-1,-1,H
+4905,D2,2017,2017-09-17,Sandhausen,Kaiserslautern,-1,-1,H
+4906,D2,2017,2017-10-16,St Pauli,Kaiserslautern,-1,-1,H
+4907,D2,2017,2017-12-04,Heidenheim,Kaiserslautern,-1,-1,H
+4908,D2,2017,2018-01-25,Darmstadt,Kaiserslautern,-1,-1,H
+4909,D2,2017,2018-02-26,Erzgebirge Aue,Kaiserslautern,-1,-1,H
+4910,D2,2017,2017-09-11,Kiel,Kaiserslautern,-1,-1,H
+4911,D2,2017,2018-03-12,Greuther Furth,Kaiserslautern,-1,-1,H
+4912,D2,2017,2018-05-13,Ingolstadt,Kaiserslautern,-1,-1,H
+4913,D2,2017,2018-04-02,Duisburg,Kaiserslautern,-1,-1,H
+4914,D2,2017,2018-04-30,Bielefeld,Kaiserslautern,-1,-1,H
+4915,D2,2017,2017-10-30,Regensburg,Kaiserslautern,-1,-1,H
+4916,D2,2017,2018-02-05,Braunschweig,Kaiserslautern,-1,-1,H
+4917,D1,2017,2017-08-18,Bayern Munich,Leverkusen,-1,-1,H
+4918,D1,2017,2017-12-17,Hannover,Leverkusen,-1,-1,H
+4919,D1,2017,2018-03-05,Wolfsburg,Leverkusen,-1,-1,H
+4920,D1,2017,2017-10-22,M'gladbach,Leverkusen,-1,-1,H
+4921,D1,2017,2018-01-22,Hoffenheim,Leverkusen,-1,-1,H
+4922,D1,2017,2018-04-09,RB Leipzig,Leverkusen,-1,-1,H
+4923,D1,2017,2018-02-19,Hamburg,Leverkusen,-1,-1,H
+4924,D1,2017,2018-04-23,Dortmund,Leverkusen,-1,-1,H
+4925,D1,2017,2017-10-01,Schalke 04,Leverkusen,-1,-1,H
+4926,D1,2017,2017-09-20,Hertha,Leverkusen,-1,-1,H
+4927,D1,2017,2017-12-10,Stuttgart,Leverkusen,-1,-1,H
+4928,D1,2017,2018-03-18,FC Koln,Leverkusen,-1,-1,H
+4929,D1,2017,2017-11-05,Augsburg,Leverkusen,-1,-1,H
+4930,D1,2017,2018-05-05,Werder Bremen,Leverkusen,-1,-1,H
+4931,D1,2017,2017-09-10,Mainz,Leverkusen,-1,-1,H
+4932,D1,2017,2017-11-27,Ein Frankfurt,Leverkusen,-1,-1,H
+4933,D1,2017,2018-02-05,Freiburg,Leverkusen,-1,-1,H
+4934,D2,2017,2017-12-11,Fortuna Dusseldorf,Nurnberg,-1,-1,H
+4935,D2,2017,2018-01-29,Union Berlin,Nurnberg,-1,-1,H
+4936,D2,2017,2018-04-02,Dresden,Nurnberg,-1,-1,H
+4937,D2,2017,2018-03-12,Bielefeld,Nurnberg,-1,-1,H
+4938,D2,2017,2017-09-25,Greuther Furth,Nurnberg,-1,-1,H
+4939,D2,2017,2018-02-12,St Pauli,Nurnberg,-1,-1,H
+4940,D2,2017,2017-08-28,Erzgebirge Aue,Nurnberg,-1,-1,H
+4941,D2,2017,2018-05-06,Sandhausen,Nurnberg,-1,-1,H
+4942,D2,2017,2018-04-23,Kiel,Nurnberg,-1,-1,H
+4943,D2,2017,2017-08-07,Regensburg,Nurnberg,-1,-1,H
+4944,D2,2017,2017-11-27,Braunschweig,Nurnberg,-1,-1,H
+4945,D2,2017,2018-04-16,Ingolstadt,Nurnberg,-1,-1,H
+4946,D2,2017,2017-12-18,Kaiserslautern,Nurnberg,-1,-1,H
+4947,D2,2017,2017-09-17,Duisburg,Nurnberg,-1,-1,H
+4948,D2,2017,2018-02-26,Bochum,Nurnberg,-1,-1,H
+4949,D2,2017,2017-10-16,Darmstadt,Nurnberg,-1,-1,H
+4950,D2,2017,2017-10-30,Heidenheim,Nurnberg,-1,-1,H
+4951,D1,2017,2018-04-23,FC Koln,Schalke 04,-1,-1,H
+4952,D1,2017,2018-01-15,RB Leipzig,Schalke 04,-1,-1,H
+4953,D1,2017,2018-04-09,Hamburg,Schalke 04,-1,-1,H
+4954,D1,2017,2017-09-24,Hoffenheim,Schalke 04,-1,-1,H
+4955,D1,2017,2017-08-27,Hannover,Schalke 04,-1,-1,H
+4956,D1,2017,2017-09-17,Werder Bremen,Schalke 04,-1,-1,H
+4957,D1,2017,2017-11-27,Dortmund,Schalke 04,-1,-1,H
+4958,D1,2017,2018-05-05,Augsburg,Schalke 04,-1,-1,H
+4959,D1,2017,2017-12-17,Ein Frankfurt,Schalke 04,-1,-1,H
+4960,D1,2017,2018-01-29,Stuttgart,Schalke 04,-1,-1,H
+4961,D1,2017,2018-02-12,Bayern Munich,Schalke 04,-1,-1,H
+4962,D1,2017,2017-10-15,Hertha,Schalke 04,-1,-1,H
+4963,D1,2017,2017-12-10,M'gladbach,Schalke 04,-1,-1,H
+4964,D1,2017,2017-11-05,Freiburg,Schalke 04,-1,-1,H
+4965,D1,2017,2018-03-12,Mainz,Schalke 04,-1,-1,H
+4966,D1,2017,2018-03-18,Wolfsburg,Schalke 04,-1,-1,H
+4967,D1,2017,2018-02-26,Leverkusen,Schalke 04,-1,-1,H
+4968,D1,2017,2017-11-27,Hannover,Stuttgart,-1,-1,H
+4969,D1,2017,2017-12-03,Werder Bremen,Stuttgart,-1,-1,H
+4970,D1,2017,2017-10-22,RB Leipzig,Stuttgart,-1,-1,H
+4971,D1,2017,2018-02-19,Augsburg,Stuttgart,-1,-1,H
+4972,D1,2017,2018-04-09,Dortmund,Stuttgart,-1,-1,H
+4973,D1,2017,2017-12-13,Hoffenheim,Stuttgart,-1,-1,H
+4974,D1,2017,2017-08-20,Hertha,Stuttgart,-1,-1,H
+4975,D1,2017,2018-05-12,Bayern Munich,Stuttgart,-1,-1,H
+4976,D1,2017,2018-04-30,Leverkusen,Stuttgart,-1,-1,H
+4977,D1,2017,2018-03-18,Freiburg,Stuttgart,-1,-1,H
+4978,D1,2017,2018-02-05,Wolfsburg,Stuttgart,-1,-1,H
+4979,D1,2017,2018-01-22,Mainz,Stuttgart,-1,-1,H
+4980,D1,2017,2017-10-01,Ein Frankfurt,Stuttgart,-1,-1,H
+4981,D1,2017,2018-03-05,FC Koln,Stuttgart,-1,-1,H
+4982,D1,2017,2017-09-10,Schalke 04,Stuttgart,-1,-1,H
+4983,D1,2017,2017-09-20,M'gladbach,Stuttgart,-1,-1,H
+4984,D1,2017,2017-11-05,Hamburg,Stuttgart,-1,-1,H
+4985,D1,2017,2017-10-22,FC Koln,Werder Bremen,-1,-1,H
+4986,D1,2017,2018-02-19,Freiburg,Werder Bremen,-1,-1,H
+4987,D1,2017,2018-01-22,Bayern Munich,Werder Bremen,-1,-1,H
+4988,D1,2017,2017-08-20,Hoffenheim,Werder Bremen,-1,-1,H
+4989,D1,2017,2017-11-05,Ein Frankfurt,Werder Bremen,-1,-1,H
+4990,D1,2017,2017-10-01,Hamburg,Werder Bremen,-1,-1,H
+4991,D1,2017,2017-11-27,RB Leipzig,Werder Bremen,-1,-1,H
+4992,D1,2017,2017-12-13,Leverkusen,Werder Bremen,-1,-1,H
+4993,D1,2017,2017-09-10,Hertha,Werder Bremen,-1,-1,H
+4994,D1,2017,2018-05-12,Mainz,Werder Bremen,-1,-1,H
+4995,D1,2017,2018-02-05,Schalke 04,Werder Bremen,-1,-1,H
+4996,D1,2017,2018-04-09,Hannover,Werder Bremen,-1,-1,H
+4997,D1,2017,2017-12-10,Dortmund,Werder Bremen,-1,-1,H
+4998,D1,2017,2017-09-20,Wolfsburg,Werder Bremen,-1,-1,H
+4999,D1,2017,2018-03-05,M'gladbach,Werder Bremen,-1,-1,H
+5000,D1,2017,2018-03-18,Augsburg,Werder Bremen,-1,-1,H
+5001,D1,2017,2018-04-23,Stuttgart,Werder Bremen,-1,-1,H
+5002,D2,2017,2018-03-19,Sandhausen,Bochum,-1,-1,H
+5003,D2,2017,2018-02-05,Dresden,Bochum,-1,-1,H
+5004,D2,2017,2017-11-06,Kaiserslautern,Bochum,-1,-1,H
+5005,D2,2017,2018-03-05,Ingolstadt,Bochum,-1,-1,H
+5006,D2,2017,2017-08-21,Bielefeld,Bochum,-1,-1,H
+5007,D2,2017,2017-11-27,Erzgebirge Aue,Bochum,-1,-1,H
+5008,D2,2017,2017-10-02,Kiel,Bochum,-1,-1,H
+5009,D2,2017,2017-12-11,Regensburg,Bochum,-1,-1,H
+5010,D2,2017,2017-12-18,St Pauli,Bochum,-1,-1,H
+5011,D2,2017,2018-05-06,Union Berlin,Bochum,-1,-1,H
+5012,D2,2017,2017-09-11,Darmstadt,Bochum,-1,-1,H
+5013,D2,2017,2018-04-09,Fortuna Dusseldorf,Bochum,-1,-1,H
+5014,D2,2017,2018-04-23,Greuther Furth,Bochum,-1,-1,H
+5015,D2,2017,2018-02-19,Heidenheim,Bochum,-1,-1,H
+5016,D2,2017,2017-09-21,Nurnberg,Bochum,-1,-1,H
+5017,D2,2017,2017-10-23,Braunschweig,Bochum,-1,-1,H
+5018,D2,2017,2017-08-07,Duisburg,Bochum,-1,-1,H
+5019,D1,2017,2018-04-16,Stuttgart,Hannover,-1,-1,H
+5020,D1,2017,2017-11-19,Werder Bremen,Hannover,-1,-1,H
+5021,D1,2017,2017-08-20,Mainz,Hannover,-1,-1,H
+5022,D1,2017,2017-12-03,Bayern Munich,Hannover,-1,-1,H
+5023,D1,2017,2017-12-13,Hertha,Hannover,-1,-1,H
+5024,D1,2017,2017-10-01,M'gladbach,Hannover,-1,-1,H
+5025,D1,2017,2018-05-12,Leverkusen,Hannover,-1,-1,H
+5026,D1,2017,2018-03-05,Ein Frankfurt,Hannover,-1,-1,H
+5027,D1,2017,2018-02-19,FC Koln,Hannover,-1,-1,H
+5028,D1,2017,2018-03-18,Dortmund,Hannover,-1,-1,H
+5029,D1,2017,2017-09-10,Wolfsburg,Hannover,-1,-1,H
+5030,D1,2017,2017-10-22,Augsburg,Hannover,-1,-1,H
+5031,D1,2017,2018-02-05,Hamburg,Hannover,-1,-1,H
+5032,D1,2017,2017-09-20,Freiburg,Hannover,-1,-1,H
+5033,D1,2017,2018-04-30,Hoffenheim,Hannover,-1,-1,H
+5034,D1,2017,2017-11-05,RB Leipzig,Hannover,-1,-1,H
+5035,D1,2017,2018-01-22,Schalke 04,Hannover,-1,-1,H
+5036,D1,2017,2017-09-24,Mainz,Hertha,-1,-1,H
+5037,D1,2017,2018-03-05,Schalke 04,Hertha,-1,-1,H
+5038,D1,2017,2018-05-05,Hannover,Hertha,-1,-1,H
+5039,D1,2017,2017-11-05,Wolfsburg,Hertha,-1,-1,H
+5040,D1,2017,2018-01-15,Stuttgart,Hertha,-1,-1,H
+5041,D1,2017,2017-09-17,Hoffenheim,Hertha,-1,-1,H
+5042,D1,2017,2018-04-23,Ein Frankfurt,Hertha,-1,-1,H
+5043,D1,2017,2018-04-09,M'gladbach,Hertha,-1,-1,H
+5044,D1,2017,2017-11-27,FC Koln,Hertha,-1,-1,H
+5045,D1,2017,2018-03-18,Hamburg,Hertha,-1,-1,H
+5046,D1,2017,2017-12-10,Augsburg,Hertha,-1,-1,H
+5047,D1,2017,2018-02-12,Leverkusen,Hertha,-1,-1,H
+5048,D1,2017,2017-08-27,Dortmund,Hertha,-1,-1,H
+5049,D1,2017,2017-12-17,RB Leipzig,Hertha,-1,-1,H
+5050,D1,2017,2018-02-26,Bayern Munich,Hertha,-1,-1,H
+5051,D1,2017,2017-10-22,Freiburg,Hertha,-1,-1,H
+5052,D1,2017,2018-01-29,Werder Bremen,Hertha,-1,-1,H
+5053,D1,2017,2017-10-22,Schalke 04,Mainz,-1,-1,H
+5054,D1,2017,2018-03-18,Ein Frankfurt,Mainz,-1,-1,H
+5055,D1,2017,2017-11-27,Freiburg,Mainz,-1,-1,H
+5056,D1,2017,2017-10-01,Wolfsburg,Mainz,-1,-1,H
+5057,D1,2017,2018-02-19,Hertha,Mainz,-1,-1,H
+5058,D1,2017,2018-05-05,Dortmund,Mainz,-1,-1,H
+5059,D1,2017,2017-09-17,Bayern Munich,Mainz,-1,-1,H
+5060,D1,2017,2018-01-15,Hannover,Mainz,-1,-1,H
+5061,D1,2017,2018-01-29,Leverkusen,Mainz,-1,-1,H
+5062,D1,2017,2018-02-12,Hoffenheim,Mainz,-1,-1,H
+5063,D1,2017,2018-04-09,FC Koln,Mainz,-1,-1,H
+5064,D1,2017,2018-03-05,Hamburg,Mainz,-1,-1,H
+5065,D1,2017,2017-12-10,RB Leipzig,Mainz,-1,-1,H
+5066,D1,2017,2017-08-27,Stuttgart,Mainz,-1,-1,H
+5067,D1,2017,2017-12-17,Werder Bremen,Mainz,-1,-1,H
+5068,D1,2017,2017-11-05,M'gladbach,Mainz,-1,-1,H
+5069,D1,2017,2018-04-23,Augsburg,Mainz,-1,-1,H
+5070,D2,2017,2017-12-04,Bielefeld,St Pauli,-1,-1,H
+5071,D2,2017,2017-09-21,Kiel,St Pauli,-1,-1,H
+5072,D2,2017,2017-08-21,Darmstadt,St Pauli,-1,-1,H
+5073,D2,2017,2018-03-19,Kaiserslautern,St Pauli,-1,-1,H
+5074,D2,2017,2017-11-27,Greuther Furth,St Pauli,-1,-1,H
+5075,D2,2017,2018-01-25,Dresden,St Pauli,-1,-1,H
+5076,D2,2017,2018-03-05,Fortuna Dusseldorf,St Pauli,-1,-1,H
+5077,D2,2017,2018-04-23,Regensburg,St Pauli,-1,-1,H
+5078,D2,2017,2017-07-28,Bochum,St Pauli,-1,-1,H
+5079,D2,2017,2018-02-19,Ingolstadt,St Pauli,-1,-1,H
+5080,D2,2017,2017-10-23,Sandhausen,St Pauli,-1,-1,H
+5081,D2,2017,2018-04-09,Erzgebirge Aue,St Pauli,-1,-1,H
+5082,D2,2017,2017-10-02,Braunschweig,St Pauli,-1,-1,H
+5083,D2,2017,2018-02-05,Heidenheim,St Pauli,-1,-1,H
+5084,D2,2017,2017-09-11,Nurnberg,St Pauli,-1,-1,H
+5085,D2,2017,2018-05-13,Duisburg,St Pauli,-1,-1,H
+5086,D2,2017,2017-11-06,Union Berlin,St Pauli,-1,-1,H
+5087,D1,2017,2017-12-17,FC Koln,Wolfsburg,-1,-1,H
+5088,D1,2017,2017-09-17,Stuttgart,Wolfsburg,-1,-1,H
+5089,D1,2017,2018-04-02,Hertha,Wolfsburg,-1,-1,H
+5090,D1,2017,2018-01-29,Hannover,Wolfsburg,-1,-1,H
+5091,D1,2017,2017-10-15,Leverkusen,Wolfsburg,-1,-1,H
+5092,D1,2017,2018-03-12,Hoffenheim,Wolfsburg,-1,-1,H
+5093,D1,2017,2017-09-24,Bayern Munich,Wolfsburg,-1,-1,H
+5094,D1,2017,2018-02-12,Werder Bremen,Wolfsburg,-1,-1,H
+5095,D1,2017,2018-05-05,RB Leipzig,Wolfsburg,-1,-1,H
+5096,D1,2017,2018-02-26,Mainz,Wolfsburg,-1,-1,H
+5097,D1,2017,2017-12-10,Hamburg,Wolfsburg,-1,-1,H
+5098,D1,2017,2017-08-27,Ein Frankfurt,Wolfsburg,-1,-1,H
+5099,D1,2017,2017-11-27,Augsburg,Wolfsburg,-1,-1,H
+5100,D1,2017,2018-04-09,Freiburg,Wolfsburg,-1,-1,H
+5101,D1,2017,2018-01-15,Dortmund,Wolfsburg,-1,-1,H
+5102,D1,2017,2018-04-23,M'gladbach,Wolfsburg,-1,-1,H
+5103,D1,2017,2017-10-29,Schalke 04,Wolfsburg,-1,-1,H
+5104,D1,2017,2017-09-24,Dortmund,M'gladbach,-1,-1,H
+5105,D1,2017,2018-04-16,Bayern Munich,M'gladbach,-1,-1,H
+5106,D1,2017,2018-04-30,Schalke 04,M'gladbach,-1,-1,H
+5107,D1,2017,2017-12-13,Freiburg,M'gladbach,-1,-1,H
+5108,D1,2017,2017-12-03,Wolfsburg,M'gladbach,-1,-1,H
+5109,D1,2017,2018-03-12,Leverkusen,M'gladbach,-1,-1,H
+5110,D1,2017,2018-02-12,Stuttgart,M'gladbach,-1,-1,H
+5111,D1,2017,2017-09-17,RB Leipzig,M'gladbach,-1,-1,H
+5112,D1,2017,2017-08-27,Augsburg,M'gladbach,-1,-1,H
+5113,D1,2017,2018-02-26,Hannover,M'gladbach,-1,-1,H
+5114,D1,2017,2017-11-19,Hertha,M'gladbach,-1,-1,H
+5115,D1,2017,2018-01-29,Ein Frankfurt,M'gladbach,-1,-1,H
+5116,D1,2017,2018-04-02,Mainz,M'gladbach,-1,-1,H
+5117,D1,2017,2018-01-15,FC Koln,M'gladbach,-1,-1,H
+5118,D1,2017,2017-10-15,Werder Bremen,M'gladbach,-1,-1,H
+5119,D1,2017,2017-10-29,Hoffenheim,M'gladbach,-1,-1,H
+5120,D1,2017,2018-05-12,Hamburg,M'gladbach,-1,-1,H
+5121,D2,2017,2017-11-06,Erzgebirge Aue,Bielefeld,-1,-1,H
+5122,D2,2017,2017-09-17,Darmstadt,Bielefeld,-1,-1,H
+5123,D2,2017,2018-03-19,Fortuna Dusseldorf,Bielefeld,-1,-1,H
+5124,D2,2017,2018-03-05,Heidenheim,Bielefeld,-1,-1,H
+5125,D2,2017,2018-01-29,Bochum,Bielefeld,-1,-1,H
+5126,D2,2017,2017-10-02,Nurnberg,Bielefeld,-1,-1,H
+5127,D2,2017,2017-09-21,Dresden,Bielefeld,-1,-1,H
+5128,D2,2017,2017-12-18,Regensburg,Bielefeld,-1,-1,H
+5129,D2,2017,2018-05-06,St Pauli,Bielefeld,-1,-1,H
+5130,D2,2017,2017-08-28,Union Berlin,Bielefeld,-1,-1,H
+5131,D2,2017,2018-02-12,Duisburg,Bielefeld,-1,-1,H
+5132,D2,2017,2018-04-23,Braunschweig,Bielefeld,-1,-1,H
+5133,D2,2017,2017-08-07,Greuther Furth,Bielefeld,-1,-1,H
+5134,D2,2017,2018-04-09,Ingolstadt,Bielefeld,-1,-1,H
+5135,D2,2017,2017-10-23,Kiel,Bielefeld,-1,-1,H
+5136,D2,2017,2017-11-27,Kaiserslautern,Bielefeld,-1,-1,H
+5137,D2,2017,2017-12-11,Sandhausen,Bielefeld,-1,-1,H
+5138,D2,2017,2018-03-05,Nurnberg,Greuther Furth,-1,-1,H
+5139,D2,2017,2018-02-05,Ingolstadt,Greuther Furth,-1,-1,H
+5140,D2,2017,2018-04-09,Sandhausen,Greuther Furth,-1,-1,H
+5141,D2,2017,2017-11-06,Regensburg,Greuther Furth,-1,-1,H
+5142,D2,2017,2017-09-11,Dresden,Greuther Furth,-1,-1,H
+5143,D2,2017,2017-08-21,Kiel,Greuther Furth,-1,-1,H
+5144,D2,2017,2017-12-04,Duisburg,Greuther Furth,-1,-1,H
+5145,D2,2017,2018-05-13,Heidenheim,Greuther Furth,-1,-1,H
+5146,D2,2017,2018-03-19,Erzgebirge Aue,Greuther Furth,-1,-1,H
+5147,D2,2017,2017-09-21,Braunschweig,Greuther Furth,-1,-1,H
+5148,D2,2017,2017-07-31,Darmstadt,Greuther Furth,-1,-1,H
+5149,D2,2017,2018-01-25,Bielefeld,Greuther Furth,-1,-1,H
+5150,D2,2017,2017-10-02,Kaiserslautern,Greuther Furth,-1,-1,H
+5151,D2,2017,2018-04-30,St Pauli,Greuther Furth,-1,-1,H
+5152,D2,2017,2017-10-23,Union Berlin,Greuther Furth,-1,-1,H
+5153,D2,2017,2018-02-19,Fortuna Dusseldorf,Greuther Furth,-1,-1,H
+5154,D2,2017,2017-11-20,Bochum,Greuther Furth,-1,-1,H
+5155,D2,2017,2017-10-02,Erzgebirge Aue,Union Berlin,-1,-1,H
+5156,D2,2017,2018-02-05,Bielefeld,Union Berlin,-1,-1,H
+5157,D2,2017,2018-05-13,Dresden,Union Berlin,-1,-1,H
+5158,D2,2017,2018-04-30,Darmstadt,Union Berlin,-1,-1,H
+5159,D2,2017,2017-12-04,Bochum,Union Berlin,-1,-1,H
+5160,D2,2017,2017-10-30,Duisburg,Union Berlin,-1,-1,H
+5161,D2,2017,2017-10-16,Regensburg,Union Berlin,-1,-1,H
+5162,D2,2017,2018-04-02,Greuther Furth,Union Berlin,-1,-1,H
+5163,D2,2017,2018-02-19,Braunschweig,Union Berlin,-1,-1,H
+5164,D2,2017,2018-03-05,Kaiserslautern,Union Berlin,-1,-1,H
+5165,D2,2017,2017-09-21,Sandhausen,Union Berlin,-1,-1,H
+5166,D2,2017,2017-08-21,Nurnberg,Union Berlin,-1,-1,H
+5167,D2,2017,2017-07-31,Ingolstadt,Union Berlin,-1,-1,H
+5168,D2,2017,2018-01-25,Kiel,Union Berlin,-1,-1,H
+5169,D2,2017,2018-04-16,St Pauli,Union Berlin,-1,-1,H
+5170,D2,2017,2017-11-20,Heidenheim,Union Berlin,-1,-1,H
+5171,D2,2017,2017-09-11,Fortuna Dusseldorf,Union Berlin,-1,-1,H
+5172,D2,2017,2018-01-29,Erzgebirge Aue,Braunschweig,-1,-1,H
+5173,D2,2017,2017-10-16,Duisburg,Braunschweig,-1,-1,H
+5174,D2,2017,2018-04-16,Darmstadt,Braunschweig,-1,-1,H
+5175,D2,2017,2017-10-30,Dresden,Braunschweig,-1,-1,H
+5176,D2,2017,2017-12-04,Ingolstadt,Braunschweig,-1,-1,H
+5177,D2,2017,2018-04-30,Nurnberg,Braunschweig,-1,-1,H
+5178,D2,2017,2018-05-13,Kiel,Braunschweig,-1,-1,H
+5179,D2,2017,2017-08-28,Kaiserslautern,Braunschweig,-1,-1,H
+5180,D2,2017,2017-11-20,Bielefeld,Braunschweig,-1,-1,H
+5181,D2,2017,2018-04-02,Bochum,Braunschweig,-1,-1,H
+5182,D2,2017,2017-09-17,Union Berlin,Braunschweig,-1,-1,H
+5183,D2,2017,2017-07-31,Fortuna Dusseldorf,Braunschweig,-1,-1,H
+5184,D2,2017,2017-09-25,Regensburg,Braunschweig,-1,-1,H
+5185,D2,2017,2018-03-12,St Pauli,Braunschweig,-1,-1,H
+5186,D2,2017,2018-02-26,Greuther Furth,Braunschweig,-1,-1,H
+5187,D2,2017,2018-02-12,Sandhausen,Braunschweig,-1,-1,H
+5188,D2,2017,2018-01-25,Heidenheim,Braunschweig,-1,-1,H
+5189,D2,2017,2018-03-12,Union Berlin,Erzgebirge Aue,-1,-1,H
+5190,D2,2017,2017-07-31,Heidenheim,Erzgebirge Aue,-1,-1,H
+5191,D2,2017,2017-09-11,Ingolstadt,Erzgebirge Aue,-1,-1,H
+5192,D2,2017,2017-11-20,Duisburg,Erzgebirge Aue,-1,-1,H
+5193,D2,2017,2017-12-04,Dresden,Erzgebirge Aue,-1,-1,H
+5194,D2,2017,2018-03-05,Sandhausen,Erzgebirge Aue,-1,-1,H
+5195,D2,2017,2018-04-16,Bielefeld,Erzgebirge Aue,-1,-1,H
+5196,D2,2017,2017-10-16,Greuther Furth,Erzgebirge Aue,-1,-1,H
+5197,D2,2017,2018-04-02,Regensburg,Erzgebirge Aue,-1,-1,H
+5198,D2,2017,2017-10-30,St Pauli,Erzgebirge Aue,-1,-1,H
+5199,D2,2017,2017-09-21,Kaiserslautern,Erzgebirge Aue,-1,-1,H
+5200,D2,2017,2017-08-21,Braunschweig,Erzgebirge Aue,-1,-1,H
+5201,D2,2017,2018-04-30,Bochum,Erzgebirge Aue,-1,-1,H
+5202,D2,2017,2018-02-05,Nurnberg,Erzgebirge Aue,-1,-1,H
+5203,D2,2017,2018-05-13,Darmstadt,Erzgebirge Aue,-1,-1,H
+5204,D2,2017,2018-02-19,Kiel,Erzgebirge Aue,-1,-1,H
+5205,D2,2017,2018-01-25,Fortuna Dusseldorf,Erzgebirge Aue,-1,-1,H
+5206,D2,2017,2018-02-05,Kiel,Regensburg,-1,-1,H
+5207,D2,2017,2017-07-31,Bielefeld,Regensburg,-1,-1,H
+5208,D2,2017,2017-10-02,Sandhausen,Regensburg,-1,-1,H
+5209,D2,2017,2017-11-20,St Pauli,Regensburg,-1,-1,H
+5210,D2,2017,2018-02-19,Dresden,Regensburg,-1,-1,H
+5211,D2,2017,2018-01-25,Nurnberg,Regensburg,-1,-1,H
+5212,D2,2017,2018-05-13,Bochum,Regensburg,-1,-1,H
+5213,D2,2017,2018-03-19,Union Berlin,Regensburg,-1,-1,H
+5214,D2,2017,2018-04-30,Duisburg,Regensburg,-1,-1,H
+5215,D2,2017,2017-12-04,Darmstadt,Regensburg,-1,-1,H
+5216,D2,2017,2018-04-09,Kaiserslautern,Regensburg,-1,-1,H
+5217,D2,2017,2017-09-11,Heidenheim,Regensburg,-1,-1,H
+5218,D2,2017,2017-08-21,Ingolstadt,Regensburg,-1,-1,H
+5219,D2,2017,2017-10-23,Erzgebirge Aue,Regensburg,-1,-1,H
+5220,D2,2017,2018-03-05,Braunschweig,Regensburg,-1,-1,H
+5221,D2,2017,2018-04-16,Greuther Furth,Regensburg,-1,-1,H
+5222,D2,2017,2017-09-21,Fortuna Dusseldorf,Regensburg,-1,-1,H
+5223,D1,2017,2017-08-20,Hamburg,Augsburg,-1,-1,H
+5224,D1,2017,2017-11-19,Bayern Munich,Augsburg,-1,-1,H
+5225,D1,2017,2018-02-26,Dortmund,Augsburg,-1,-1,H
+5226,D1,2017,2017-09-24,Stuttgart,Augsburg,-1,-1,H
+5227,D1,2017,2017-10-29,Werder Bremen,Augsburg,-1,-1,H
+5228,D1,2017,2018-01-29,FC Koln,Augsburg,-1,-1,H
+5229,D1,2017,2017-12-03,Mainz,Augsburg,-1,-1,H
+5230,D1,2017,2017-10-15,Hoffenheim,Augsburg,-1,-1,H
+5231,D1,2017,2018-05-12,Freiburg,Augsburg,-1,-1,H
+5232,D1,2017,2018-04-02,Leverkusen,Augsburg,-1,-1,H
+5233,D1,2017,2017-12-13,Schalke 04,Augsburg,-1,-1,H
+5234,D1,2017,2018-01-22,M'gladbach,Augsburg,-1,-1,H
+5235,D1,2017,2018-04-16,Wolfsburg,Augsburg,-1,-1,H
+5236,D1,2017,2018-02-12,RB Leipzig,Augsburg,-1,-1,H
+5237,D1,2017,2017-09-17,Ein Frankfurt,Augsburg,-1,-1,H
+5238,D1,2017,2018-04-30,Hertha,Augsburg,-1,-1,H
+5239,D1,2017,2018-03-12,Hannover,Augsburg,-1,-1,H
+5240,D1,2017,2017-09-20,Mainz,Hoffenheim,-1,-1,H
+5241,D1,2017,2017-11-27,Hamburg,Hoffenheim,-1,-1,H
+5242,D1,2017,2018-04-23,RB Leipzig,Hoffenheim,-1,-1,H
+5243,D1,2017,2017-12-10,Hannover,Hoffenheim,-1,-1,H
+5244,D1,2017,2017-12-17,Dortmund,Hoffenheim,-1,-1,H
+5245,D1,2017,2018-05-05,Stuttgart,Hoffenheim,-1,-1,H
+5246,D1,2017,2017-10-22,Wolfsburg,Hoffenheim,-1,-1,H
+5247,D1,2017,2018-03-18,M'gladbach,Hoffenheim,-1,-1,H
+5248,D1,2017,2018-01-15,Werder Bremen,Hoffenheim,-1,-1,H
+5249,D1,2017,2018-02-19,Schalke 04,Hoffenheim,-1,-1,H
+5250,D1,2017,2018-01-29,Bayern Munich,Hoffenheim,-1,-1,H
+5251,D1,2017,2018-03-05,Augsburg,Hoffenheim,-1,-1,H
+5252,D1,2017,2017-10-01,Freiburg,Hoffenheim,-1,-1,H
+5253,D1,2017,2018-02-05,Hertha,Hoffenheim,-1,-1,H
+5254,D1,2017,2017-11-05,FC Koln,Hoffenheim,-1,-1,H
+5255,D1,2017,2018-04-09,Ein Frankfurt,Hoffenheim,-1,-1,H
+5256,D1,2017,2017-08-27,Leverkusen,Hoffenheim,-1,-1,H
+5257,D2,2017,2017-11-06,Nurnberg,Ingolstadt,-1,-1,H
+5258,D2,2017,2018-05-06,Braunschweig,Ingolstadt,-1,-1,H
+5259,D2,2017,2017-08-28,Greuther Furth,Ingolstadt,-1,-1,H
+5260,D2,2017,2018-02-12,Erzgebirge Aue,Ingolstadt,-1,-1,H
+5261,D2,2017,2017-09-25,Bochum,Ingolstadt,-1,-1,H
+5262,D2,2017,2018-04-02,Heidenheim,Ingolstadt,-1,-1,H
+5263,D2,2017,2017-10-16,Dresden,Ingolstadt,-1,-1,H
+5264,D2,2017,2017-10-30,Bielefeld,Ingolstadt,-1,-1,H
+5265,D2,2017,2017-12-11,Kaiserslautern,Ingolstadt,-1,-1,H
+5266,D2,2017,2018-02-26,Duisburg,Ingolstadt,-1,-1,H
+5267,D2,2017,2018-04-23,Fortuna Dusseldorf,Ingolstadt,-1,-1,H
+5268,D2,2017,2017-11-27,Kiel,Ingolstadt,-1,-1,H
+5269,D2,2017,2017-08-07,Sandhausen,Ingolstadt,-1,-1,H
+5270,D2,2017,2017-09-17,St Pauli,Ingolstadt,-1,-1,H
+5271,D2,2017,2018-03-12,Darmstadt,Ingolstadt,-1,-1,H
+5272,D2,2017,2017-12-18,Union Berlin,Ingolstadt,-1,-1,H
+5273,D2,2017,2018-01-29,Regensburg,Ingolstadt,-1,-1,H
+5274,D2,2017,2017-12-04,Kiel,Fortuna Dusseldorf,-1,-1,H
+5275,D2,2017,2017-10-16,Bielefeld,Fortuna Dusseldorf,-1,-1,H
+5276,D2,2017,2018-02-26,Regensburg,Fortuna Dusseldorf,-1,-1,H
+5277,D2,2017,2018-05-13,Nurnberg,Fortuna Dusseldorf,-1,-1,H
+5278,D2,2017,2017-08-28,Sandhausen,Fortuna Dusseldorf,-1,-1,H
+5279,D2,2017,2018-04-02,Darmstadt,Fortuna Dusseldorf,-1,-1,H
+5280,D2,2017,2017-09-25,St Pauli,Fortuna Dusseldorf,-1,-1,H
+5281,D2,2017,2017-12-18,Braunschweig,Fortuna Dusseldorf,-1,-1,H
+5282,D2,2017,2018-01-29,Kaiserslautern,Fortuna Dusseldorf,-1,-1,H
+5283,D2,2017,2018-02-12,Union Berlin,Fortuna Dusseldorf,-1,-1,H
+5284,D2,2017,2017-09-17,Greuther Furth,Fortuna Dusseldorf,-1,-1,H
+5285,D2,2017,2018-04-30,Dresden,Fortuna Dusseldorf,-1,-1,H
+5286,D2,2017,2018-04-16,Heidenheim,Fortuna Dusseldorf,-1,-1,H
+5287,D2,2017,2017-10-30,Bochum,Fortuna Dusseldorf,-1,-1,H
+5288,D2,2017,2017-08-07,Erzgebirge Aue,Fortuna Dusseldorf,-1,-1,H
+5289,D2,2017,2017-11-20,Ingolstadt,Fortuna Dusseldorf,-1,-1,H
+5290,D2,2017,2018-03-12,Duisburg,Fortuna Dusseldorf,-1,-1,H
+5291,D2,2017,2018-04-30,Heidenheim,Sandhausen,-1,-1,H
+5292,D2,2017,2018-05-13,Bielefeld,Sandhausen,-1,-1,H
+5293,D2,2017,2018-02-19,Kaiserslautern,Sandhausen,-1,-1,H
+5294,D2,2017,2018-04-16,Duisburg,Sandhausen,-1,-1,H
+5295,D2,2017,2018-01-25,Ingolstadt,Sandhausen,-1,-1,H
+5296,D2,2017,2018-03-12,Regensburg,Sandhausen,-1,-1,H
+5297,D2,2017,2018-02-26,Union Berlin,Sandhausen,-1,-1,H
+5298,D2,2017,2017-09-25,Erzgebirge Aue,Sandhausen,-1,-1,H
+5299,D2,2017,2017-10-16,Bochum,Sandhausen,-1,-1,H
+5300,D2,2017,2018-02-05,Fortuna Dusseldorf,Sandhausen,-1,-1,H
+5301,D2,2017,2018-04-02,St Pauli,Sandhausen,-1,-1,H
+5302,D2,2017,2017-12-04,Nurnberg,Sandhausen,-1,-1,H
+5303,D2,2017,2017-09-11,Braunschweig,Sandhausen,-1,-1,H
+5304,D2,2017,2017-08-21,Dresden,Sandhausen,-1,-1,H
+5305,D2,2017,2017-07-31,Kiel,Sandhausen,-1,-1,H
+5306,D2,2017,2017-11-20,Darmstadt,Sandhausen,-1,-1,H
+5307,D2,2017,2017-10-30,Greuther Furth,Sandhausen,-1,-1,H
+5308,D2,2017,2018-01-29,St Pauli,Darmstadt,-1,-1,H
+5309,D2,2017,2017-08-07,Kaiserslautern,Darmstadt,-1,-1,H
+5310,D2,2017,2017-11-06,Braunschweig,Darmstadt,-1,-1,H
+5311,D2,2017,2018-04-23,Sandhausen,Darmstadt,-1,-1,H
+5312,D2,2017,2017-08-28,Duisburg,Darmstadt,-1,-1,H
+5313,D2,2017,2018-02-19,Bielefeld,Darmstadt,-1,-1,H
+5314,D2,2017,2018-04-09,Kiel,Darmstadt,-1,-1,H
+5315,D2,2017,2018-02-12,Bochum,Darmstadt,-1,-1,H
+5316,D2,2017,2017-12-11,Erzgebirge Aue,Darmstadt,-1,-1,H
+5317,D2,2017,2018-05-06,Regensburg,Darmstadt,-1,-1,H
+5318,D2,2017,2018-03-05,Dresden,Darmstadt,-1,-1,H
+5319,D2,2017,2017-10-02,Ingolstadt,Darmstadt,-1,-1,H
+5320,D2,2017,2018-03-19,Nurnberg,Darmstadt,-1,-1,H
+5321,D2,2017,2017-09-21,Heidenheim,Darmstadt,-1,-1,H
+5322,D2,2017,2017-12-18,Greuther Furth,Darmstadt,-1,-1,H
+5323,D2,2017,2017-10-23,Fortuna Dusseldorf,Darmstadt,-1,-1,H
+5324,D2,2017,2017-11-27,Union Berlin,Darmstadt,-1,-1,H
+5325,D2,2017,2018-02-26,Darmstadt,Heidenheim,-1,-1,H
+5326,D2,2017,2017-11-06,Fortuna Dusseldorf,Heidenheim,-1,-1,H
+5327,D2,2017,2017-12-18,Erzgebirge Aue,Heidenheim,-1,-1,H
+5328,D2,2017,2017-10-23,Ingolstadt,Heidenheim,-1,-1,H
+5329,D2,2017,2018-02-12,Regensburg,Heidenheim,-1,-1,H
+5330,D2,2017,2017-11-27,Sandhausen,Heidenheim,-1,-1,H
+5331,D2,2017,2018-03-12,Dresden,Heidenheim,-1,-1,H
+5332,D2,2017,2018-04-09,Nurnberg,Heidenheim,-1,-1,H
+5333,D2,2017,2017-08-28,St Pauli,Heidenheim,-1,-1,H
+5334,D2,2017,2018-05-06,Kaiserslautern,Heidenheim,-1,-1,H
+5335,D2,2017,2017-09-25,Bielefeld,Heidenheim,-1,-1,H
+5336,D2,2017,2017-09-17,Bochum,Heidenheim,-1,-1,H
+5337,D2,2017,2018-04-23,Union Berlin,Heidenheim,-1,-1,H
+5338,D2,2017,2017-08-07,Braunschweig,Heidenheim,-1,-1,H
+5339,D2,2017,2018-01-29,Duisburg,Heidenheim,-1,-1,H
+5340,D2,2017,2017-12-11,Greuther Furth,Heidenheim,-1,-1,H
+5341,D2,2017,2018-03-19,Kiel,Heidenheim,-1,-1,H
+5342,D1,2017,2018-04-16,Werder Bremen,RB Leipzig,-1,-1,H
+5343,D1,2017,2018-02-05,M'gladbach,RB Leipzig,-1,-1,H
+5344,D1,2017,2018-04-30,Mainz,RB Leipzig,-1,-1,H
+5345,D1,2017,2017-10-01,FC Koln,RB Leipzig,-1,-1,H
+5346,D1,2017,2017-08-20,Schalke 04,RB Leipzig,-1,-1,H
+5347,D1,2017,2018-03-12,Stuttgart,RB Leipzig,-1,-1,H
+5348,D1,2017,2018-05-12,Hertha,RB Leipzig,-1,-1,H
+5349,D1,2017,2017-12-13,Wolfsburg,RB Leipzig,-1,-1,H
+5350,D1,2017,2018-01-22,Freiburg,RB Leipzig,-1,-1,H
+5351,D1,2017,2017-09-20,Augsburg,RB Leipzig,-1,-1,H
+5352,D1,2017,2018-02-19,Ein Frankfurt,RB Leipzig,-1,-1,H
+5353,D1,2017,2017-11-19,Leverkusen,RB Leipzig,-1,-1,H
+5354,D1,2017,2018-04-02,Hannover,RB Leipzig,-1,-1,H
+5355,D1,2017,2017-09-10,Hamburg,RB Leipzig,-1,-1,H
+5356,D1,2017,2017-10-29,Bayern Munich,RB Leipzig,-1,-1,H
+5357,D1,2017,2017-12-03,Hoffenheim,RB Leipzig,-1,-1,H
+5358,D1,2017,2017-10-15,Dortmund,RB Leipzig,-1,-1,H
+5359,D2,2017,2017-11-20,Nurnberg,Kiel,-1,-1,H
+5360,D2,2017,2018-02-12,Kaiserslautern,Kiel,-1,-1,H
+5361,D2,2017,2018-01-29,Greuther Furth,Kiel,-1,-1,H
+5362,D2,2017,2017-09-25,Duisburg,Kiel,-1,-1,H
+5363,D2,2017,2018-04-30,Ingolstadt,Kiel,-1,-1,H
+5364,D2,2017,2017-08-28,Regensburg,Kiel,-1,-1,H
+5365,D2,2017,2017-10-16,Heidenheim,Kiel,-1,-1,H
+5366,D2,2017,2017-12-11,Braunschweig,Kiel,-1,-1,H
+5367,D2,2017,2018-04-16,Dresden,Kiel,-1,-1,H
+5368,D2,2017,2018-03-12,Bochum,Kiel,-1,-1,H
+5369,D2,2017,2018-05-06,Fortuna Dusseldorf,Kiel,-1,-1,H
+5370,D2,2017,2018-02-26,St Pauli,Kiel,-1,-1,H
+5371,D2,2017,2017-10-30,Darmstadt,Kiel,-1,-1,H
+5372,D2,2017,2017-08-07,Union Berlin,Kiel,-1,-1,H
+5373,D2,2017,2017-09-17,Erzgebirge Aue,Kiel,-1,-1,H
+5374,D2,2017,2017-12-18,Sandhausen,Kiel,-1,-1,H
+5375,D2,2017,2018-04-02,Bielefeld,Kiel,-1,-1,H

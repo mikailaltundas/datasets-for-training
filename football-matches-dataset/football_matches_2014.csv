@@ -1,0 +1,993 @@
+Match_ID,Div,Season,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+2928,D1,2014,2014-11-29,Hertha,Bayern Munich,0,1,A
+2929,D1,2014,2015-05-16,Freiburg,Bayern Munich,2,1,H
+2930,D1,2014,2015-03-07,Hannover,Bayern Munich,1,3,A
+2931,D1,2014,2014-12-13,Augsburg,Bayern Munich,0,4,A
+2932,D1,2014,2015-05-02,Leverkusen,Bayern Munich,2,0,H
+2933,D1,2014,2014-08-30,Schalke 04,Bayern Munich,1,1,D
+2934,D1,2014,2014-12-19,Mainz,Bayern Munich,1,2,A
+2935,D1,2014,2015-03-14,Werder Bremen,Bayern Munich,0,4,A
+2936,D1,2014,2014-09-27,FC Koln,Bayern Munich,0,2,A
+2937,D1,2014,2015-01-30,Wolfsburg,Bayern Munich,4,1,H
+2938,D1,2014,2015-04-18,Hoffenheim,Bayern Munich,0,2,A
+2939,D1,2014,2015-04-04,Dortmund,Bayern Munich,0,1,A
+2940,D1,2014,2015-02-07,Stuttgart,Bayern Munich,0,2,A
+2941,D1,2014,2014-11-08,Ein Frankfurt,Bayern Munich,0,4,A
+2942,D1,2014,2015-02-21,Paderborn,Bayern Munich,0,6,A
+2943,D1,2014,2014-09-20,Hamburg,Bayern Munich,0,0,D
+2944,D1,2014,2014-10-26,M'gladbach,Bayern Munich,0,0,D
+2945,D1,2014,2014-11-01,Bayern Munich,Dortmund,2,1,H
+2946,D1,2014,2014-08-29,Augsburg,Dortmund,2,3,A
+2947,D1,2014,2015-05-02,Hoffenheim,Dortmund,1,1,D
+2948,D1,2014,2014-09-20,Mainz,Dortmund,2,0,H
+2949,D1,2014,2014-09-27,Schalke 04,Dortmund,2,1,H
+2950,D1,2014,2014-12-20,Werder Bremen,Dortmund,2,1,H
+2951,D1,2014,2015-01-31,Leverkusen,Dortmund,0,0,D
+2952,D1,2014,2015-04-11,M'gladbach,Dortmund,3,1,H
+2953,D1,2014,2015-02-07,Freiburg,Dortmund,0,3,A
+2954,D1,2014,2014-10-18,FC Koln,Dortmund,2,1,H
+2955,D1,2014,2014-11-22,Paderborn,Dortmund,2,2,D
+2956,D1,2014,2014-11-30,Ein Frankfurt,Dortmund,2,0,H
+2957,D1,2014,2015-02-20,Stuttgart,Dortmund,2,3,A
+2958,D1,2014,2014-12-13,Hertha,Dortmund,1,0,H
+2959,D1,2014,2015-03-07,Hamburg,Dortmund,0,0,D
+2960,D1,2014,2015-03-21,Hannover,Dortmund,2,3,A
+2961,D1,2014,2015-05-16,Wolfsburg,Dortmund,2,1,H
+2962,D1,2014,2015-03-08,FC Koln,Ein Frankfurt,4,2,H
+2963,D1,2014,2015-02-08,Augsburg,Ein Frankfurt,2,2,D
+2964,D1,2014,2015-02-21,Mainz,Ein Frankfurt,3,1,H
+2965,D1,2014,2015-01-31,Freiburg,Ein Frankfurt,4,1,H
+2966,D1,2014,2015-05-16,Hertha,Ein Frankfurt,0,0,D
+2967,D1,2014,2014-09-20,Schalke 04,Ein Frankfurt,2,2,D
+2968,D1,2014,2014-10-19,Paderborn,Ein Frankfurt,3,1,H
+2969,D1,2014,2015-05-02,Werder Bremen,Ein Frankfurt,1,0,H
+2970,D1,2014,2014-09-28,Hamburg,Ein Frankfurt,1,2,A
+2971,D1,2014,2014-11-01,Hannover,Ein Frankfurt,1,0,H
+2972,D1,2014,2014-12-20,Leverkusen,Ein Frankfurt,1,1,D
+2973,D1,2014,2015-03-21,Stuttgart,Ein Frankfurt,3,1,H
+2974,D1,2014,2015-04-25,Dortmund,Ein Frankfurt,2,0,H
+2975,D1,2014,2014-12-12,Hoffenheim,Ein Frankfurt,3,2,H
+2976,D1,2014,2014-11-22,M'gladbach,Ein Frankfurt,1,3,A
+2977,D1,2014,2014-08-30,Wolfsburg,Ein Frankfurt,2,2,D
+2978,D1,2014,2015-04-11,Bayern Munich,Ein Frankfurt,3,0,H
+2979,D1,2014,2014-11-29,Leverkusen,FC Koln,5,1,H
+2980,D1,2014,2015-03-14,Dortmund,FC Koln,0,0,D
+2981,D1,2014,2015-04-04,Freiburg,FC Koln,1,0,H
+2982,D1,2014,2014-09-24,Hannover,FC Koln,1,0,H
+2983,D1,2014,2015-04-18,Hertha,FC Koln,0,0,D
+2984,D1,2014,2015-05-16,Mainz,FC Koln,2,0,H
+2985,D1,2014,2015-05-02,Augsburg,FC Koln,0,0,D
+2986,D1,2014,2015-02-27,Bayern Munich,FC Koln,4,1,H
+2987,D1,2014,2014-10-24,Werder Bremen,FC Koln,0,1,A
+2988,D1,2014,2014-09-13,Paderborn,FC Koln,0,0,D
+2989,D1,2014,2014-08-30,Stuttgart,FC Koln,0,2,A
+2990,D1,2014,2014-11-08,Hoffenheim,FC Koln,3,4,A
+2991,D1,2014,2015-01-31,Hamburg,FC Koln,0,2,A
+2992,D1,2014,2014-10-04,Ein Frankfurt,FC Koln,3,2,H
+2993,D1,2014,2014-12-13,Schalke 04,FC Koln,1,2,A
+2994,D1,2014,2015-02-14,M'gladbach,FC Koln,1,0,H
+2995,D1,2014,2014-12-20,Wolfsburg,FC Koln,2,1,H
+2996,D1,2014,2014-10-25,Augsburg,Freiburg,2,0,H
+2997,D1,2014,2014-12-16,Bayern Munich,Freiburg,2,0,H
+2998,D1,2014,2014-10-04,Werder Bremen,Freiburg,1,1,D
+2999,D1,2014,2014-08-23,Ein Frankfurt,Freiburg,1,0,H
+3000,D1,2014,2014-12-06,Paderborn,Freiburg,1,1,D
+3001,D1,2014,2015-02-15,Hertha,Freiburg,0,2,A
+3002,D1,2014,2015-02-28,Leverkusen,Freiburg,1,0,H
+3003,D1,2014,2014-11-22,Mainz,Freiburg,2,2,D
+3004,D1,2014,2015-04-11,Schalke 04,Freiburg,0,0,D
+3005,D1,2014,2015-03-15,Wolfsburg,Freiburg,3,0,H
+3006,D1,2014,2015-02-03,M'gladbach,Freiburg,1,0,H
+3007,D1,2014,2015-04-25,Stuttgart,Freiburg,2,2,D
+3008,D1,2014,2014-09-23,Hoffenheim,Freiburg,3,3,D
+3009,D1,2014,2015-05-08,Hamburg,Freiburg,1,1,D
+3010,D1,2014,2014-09-13,Dortmund,Freiburg,3,1,H
+3011,D1,2014,2015-05-23,Hannover,Freiburg,2,1,H
+3012,D1,2014,2014-11-02,FC Koln,Freiburg,0,1,A
+3013,D1,2014,2014-11-29,Augsburg,Hamburg,3,1,H
+3014,D1,2014,2015-04-19,Werder Bremen,Hamburg,1,0,H
+3015,D1,2014,2015-02-04,Paderborn,Hamburg,0,3,A
+3016,D1,2014,2014-09-14,Hannover,Hamburg,2,0,H
+3017,D1,2014,2014-09-24,M'gladbach,Hamburg,1,0,H
+3018,D1,2014,2014-12-20,Schalke 04,Hamburg,0,0,D
+3019,D1,2014,2015-02-14,Bayern Munich,Hamburg,8,0,H
+3020,D1,2014,2015-05-03,Mainz,Hamburg,1,2,A
+3021,D1,2014,2014-10-25,Hertha,Hamburg,3,0,H
+3022,D1,2014,2014-12-13,Freiburg,Hamburg,0,0,D
+3023,D1,2014,2015-02-28,Ein Frankfurt,Hamburg,2,1,H
+3024,D1,2014,2014-10-04,Dortmund,Hamburg,0,1,A
+3025,D1,2014,2014-08-23,FC Koln,Hamburg,0,0,D
+3026,D1,2014,2015-03-14,Hoffenheim,Hamburg,3,0,H
+3027,D1,2014,2015-05-16,Stuttgart,Hamburg,2,1,H
+3028,D1,2014,2014-11-09,Wolfsburg,Hamburg,2,0,H
+3029,D1,2014,2015-04-04,Leverkusen,Hamburg,4,0,H
+3030,D2,2014,2014-12-17,Munich 1860,Kaiserslautern,1,1,D
+3031,D2,2014,2015-02-08,Braunschweig,Kaiserslautern,0,2,A
+3032,D2,2014,2015-03-08,Union Berlin,Kaiserslautern,0,0,D
+3033,D2,2014,2014-08-10,Sandhausen,Kaiserslautern,1,1,D
+3034,D2,2014,2014-12-14,Ingolstadt,Kaiserslautern,2,0,H
+3035,D2,2014,2014-10-17,Heidenheim,Kaiserslautern,1,1,D
+3036,D2,2014,2014-11-30,St Pauli,Kaiserslautern,1,3,A
+3037,D2,2014,2014-09-20,Greuther Furth,Kaiserslautern,2,1,H
+3038,D2,2014,2014-09-29,Nurnberg,Kaiserslautern,3,2,H
+3039,D2,2014,2015-02-22,Frankfurt FSV,Kaiserslautern,2,0,H
+3040,D2,2014,2015-05-17,Erzgebirge Aue,Kaiserslautern,0,0,D
+3041,D2,2014,2015-04-13,Fortuna Dusseldorf,Kaiserslautern,1,1,D
+3042,D2,2014,2015-04-24,Bochum,Kaiserslautern,0,2,A
+3043,D2,2014,2014-11-03,RB Leipzig,Kaiserslautern,0,0,D
+3044,D2,2014,2014-08-29,Aalen,Kaiserslautern,2,2,D
+3045,D2,2014,2015-03-22,Karlsruhe,Kaiserslautern,0,0,D
+3046,D2,2014,2015-05-02,Darmstadt,Kaiserslautern,3,2,H
+3047,D2,2014,2015-04-17,Sandhausen,Karlsruhe,0,0,D
+3048,D2,2014,2015-05-17,Braunschweig,Karlsruhe,0,2,A
+3049,D2,2014,2014-11-09,Greuther Furth,Karlsruhe,0,3,A
+3050,D2,2014,2014-11-28,Darmstadt,Karlsruhe,0,0,D
+3051,D2,2014,2014-10-25,St Pauli,Karlsruhe,0,4,A
+3052,D2,2014,2014-08-08,Frankfurt FSV,Karlsruhe,2,3,A
+3053,D2,2014,2014-09-24,RB Leipzig,Karlsruhe,3,1,H
+3054,D2,2014,2014-09-12,Bochum,Karlsruhe,1,1,D
+3055,D2,2014,2014-12-13,Munich 1860,Karlsruhe,2,3,A
+3056,D2,2014,2015-05-03,Erzgebirge Aue,Karlsruhe,3,1,H
+3057,D2,2014,2015-02-13,Heidenheim,Karlsruhe,0,1,A
+3058,D2,2014,2014-08-23,Fortuna Dusseldorf,Karlsruhe,0,2,A
+3059,D2,2014,2015-04-05,Aalen,Karlsruhe,2,2,D
+3060,D2,2014,2015-03-15,Ingolstadt,Karlsruhe,1,3,A
+3061,D2,2014,2014-12-16,Union Berlin,Karlsruhe,2,0,H
+3062,D2,2014,2014-10-04,Kaiserslautern,Karlsruhe,2,0,H
+3063,D2,2014,2015-02-28,Nurnberg,Karlsruhe,1,1,D
+3064,D1,2014,2015-05-23,Ein Frankfurt,Leverkusen,2,1,H
+3065,D1,2014,2014-11-22,Hannover,Leverkusen,1,3,A
+3066,D1,2014,2015-02-21,Augsburg,Leverkusen,2,2,D
+3067,D1,2014,2014-11-01,Hamburg,Leverkusen,1,0,H
+3068,D1,2014,2014-09-27,Freiburg,Leverkusen,0,0,D
+3069,D1,2014,2014-10-18,Stuttgart,Leverkusen,3,3,D
+3070,D1,2014,2015-03-08,Paderborn,Leverkusen,0,3,A
+3071,D1,2014,2015-04-25,FC Koln,Leverkusen,1,1,D
+3072,D1,2014,2014-12-06,Bayern Munich,Leverkusen,1,0,H
+3073,D1,2014,2015-02-04,Hertha,Leverkusen,0,1,A
+3074,D1,2014,2014-09-21,Wolfsburg,Leverkusen,4,1,H
+3075,D1,2014,2015-04-11,Mainz,Leverkusen,2,3,A
+3076,D1,2014,2015-05-09,M'gladbach,Leverkusen,3,0,H
+3077,D1,2014,2015-03-21,Schalke 04,Leverkusen,0,1,A
+3078,D1,2014,2014-08-23,Dortmund,Leverkusen,0,2,A
+3079,D1,2014,2015-02-08,Werder Bremen,Leverkusen,2,1,H
+3080,D1,2014,2014-12-17,Hoffenheim,Leverkusen,0,1,A
+3081,D2,2014,2015-03-14,Kaiserslautern,Nurnberg,2,1,H
+3082,D2,2014,2014-12-14,Aalen,Nurnberg,1,2,A
+3083,D2,2014,2014-12-17,Erzgebirge Aue,Nurnberg,0,1,A
+3084,D2,2014,2015-05-04,Ingolstadt,Nurnberg,1,1,D
+3085,D2,2014,2014-10-27,Darmstadt,Nurnberg,3,0,H
+3086,D2,2014,2014-10-03,Bochum,Nurnberg,1,1,D
+3087,D2,2014,2015-05-17,Munich 1860,Nurnberg,2,1,H
+3088,D2,2014,2014-12-01,Braunschweig,Nurnberg,1,0,H
+3089,D2,2014,2015-04-05,RB Leipzig,Nurnberg,2,1,H
+3090,D2,2014,2014-09-21,Karlsruhe,Nurnberg,3,0,H
+3091,D2,2014,2014-08-11,Greuther Furth,Nurnberg,5,1,H
+3092,D2,2014,2015-04-17,St Pauli,Nurnberg,1,0,H
+3093,D2,2014,2014-11-07,Sandhausen,Nurnberg,2,1,H
+3094,D2,2014,2015-02-08,Frankfurt FSV,Nurnberg,2,1,H
+3095,D2,2014,2014-09-24,Heidenheim,Nurnberg,3,0,H
+3096,D2,2014,2015-02-22,Fortuna Dusseldorf,Nurnberg,1,3,A
+3097,D2,2014,2014-08-29,Union Berlin,Nurnberg,0,4,A
+3098,D1,2014,2014-09-13,M'gladbach,Schalke 04,4,1,H
+3099,D1,2014,2015-05-10,FC Koln,Schalke 04,2,0,H
+3100,D1,2014,2015-03-14,Hertha,Schalke 04,2,2,D
+3101,D1,2014,2015-04-19,Wolfsburg,Schalke 04,1,1,D
+3102,D1,2014,2014-08-23,Hannover,Schalke 04,2,1,H
+3103,D1,2014,2015-02-14,Ein Frankfurt,Schalke 04,1,0,H
+3104,D1,2014,2014-11-08,Freiburg,Schalke 04,2,0,H
+3105,D1,2014,2014-12-06,Stuttgart,Schalke 04,0,4,A
+3106,D1,2014,2015-04-24,Mainz,Schalke 04,2,0,H
+3107,D1,2014,2014-10-04,Hoffenheim,Schalke 04,2,1,H
+3108,D1,2014,2014-09-23,Werder Bremen,Schalke 04,0,3,A
+3109,D1,2014,2014-12-17,Paderborn,Schalke 04,1,2,A
+3110,D1,2014,2015-05-23,Hamburg,Schalke 04,2,0,H
+3111,D1,2014,2015-04-05,Augsburg,Schalke 04,0,0,D
+3112,D1,2014,2014-10-25,Leverkusen,Schalke 04,1,0,H
+3113,D1,2014,2015-02-03,Bayern Munich,Schalke 04,1,1,D
+3114,D1,2014,2015-02-28,Dortmund,Schalke 04,3,0,H
+3115,D1,2014,2015-05-02,Schalke 04,Stuttgart,3,2,H
+3116,D1,2014,2014-10-25,Ein Frankfurt,Stuttgart,4,5,A
+3117,D1,2014,2015-03-13,Leverkusen,Stuttgart,4,0,H
+3118,D1,2014,2014-12-16,Hamburg,Stuttgart,0,1,A
+3119,D1,2014,2014-08-24,M'gladbach,Stuttgart,1,1,D
+3120,D1,2014,2015-04-18,Augsburg,Stuttgart,2,1,H
+3121,D1,2014,2015-02-04,FC Koln,Stuttgart,0,0,D
+3122,D1,2014,2014-09-13,Bayern Munich,Stuttgart,2,0,H
+3123,D1,2014,2014-12-13,Mainz,Stuttgart,1,1,D
+3124,D1,2014,2015-02-14,Hoffenheim,Stuttgart,2,1,H
+3125,D1,2014,2014-10-03,Hertha,Stuttgart,3,2,H
+3126,D1,2014,2015-02-28,Hannover,Stuttgart,1,1,D
+3127,D1,2014,2015-04-04,Wolfsburg,Stuttgart,3,1,H
+3128,D1,2014,2015-05-23,Paderborn,Stuttgart,1,2,A
+3129,D1,2014,2014-11-28,Freiburg,Stuttgart,1,4,A
+3130,D1,2014,2014-09-24,Dortmund,Stuttgart,2,2,D
+3131,D1,2014,2014-11-08,Werder Bremen,Stuttgart,2,0,H
+3132,D1,2014,2015-05-09,Hannover,Werder Bremen,1,1,D
+3133,D1,2014,2014-11-23,Hamburg,Werder Bremen,2,0,H
+3134,D1,2014,2015-02-21,Schalke 04,Werder Bremen,1,1,D
+3135,D1,2014,2014-10-18,Bayern Munich,Werder Bremen,6,0,H
+3136,D1,2014,2014-12-17,M'gladbach,Werder Bremen,4,1,H
+3137,D1,2014,2014-09-12,Leverkusen,Werder Bremen,3,3,D
+3138,D1,2014,2015-03-07,Freiburg,Werder Bremen,0,1,A
+3139,D1,2014,2014-12-07,Ein Frankfurt,Werder Bremen,5,2,H
+3140,D1,2014,2014-09-27,Wolfsburg,Werder Bremen,2,1,H
+3141,D1,2014,2014-11-01,Mainz,Werder Bremen,1,2,A
+3142,D1,2014,2015-04-12,Stuttgart,Werder Bremen,3,2,H
+3143,D1,2014,2014-08-23,Hertha,Werder Bremen,2,2,D
+3144,D1,2014,2015-05-23,Dortmund,Werder Bremen,3,2,H
+3145,D1,2014,2015-04-26,Paderborn,Werder Bremen,2,2,D
+3146,D1,2014,2015-03-21,FC Koln,Werder Bremen,1,1,D
+3147,D1,2014,2015-02-04,Hoffenheim,Werder Bremen,1,2,A
+3148,D1,2014,2014-09-20,Augsburg,Werder Bremen,4,2,H
+3149,D2,2014,2014-11-07,Kaiserslautern,Bochum,2,2,D
+3150,D2,2014,2015-03-23,Nurnberg,Bochum,1,2,A
+3151,D2,2014,2014-08-09,Erzgebirge Aue,Bochum,1,5,A
+3152,D2,2014,2015-03-06,Fortuna Dusseldorf,Bochum,2,2,D
+3153,D2,2014,2015-05-17,St Pauli,Bochum,5,1,H
+3154,D2,2014,2014-09-28,Heidenheim,Bochum,5,0,H
+3155,D2,2014,2015-04-05,Darmstadt,Bochum,2,0,H
+3156,D2,2014,2014-11-29,Ingolstadt,Bochum,3,0,H
+3157,D2,2014,2014-12-12,Sandhausen,Bochum,0,0,D
+3158,D2,2014,2014-12-16,Greuther Furth,Bochum,0,0,D
+3159,D2,2014,2014-08-31,Braunschweig,Bochum,1,2,A
+3160,D2,2014,2015-02-07,Union Berlin,Bochum,2,1,H
+3161,D2,2014,2014-10-24,RB Leipzig,Bochum,2,0,H
+3162,D2,2014,2015-02-21,Karlsruhe,Bochum,0,0,D
+3163,D2,2014,2015-04-18,Munich 1860,Bochum,2,1,H
+3164,D2,2014,2014-09-20,Frankfurt FSV,Bochum,1,5,A
+3165,D2,2014,2015-05-03,Aalen,Bochum,2,4,A
+3166,D1,2014,2015-02-21,FC Koln,Hannover,1,1,D
+3167,D1,2014,2014-12-21,Freiburg,Hannover,2,2,D
+3168,D1,2014,2014-09-20,Paderborn,Hannover,2,0,H
+3169,D1,2014,2015-03-15,M'gladbach,Hannover,2,0,H
+3170,D1,2014,2014-10-04,Bayern Munich,Hannover,4,0,H
+3171,D1,2014,2015-05-02,Wolfsburg,Hannover,2,2,D
+3172,D1,2014,2014-08-31,Mainz,Hannover,0,0,D
+3173,D1,2014,2014-11-29,Hoffenheim,Hannover,4,3,H
+3174,D1,2014,2015-04-04,Ein Frankfurt,Hannover,2,2,D
+3175,D1,2014,2014-09-27,Stuttgart,Hannover,1,0,H
+3176,D1,2014,2014-12-13,Werder Bremen,Hannover,3,3,D
+3177,D1,2014,2015-02-07,Hamburg,Hannover,2,1,H
+3178,D1,2014,2014-11-07,Hertha,Hannover,0,2,A
+3179,D1,2014,2015-04-18,Leverkusen,Hannover,4,0,H
+3180,D1,2014,2014-10-25,Dortmund,Hannover,0,1,A
+3181,D1,2014,2015-05-16,Augsburg,Hannover,1,2,A
+3182,D1,2014,2015-01-31,Schalke 04,Hannover,1,0,H
+3183,D1,2014,2015-02-07,Mainz,Hertha,0,2,A
+3184,D1,2014,2015-05-23,Hoffenheim,Hertha,2,1,H
+3185,D1,2014,2015-04-10,Hannover,Hertha,1,1,D
+3186,D1,2014,2015-03-20,Hamburg,Hertha,0,1,A
+3187,D1,2014,2014-11-02,Paderborn,Hertha,3,1,H
+3188,D1,2014,2014-08-30,Leverkusen,Hertha,4,2,H
+3189,D1,2014,2014-10-18,Schalke 04,Hertha,2,0,H
+3190,D1,2014,2015-05-09,Dortmund,Hertha,2,0,H
+3191,D1,2014,2014-09-19,Freiburg,Hertha,2,2,D
+3192,D1,2014,2015-04-25,Bayern Munich,Hertha,1,0,H
+3193,D1,2014,2014-11-22,FC Koln,Hertha,1,2,A
+3194,D1,2014,2014-09-28,Augsburg,Hertha,1,0,H
+3195,D1,2014,2015-02-22,Wolfsburg,Hertha,2,1,H
+3196,D1,2014,2014-12-06,M'gladbach,Hertha,3,2,H
+3197,D1,2014,2015-02-01,Werder Bremen,Hertha,2,0,H
+3198,D1,2014,2015-03-06,Stuttgart,Hertha,0,0,D
+3199,D1,2014,2014-12-17,Ein Frankfurt,Hertha,4,4,D
+3200,D1,2014,2014-08-24,Paderborn,Mainz,2,2,D
+3201,D1,2014,2014-09-13,Hertha,Mainz,1,3,A
+3202,D1,2014,2015-02-13,Dortmund,Mainz,4,2,H
+3203,D1,2014,2014-09-23,Ein Frankfurt,Mainz,2,2,D
+3204,D1,2014,2015-02-03,Hannover,Mainz,1,1,D
+3205,D1,2014,2015-04-18,Freiburg,Mainz,2,3,A
+3206,D1,2014,2014-11-29,Schalke 04,Mainz,4,1,H
+3207,D1,2014,2015-03-14,Augsburg,Mainz,0,2,A
+3208,D1,2014,2014-10-05,M'gladbach,Mainz,1,1,D
+3209,D1,2014,2015-05-09,Stuttgart,Mainz,2,0,H
+3210,D1,2014,2015-04-04,Werder Bremen,Mainz,0,0,D
+3211,D1,2014,2015-02-28,Hoffenheim,Mainz,2,0,H
+3212,D1,2014,2014-11-08,Leverkusen,Mainz,0,0,D
+3213,D1,2014,2014-10-26,Wolfsburg,Mainz,3,0,H
+3214,D1,2014,2014-12-07,Hamburg,Mainz,2,1,H
+3215,D1,2014,2014-12-16,FC Koln,Mainz,0,0,D
+3216,D1,2014,2015-05-23,Bayern Munich,Mainz,2,0,H
+3217,D2,2014,2014-08-22,Heidenheim,Munich 1860,2,2,D
+3218,D2,2014,2015-03-02,Ingolstadt,Munich 1860,1,1,D
+3219,D2,2014,2014-12-08,Nurnberg,Munich 1860,2,1,H
+3220,D2,2014,2015-03-13,Greuther Furth,Munich 1860,0,3,A
+3221,D2,2014,2015-05-24,Karlsruhe,Munich 1860,2,0,H
+3222,D2,2014,2014-11-02,Bochum,Munich 1860,0,3,A
+3223,D2,2014,2014-10-19,Erzgebirge Aue,Munich 1860,4,1,H
+3224,D2,2014,2014-08-04,Kaiserslautern,Munich 1860,3,2,H
+3225,D2,2014,2014-11-22,Union Berlin,Munich 1860,1,4,A
+3226,D2,2014,2014-12-22,RB Leipzig,Munich 1860,1,1,D
+3227,D2,2014,2015-04-25,Fortuna Dusseldorf,Munich 1860,1,1,D
+3228,D2,2014,2014-10-03,Aalen,Munich 1860,2,0,H
+3229,D2,2014,2014-09-23,Sandhausen,Munich 1860,1,0,H
+3230,D2,2014,2015-05-08,Frankfurt FSV,Munich 1860,0,1,A
+3231,D2,2014,2014-09-14,St Pauli,Munich 1860,1,2,A
+3232,D2,2014,2015-04-11,Braunschweig,Munich 1860,2,0,H
+3233,D2,2014,2015-02-15,Darmstadt,Munich 1860,1,1,D
+3234,D2,2014,2015-05-24,Darmstadt,St Pauli,1,0,H
+3235,D2,2014,2015-03-07,Braunschweig,St Pauli,0,2,A
+3236,D2,2014,2014-10-20,Fortuna Dusseldorf,St Pauli,1,0,H
+3237,D2,2014,2014-09-28,Frankfurt FSV,St Pauli,3,3,D
+3238,D2,2014,2015-04-10,Karlsruhe,St Pauli,3,0,H
+3239,D2,2014,2014-12-17,Ingolstadt,St Pauli,2,1,H
+3240,D2,2014,2014-11-01,Nurnberg,St Pauli,2,2,D
+3241,D2,2014,2014-08-08,Aalen,St Pauli,2,0,H
+3242,D2,2014,2014-12-05,Bochum,St Pauli,3,3,D
+3243,D2,2014,2015-02-07,Sandhausen,St Pauli,0,0,D
+3244,D2,2014,2014-09-19,Erzgebirge Aue,St Pauli,3,0,H
+3245,D2,2014,2015-04-26,Heidenheim,St Pauli,2,1,H
+3246,D2,2014,2014-09-01,Greuther Furth,St Pauli,3,0,H
+3247,D2,2014,2015-03-20,Union Berlin,St Pauli,1,0,H
+3248,D2,2014,2014-11-23,RB Leipzig,St Pauli,4,1,H
+3249,D2,2014,2015-05-09,Kaiserslautern,St Pauli,0,2,A
+3250,D2,2014,2015-02-21,Munich 1860,St Pauli,2,1,H
+3251,D1,2014,2014-08-22,Bayern Munich,Wolfsburg,2,1,H
+3252,D1,2014,2014-12-06,Hannover,Wolfsburg,1,3,A
+3253,D1,2014,2014-11-22,Schalke 04,Wolfsburg,3,2,H
+3254,D1,2014,2015-03-01,Werder Bremen,Wolfsburg,3,5,A
+3255,D1,2014,2015-03-07,Augsburg,Wolfsburg,1,0,H
+3256,D1,2014,2014-12-17,Dortmund,Wolfsburg,2,2,D
+3257,D1,2014,2015-02-03,Ein Frankfurt,Wolfsburg,1,1,D
+3258,D1,2014,2014-09-24,Hertha,Wolfsburg,1,0,H
+3259,D1,2014,2015-03-22,Mainz,Wolfsburg,1,1,D
+3260,D1,2014,2015-02-14,Leverkusen,Wolfsburg,4,5,A
+3261,D1,2014,2015-04-26,M'gladbach,Wolfsburg,1,0,H
+3262,D1,2014,2014-09-13,Hoffenheim,Wolfsburg,1,1,D
+3263,D1,2014,2015-04-11,Hamburg,Wolfsburg,0,2,A
+3264,D1,2014,2015-05-23,FC Koln,Wolfsburg,2,2,D
+3265,D1,2014,2014-11-01,Stuttgart,Wolfsburg,0,4,A
+3266,D1,2014,2014-10-18,Freiburg,Wolfsburg,1,2,A
+3267,D1,2014,2015-05-10,Paderborn,Wolfsburg,1,3,A
+3268,D1,2014,2015-02-06,Schalke 04,M'gladbach,1,0,H
+3269,D1,2014,2015-04-04,Hoffenheim,M'gladbach,1,4,A
+3270,D1,2014,2014-09-21,FC Koln,M'gladbach,0,0,D
+3271,D1,2014,2014-09-27,Paderborn,M'gladbach,1,2,A
+3272,D1,2014,2015-02-22,Hamburg,M'gladbach,1,1,D
+3273,D1,2014,2014-11-09,Dortmund,M'gladbach,1,0,H
+3274,D1,2014,2014-12-14,Leverkusen,M'gladbach,1,1,D
+3275,D1,2014,2014-10-18,Hannover,M'gladbach,0,3,A
+3276,D1,2014,2014-12-20,Augsburg,M'gladbach,2,1,H
+3277,D1,2014,2015-03-22,Bayern Munich,M'gladbach,0,2,A
+3278,D1,2014,2014-08-31,Freiburg,M'gladbach,0,0,D
+3279,D1,2014,2015-05-16,Werder Bremen,M'gladbach,0,2,A
+3280,D1,2014,2015-04-17,Ein Frankfurt,M'gladbach,0,0,D
+3281,D1,2014,2014-11-30,Wolfsburg,M'gladbach,1,0,H
+3282,D1,2014,2015-03-07,Mainz,M'gladbach,2,2,D
+3283,D1,2014,2015-05-03,Hertha,M'gladbach,1,2,A
+3284,D1,2014,2015-01-31,Stuttgart,M'gladbach,0,1,A
+3285,D2,2014,2014-11-24,Fortuna Dusseldorf,Greuther Furth,3,3,D
+3286,D2,2014,2014-08-02,Bochum,Greuther Furth,1,1,D
+3287,D2,2014,2014-10-18,Braunschweig,Greuther Furth,2,2,D
+3288,D2,2014,2015-04-11,Frankfurt FSV,Greuther Furth,1,1,D
+3289,D2,2014,2015-05-24,RB Leipzig,Greuther Furth,2,0,H
+3290,D2,2014,2015-02-16,St Pauli,Greuther Furth,0,1,A
+3291,D2,2014,2014-12-06,Darmstadt,Greuther Furth,0,0,D
+3292,D2,2014,2015-05-10,Heidenheim,Greuther Furth,3,0,H
+3293,D2,2014,2015-04-25,Karlsruhe,Greuther Furth,2,1,H
+3294,D2,2014,2014-09-14,Sandhausen,Greuther Furth,1,0,H
+3295,D2,2014,2014-10-31,Union Berlin,Greuther Furth,0,1,A
+3296,D2,2014,2014-08-24,Ingolstadt,Greuther Furth,2,0,H
+3297,D2,2014,2015-03-07,Aalen,Greuther Furth,1,1,D
+3298,D2,2014,2015-02-27,Kaiserslautern,Greuther Furth,2,1,H
+3299,D2,2014,2015-03-22,Erzgebirge Aue,Greuther Furth,0,0,D
+3300,D2,2014,2014-09-26,Munich 1860,Greuther Furth,2,0,H
+3301,D2,2014,2014-12-20,Nurnberg,Greuther Furth,0,0,D
+3302,D2,2014,2014-09-24,Kaiserslautern,Union Berlin,1,0,H
+3303,D2,2014,2014-11-09,Ingolstadt,Union Berlin,3,3,D
+3304,D2,2014,2015-05-17,Frankfurt FSV,Union Berlin,1,3,A
+3305,D2,2014,2015-03-13,Darmstadt,Union Berlin,5,0,H
+3306,D2,2014,2014-09-14,Heidenheim,Union Berlin,3,1,H
+3307,D2,2014,2015-05-03,Munich 1860,Union Berlin,0,3,A
+3308,D2,2014,2014-08-03,Karlsruhe,Union Berlin,0,0,D
+3309,D2,2014,2014-11-28,Erzgebirge Aue,Union Berlin,1,2,A
+3310,D2,2014,2015-04-05,Sandhausen,Union Berlin,1,1,D
+3311,D2,2014,2014-10-04,St Pauli,Union Berlin,3,0,H
+3312,D2,2014,2015-03-01,RB Leipzig,Union Berlin,3,2,H
+3313,D2,2014,2014-10-24,Aalen,Union Berlin,1,2,A
+3314,D2,2014,2014-12-19,Fortuna Dusseldorf,Union Berlin,1,0,H
+3315,D2,2014,2014-08-25,Bochum,Union Berlin,1,1,D
+3316,D2,2014,2015-04-19,Greuther Furth,Union Berlin,2,2,D
+3317,D2,2014,2015-02-15,Nurnberg,Union Berlin,3,1,H
+3318,D2,2014,2014-12-13,Braunschweig,Union Berlin,1,1,D
+3319,D2,2014,2015-04-04,Greuther Furth,Braunschweig,1,2,A
+3320,D2,2014,2015-02-27,Darmstadt,Braunschweig,1,0,H
+3321,D2,2014,2015-03-15,Sandhausen,Braunschweig,0,1,A
+3322,D2,2014,2014-12-07,Karlsruhe,Braunschweig,1,0,H
+3323,D2,2014,2014-12-19,Heidenheim,Braunschweig,0,1,A
+3324,D2,2014,2015-02-13,Bochum,Braunschweig,3,2,H
+3325,D2,2014,2015-05-10,Nurnberg,Braunschweig,3,1,H
+3326,D2,2014,2014-10-05,Ingolstadt,Braunschweig,1,0,H
+3327,D2,2014,2014-11-22,Frankfurt FSV,Braunschweig,0,3,A
+3328,D2,2014,2015-05-24,Union Berlin,Braunschweig,2,0,H
+3329,D2,2014,2014-10-26,Munich 1860,Braunschweig,1,2,A
+3330,D2,2014,2014-08-01,Fortuna Dusseldorf,Braunschweig,2,2,D
+3331,D2,2014,2014-09-13,RB Leipzig,Braunschweig,3,1,H
+3332,D2,2014,2014-09-23,St Pauli,Braunschweig,1,0,H
+3333,D2,2014,2014-08-24,Kaiserslautern,Braunschweig,2,1,H
+3334,D2,2014,2014-11-09,Erzgebirge Aue,Braunschweig,1,2,A
+3335,D2,2014,2015-04-18,Aalen,Braunschweig,2,1,H
+3336,D2,2014,2015-04-27,Braunschweig,Erzgebirge Aue,4,2,H
+3337,D2,2014,2014-08-03,Nurnberg,Erzgebirge Aue,1,0,H
+3338,D2,2014,2014-10-03,Greuther Furth,Erzgebirge Aue,2,0,H
+3339,D2,2014,2015-03-15,Aalen,Erzgebirge Aue,3,0,H
+3340,D2,2014,2015-02-13,Fortuna Dusseldorf,Erzgebirge Aue,2,3,A
+3341,D2,2014,2015-05-09,Union Berlin,Erzgebirge Aue,1,2,A
+3342,D2,2014,2015-04-05,Munich 1860,Erzgebirge Aue,0,1,A
+3343,D2,2014,2014-11-02,Frankfurt FSV,Erzgebirge Aue,1,1,D
+3344,D2,2014,2015-05-24,Heidenheim,Erzgebirge Aue,2,2,D
+3345,D2,2014,2014-08-22,RB Leipzig,Erzgebirge Aue,1,0,H
+3346,D2,2014,2014-09-23,Ingolstadt,Erzgebirge Aue,1,1,D
+3347,D2,2014,2015-03-01,St Pauli,Erzgebirge Aue,0,0,D
+3348,D2,2014,2014-12-06,Kaiserslautern,Erzgebirge Aue,3,0,H
+3349,D2,2014,2014-12-21,Bochum,Erzgebirge Aue,1,1,D
+3350,D2,2014,2014-10-26,Sandhausen,Erzgebirge Aue,1,1,D
+3351,D2,2014,2014-11-23,Karlsruhe,Erzgebirge Aue,1,0,H
+3352,D2,2014,2014-09-13,Darmstadt,Erzgebirge Aue,2,0,H
+3353,D1,2014,2014-11-29,Werder Bremen,Paderborn,4,0,H
+3354,D1,2014,2014-08-30,Hamburg,Paderborn,0,3,A
+3355,D1,2014,2015-04-18,Dortmund,Paderborn,3,0,H
+3356,D1,2014,2015-03-01,M'gladbach,Paderborn,2,0,H
+3357,D1,2014,2015-03-14,Ein Frankfurt,Paderborn,4,0,H
+3358,D1,2014,2015-05-02,Freiburg,Paderborn,1,2,A
+3359,D1,2014,2015-01-31,Mainz,Paderborn,5,0,H
+3360,D1,2014,2015-04-05,Hertha,Paderborn,2,0,H
+3361,D1,2014,2014-10-25,Hoffenheim,Paderborn,1,0,H
+3362,D1,2014,2015-05-16,Schalke 04,Paderborn,1,0,H
+3363,D1,2014,2015-02-15,Hannover,Paderborn,1,2,A
+3364,D1,2014,2014-12-14,Wolfsburg,Paderborn,1,1,D
+3365,D1,2014,2014-11-08,Augsburg,Paderborn,3,0,H
+3366,D1,2014,2014-12-20,Stuttgart,Paderborn,0,0,D
+3367,D1,2014,2015-02-07,FC Koln,Paderborn,0,0,D
+3368,D1,2014,2014-10-04,Leverkusen,Paderborn,2,2,D
+3369,D1,2014,2014-09-23,Bayern Munich,Paderborn,4,0,H
+3370,D1,2014,2015-04-11,Paderborn,Augsburg,2,1,H
+3371,D1,2014,2015-05-09,Bayern Munich,Augsburg,0,1,A
+3372,D1,2014,2014-12-06,FC Koln,Augsburg,1,2,A
+3373,D1,2014,2014-10-18,Mainz,Augsburg,2,1,H
+3374,D1,2014,2015-03-21,Freiburg,Augsburg,2,0,H
+3375,D1,2014,2014-09-14,Ein Frankfurt,Augsburg,0,1,A
+3376,D1,2014,2015-04-25,Hamburg,Augsburg,3,2,H
+3377,D1,2014,2014-11-23,Stuttgart,Augsburg,0,1,A
+3378,D1,2014,2014-12-16,Hannover,Augsburg,2,0,H
+3379,D1,2014,2014-08-23,Hoffenheim,Augsburg,2,0,H
+3380,D1,2014,2015-02-28,Hertha,Augsburg,1,0,H
+3381,D1,2014,2015-02-04,Dortmund,Augsburg,0,1,A
+3382,D1,2014,2014-09-24,Leverkusen,Augsburg,1,0,H
+3383,D1,2014,2015-05-23,M'gladbach,Augsburg,1,3,A
+3384,D1,2014,2014-10-31,Schalke 04,Augsburg,1,0,H
+3385,D1,2014,2015-02-14,Werder Bremen,Augsburg,3,2,H
+3386,D1,2014,2014-10-05,Wolfsburg,Augsburg,1,0,H
+3387,D1,2014,2015-02-21,Freiburg,Hoffenheim,1,1,D
+3388,D1,2014,2014-11-22,Bayern Munich,Hoffenheim,4,0,H
+3389,D1,2014,2014-12-21,Hertha,Hoffenheim,0,5,A
+3390,D1,2014,2015-02-07,Wolfsburg,Hoffenheim,3,0,H
+3391,D1,2014,2015-05-16,Leverkusen,Hoffenheim,2,0,H
+3392,D1,2014,2014-09-20,Stuttgart,Hoffenheim,0,2,A
+3393,D1,2014,2014-08-30,Werder Bremen,Hoffenheim,1,1,D
+3394,D1,2014,2015-04-12,FC Koln,Hoffenheim,3,2,H
+3395,D1,2014,2014-12-05,Dortmund,Hoffenheim,1,0,H
+3396,D1,2014,2015-04-25,Hannover,Hoffenheim,1,2,A
+3397,D1,2014,2015-03-21,Paderborn,Hoffenheim,0,0,D
+3398,D1,2014,2015-03-07,Schalke 04,Hoffenheim,3,1,H
+3399,D1,2014,2014-10-19,Hamburg,Hoffenheim,1,1,D
+3400,D1,2014,2014-09-26,Mainz,Hoffenheim,0,0,D
+3401,D1,2014,2015-05-09,Ein Frankfurt,Hoffenheim,3,1,H
+3402,D1,2014,2015-02-01,Augsburg,Hoffenheim,3,1,H
+3403,D1,2014,2014-11-02,M'gladbach,Hoffenheim,3,1,H
+3404,D2,2014,2015-04-05,Ingolstadt,Frankfurt FSV,2,0,H
+3405,D2,2014,2014-10-05,Sandhausen,Frankfurt FSV,0,3,A
+3406,D2,2014,2015-02-27,Bochum,Frankfurt FSV,3,3,D
+3407,D2,2014,2015-05-24,Fortuna Dusseldorf,Frankfurt FSV,2,3,A
+3408,D2,2014,2015-03-14,St Pauli,Frankfurt FSV,1,1,D
+3409,D2,2014,2014-11-30,Munich 1860,Frankfurt FSV,0,2,A
+3410,D2,2014,2014-11-07,Aalen,Frankfurt FSV,0,1,A
+3411,D2,2014,2014-10-24,Greuther Furth,Frankfurt FSV,2,5,A
+3412,D2,2014,2014-08-03,Heidenheim,Frankfurt FSV,2,1,H
+3413,D2,2014,2015-04-19,Erzgebirge Aue,Frankfurt FSV,1,0,H
+3414,D2,2014,2014-09-24,Darmstadt,Frankfurt FSV,4,0,H
+3415,D2,2014,2014-08-23,Nurnberg,Frankfurt FSV,0,1,A
+3416,D2,2014,2014-09-12,Kaiserslautern,Frankfurt FSV,1,0,H
+3417,D2,2014,2014-12-19,Karlsruhe,Frankfurt FSV,4,1,H
+3418,D2,2014,2015-02-15,RB Leipzig,Frankfurt FSV,0,1,A
+3419,D2,2014,2015-05-02,Braunschweig,Frankfurt FSV,2,0,H
+3420,D2,2014,2014-12-07,Union Berlin,Frankfurt FSV,2,1,H
+3421,D2,2014,2015-05-24,Kaiserslautern,Ingolstadt,1,1,D
+3422,D2,2014,2015-03-21,Braunschweig,Ingolstadt,0,0,D
+3423,D2,2014,2014-12-07,RB Leipzig,Ingolstadt,0,1,A
+3424,D2,2014,2015-04-10,Heidenheim,Ingolstadt,0,1,A
+3425,D2,2014,2014-12-21,Darmstadt,Ingolstadt,2,2,D
+3426,D2,2014,2014-09-20,Munich 1860,Ingolstadt,1,1,D
+3427,D2,2014,2014-11-23,Nurnberg,Ingolstadt,2,1,H
+3428,D2,2014,2014-10-19,Frankfurt FSV,Ingolstadt,0,1,A
+3429,D2,2014,2015-02-06,Greuther Furth,Ingolstadt,0,1,A
+3430,D2,2014,2015-04-26,Union Berlin,Ingolstadt,2,2,D
+3431,D2,2014,2015-02-20,Aalen,Ingolstadt,1,1,D
+3432,D2,2014,2015-03-06,Erzgebirge Aue,Ingolstadt,0,3,A
+3433,D2,2014,2014-08-31,Sandhausen,Ingolstadt,0,3,A
+3434,D2,2014,2015-05-10,Bochum,Ingolstadt,3,1,H
+3435,D2,2014,2014-08-02,St Pauli,Ingolstadt,1,1,D
+3436,D2,2014,2014-09-27,Karlsruhe,Ingolstadt,0,1,A
+3437,D2,2014,2014-10-31,Fortuna Dusseldorf,Ingolstadt,0,0,D
+3438,D2,2014,2015-03-16,RB Leipzig,Fortuna Dusseldorf,3,1,H
+3439,D2,2014,2015-04-06,St Pauli,Fortuna Dusseldorf,4,0,H
+3440,D2,2014,2014-12-13,Frankfurt FSV,Fortuna Dusseldorf,0,2,A
+3441,D2,2014,2014-11-10,Munich 1860,Fortuna Dusseldorf,0,1,A
+3442,D2,2014,2014-10-25,Kaiserslautern,Fortuna Dusseldorf,1,1,D
+3443,D2,2014,2014-08-08,Union Berlin,Fortuna Dusseldorf,1,1,D
+3444,D2,2014,2015-05-17,Sandhausen,Fortuna Dusseldorf,0,2,A
+3445,D2,2014,2014-10-05,Darmstadt,Fortuna Dusseldorf,1,4,A
+3446,D2,2014,2014-08-30,Erzgebirge Aue,Fortuna Dusseldorf,0,3,A
+3447,D2,2014,2015-04-17,Ingolstadt,Fortuna Dusseldorf,3,2,H
+3448,D2,2014,2015-02-08,Karlsruhe,Fortuna Dusseldorf,1,1,D
+3449,D2,2014,2014-12-16,Braunschweig,Fortuna Dusseldorf,2,1,H
+3450,D2,2014,2014-09-25,Bochum,Fortuna Dusseldorf,1,1,D
+3451,D2,2014,2014-11-29,Aalen,Fortuna Dusseldorf,2,0,H
+3452,D2,2014,2015-03-01,Heidenheim,Fortuna Dusseldorf,1,2,A
+3453,D2,2014,2014-09-15,Nurnberg,Fortuna Dusseldorf,0,2,A
+3454,D2,2014,2015-05-03,Greuther Furth,Fortuna Dusseldorf,3,0,H
+3455,D2,2014,2014-09-23,Greuther Furth,Aalen,1,1,D
+3456,D2,2014,2014-08-02,RB Leipzig,Aalen,0,0,D
+3457,D2,2014,2014-10-19,Karlsruhe,Aalen,0,0,D
+3458,D2,2014,2015-04-26,Frankfurt FSV,Aalen,1,1,D
+3459,D2,2014,2014-11-02,Braunschweig,Aalen,2,1,H
+3460,D2,2014,2015-03-20,Munich 1860,Aalen,1,1,D
+3461,D2,2014,2014-08-24,Darmstadt,Aalen,2,0,H
+3462,D2,2014,2014-09-26,Erzgebirge Aue,Aalen,1,0,H
+3463,D2,2014,2015-02-28,Sandhausen,Aalen,2,0,H
+3464,D2,2014,2014-12-20,St Pauli,Aalen,3,1,H
+3465,D2,2014,2015-05-24,Nurnberg,Aalen,2,1,H
+3466,D2,2014,2015-04-12,Union Berlin,Aalen,1,1,D
+3467,D2,2014,2014-12-05,Heidenheim,Aalen,0,1,A
+3468,D2,2014,2014-11-21,Bochum,Aalen,4,0,H
+3469,D2,2014,2014-09-12,Ingolstadt,Aalen,4,1,H
+3470,D2,2014,2015-05-08,Fortuna Dusseldorf,Aalen,0,2,A
+3471,D2,2014,2015-02-14,Kaiserslautern,Aalen,1,0,H
+3472,D2,2014,2014-08-03,Darmstadt,Sandhausen,1,0,H
+3473,D2,2014,2015-05-08,RB Leipzig,Sandhausen,0,4,A
+3474,D2,2014,2015-02-14,Ingolstadt,Sandhausen,1,3,A
+3475,D2,2014,2014-10-31,Karlsruhe,Sandhausen,1,1,D
+3476,D2,2014,2015-04-12,Erzgebirge Aue,Sandhausen,0,1,A
+3477,D2,2014,2014-08-22,St Pauli,Sandhausen,2,1,H
+3478,D2,2014,2015-03-08,Munich 1860,Sandhausen,2,3,A
+3479,D2,2014,2014-12-21,Kaiserslautern,Sandhausen,1,0,H
+3480,D2,2014,2015-04-24,Nurnberg,Sandhausen,2,0,H
+3481,D2,2014,2014-11-21,Heidenheim,Sandhausen,3,0,H
+3482,D2,2014,2015-02-20,Greuther Furth,Sandhausen,0,0,D
+3483,D2,2014,2014-10-18,Union Berlin,Sandhausen,3,1,H
+3484,D2,2014,2015-03-20,Frankfurt FSV,Sandhausen,1,1,D
+3485,D2,2014,2014-09-26,Braunschweig,Sandhausen,2,1,H
+3486,D2,2014,2015-05-24,Bochum,Sandhausen,0,0,D
+3487,D2,2014,2014-12-05,Fortuna Dusseldorf,Sandhausen,1,3,A
+3488,D2,2014,2014-09-19,Aalen,Sandhausen,0,1,A
+3489,D2,2014,2015-03-08,Frankfurt FSV,Darmstadt,1,1,D
+3490,D2,2014,2015-02-20,Erzgebirge Aue,Darmstadt,0,1,A
+3491,D2,2014,2014-12-14,St Pauli,Darmstadt,0,1,A
+3492,D2,2014,2015-04-24,RB Leipzig,Darmstadt,2,1,H
+3493,D2,2014,2015-05-17,Greuther Furth,Darmstadt,1,0,H
+3494,D2,2014,2014-11-21,Kaiserslautern,Darmstadt,0,0,D
+3495,D2,2014,2015-04-10,Nurnberg,Darmstadt,1,1,D
+3496,D2,2014,2014-12-17,Sandhausen,Darmstadt,1,2,A
+3497,D2,2014,2014-08-31,Munich 1860,Darmstadt,1,1,D
+3498,D2,2014,2014-09-27,Union Berlin,Darmstadt,1,1,D
+3499,D2,2014,2015-05-11,Karlsruhe,Darmstadt,0,1,A
+3500,D2,2014,2014-11-01,Heidenheim,Darmstadt,1,1,D
+3501,D2,2014,2015-02-06,Aalen,Darmstadt,0,0,D
+3502,D2,2014,2014-08-10,Ingolstadt,Darmstadt,2,2,D
+3503,D2,2014,2014-09-19,Braunschweig,Darmstadt,2,0,H
+3504,D2,2014,2015-03-21,Fortuna Dusseldorf,Darmstadt,2,0,H
+3505,D2,2014,2014-10-17,Bochum,Darmstadt,1,1,D
+3506,D2,2014,2015-03-06,Nurnberg,Heidenheim,0,1,A
+3507,D2,2014,2014-12-16,Frankfurt FSV,Heidenheim,2,0,H
+3508,D2,2014,2014-08-09,Braunschweig,Heidenheim,3,0,H
+3509,D2,2014,2014-11-28,Greuther Furth,Heidenheim,0,0,D
+3510,D2,2014,2014-09-21,Fortuna Dusseldorf,Heidenheim,3,2,H
+3511,D2,2014,2014-10-26,Ingolstadt,Heidenheim,1,0,H
+3512,D2,2014,2015-04-19,Darmstadt,Heidenheim,1,1,D
+3513,D2,2014,2015-02-22,Union Berlin,Heidenheim,3,1,H
+3514,D2,2014,2015-05-03,Sandhausen,Heidenheim,2,2,D
+3515,D2,2014,2015-04-04,Kaiserslautern,Heidenheim,4,0,H
+3516,D2,2014,2014-11-08,St Pauli,Heidenheim,0,3,A
+3517,D2,2014,2014-12-12,Erzgebirge Aue,Heidenheim,1,1,D
+3518,D2,2014,2014-10-06,RB Leipzig,Heidenheim,1,1,D
+3519,D2,2014,2015-03-13,Bochum,Heidenheim,4,1,H
+3520,D2,2014,2014-08-30,Karlsruhe,Heidenheim,1,1,D
+3521,D2,2014,2015-05-17,Aalen,Heidenheim,2,4,A
+3522,D2,2014,2015-02-09,Munich 1860,Heidenheim,1,2,A
+3523,D2,2014,2015-04-12,Bochum,RB Leipzig,1,2,A
+3524,D2,2014,2014-09-21,Union Berlin,RB Leipzig,2,1,H
+3525,D2,2014,2014-11-08,Darmstadt,RB Leipzig,1,0,H
+3526,D2,2014,2015-03-22,Heidenheim,RB Leipzig,1,0,H
+3527,D2,2014,2015-05-17,Ingolstadt,RB Leipzig,2,1,H
+3528,D2,2014,2015-02-23,Braunschweig,RB Leipzig,1,1,D
+3529,D2,2014,2014-09-28,Fortuna Dusseldorf,RB Leipzig,2,2,D
+3530,D2,2014,2014-08-10,Munich 1860,RB Leipzig,0,3,A
+3531,D2,2014,2015-04-20,Kaiserslautern,RB Leipzig,1,1,D
+3532,D2,2014,2014-08-29,Frankfurt FSV,RB Leipzig,0,0,D
+3533,D2,2014,2014-12-17,Aalen,RB Leipzig,0,0,D
+3534,D2,2014,2014-11-30,Sandhausen,RB Leipzig,0,0,D
+3535,D2,2014,2015-05-03,St Pauli,RB Leipzig,1,0,H
+3536,D2,2014,2015-03-09,Karlsruhe,RB Leipzig,0,0,D
+3537,D2,2014,2015-02-06,Erzgebirge Aue,RB Leipzig,2,0,H
+3538,D2,2014,2014-12-12,Greuther Furth,RB Leipzig,0,1,A
+3539,D2,2014,2014-10-17,Nurnberg,RB Leipzig,1,0,H
+45635,E0,2014,2014-08-16,Arsenal,Crystal Palace,2,1,H
+45636,E0,2014,2014-08-16,Leicester,Everton,2,2,D
+45637,E0,2014,2014-08-16,Man United,Swansea,1,2,A
+45638,E0,2014,2014-08-16,QPR,Hull,0,1,A
+45639,E0,2014,2014-08-16,Stoke,Aston Villa,0,1,A
+45640,E0,2014,2014-08-16,West Brom,Sunderland,2,2,D
+45641,E0,2014,2014-08-16,West Ham,Tottenham,0,1,A
+45642,E0,2014,2014-08-17,Liverpool,Southampton,2,1,H
+45643,E0,2014,2014-08-17,Newcastle,Man City,0,2,A
+45644,E0,2014,2014-08-18,Burnley,Chelsea,1,3,A
+45645,E0,2014,2014-08-23,Aston Villa,Newcastle,0,0,D
+45646,E0,2014,2014-08-23,Chelsea,Leicester,2,0,H
+45647,E0,2014,2014-08-23,Crystal Palace,West Ham,1,3,A
+45648,E0,2014,2014-08-23,Everton,Arsenal,2,2,D
+45649,E0,2014,2014-08-23,Southampton,West Brom,0,0,D
+45650,E0,2014,2014-08-23,Swansea,Burnley,1,0,H
+45651,E0,2014,2014-08-24,Hull,Stoke,1,1,D
+45652,E0,2014,2014-08-24,Sunderland,Man United,1,1,D
+45653,E0,2014,2014-08-24,Tottenham,QPR,4,0,H
+45654,E0,2014,2014-08-25,Man City,Liverpool,3,1,H
+45655,E0,2014,2014-08-30,Burnley,Man United,0,0,D
+45656,E0,2014,2014-08-30,Everton,Chelsea,3,6,A
+45657,E0,2014,2014-08-30,Man City,Stoke,0,1,A
+45658,E0,2014,2014-08-30,Newcastle,Crystal Palace,3,3,D
+45659,E0,2014,2014-08-30,QPR,Sunderland,1,0,H
+45660,E0,2014,2014-08-30,Swansea,West Brom,3,0,H
+45661,E0,2014,2014-08-30,West Ham,Southampton,1,3,A
+45662,E0,2014,2014-08-31,Aston Villa,Hull,2,1,H
+45663,E0,2014,2014-08-31,Leicester,Arsenal,1,1,D
+45664,E0,2014,2014-08-31,Tottenham,Liverpool,0,3,A
+45665,E0,2014,2014-09-13,Arsenal,Man City,2,2,D
+45666,E0,2014,2014-09-13,Chelsea,Swansea,4,2,H
+45667,E0,2014,2014-09-13,Crystal Palace,Burnley,0,0,D
+45668,E0,2014,2014-09-13,Liverpool,Aston Villa,0,1,A
+45669,E0,2014,2014-09-13,Southampton,Newcastle,4,0,H
+45670,E0,2014,2014-09-13,Stoke,Leicester,0,1,A
+45671,E0,2014,2014-09-13,Sunderland,Tottenham,2,2,D
+45672,E0,2014,2014-09-13,West Brom,Everton,0,2,A
+45673,E0,2014,2014-09-14,Man United,QPR,4,0,H
+45674,E0,2014,2014-09-15,Hull,West Ham,2,2,D
+45675,E0,2014,2014-09-20,Aston Villa,Arsenal,0,3,A
+45676,E0,2014,2014-09-20,Burnley,Sunderland,0,0,D
+45677,E0,2014,2014-09-20,Newcastle,Hull,2,2,D
+45678,E0,2014,2014-09-20,QPR,Stoke,2,2,D
+45679,E0,2014,2014-09-20,Swansea,Southampton,0,1,A
+45680,E0,2014,2014-09-20,West Ham,Liverpool,3,1,H
+45681,E0,2014,2014-09-21,Everton,Crystal Palace,2,3,A
+45682,E0,2014,2014-09-21,Leicester,Man United,5,3,H
+45683,E0,2014,2014-09-21,Man City,Chelsea,1,1,D
+45684,E0,2014,2014-09-21,Tottenham,West Brom,0,1,A
+45685,E0,2014,2014-09-27,Arsenal,Tottenham,1,1,D
+45686,E0,2014,2014-09-27,Chelsea,Aston Villa,3,0,H
+45687,E0,2014,2014-09-27,Crystal Palace,Leicester,2,0,H
+45688,E0,2014,2014-09-27,Hull,Man City,2,4,A
+45689,E0,2014,2014-09-27,Liverpool,Everton,1,1,D
+45690,E0,2014,2014-09-27,Man United,West Ham,2,1,H
+45691,E0,2014,2014-09-27,Southampton,QPR,2,1,H
+45692,E0,2014,2014-09-27,Sunderland,Swansea,0,0,D
+45693,E0,2014,2014-09-28,West Brom,Burnley,4,0,H
+45694,E0,2014,2014-09-29,Stoke,Newcastle,1,0,H
+45695,E0,2014,2014-10-04,Aston Villa,Man City,0,2,A
+45696,E0,2014,2014-10-04,Hull,Crystal Palace,2,0,H
+45697,E0,2014,2014-10-04,Leicester,Burnley,2,2,D
+45698,E0,2014,2014-10-04,Liverpool,West Brom,2,1,H
+45699,E0,2014,2014-10-04,Sunderland,Stoke,3,1,H
+45700,E0,2014,2014-10-04,Swansea,Newcastle,2,2,D
+45701,E0,2014,2014-10-05,Chelsea,Arsenal,2,0,H
+45702,E0,2014,2014-10-05,Man United,Everton,2,1,H
+45703,E0,2014,2014-10-05,Tottenham,Southampton,1,0,H
+45704,E0,2014,2014-10-05,West Ham,QPR,2,0,H
+45705,E0,2014,2014-10-18,Arsenal,Hull,2,2,D
+45706,E0,2014,2014-10-18,Burnley,West Ham,1,3,A
+45707,E0,2014,2014-10-18,Crystal Palace,Chelsea,1,2,A
+45708,E0,2014,2014-10-18,Everton,Aston Villa,3,0,H
+45709,E0,2014,2014-10-18,Man City,Tottenham,4,1,H
+45710,E0,2014,2014-10-18,Newcastle,Leicester,1,0,H
+45711,E0,2014,2014-10-18,Southampton,Sunderland,8,0,H
+45712,E0,2014,2014-10-19,QPR,Liverpool,2,3,A
+45713,E0,2014,2014-10-19,Stoke,Swansea,2,1,H
+45714,E0,2014,2014-10-20,West Brom,Man United,2,2,D
+45715,E0,2014,2014-10-25,Liverpool,Hull,0,0,D
+45716,E0,2014,2014-10-25,Southampton,Stoke,1,0,H
+45717,E0,2014,2014-10-25,Sunderland,Arsenal,0,2,A
+45718,E0,2014,2014-10-25,Swansea,Leicester,2,0,H
+45719,E0,2014,2014-10-25,West Brom,Crystal Palace,2,2,D
+45720,E0,2014,2014-10-25,West Ham,Man City,2,1,H
+45721,E0,2014,2014-10-26,Burnley,Everton,1,3,A
+45722,E0,2014,2014-10-26,Man United,Chelsea,1,1,D
+45723,E0,2014,2014-10-26,Tottenham,Newcastle,1,2,A
+45724,E0,2014,2014-10-27,QPR,Aston Villa,2,0,H
+45725,E0,2014,2014-11-01,Arsenal,Burnley,3,0,H
+45726,E0,2014,2014-11-01,Chelsea,QPR,2,1,H
+45727,E0,2014,2014-11-01,Everton,Swansea,0,0,D
+45728,E0,2014,2014-11-01,Hull,Southampton,0,1,A
+45729,E0,2014,2014-11-01,Leicester,West Brom,0,1,A
+45730,E0,2014,2014-11-01,Newcastle,Liverpool,1,0,H
+45731,E0,2014,2014-11-01,Stoke,West Ham,2,2,D
+45732,E0,2014,2014-11-02,Aston Villa,Tottenham,1,2,A
+45733,E0,2014,2014-11-02,Man City,Man United,1,0,H
+45734,E0,2014,2014-11-03,Crystal Palace,Sunderland,1,3,A
+45735,E0,2014,2014-11-08,Burnley,Hull,1,0,H
+45736,E0,2014,2014-11-08,Liverpool,Chelsea,1,2,A
+45737,E0,2014,2014-11-08,Man United,Crystal Palace,1,0,H
+45738,E0,2014,2014-11-08,QPR,Man City,2,2,D
+45739,E0,2014,2014-11-08,Southampton,Leicester,2,0,H
+45740,E0,2014,2014-11-08,West Ham,Aston Villa,0,0,D
+45741,E0,2014,2014-11-09,Sunderland,Everton,1,1,D
+45742,E0,2014,2014-11-09,Swansea,Arsenal,2,1,H
+45743,E0,2014,2014-11-09,Tottenham,Stoke,1,2,A
+45744,E0,2014,2014-11-09,West Brom,Newcastle,0,2,A
+45745,E0,2014,2014-11-22,Arsenal,Man United,1,2,A
+45746,E0,2014,2014-11-22,Chelsea,West Brom,2,0,H
+45747,E0,2014,2014-11-22,Everton,West Ham,2,1,H
+45748,E0,2014,2014-11-22,Leicester,Sunderland,0,0,D
+45749,E0,2014,2014-11-22,Man City,Swansea,2,1,H
+45750,E0,2014,2014-11-22,Newcastle,QPR,1,0,H
+45751,E0,2014,2014-11-22,Stoke,Burnley,1,2,A
+45752,E0,2014,2014-11-23,Crystal Palace,Liverpool,3,1,H
+45753,E0,2014,2014-11-23,Hull,Tottenham,1,2,A
+45754,E0,2014,2014-11-24,Aston Villa,Southampton,1,1,D
+45755,E0,2014,2014-11-29,Burnley,Aston Villa,1,1,D
+45756,E0,2014,2014-11-29,Liverpool,Stoke,1,0,H
+45757,E0,2014,2014-11-29,Man United,Hull,3,0,H
+45758,E0,2014,2014-11-29,QPR,Leicester,3,2,H
+45759,E0,2014,2014-11-29,Sunderland,Chelsea,0,0,D
+45760,E0,2014,2014-11-29,Swansea,Crystal Palace,1,1,D
+45761,E0,2014,2014-11-29,West Brom,Arsenal,0,1,A
+45762,E0,2014,2014-11-29,West Ham,Newcastle,1,0,H
+45763,E0,2014,2014-11-30,Southampton,Man City,0,3,A
+45764,E0,2014,2014-11-30,Tottenham,Everton,2,1,H
+45765,E0,2014,2014-12-02,Burnley,Newcastle,1,1,D
+45766,E0,2014,2014-12-02,Crystal Palace,Aston Villa,0,1,A
+45767,E0,2014,2014-12-02,Leicester,Liverpool,1,3,A
+45768,E0,2014,2014-12-02,Man United,Stoke,2,1,H
+45769,E0,2014,2014-12-02,Swansea,QPR,2,0,H
+45770,E0,2014,2014-12-02,West Brom,West Ham,1,2,A
+45771,E0,2014,2014-12-03,Arsenal,Southampton,1,0,H
+45772,E0,2014,2014-12-03,Chelsea,Tottenham,3,0,H
+45773,E0,2014,2014-12-03,Everton,Hull,1,1,D
+45774,E0,2014,2014-12-03,Sunderland,Man City,1,4,A
+45775,E0,2014,2014-12-06,Hull,West Brom,0,0,D
+45776,E0,2014,2014-12-06,Liverpool,Sunderland,0,0,D
+45777,E0,2014,2014-12-06,Man City,Everton,1,0,H
+45778,E0,2014,2014-12-06,Newcastle,Chelsea,2,1,H
+45779,E0,2014,2014-12-06,QPR,Burnley,2,0,H
+45780,E0,2014,2014-12-06,Stoke,Arsenal,3,2,H
+45781,E0,2014,2014-12-06,Tottenham,Crystal Palace,0,0,D
+45782,E0,2014,2014-12-07,Aston Villa,Leicester,2,1,H
+45783,E0,2014,2014-12-07,West Ham,Swansea,3,1,H
+45784,E0,2014,2014-12-08,Southampton,Man United,1,2,A
+45785,E0,2014,2014-12-13,Arsenal,Newcastle,4,1,H
+45786,E0,2014,2014-12-13,Burnley,Southampton,1,0,H
+45787,E0,2014,2014-12-13,Chelsea,Hull,2,0,H
+45788,E0,2014,2014-12-13,Crystal Palace,Stoke,1,1,D
+45789,E0,2014,2014-12-13,Leicester,Man City,0,1,A
+45790,E0,2014,2014-12-13,Sunderland,West Ham,1,1,D
+45791,E0,2014,2014-12-13,West Brom,Aston Villa,1,0,H
+45792,E0,2014,2014-12-14,Man United,Liverpool,3,0,H
+45793,E0,2014,2014-12-14,Swansea,Tottenham,1,2,A
+45794,E0,2014,2014-12-15,Everton,QPR,3,1,H
+45795,E0,2014,2014-12-20,Aston Villa,Man United,1,1,D
+45796,E0,2014,2014-12-20,Hull,Swansea,0,1,A
+45797,E0,2014,2014-12-20,Man City,Crystal Palace,3,0,H
+45798,E0,2014,2014-12-20,QPR,West Brom,3,2,H
+45799,E0,2014,2014-12-20,Southampton,Everton,3,0,H
+45800,E0,2014,2014-12-20,Tottenham,Burnley,2,1,H
+45801,E0,2014,2014-12-20,West Ham,Leicester,2,0,H
+45802,E0,2014,2014-12-21,Liverpool,Arsenal,2,2,D
+45803,E0,2014,2014-12-21,Newcastle,Sunderland,0,1,A
+45804,E0,2014,2014-12-22,Stoke,Chelsea,0,2,A
+45805,E0,2014,2014-12-26,Arsenal,QPR,2,1,H
+45806,E0,2014,2014-12-26,Burnley,Liverpool,0,1,A
+45807,E0,2014,2014-12-26,Chelsea,West Ham,2,0,H
+45808,E0,2014,2014-12-26,Crystal Palace,Southampton,1,3,A
+45809,E0,2014,2014-12-26,Everton,Stoke,0,1,A
+45810,E0,2014,2014-12-26,Leicester,Tottenham,1,2,A
+45811,E0,2014,2014-12-26,Man United,Newcastle,3,1,H
+45812,E0,2014,2014-12-26,Sunderland,Hull,1,3,A
+45813,E0,2014,2014-12-26,Swansea,Aston Villa,1,0,H
+45814,E0,2014,2014-12-26,West Brom,Man City,1,3,A
+45815,E0,2014,2014-12-28,Aston Villa,Sunderland,0,0,D
+45816,E0,2014,2014-12-28,Hull,Leicester,0,1,A
+45817,E0,2014,2014-12-28,Man City,Burnley,2,2,D
+45818,E0,2014,2014-12-28,Newcastle,Everton,3,2,H
+45819,E0,2014,2014-12-28,QPR,Crystal Palace,0,0,D
+45820,E0,2014,2014-12-28,Southampton,Chelsea,1,1,D
+45821,E0,2014,2014-12-28,Stoke,West Brom,2,0,H
+45822,E0,2014,2014-12-28,Tottenham,Man United,0,0,D
+45823,E0,2014,2014-12-28,West Ham,Arsenal,1,2,A
+45824,E0,2014,2014-12-29,Liverpool,Swansea,4,1,H
+45825,E0,2014,2015-01-01,Aston Villa,Crystal Palace,0,0,D
+45826,E0,2014,2015-01-01,Hull,Everton,2,0,H
+45827,E0,2014,2015-01-01,Liverpool,Leicester,2,2,D
+45828,E0,2014,2015-01-01,Man City,Sunderland,3,2,H
+45829,E0,2014,2015-01-01,Newcastle,Burnley,3,3,D
+45830,E0,2014,2015-01-01,QPR,Swansea,1,1,D
+45831,E0,2014,2015-01-01,Southampton,Arsenal,2,0,H
+45832,E0,2014,2015-01-01,Stoke,Man United,1,1,D
+45833,E0,2014,2015-01-01,Tottenham,Chelsea,5,3,H
+45834,E0,2014,2015-01-01,West Ham,West Brom,1,1,D
+45835,E0,2014,2015-01-10,Burnley,QPR,2,1,H
+45836,E0,2014,2015-01-10,Chelsea,Newcastle,2,0,H
+45837,E0,2014,2015-01-10,Crystal Palace,Tottenham,2,1,H
+45838,E0,2014,2015-01-10,Everton,Man City,1,1,D
+45839,E0,2014,2015-01-10,Leicester,Aston Villa,1,0,H
+45840,E0,2014,2015-01-10,Sunderland,Liverpool,0,1,A
+45841,E0,2014,2015-01-10,Swansea,West Ham,1,1,D
+45842,E0,2014,2015-01-10,West Brom,Hull,1,0,H
+45843,E0,2014,2015-01-11,Arsenal,Stoke,3,0,H
+45844,E0,2014,2015-01-11,Man United,Southampton,0,1,A
+45845,E0,2014,2015-01-17,Aston Villa,Liverpool,0,2,A
+45846,E0,2014,2015-01-17,Burnley,Crystal Palace,2,3,A
+45847,E0,2014,2015-01-17,Leicester,Stoke,0,1,A
+45848,E0,2014,2015-01-17,Newcastle,Southampton,1,2,A
+45849,E0,2014,2015-01-17,QPR,Man United,0,2,A
+45850,E0,2014,2015-01-17,Swansea,Chelsea,0,5,A
+45851,E0,2014,2015-01-17,Tottenham,Sunderland,2,1,H
+45852,E0,2014,2015-01-18,Man City,Arsenal,0,2,A
+45853,E0,2014,2015-01-18,West Ham,Hull,3,0,H
+45854,E0,2014,2015-01-19,Everton,West Brom,0,0,D
+45855,E0,2014,2015-01-31,Chelsea,Man City,1,1,D
+45856,E0,2014,2015-01-31,Crystal Palace,Everton,0,1,A
+45857,E0,2014,2015-01-31,Hull,Newcastle,0,3,A
+45858,E0,2014,2015-01-31,Liverpool,West Ham,2,0,H
+45859,E0,2014,2015-01-31,Man United,Leicester,3,1,H
+45860,E0,2014,2015-01-31,Stoke,QPR,3,1,H
+45861,E0,2014,2015-01-31,Sunderland,Burnley,2,0,H
+45862,E0,2014,2015-01-31,West Brom,Tottenham,0,3,A
+45863,E0,2014,2015-02-01,Arsenal,Aston Villa,5,0,H
+45864,E0,2014,2015-02-01,Southampton,Swansea,0,1,A
+45865,E0,2014,2015-02-07,Aston Villa,Chelsea,1,2,A
+45866,E0,2014,2015-02-07,Everton,Liverpool,0,0,D
+45867,E0,2014,2015-02-07,Leicester,Crystal Palace,0,1,A
+45868,E0,2014,2015-02-07,Man City,Hull,1,1,D
+45869,E0,2014,2015-02-07,QPR,Southampton,0,1,A
+45870,E0,2014,2015-02-07,Swansea,Sunderland,1,1,D
+45871,E0,2014,2015-02-07,Tottenham,Arsenal,2,1,H
+45872,E0,2014,2015-02-08,Burnley,West Brom,2,2,D
+45873,E0,2014,2015-02-08,Newcastle,Stoke,1,1,D
+45874,E0,2014,2015-02-08,West Ham,Man United,1,1,D
+45875,E0,2014,2015-02-10,Arsenal,Leicester,2,1,H
+45876,E0,2014,2015-02-10,Hull,Aston Villa,2,0,H
+45877,E0,2014,2015-02-10,Liverpool,Tottenham,3,2,H
+45878,E0,2014,2015-02-10,Sunderland,QPR,0,2,A
+45879,E0,2014,2015-02-11,Chelsea,Everton,1,0,H
+45880,E0,2014,2015-02-11,Crystal Palace,Newcastle,1,1,D
+45881,E0,2014,2015-02-11,Man United,Burnley,3,1,H
+45882,E0,2014,2015-02-11,Southampton,West Ham,0,0,D
+45883,E0,2014,2015-02-11,Stoke,Man City,1,4,A
+45884,E0,2014,2015-02-11,West Brom,Swansea,2,0,H
+45885,E0,2014,2015-02-21,Aston Villa,Stoke,1,2,A
+45886,E0,2014,2015-02-21,Chelsea,Burnley,1,1,D
+45887,E0,2014,2015-02-21,Crystal Palace,Arsenal,1,2,A
+45888,E0,2014,2015-02-21,Hull,QPR,2,1,H
+45889,E0,2014,2015-02-21,Man City,Newcastle,5,0,H
+45890,E0,2014,2015-02-21,Sunderland,West Brom,0,0,D
+45891,E0,2014,2015-02-21,Swansea,Man United,2,1,H
+45892,E0,2014,2015-02-22,Everton,Leicester,2,2,D
+45893,E0,2014,2015-02-22,Southampton,Liverpool,0,2,A
+45894,E0,2014,2015-02-22,Tottenham,West Ham,2,2,D
+45895,E0,2014,2015-02-28,Burnley,Swansea,0,1,A
+45896,E0,2014,2015-02-28,Man United,Sunderland,2,0,H
+45897,E0,2014,2015-02-28,Newcastle,Aston Villa,1,0,H
+45898,E0,2014,2015-02-28,Stoke,Hull,1,0,H
+45899,E0,2014,2015-02-28,West Brom,Southampton,1,0,H
+45900,E0,2014,2015-02-28,West Ham,Crystal Palace,1,3,A
+45901,E0,2014,2015-03-01,Arsenal,Everton,2,0,H
+45902,E0,2014,2015-03-01,Liverpool,Man City,2,1,H
+45903,E0,2014,2015-03-03,Aston Villa,West Brom,2,1,H
+45904,E0,2014,2015-03-03,Hull,Sunderland,1,1,D
+45905,E0,2014,2015-03-03,Southampton,Crystal Palace,1,0,H
+45906,E0,2014,2015-03-04,Liverpool,Burnley,2,0,H
+45907,E0,2014,2015-03-04,Man City,Leicester,2,0,H
+45908,E0,2014,2015-03-04,Newcastle,Man United,0,1,A
+45909,E0,2014,2015-03-04,QPR,Arsenal,1,2,A
+45910,E0,2014,2015-03-04,Stoke,Everton,2,0,H
+45911,E0,2014,2015-03-04,Tottenham,Swansea,3,2,H
+45912,E0,2014,2015-03-04,West Ham,Chelsea,0,1,A
+45913,E0,2014,2015-03-07,QPR,Tottenham,1,2,A
+45914,E0,2014,2015-03-14,Arsenal,West Ham,3,0,H
+45915,E0,2014,2015-03-14,Burnley,Man City,1,0,H
+45916,E0,2014,2015-03-14,Crystal Palace,QPR,3,1,H
+45917,E0,2014,2015-03-14,Leicester,Hull,0,0,D
+45918,E0,2014,2015-03-14,Sunderland,Aston Villa,0,4,A
+45919,E0,2014,2015-03-14,West Brom,Stoke,1,0,H
+45920,E0,2014,2015-03-15,Chelsea,Southampton,1,1,D
+45921,E0,2014,2015-03-15,Everton,Newcastle,3,0,H
+45922,E0,2014,2015-03-15,Man United,Tottenham,3,0,H
+45923,E0,2014,2015-03-16,Swansea,Liverpool,0,1,A
+45924,E0,2014,2015-03-21,Aston Villa,Swansea,0,1,A
+45925,E0,2014,2015-03-21,Man City,West Brom,3,0,H
+45926,E0,2014,2015-03-21,Newcastle,Arsenal,1,2,A
+45927,E0,2014,2015-03-21,Southampton,Burnley,2,0,H
+45928,E0,2014,2015-03-21,Stoke,Crystal Palace,1,2,A
+45929,E0,2014,2015-03-21,Tottenham,Leicester,4,3,H
+45930,E0,2014,2015-03-21,West Ham,Sunderland,1,0,H
+45931,E0,2014,2015-03-22,Hull,Chelsea,2,3,A
+45932,E0,2014,2015-03-22,Liverpool,Man United,1,2,A
+45933,E0,2014,2015-03-22,QPR,Everton,1,2,A
+45934,E0,2014,2015-04-04,Arsenal,Liverpool,4,1,H
+45935,E0,2014,2015-04-04,Chelsea,Stoke,2,1,H
+45936,E0,2014,2015-04-04,Everton,Southampton,1,0,H
+45937,E0,2014,2015-04-04,Leicester,West Ham,2,1,H
+45938,E0,2014,2015-04-04,Man United,Aston Villa,3,1,H
+45939,E0,2014,2015-04-04,Swansea,Hull,3,1,H
+45940,E0,2014,2015-04-04,West Brom,QPR,1,4,A
+45941,E0,2014,2015-04-05,Burnley,Tottenham,0,0,D
+45942,E0,2014,2015-04-05,Sunderland,Newcastle,1,0,H
+45943,E0,2014,2015-04-06,Crystal Palace,Man City,2,1,H
+45944,E0,2014,2015-04-07,Aston Villa,QPR,3,3,D
+45945,E0,2014,2015-04-11,Burnley,Arsenal,0,1,A
+45946,E0,2014,2015-04-11,Southampton,Hull,2,0,H
+45947,E0,2014,2015-04-11,Sunderland,Crystal Palace,1,4,A
+45948,E0,2014,2015-04-11,Swansea,Everton,1,1,D
+45949,E0,2014,2015-04-11,Tottenham,Aston Villa,0,1,A
+45950,E0,2014,2015-04-11,West Brom,Leicester,2,3,A
+45951,E0,2014,2015-04-11,West Ham,Stoke,1,1,D
+45952,E0,2014,2015-04-12,Man United,Man City,4,2,H
+45953,E0,2014,2015-04-12,QPR,Chelsea,0,1,A
+45954,E0,2014,2015-04-13,Liverpool,Newcastle,2,0,H
+45955,E0,2014,2015-04-18,Chelsea,Man United,1,0,H
+45956,E0,2014,2015-04-18,Crystal Palace,West Brom,0,2,A
+45957,E0,2014,2015-04-18,Everton,Burnley,1,0,H
+45958,E0,2014,2015-04-18,Leicester,Swansea,2,0,H
+45959,E0,2014,2015-04-18,Stoke,Southampton,2,1,H
+45960,E0,2014,2015-04-19,Man City,West Ham,2,0,H
+45961,E0,2014,2015-04-19,Newcastle,Tottenham,1,3,A
+45962,E0,2014,2015-04-25,Burnley,Leicester,0,1,A
+45963,E0,2014,2015-04-25,Crystal Palace,Hull,0,2,A
+45964,E0,2014,2015-04-25,Man City,Aston Villa,3,2,H
+45965,E0,2014,2015-04-25,Newcastle,Swansea,2,3,A
+45966,E0,2014,2015-04-25,QPR,West Ham,0,0,D
+45967,E0,2014,2015-04-25,Southampton,Tottenham,2,2,D
+45968,E0,2014,2015-04-25,Stoke,Sunderland,1,1,D
+45969,E0,2014,2015-04-25,West Brom,Liverpool,0,0,D
+45970,E0,2014,2015-04-26,Arsenal,Chelsea,0,0,D
+45971,E0,2014,2015-04-26,Everton,Man United,3,0,H
+45972,E0,2014,2015-04-28,Hull,Liverpool,1,0,H
+45973,E0,2014,2015-04-29,Leicester,Chelsea,1,3,A
+45974,E0,2014,2015-05-02,Aston Villa,Everton,3,2,H
+45975,E0,2014,2015-05-02,Leicester,Newcastle,3,0,H
+45976,E0,2014,2015-05-02,Liverpool,QPR,2,1,H
+45977,E0,2014,2015-05-02,Man United,West Brom,0,1,A
+45978,E0,2014,2015-05-02,Sunderland,Southampton,2,1,H
+45979,E0,2014,2015-05-02,Swansea,Stoke,2,0,H
+45980,E0,2014,2015-05-02,West Ham,Burnley,1,0,H
+45981,E0,2014,2015-05-03,Chelsea,Crystal Palace,1,0,H
+45982,E0,2014,2015-05-03,Tottenham,Man City,0,1,A
+45983,E0,2014,2015-05-04,Hull,Arsenal,1,3,A
+45984,E0,2014,2015-05-09,Aston Villa,West Ham,1,0,H
+45985,E0,2014,2015-05-09,Crystal Palace,Man United,1,2,A
+45986,E0,2014,2015-05-09,Everton,Sunderland,0,2,A
+45987,E0,2014,2015-05-09,Hull,Burnley,0,1,A
+45988,E0,2014,2015-05-09,Leicester,Southampton,2,0,H
+45989,E0,2014,2015-05-09,Newcastle,West Brom,1,1,D
+45990,E0,2014,2015-05-09,Stoke,Tottenham,3,0,H
+45991,E0,2014,2015-05-10,Chelsea,Liverpool,1,1,D
+45992,E0,2014,2015-05-10,Man City,QPR,6,0,H
+45993,E0,2014,2015-05-11,Arsenal,Swansea,0,1,A
+45994,E0,2014,2015-05-16,Burnley,Stoke,0,0,D
+45995,E0,2014,2015-05-16,Liverpool,Crystal Palace,1,3,A
+45996,E0,2014,2015-05-16,QPR,Newcastle,2,1,H
+45997,E0,2014,2015-05-16,Southampton,Aston Villa,6,1,H
+45998,E0,2014,2015-05-16,Sunderland,Leicester,0,0,D
+45999,E0,2014,2015-05-16,Tottenham,Hull,2,0,H
+46000,E0,2014,2015-05-16,West Ham,Everton,1,2,A
+46001,E0,2014,2015-05-17,Man United,Arsenal,1,1,D
+46002,E0,2014,2015-05-17,Swansea,Man City,2,4,A
+46003,E0,2014,2015-05-18,West Brom,Chelsea,3,0,H
+46004,E0,2014,2015-05-20,Arsenal,Sunderland,0,0,D
+46005,E0,2014,2015-05-24,Arsenal,West Brom,4,1,H
+46006,E0,2014,2015-05-24,Aston Villa,Burnley,0,1,A
+46007,E0,2014,2015-05-24,Chelsea,Sunderland,3,1,H
+46008,E0,2014,2015-05-24,Crystal Palace,Swansea,1,0,H
+46009,E0,2014,2015-05-24,Everton,Tottenham,0,1,A
+46010,E0,2014,2015-05-24,Hull,Man United,0,0,D
+46011,E0,2014,2015-05-24,Leicester,QPR,5,1,H
+46012,E0,2014,2015-05-24,Man City,Southampton,2,0,H
+46013,E0,2014,2015-05-24,Newcastle,West Ham,2,0,H
+46014,E0,2014,2015-05-24,Stoke,Liverpool,6,1,H

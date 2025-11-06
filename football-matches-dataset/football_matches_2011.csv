@@ -1,0 +1,993 @@
+Match_ID,Div,Season,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+1092,D1,2011,2012-03-31,Nurnberg,Bayern Munich,0,1,A
+1093,D1,2011,2011-12-11,Stuttgart,Bayern Munich,1,2,A
+1094,D1,2011,2011-08-13,Wolfsburg,Bayern Munich,0,1,A
+1095,D1,2011,2011-11-27,Mainz,Bayern Munich,3,2,H
+1096,D1,2011,2012-02-18,Freiburg,Bayern Munich,0,0,D
+1097,D1,2011,2012-01-20,M'gladbach,Bayern Munich,3,1,H
+1098,D1,2011,2012-02-04,Hamburg,Bayern Munich,1,1,D
+1099,D1,2011,2012-04-21,Werder Bremen,Bayern Munich,1,2,A
+1100,D1,2011,2011-09-18,Schalke 04,Bayern Munich,0,2,A
+1101,D1,2011,2011-10-23,Hannover,Bayern Munich,2,1,H
+1102,D1,2011,2011-10-01,Hoffenheim,Bayern Munich,0,0,D
+1103,D1,2011,2012-03-03,Leverkusen,Bayern Munich,2,0,H
+1104,D1,2011,2011-08-27,Kaiserslautern,Bayern Munich,0,3,A
+1105,D1,2011,2012-03-17,Hertha,Bayern Munich,0,6,A
+1106,D1,2011,2011-11-06,Augsburg,Bayern Munich,1,2,A
+1107,D1,2011,2012-05-05,FC Koln,Bayern Munich,1,4,A
+1108,D1,2011,2012-04-11,Dortmund,Bayern Munich,1,0,H
+1109,D1,2011,2011-08-27,Leverkusen,Dortmund,0,0,D
+1110,D1,2011,2011-12-17,Freiburg,Dortmund,1,4,A
+1111,D1,2011,2012-02-18,Hertha,Dortmund,0,1,A
+1112,D1,2011,2012-02-03,Nurnberg,Dortmund,0,2,A
+1113,D1,2011,2011-08-13,Hoffenheim,Dortmund,1,0,H
+1114,D1,2011,2011-10-29,Stuttgart,Dortmund,1,1,D
+1115,D1,2011,2012-01-22,Hamburg,Dortmund,1,5,A
+1116,D1,2011,2011-12-03,M'gladbach,Dortmund,1,1,D
+1117,D1,2011,2012-04-14,Schalke 04,Dortmund,1,2,A
+1118,D1,2011,2011-09-18,Hannover,Dortmund,2,1,H
+1119,D1,2011,2012-03-25,FC Koln,Dortmund,1,6,A
+1120,D1,2011,2012-03-10,Augsburg,Dortmund,0,0,D
+1121,D1,2011,2012-04-07,Wolfsburg,Dortmund,1,3,A
+1122,D1,2011,2011-11-19,Bayern Munich,Dortmund,0,1,A
+1123,D1,2011,2011-10-14,Werder Bremen,Dortmund,0,2,A
+1124,D1,2011,2011-09-24,Mainz,Dortmund,1,2,A
+1125,D1,2011,2012-04-28,Kaiserslautern,Dortmund,2,5,A
+1126,D2,2011,2011-12-18,Hansa Rostock,Dresden,2,2,D
+1127,D2,2011,2012-03-02,Bochum,Dresden,0,2,A
+1128,D2,2011,2012-03-16,Ein Frankfurt,Dresden,3,0,H
+1129,D2,2011,2012-02-17,Paderborn,Dresden,2,2,D
+1130,D2,2011,2011-08-06,Greuther Furth,Dresden,1,0,H
+1131,D2,2011,2011-11-04,Fortuna Dusseldorf,Dresden,2,1,H
+1132,D2,2011,2011-09-16,Ingolstadt,Dresden,4,2,H
+1133,D2,2011,2011-07-15,Cottbus,Dresden,2,1,H
+1134,D2,2011,2011-11-27,St Pauli,Dresden,3,1,H
+1135,D2,2011,2012-05-06,Frankfurt FSV,Dresden,1,1,D
+1136,D2,2011,2012-02-11,Union Berlin,Dresden,4,0,H
+1137,D2,2011,2011-10-02,Munich 1860,Dresden,2,4,A
+1138,D2,2011,2012-03-30,Aachen,Dresden,0,1,A
+1139,D2,2011,2012-04-11,Karlsruhe,Dresden,2,0,H
+1140,D2,2011,2011-10-22,Braunschweig,Dresden,0,2,A
+1141,D2,2011,2012-04-21,Erzgebirge Aue,Dresden,1,1,D
+1142,D2,2011,2011-08-26,Duisburg,Dresden,3,0,H
+1143,D2,2011,2011-08-07,Frankfurt FSV,Duisburg,0,0,D
+1144,D2,2011,2012-02-24,Dresden,Duisburg,2,0,H
+1145,D2,2011,2011-12-18,Cottbus,Duisburg,1,1,D
+1146,D2,2011,2011-07-17,Karlsruhe,Duisburg,3,2,H
+1147,D2,2011,2012-04-11,Munich 1860,Duisburg,2,1,H
+1148,D2,2011,2011-11-06,Aachen,Duisburg,2,2,D
+1149,D2,2011,2012-02-12,Hansa Rostock,Duisburg,4,2,H
+1150,D2,2011,2011-08-22,St Pauli,Duisburg,2,1,H
+1151,D2,2011,2011-10-23,Ein Frankfurt,Duisburg,3,0,H
+1152,D2,2011,2011-09-09,Greuther Furth,Duisburg,2,1,H
+1153,D2,2011,2012-04-01,Ingolstadt,Duisburg,1,1,D
+1154,D2,2011,2011-09-25,Bochum,Duisburg,2,1,H
+1155,D2,2011,2012-04-20,Braunschweig,Duisburg,0,0,D
+1156,D2,2011,2011-11-25,Erzgebirge Aue,Duisburg,1,2,A
+1157,D2,2011,2012-03-25,Paderborn,Duisburg,1,2,A
+1158,D2,2011,2012-05-06,Fortuna Dusseldorf,Duisburg,2,2,D
+1159,D2,2011,2012-03-09,Union Berlin,Duisburg,1,1,D
+1160,D2,2011,2011-11-07,Erzgebirge Aue,Ein Frankfurt,1,2,A
+1161,D2,2011,2011-09-10,Cottbus,Ein Frankfurt,3,3,D
+1162,D2,2011,2011-10-14,Bochum,Ein Frankfurt,0,2,A
+1163,D2,2011,2011-08-21,Frankfurt FSV,Ein Frankfurt,0,4,A
+1164,D2,2011,2011-09-26,Dresden,Ein Frankfurt,1,4,A
+1165,D2,2011,2012-04-07,Duisburg,Ein Frankfurt,2,0,H
+1166,D2,2011,2012-03-26,Union Berlin,Ein Frankfurt,0,4,A
+1167,D2,2011,2011-07-15,Greuther Furth,Ein Frankfurt,2,3,A
+1168,D2,2011,2012-05-06,Karlsruhe,Ein Frankfurt,1,0,H
+1169,D2,2011,2011-10-30,Ingolstadt,Ein Frankfurt,1,1,D
+1170,D2,2011,2012-02-13,Fortuna Dusseldorf,Ein Frankfurt,1,1,D
+1171,D2,2011,2011-08-07,Braunschweig,Ein Frankfurt,0,3,A
+1172,D2,2011,2012-02-26,Paderborn,Ein Frankfurt,4,2,H
+1173,D2,2011,2011-12-19,St Pauli,Ein Frankfurt,2,0,H
+1174,D2,2011,2012-03-11,Hansa Rostock,Ein Frankfurt,1,5,A
+1175,D2,2011,2011-11-26,Munich 1860,Ein Frankfurt,2,1,H
+1176,D2,2011,2012-04-23,Aachen,Ein Frankfurt,0,3,A
+1177,D1,2011,2011-12-03,Stuttgart,FC Koln,2,2,D
+1178,D1,2011,2011-12-16,Bayern Munich,FC Koln,3,0,H
+1179,D1,2011,2011-10-22,Dortmund,FC Koln,5,0,H
+1180,D1,2011,2011-08-13,Schalke 04,FC Koln,5,1,H
+1181,D1,2011,2011-11-05,Werder Bremen,FC Koln,3,2,H
+1182,D1,2011,2012-04-28,Freiburg,FC Koln,4,1,H
+1183,D1,2011,2012-04-10,Mainz,FC Koln,4,0,H
+1184,D1,2011,2012-04-15,M'gladbach,FC Koln,3,0,H
+1185,D1,2011,2012-02-18,Nurnberg,FC Koln,2,1,H
+1186,D1,2011,2012-02-05,Kaiserslautern,FC Koln,0,1,A
+1187,D1,2011,2012-03-04,Hoffenheim,FC Koln,1,1,D
+1188,D1,2011,2011-09-17,Leverkusen,FC Koln,1,4,A
+1189,D1,2011,2012-03-31,Augsburg,FC Koln,2,1,H
+1190,D1,2011,2011-10-01,Hertha,FC Koln,3,0,H
+1191,D1,2011,2011-08-27,Hamburg,FC Koln,3,4,A
+1192,D1,2011,2012-01-21,Wolfsburg,FC Koln,1,0,H
+1193,D1,2011,2012-03-18,Hannover,FC Koln,4,1,H
+1194,D1,2011,2011-08-06,Augsburg,Freiburg,2,2,D
+1195,D1,2011,2011-09-24,Schalke 04,Freiburg,4,2,H
+1196,D1,2011,2012-03-10,M'gladbach,Freiburg,0,0,D
+1197,D1,2011,2011-09-10,Bayern Munich,Freiburg,7,0,H
+1198,D1,2011,2012-04-22,Hannover,Freiburg,0,0,D
+1199,D1,2011,2011-08-20,Werder Bremen,Freiburg,5,3,H
+1200,D1,2011,2012-03-17,Hamburg,Freiburg,1,3,A
+1201,D1,2011,2012-02-10,Wolfsburg,Freiburg,3,2,H
+1202,D1,2011,2011-10-22,Kaiserslautern,Freiburg,1,0,H
+1203,D1,2011,2011-11-26,Hoffenheim,Freiburg,1,1,D
+1204,D1,2011,2012-02-25,Stuttgart,Freiburg,4,1,H
+1205,D1,2011,2011-12-10,FC Koln,Freiburg,4,0,H
+1206,D1,2011,2012-03-31,Leverkusen,Freiburg,0,2,A
+1207,D1,2011,2012-05-05,Dortmund,Freiburg,4,0,H
+1208,D1,2011,2012-04-10,Hertha,Freiburg,1,2,A
+1209,D1,2011,2012-01-29,Mainz,Freiburg,3,1,H
+1210,D1,2011,2011-11-05,Nurnberg,Freiburg,1,2,A
+1211,D1,2011,2011-08-20,Bayern Munich,Hamburg,5,0,H
+1212,D1,2011,2012-04-11,Hoffenheim,Hamburg,4,0,H
+1213,D1,2011,2011-12-10,Mainz,Hamburg,0,0,D
+1214,D1,2011,2011-10-16,Freiburg,Hamburg,1,2,A
+1215,D1,2011,2012-03-31,Kaiserslautern,Hamburg,0,1,A
+1216,D1,2011,2012-03-11,Schalke 04,Hamburg,3,1,H
+1217,D1,2011,2012-04-21,Nurnberg,Hamburg,1,1,D
+1218,D1,2011,2011-09-10,Werder Bremen,Hamburg,2,0,H
+1219,D1,2011,2011-08-05,Dortmund,Hamburg,3,1,H
+1220,D1,2011,2012-03-23,Wolfsburg,Hamburg,2,1,H
+1221,D1,2011,2012-02-12,FC Koln,Hamburg,0,1,A
+1222,D1,2011,2011-11-26,Hannover,Hamburg,1,1,D
+1223,D1,2011,2012-05-05,Augsburg,Hamburg,1,0,H
+1224,D1,2011,2011-09-23,Stuttgart,Hamburg,1,2,A
+1225,D1,2011,2012-02-24,M'gladbach,Hamburg,1,1,D
+1226,D1,2011,2011-11-05,Leverkusen,Hamburg,2,2,D
+1227,D1,2011,2012-01-28,Hertha,Hamburg,1,2,A
+1228,D1,2011,2012-01-28,Augsburg,Kaiserslautern,2,2,D
+1229,D1,2011,2012-05-05,Hannover,Kaiserslautern,2,1,H
+1230,D1,2011,2012-02-25,Mainz,Kaiserslautern,4,0,H
+1231,D1,2011,2011-10-30,Hamburg,Kaiserslautern,1,1,D
+1232,D1,2011,2011-10-15,Schalke 04,Kaiserslautern,1,2,A
+1233,D1,2011,2011-12-11,Dortmund,Kaiserslautern,1,1,D
+1234,D1,2011,2012-04-11,Leverkusen,Kaiserslautern,3,1,H
+1235,D1,2011,2012-02-11,Bayern Munich,Kaiserslautern,2,0,H
+1236,D1,2011,2011-09-10,M'gladbach,Kaiserslautern,1,0,H
+1237,D1,2011,2011-08-06,Werder Bremen,Kaiserslautern,2,0,H
+1238,D1,2011,2011-11-05,Hoffenheim,Kaiserslautern,1,1,D
+1239,D1,2011,2011-08-20,FC Koln,Kaiserslautern,1,1,D
+1240,D1,2011,2011-11-26,Nurnberg,Kaiserslautern,1,0,H
+1241,D1,2011,2012-03-09,Stuttgart,Kaiserslautern,0,0,D
+1242,D1,2011,2011-09-24,Wolfsburg,Kaiserslautern,1,0,H
+1243,D1,2011,2012-03-24,Freiburg,Kaiserslautern,2,0,H
+1244,D1,2011,2012-04-21,Hertha,Kaiserslautern,1,2,A
+1245,D2,2011,2011-10-15,Union Berlin,Karlsruhe,2,0,H
+1246,D2,2011,2011-11-18,Paderborn,Karlsruhe,2,1,H
+1247,D2,2011,2012-04-29,Aachen,Karlsruhe,1,0,H
+1248,D2,2011,2011-09-25,Hansa Rostock,Karlsruhe,1,1,D
+1249,D2,2011,2011-12-09,Duisburg,Karlsruhe,3,1,H
+1250,D2,2011,2011-12-03,Ein Frankfurt,Karlsruhe,2,0,H
+1251,D2,2011,2012-04-15,Ingolstadt,Karlsruhe,2,1,H
+1252,D2,2011,2012-04-08,Bochum,Karlsruhe,0,0,D
+1253,D2,2011,2012-02-11,Braunschweig,Karlsruhe,0,0,D
+1254,D2,2011,2011-10-29,Dresden,Karlsruhe,5,1,H
+1255,D2,2011,2011-09-10,Fortuna Dusseldorf,Karlsruhe,4,2,H
+1256,D2,2011,2012-03-12,St Pauli,Karlsruhe,1,0,H
+1257,D2,2011,2011-08-21,Cottbus,Karlsruhe,2,0,H
+1258,D2,2011,2012-02-26,Frankfurt FSV,Karlsruhe,2,1,H
+1259,D2,2011,2012-03-24,Greuther Furth,Karlsruhe,3,0,H
+1260,D2,2011,2011-08-07,Erzgebirge Aue,Karlsruhe,0,2,A
+1261,D2,2011,2011-07-23,Munich 1860,Karlsruhe,2,1,H
+1262,D1,2011,2011-09-24,Bayern Munich,Leverkusen,3,0,H
+1263,D1,2011,2011-11-26,Hertha,Leverkusen,3,3,D
+1264,D1,2011,2012-03-24,Schalke 04,Leverkusen,2,0,H
+1265,D1,2011,2011-11-18,Kaiserslautern,Leverkusen,0,2,A
+1266,D1,2011,2012-04-21,Hoffenheim,Leverkusen,0,1,A
+1267,D1,2011,2012-04-08,Hamburg,Leverkusen,1,1,D
+1268,D1,2011,2012-02-11,Dortmund,Leverkusen,1,0,H
+1269,D1,2011,2012-02-25,FC Koln,Leverkusen,0,2,A
+1270,D1,2011,2012-05-05,Nurnberg,Leverkusen,1,4,A
+1271,D1,2011,2012-03-10,Wolfsburg,Leverkusen,3,2,H
+1272,D1,2011,2012-01-28,Werder Bremen,Leverkusen,1,1,D
+1273,D1,2011,2011-09-09,Augsburg,Leverkusen,1,4,A
+1274,D1,2011,2011-10-15,M'gladbach,Leverkusen,2,2,D
+1275,D1,2011,2011-12-10,Hannover,Leverkusen,0,0,D
+1276,D1,2011,2011-08-07,Mainz,Leverkusen,2,0,H
+1277,D1,2011,2011-10-28,Freiburg,Leverkusen,0,1,A
+1278,D1,2011,2011-08-20,Stuttgart,Leverkusen,0,1,A
+1279,D1,2011,2012-04-14,Kaiserslautern,Nurnberg,0,2,A
+1280,D1,2011,2012-01-27,Hannover,Nurnberg,1,0,H
+1281,D1,2011,2012-03-10,Mainz,Nurnberg,2,1,H
+1282,D1,2011,2012-02-25,Werder Bremen,Nurnberg,0,1,A
+1283,D1,2011,2012-04-28,Hoffenheim,Nurnberg,2,3,A
+1284,D1,2011,2011-12-17,Leverkusen,Nurnberg,0,3,A
+1285,D1,2011,2011-10-15,Wolfsburg,Nurnberg,2,1,H
+1286,D1,2011,2012-02-12,Augsburg,Nurnberg,0,0,D
+1287,D1,2011,2012-03-25,Stuttgart,Nurnberg,1,0,H
+1288,D1,2011,2011-12-04,Hamburg,Nurnberg,2,0,H
+1289,D1,2011,2011-11-19,Schalke 04,Nurnberg,4,0,H
+1290,D1,2011,2011-09-11,FC Koln,Nurnberg,1,2,A
+1291,D1,2011,2012-04-07,Freiburg,Nurnberg,2,2,D
+1292,D1,2011,2011-08-06,Hertha,Nurnberg,0,1,A
+1293,D1,2011,2011-10-29,Bayern Munich,Nurnberg,4,0,H
+1294,D1,2011,2011-09-24,M'gladbach,Nurnberg,1,0,H
+1295,D1,2011,2011-08-20,Dortmund,Nurnberg,2,0,H
+1296,D1,2011,2012-04-01,Hoffenheim,Schalke 04,1,1,D
+1297,D1,2011,2012-04-11,Nurnberg,Schalke 04,4,1,H
+1298,D1,2011,2011-09-11,Wolfsburg,Schalke 04,2,1,H
+1299,D1,2011,2012-01-28,FC Koln,Schalke 04,1,4,A
+1300,D1,2011,2011-11-06,Hannover,Schalke 04,2,2,D
+1301,D1,2011,2012-05-05,Werder Bremen,Schalke 04,2,3,A
+1302,D1,2011,2012-03-03,Freiburg,Schalke 04,2,1,H
+1303,D1,2011,2011-12-09,Hertha,Schalke 04,1,2,A
+1304,D1,2011,2011-11-26,Dortmund,Schalke 04,2,0,H
+1305,D1,2011,2011-10-23,Leverkusen,Schalke 04,0,1,A
+1306,D1,2011,2012-03-18,Kaiserslautern,Schalke 04,1,4,A
+1307,D1,2011,2012-04-22,Augsburg,Schalke 04,1,1,D
+1308,D1,2011,2012-02-11,M'gladbach,Schalke 04,3,0,H
+1309,D1,2011,2011-10-02,Hamburg,Schalke 04,1,2,A
+1310,D1,2011,2012-02-26,Bayern Munich,Schalke 04,2,0,H
+1311,D1,2011,2011-08-06,Stuttgart,Schalke 04,3,0,H
+1312,D1,2011,2011-08-21,Mainz,Schalke 04,2,4,A
+1313,D1,2011,2011-12-17,Wolfsburg,Stuttgart,1,0,H
+1314,D1,2011,2011-11-04,Mainz,Stuttgart,3,1,H
+1315,D1,2011,2012-01-21,Schalke 04,Stuttgart,3,1,H
+1316,D1,2011,2011-08-26,Hertha,Stuttgart,1,0,H
+1317,D1,2011,2012-03-30,Dortmund,Stuttgart,4,4,D
+1318,D1,2011,2012-02-04,Leverkusen,Stuttgart,2,2,D
+1319,D1,2011,2011-09-30,Kaiserslautern,Stuttgart,0,2,A
+1320,D1,2011,2011-10-22,Nurnberg,Stuttgart,2,2,D
+1321,D1,2011,2012-03-16,Hoffenheim,Stuttgart,1,2,A
+1322,D1,2011,2012-04-10,Augsburg,Stuttgart,1,3,A
+1323,D1,2011,2012-03-03,Hamburg,Stuttgart,0,4,A
+1324,D1,2011,2012-04-28,Bayern Munich,Stuttgart,2,0,H
+1325,D1,2011,2011-08-13,M'gladbach,Stuttgart,1,1,D
+1326,D1,2011,2012-02-19,Hannover,Stuttgart,4,2,H
+1327,D1,2011,2011-09-16,Freiburg,Stuttgart,1,2,A
+1328,D1,2011,2012-04-21,FC Koln,Stuttgart,1,1,D
+1329,D1,2011,2011-11-27,Werder Bremen,Stuttgart,2,0,H
+1330,D1,2011,2011-11-19,M'gladbach,Werder Bremen,5,0,H
+1331,D1,2011,2011-10-02,Hannover,Werder Bremen,3,2,H
+1332,D1,2011,2012-04-07,FC Koln,Werder Bremen,1,1,D
+1333,D1,2011,2012-03-17,Dortmund,Werder Bremen,1,0,H
+1334,D1,2011,2012-04-13,Stuttgart,Werder Bremen,4,1,H
+1335,D1,2011,2011-12-03,Bayern Munich,Werder Bremen,4,1,H
+1336,D1,2011,2012-03-03,Hertha,Werder Bremen,1,0,H
+1337,D1,2011,2012-01-21,Kaiserslautern,Werder Bremen,0,0,D
+1338,D1,2011,2012-04-28,Wolfsburg,Werder Bremen,3,1,H
+1339,D1,2011,2012-02-05,Freiburg,Werder Bremen,2,2,D
+1340,D1,2011,2011-09-17,Nurnberg,Werder Bremen,1,1,D
+1341,D1,2011,2012-02-18,Hamburg,Werder Bremen,1,3,A
+1342,D1,2011,2011-10-21,Augsburg,Werder Bremen,1,1,D
+1343,D1,2011,2011-08-14,Leverkusen,Werder Bremen,1,0,H
+1344,D1,2011,2011-10-29,Mainz,Werder Bremen,1,3,A
+1345,D1,2011,2011-08-27,Hoffenheim,Werder Bremen,1,2,A
+1346,D1,2011,2011-12-17,Schalke 04,Werder Bremen,5,0,H
+1347,D2,2011,2011-11-27,Braunschweig,Bochum,4,0,H
+1348,D2,2011,2012-04-11,Aachen,Bochum,2,0,H
+1349,D2,2011,2011-09-12,Dresden,Bochum,2,1,H
+1350,D2,2011,2012-03-30,Ein Frankfurt,Bochum,3,0,H
+1351,D2,2011,2011-12-17,Frankfurt FSV,Bochum,0,2,A
+1352,D2,2011,2011-10-21,Karlsruhe,Bochum,0,0,D
+1353,D2,2011,2012-02-12,St Pauli,Bochum,2,1,H
+1354,D2,2011,2011-08-20,Union Berlin,Bochum,2,1,H
+1355,D2,2011,2012-03-09,Paderborn,Bochum,0,0,D
+1356,D2,2011,2012-05-06,Erzgebirge Aue,Bochum,2,1,H
+1357,D2,2011,2011-11-05,Munich 1860,Bochum,1,3,A
+1358,D2,2011,2012-03-18,Duisburg,Bochum,2,1,H
+1359,D2,2011,2012-04-20,Cottbus,Bochum,1,1,D
+1360,D2,2011,2011-07-18,Fortuna Dusseldorf,Bochum,2,0,H
+1361,D2,2011,2012-02-25,Greuther Furth,Bochum,6,2,H
+1362,D2,2011,2011-08-08,Hansa Rostock,Bochum,0,0,D
+1363,D2,2011,2011-10-01,Ingolstadt,Bochum,3,5,A
+1364,D1,2011,2012-03-24,Bayern Munich,Hannover,2,1,H
+1365,D1,2011,2011-11-19,Wolfsburg,Hannover,4,1,H
+1366,D1,2011,2012-04-14,Hamburg,Hannover,1,0,H
+1367,D1,2011,2011-10-16,FC Koln,Hannover,2,0,H
+1368,D1,2011,2011-09-24,Augsburg,Hannover,0,0,D
+1369,D1,2011,2012-04-08,Schalke 04,Hannover,3,0,H
+1370,D1,2011,2011-12-18,Kaiserslautern,Hannover,1,1,D
+1371,D1,2011,2011-08-13,Nurnberg,Hannover,1,2,A
+1372,D1,2011,2012-04-28,Leverkusen,Hannover,1,0,H
+1373,D1,2011,2012-02-26,Dortmund,Hannover,3,1,H
+1374,D1,2011,2012-02-11,Mainz,Hannover,1,1,D
+1375,D1,2011,2012-01-21,Hoffenheim,Hannover,0,0,D
+1376,D1,2011,2012-03-11,Werder Bremen,Hannover,3,0,H
+1377,D1,2011,2012-02-04,Hertha,Hannover,0,1,A
+1378,D1,2011,2011-10-29,M'gladbach,Hannover,2,1,H
+1379,D1,2011,2011-09-10,Stuttgart,Hannover,3,0,H
+1380,D1,2011,2011-12-03,Freiburg,Hannover,1,1,D
+1381,D2,2011,2011-10-21,Fortuna Dusseldorf,Hansa Rostock,2,0,H
+1382,D2,2011,2011-09-30,Erzgebirge Aue,Hansa Rostock,1,0,H
+1383,D2,2011,2012-03-18,Karlsruhe,Hansa Rostock,2,2,D
+1384,D2,2011,2012-02-05,Bochum,Hansa Rostock,2,1,H
+1385,D2,2011,2011-08-14,Duisburg,Hansa Rostock,0,0,D
+1386,D2,2011,2012-02-19,Aachen,Hansa Rostock,0,0,D
+1387,D2,2011,2011-12-09,Paderborn,Hansa Rostock,2,0,H
+1388,D2,2011,2012-03-04,Braunschweig,Hansa Rostock,3,2,H
+1389,D2,2011,2012-04-29,Union Berlin,Hansa Rostock,5,4,H
+1390,D2,2011,2011-07-24,Dresden,Hansa Rostock,1,1,D
+1391,D2,2011,2011-11-06,Frankfurt FSV,Hansa Rostock,0,0,D
+1392,D2,2011,2012-04-10,Cottbus,Hansa Rostock,0,1,A
+1393,D2,2011,2011-09-16,Ein Frankfurt,Hansa Rostock,4,1,H
+1394,D2,2011,2011-08-26,Ingolstadt,Hansa Rostock,3,1,H
+1395,D2,2011,2011-12-03,Greuther Furth,Hansa Rostock,3,0,H
+1396,D2,2011,2012-03-31,Munich 1860,Hansa Rostock,0,1,A
+1397,D2,2011,2012-04-22,St Pauli,Hansa Rostock,3,0,H
+1398,D1,2011,2011-09-25,Werder Bremen,Hertha,2,1,H
+1399,D1,2011,2012-01-21,Nurnberg,Hertha,2,0,H
+1400,D1,2011,2011-11-19,Freiburg,Hertha,2,2,D
+1401,D1,2011,2011-10-15,Bayern Munich,Hertha,4,0,H
+1402,D1,2011,2012-04-07,M'gladbach,Hertha,0,0,D
+1403,D1,2011,2011-10-29,Wolfsburg,Hertha,2,3,A
+1404,D1,2011,2011-08-21,Hannover,Hertha,1,1,D
+1405,D1,2011,2011-08-13,Hamburg,Hertha,2,2,D
+1406,D1,2011,2012-02-11,Stuttgart,Hertha,5,0,H
+1407,D1,2011,2011-09-10,Dortmund,Hertha,1,2,A
+1408,D1,2011,2012-02-25,Augsburg,Hertha,3,0,H
+1409,D1,2011,2012-04-28,Schalke 04,Hertha,4,0,H
+1410,D1,2011,2012-04-14,Leverkusen,Hertha,3,3,D
+1411,D1,2011,2011-12-03,Kaiserslautern,Hertha,1,1,D
+1412,D1,2011,2012-03-24,Mainz,Hertha,1,3,A
+1413,D1,2011,2012-03-10,FC Koln,Hertha,1,0,H
+1414,D1,2011,2011-12-17,Hoffenheim,Hertha,1,1,D
+1415,D1,2011,2012-03-17,Augsburg,Mainz,2,1,H
+1416,D1,2011,2011-10-01,Nurnberg,Mainz,3,3,D
+1417,D1,2011,2011-08-13,Freiburg,Mainz,1,2,A
+1418,D1,2011,2012-04-28,Hamburg,Mainz,0,0,D
+1419,D1,2011,2012-02-17,Hoffenheim,Mainz,1,1,D
+1420,D1,2011,2012-03-31,Werder Bremen,Mainz,0,3,A
+1421,D1,2011,2011-12-18,M'gladbach,Mainz,1,0,H
+1422,D1,2011,2012-01-22,Leverkusen,Mainz,3,2,H
+1423,D1,2011,2012-04-07,Stuttgart,Mainz,4,1,H
+1424,D1,2011,2011-12-13,FC Koln,Mainz,1,1,D
+1425,D1,2011,2012-03-03,Dortmund,Mainz,2,1,H
+1426,D1,2011,2011-10-22,Hertha,Mainz,0,0,D
+1427,D1,2011,2011-08-28,Hannover,Mainz,1,1,D
+1428,D1,2011,2012-04-14,Bayern Munich,Mainz,0,0,D
+1429,D1,2011,2011-12-03,Wolfsburg,Mainz,2,2,D
+1430,D1,2011,2011-09-17,Kaiserslautern,Mainz,3,1,H
+1431,D1,2011,2012-02-04,Schalke 04,Mainz,1,1,D
+1432,D2,2011,2012-04-29,Ein Frankfurt,Munich 1860,0,2,A
+1433,D2,2011,2011-08-06,Cottbus,Munich 1860,0,5,A
+1434,D2,2011,2012-04-15,Bochum,Munich 1860,2,2,D
+1435,D2,2011,2012-03-23,Dresden,Munich 1860,0,1,A
+1436,D2,2011,2011-10-14,Hansa Rostock,Munich 1860,2,0,H
+1437,D2,2011,2011-09-25,Greuther Furth,Munich 1860,2,0,H
+1438,D2,2011,2011-10-30,Duisburg,Munich 1860,0,3,A
+1439,D2,2011,2011-08-19,Fortuna Dusseldorf,Munich 1860,3,1,H
+1440,D2,2011,2012-03-14,Erzgebirge Aue,Munich 1860,0,0,D
+1441,D2,2011,2011-12-17,Karlsruhe,Munich 1860,1,3,A
+1442,D2,2011,2011-07-17,Braunschweig,Munich 1860,3,1,H
+1443,D2,2011,2012-03-10,Frankfurt FSV,Munich 1860,3,1,H
+1444,D2,2011,2012-04-08,Paderborn,Munich 1860,2,2,D
+1445,D2,2011,2012-02-24,Union Berlin,Munich 1860,0,1,A
+1446,D2,2011,2011-12-04,Aachen,Munich 1860,2,2,D
+1447,D2,2011,2011-11-18,Ingolstadt,Munich 1860,0,1,A
+1448,D2,2011,2011-09-11,St Pauli,Munich 1860,4,2,H
+1449,D2,2011,2011-08-12,Bochum,St Pauli,1,2,A
+1450,D2,2011,2012-04-13,Greuther Furth,St Pauli,2,1,H
+1451,D2,2011,2012-03-18,Erzgebirge Aue,St Pauli,2,1,H
+1452,D2,2011,2012-03-05,Munich 1860,St Pauli,1,1,D
+1453,D2,2011,2011-12-02,Paderborn,St Pauli,1,1,D
+1454,D2,2011,2011-10-01,Cottbus,St Pauli,1,4,A
+1455,D2,2011,2012-04-07,Frankfurt FSV,St Pauli,3,3,D
+1456,D2,2011,2011-12-11,Ingolstadt,St Pauli,1,0,H
+1457,D2,2011,2012-02-17,Duisburg,St Pauli,0,1,A
+1458,D2,2011,2011-09-19,Karlsruhe,St Pauli,0,2,A
+1459,D2,2011,2011-10-28,Union Berlin,St Pauli,0,2,A
+1460,D2,2011,2012-04-29,Dresden,St Pauli,1,0,H
+1461,D2,2011,2011-11-19,Hansa Rostock,St Pauli,1,3,A
+1462,D2,2011,2011-08-28,Braunschweig,St Pauli,1,0,H
+1463,D2,2011,2011-07-25,Ein Frankfurt,St Pauli,1,1,D
+1464,D2,2011,2012-04-02,Fortuna Dusseldorf,St Pauli,0,0,D
+1465,D2,2011,2012-02-04,Aachen,St Pauli,2,1,H
+1466,D1,2011,2011-08-06,FC Koln,Wolfsburg,0,3,A
+1467,D1,2011,2012-03-03,Kaiserslautern,Wolfsburg,0,0,D
+1468,D1,2011,2011-11-05,Dortmund,Wolfsburg,5,1,H
+1469,D1,2011,2011-10-01,Leverkusen,Wolfsburg,3,1,H
+1470,D1,2011,2011-10-22,Hamburg,Wolfsburg,1,1,D
+1471,D1,2011,2011-12-10,Werder Bremen,Wolfsburg,4,1,H
+1472,D1,2011,2012-02-19,Schalke 04,Wolfsburg,4,0,H
+1473,D1,2011,2011-11-26,Augsburg,Wolfsburg,2,0,H
+1474,D1,2011,2012-05-05,Stuttgart,Wolfsburg,3,2,H
+1475,D1,2011,2012-03-31,Hertha,Wolfsburg,1,4,A
+1476,D1,2011,2012-04-20,Mainz,Wolfsburg,0,0,D
+1477,D1,2011,2011-08-19,M'gladbach,Wolfsburg,4,1,H
+1478,D1,2011,2012-03-17,Nurnberg,Wolfsburg,1,3,A
+1479,D1,2011,2011-09-17,Hoffenheim,Wolfsburg,3,1,H
+1480,D1,2011,2012-04-11,Hannover,Wolfsburg,2,0,H
+1481,D1,2011,2012-01-28,Bayern Munich,Wolfsburg,2,0,H
+1482,D1,2011,2011-08-27,Freiburg,Wolfsburg,3,0,H
+1483,D1,2011,2012-03-17,Leverkusen,M'gladbach,1,2,A
+1484,D1,2011,2011-10-22,Hoffenheim,M'gladbach,1,0,H
+1485,D1,2011,2012-05-05,Mainz,M'gladbach,0,3,A
+1486,D1,2011,2011-08-28,Schalke 04,M'gladbach,1,0,H
+1487,D1,2011,2012-02-18,Kaiserslautern,M'gladbach,1,2,A
+1488,D1,2011,2011-09-17,Hamburg,M'gladbach,0,1,A
+1489,D1,2011,2012-02-04,Wolfsburg,M'gladbach,0,0,D
+1490,D1,2011,2012-04-01,Hannover,M'gladbach,2,1,H
+1491,D1,2011,2011-08-07,Bayern Munich,M'gladbach,0,1,A
+1492,D1,2011,2012-04-21,Dortmund,M'gladbach,2,0,H
+1493,D1,2011,2011-12-10,Augsburg,M'gladbach,1,0,H
+1494,D1,2011,2012-04-10,Werder Bremen,M'gladbach,2,2,D
+1495,D1,2011,2012-03-04,Nurnberg,M'gladbach,1,0,H
+1496,D1,2011,2012-01-29,Stuttgart,M'gladbach,0,3,A
+1497,D1,2011,2011-11-05,Hertha,M'gladbach,1,2,A
+1498,D1,2011,2011-11-25,FC Koln,M'gladbach,0,3,A
+1499,D1,2011,2011-10-01,Freiburg,M'gladbach,1,0,H
+1500,D2,2011,2012-02-06,Munich 1860,Cottbus,2,0,H
+1501,D2,2011,2011-12-11,Dresden,Cottbus,2,1,H
+1502,D2,2011,2011-10-28,Hansa Rostock,Cottbus,1,1,D
+1503,D2,2011,2012-04-15,Paderborn,Cottbus,3,1,H
+1504,D2,2011,2011-11-21,Bochum,Cottbus,0,1,A
+1505,D2,2011,2011-07-22,Duisburg,Cottbus,1,2,A
+1506,D2,2011,2012-03-04,Ein Frankfurt,Cottbus,1,0,H
+1507,D2,2011,2011-08-13,Aachen,Cottbus,0,2,A
+1508,D2,2011,2011-08-29,Erzgebirge Aue,Cottbus,0,0,D
+1509,D2,2011,2012-04-05,Greuther Furth,Cottbus,3,0,H
+1510,D2,2011,2012-02-17,Karlsruhe,Cottbus,2,0,H
+1511,D2,2011,2012-03-25,St Pauli,Cottbus,0,0,D
+1512,D2,2011,2011-10-16,Frankfurt FSV,Cottbus,0,1,A
+1513,D2,2011,2011-12-02,Union Berlin,Cottbus,1,0,H
+1514,D2,2011,2012-04-29,Ingolstadt,Cottbus,1,0,H
+1515,D2,2011,2011-09-17,Braunschweig,Cottbus,3,1,H
+1516,D2,2011,2011-09-24,Fortuna Dusseldorf,Cottbus,4,2,H
+1517,D2,2011,2011-08-13,Paderborn,Greuther Furth,0,1,A
+1518,D2,2011,2012-04-20,Frankfurt FSV,Greuther Furth,1,1,D
+1519,D2,2011,2012-02-03,Dresden,Greuther Furth,3,1,H
+1520,D2,2011,2012-04-10,Braunschweig,Greuther Furth,0,0,D
+1521,D2,2011,2011-11-28,Fortuna Dusseldorf,Greuther Furth,2,1,H
+1522,D2,2011,2012-03-02,Duisburg,Greuther Furth,0,2,A
+1523,D2,2011,2011-08-26,Bochum,Greuther Furth,1,4,A
+1524,D2,2011,2012-03-31,Erzgebirge Aue,Greuther Furth,1,1,D
+1525,D2,2011,2011-07-23,Union Berlin,Greuther Furth,0,4,A
+1526,D2,2011,2011-10-22,Cottbus,Greuther Furth,0,2,A
+1527,D2,2011,2011-11-05,St Pauli,Greuther Furth,2,2,D
+1528,D2,2011,2012-05-06,Hansa Rostock,Greuther Furth,2,2,D
+1529,D2,2011,2011-09-18,Aachen,Greuther Furth,0,0,D
+1530,D2,2011,2011-10-02,Karlsruhe,Greuther Furth,2,2,D
+1531,D2,2011,2012-02-19,Ingolstadt,Greuther Furth,0,0,D
+1532,D2,2011,2011-12-12,Ein Frankfurt,Greuther Furth,0,0,D
+1533,D2,2011,2012-03-17,Munich 1860,Greuther Furth,1,4,A
+1534,D2,2011,2011-11-20,Ein Frankfurt,Aachen,4,3,H
+1535,D2,2011,2011-08-19,Hansa Rostock,Aachen,0,0,D
+1536,D2,2011,2012-03-23,Frankfurt FSV,Aachen,2,1,H
+1537,D2,2011,2011-09-09,Paderborn,Aachen,0,0,D
+1538,D2,2011,2012-04-14,Duisburg,Aachen,2,0,H
+1539,D2,2011,2011-10-16,Dresden,Aachen,1,1,D
+1540,D2,2011,2012-05-06,Munich 1860,Aachen,1,2,A
+1541,D2,2011,2011-12-18,Braunschweig,Aachen,1,1,D
+1542,D2,2011,2012-02-10,Cottbus,Aachen,1,1,D
+1543,D2,2011,2011-09-24,Union Berlin,Aachen,2,0,H
+1544,D2,2011,2012-02-27,Fortuna Dusseldorf,Aachen,0,0,D
+1545,D2,2011,2011-08-05,St Pauli,Aachen,3,1,H
+1546,D2,2011,2012-03-09,Greuther Furth,Aachen,1,0,H
+1547,D2,2011,2012-04-08,Ingolstadt,Aachen,3,3,D
+1548,D2,2011,2011-10-28,Bochum,Aachen,1,0,H
+1549,D2,2011,2011-11-26,Karlsruhe,Aachen,0,2,A
+1550,D2,2011,2011-07-16,Erzgebirge Aue,Aachen,1,0,H
+1551,D2,2011,2011-07-15,Frankfurt FSV,Union Berlin,1,1,D
+1552,D2,2011,2012-05-06,Cottbus,Union Berlin,2,1,H
+1553,D2,2011,2011-11-25,Hansa Rostock,Union Berlin,2,5,A
+1554,D2,2011,2011-09-17,Duisburg,Union Berlin,1,1,D
+1555,D2,2011,2012-03-02,Ingolstadt,Union Berlin,3,3,D
+1556,D2,2011,2012-02-03,Paderborn,Union Berlin,3,2,H
+1557,D2,2011,2012-03-16,Aachen,Union Berlin,1,3,A
+1558,D2,2011,2011-10-23,Erzgebirge Aue,Union Berlin,1,1,D
+1559,D2,2011,2012-04-01,Karlsruhe,Union Berlin,2,0,H
+1560,D2,2011,2012-02-18,Bochum,Union Berlin,4,2,H
+1561,D2,2011,2012-04-22,Fortuna Dusseldorf,Union Berlin,2,1,H
+1562,D2,2011,2011-11-04,Braunschweig,Union Berlin,1,2,A
+1563,D2,2011,2011-08-12,Dresden,Union Berlin,4,0,H
+1564,D2,2011,2011-12-16,Greuther Furth,Union Berlin,5,0,H
+1565,D2,2011,2011-09-30,Ein Frankfurt,Union Berlin,3,1,H
+1566,D2,2011,2011-08-28,Munich 1860,Union Berlin,3,1,H
+1567,D2,2011,2012-04-10,St Pauli,Union Berlin,2,1,H
+1568,D2,2011,2011-11-18,Duisburg,Braunschweig,3,0,H
+1569,D2,2011,2012-04-29,Bochum,Braunschweig,2,0,H
+1570,D2,2011,2012-04-07,Dresden,Braunschweig,2,2,D
+1571,D2,2011,2011-09-23,Frankfurt FSV,Braunschweig,1,1,D
+1572,D2,2011,2011-10-14,Paderborn,Braunschweig,1,0,H
+1573,D2,2011,2012-03-24,Fortuna Dusseldorf,Braunschweig,1,1,D
+1574,D2,2011,2011-07-24,Aachen,Braunschweig,0,2,A
+1575,D2,2011,2012-02-26,St Pauli,Braunschweig,0,0,D
+1576,D2,2011,2012-03-11,Cottbus,Braunschweig,1,1,D
+1577,D2,2011,2011-10-31,Greuther Furth,Braunschweig,1,3,A
+1578,D2,2011,2011-12-09,Munich 1860,Braunschweig,3,0,H
+1579,D2,2011,2011-09-09,Hansa Rostock,Braunschweig,0,0,D
+1580,D2,2011,2012-02-05,Ein Frankfurt,Braunschweig,2,1,H
+1581,D2,2011,2012-04-13,Union Berlin,Braunschweig,1,0,H
+1582,D2,2011,2011-12-02,Ingolstadt,Braunschweig,0,1,A
+1583,D2,2011,2012-02-20,Erzgebirge Aue,Braunschweig,1,1,D
+1584,D2,2011,2011-08-12,Karlsruhe,Braunschweig,1,3,A
+1585,D2,2011,2012-04-05,Union Berlin,Erzgebirge Aue,1,0,H
+1586,D2,2011,2011-12-04,Bochum,Erzgebirge Aue,6,0,H
+1587,D2,2011,2011-09-11,Frankfurt FSV,Erzgebirge Aue,1,1,D
+1588,D2,2011,2012-03-25,Hansa Rostock,Erzgebirge Aue,0,1,A
+1589,D2,2011,2011-09-23,St Pauli,Erzgebirge Aue,2,3,A
+1590,D2,2011,2011-08-14,Munich 1860,Erzgebirge Aue,4,0,H
+1591,D2,2011,2011-10-16,Greuther Furth,Erzgebirge Aue,2,0,H
+1592,D2,2011,2011-10-29,Paderborn,Erzgebirge Aue,1,0,H
+1593,D2,2011,2012-04-29,Duisburg,Erzgebirge Aue,2,1,H
+1594,D2,2011,2012-04-14,Ein Frankfurt,Erzgebirge Aue,4,0,H
+1595,D2,2011,2011-12-11,Aachen,Erzgebirge Aue,1,1,D
+1596,D2,2011,2011-07-22,Ingolstadt,Erzgebirge Aue,0,0,D
+1597,D2,2011,2011-11-20,Dresden,Erzgebirge Aue,1,2,A
+1598,D2,2011,2011-08-20,Braunschweig,Erzgebirge Aue,1,1,D
+1599,D2,2011,2012-02-05,Karlsruhe,Erzgebirge Aue,2,1,H
+1600,D2,2011,2012-02-25,Cottbus,Erzgebirge Aue,2,0,H
+1601,D2,2011,2012-03-10,Fortuna Dusseldorf,Erzgebirge Aue,3,1,H
+1602,D2,2011,2011-07-17,Hansa Rostock,Paderborn,1,2,A
+1603,D2,2011,2011-10-02,Duisburg,Paderborn,0,1,A
+1604,D2,2011,2011-12-16,Fortuna Dusseldorf,Paderborn,2,3,A
+1605,D2,2011,2012-04-22,Karlsruhe,Paderborn,2,0,H
+1606,D2,2011,2012-03-03,Aachen,Paderborn,0,3,A
+1607,D2,2011,2011-08-21,Dresden,Paderborn,1,2,A
+1608,D2,2011,2011-08-28,Ein Frankfurt,Paderborn,0,0,D
+1609,D2,2011,2011-09-18,Bochum,Paderborn,0,4,A
+1610,D2,2011,2012-05-06,St Pauli,Paderborn,5,0,H
+1611,D2,2011,2012-02-12,Greuther Furth,Paderborn,5,1,H
+1612,D2,2011,2011-11-25,Frankfurt FSV,Paderborn,2,2,D
+1613,D2,2011,2011-08-05,Union Berlin,Paderborn,3,0,H
+1614,D2,2011,2012-04-11,Erzgebirge Aue,Paderborn,0,2,A
+1615,D2,2011,2012-03-30,Braunschweig,Paderborn,0,0,D
+1616,D2,2011,2011-10-21,Munich 1860,Paderborn,1,1,D
+1617,D2,2011,2011-11-06,Cottbus,Paderborn,0,2,A
+1618,D2,2011,2012-03-17,Ingolstadt,Paderborn,4,0,H
+1619,D1,2011,2011-08-27,Nurnberg,Augsburg,1,0,H
+1620,D1,2011,2012-03-24,Werder Bremen,Augsburg,1,1,D
+1621,D1,2011,2011-11-20,Stuttgart,Augsburg,2,1,H
+1622,D1,2011,2011-12-17,Hamburg,Augsburg,1,1,D
+1623,D1,2011,2012-04-07,Bayern Munich,Augsburg,2,1,H
+1624,D1,2011,2012-04-28,M'gladbach,Augsburg,0,0,D
+1625,D1,2011,2012-02-04,Hoffenheim,Augsburg,2,2,D
+1626,D1,2011,2011-10-30,FC Koln,Augsburg,3,0,H
+1627,D1,2011,2011-12-04,Schalke 04,Augsburg,3,1,H
+1628,D1,2011,2012-03-03,Hannover,Augsburg,2,2,D
+1629,D1,2011,2011-09-17,Hertha,Augsburg,2,2,D
+1630,D1,2011,2011-10-15,Mainz,Augsburg,0,1,A
+1631,D1,2011,2012-02-18,Leverkusen,Augsburg,4,1,H
+1632,D1,2011,2012-04-14,Wolfsburg,Augsburg,1,2,A
+1633,D1,2011,2011-08-14,Kaiserslautern,Augsburg,1,1,D
+1634,D1,2011,2011-10-01,Dortmund,Augsburg,4,0,H
+1635,D1,2011,2012-01-21,Freiburg,Augsburg,1,0,H
+1636,D1,2011,2011-11-20,Hamburg,Hoffenheim,2,0,H
+1637,D1,2011,2012-01-28,Dortmund,Hoffenheim,3,1,H
+1638,D1,2011,2012-03-24,M'gladbach,Hoffenheim,1,2,A
+1639,D1,2011,2012-02-11,Werder Bremen,Hoffenheim,1,1,D
+1640,D1,2011,2011-12-02,Leverkusen,Hoffenheim,2,0,H
+1641,D1,2011,2011-10-15,Stuttgart,Hoffenheim,2,0,H
+1642,D1,2011,2012-04-07,Kaiserslautern,Hoffenheim,1,2,A
+1643,D1,2011,2012-03-10,Bayern Munich,Hoffenheim,7,1,H
+1644,D1,2011,2011-09-25,FC Koln,Hoffenheim,2,0,H
+1645,D1,2011,2012-05-05,Hertha,Hoffenheim,3,1,H
+1646,D1,2011,2011-09-10,Mainz,Hoffenheim,0,4,A
+1647,D1,2011,2011-10-29,Schalke 04,Hoffenheim,3,1,H
+1648,D1,2011,2011-08-06,Hannover,Hoffenheim,2,1,H
+1649,D1,2011,2011-12-10,Nurnberg,Hoffenheim,0,2,A
+1650,D1,2011,2011-08-20,Augsburg,Hoffenheim,0,2,A
+1651,D1,2011,2012-04-15,Freiburg,Hoffenheim,0,0,D
+1652,D1,2011,2012-02-25,Wolfsburg,Hoffenheim,1,2,A
+1653,D2,2011,2011-12-04,Dresden,Frankfurt FSV,2,2,D
+1654,D2,2011,2011-09-18,Munich 1860,Frankfurt FSV,4,0,H
+1655,D2,2011,2011-11-20,Greuther Furth,Frankfurt FSV,4,0,H
+1656,D2,2011,2011-08-27,Karlsruhe,Frankfurt FSV,0,4,A
+1657,D2,2011,2012-02-03,Duisburg,Frankfurt FSV,1,2,A
+1658,D2,2011,2011-10-23,St Pauli,Frankfurt FSV,2,1,H
+1659,D2,2011,2012-03-16,Braunschweig,Frankfurt FSV,0,0,D
+1660,D2,2011,2011-08-14,Ingolstadt,Frankfurt FSV,1,1,D
+1661,D2,2011,2011-12-10,Union Berlin,Frankfurt FSV,4,0,H
+1662,D2,2011,2011-09-30,Aachen,Frankfurt FSV,1,3,A
+1663,D2,2011,2012-03-04,Erzgebirge Aue,Frankfurt FSV,4,3,H
+1664,D2,2011,2012-02-18,Ein Frankfurt,Frankfurt FSV,6,1,H
+1665,D2,2011,2012-04-29,Paderborn,Frankfurt FSV,1,0,H
+1666,D2,2011,2012-04-01,Cottbus,Frankfurt FSV,1,1,D
+1667,D2,2011,2011-07-22,Bochum,Frankfurt FSV,1,0,H
+1668,D2,2011,2012-04-13,Hansa Rostock,Frankfurt FSV,0,5,A
+1669,D2,2011,2012-04-10,Fortuna Dusseldorf,Frankfurt FSV,1,0,H
+1670,D2,2011,2012-03-23,Bochum,Ingolstadt,0,1,A
+1671,D2,2011,2011-11-27,Cottbus,Ingolstadt,0,0,D
+1672,D2,2011,2011-10-15,Duisburg,Ingolstadt,3,1,H
+1673,D2,2011,2011-11-04,Karlsruhe,Ingolstadt,3,2,H
+1674,D2,2011,2011-08-19,Greuther Furth,Ingolstadt,3,0,H
+1675,D2,2011,2012-02-10,Frankfurt FSV,Ingolstadt,1,1,D
+1676,D2,2011,2011-12-16,Erzgebirge Aue,Ingolstadt,1,1,D
+1677,D2,2011,2011-09-11,Union Berlin,Ingolstadt,4,1,H
+1678,D2,2011,2011-07-16,St Pauli,Ingolstadt,2,0,H
+1679,D2,2011,2012-03-11,Dresden,Ingolstadt,0,0,D
+1680,D2,2011,2011-09-23,Paderborn,Ingolstadt,4,1,H
+1681,D2,2011,2012-04-11,Ein Frankfurt,Ingolstadt,1,1,D
+1682,D2,2011,2011-10-23,Aachen,Ingolstadt,3,1,H
+1683,D2,2011,2012-05-06,Braunschweig,Ingolstadt,3,1,H
+1684,D2,2011,2011-08-05,Fortuna Dusseldorf,Ingolstadt,4,1,H
+1685,D2,2011,2012-02-24,Hansa Rostock,Ingolstadt,1,2,A
+1686,D2,2011,2012-04-21,Munich 1860,Ingolstadt,4,1,H
+1687,D2,2011,2012-04-29,Greuther Furth,Fortuna Dusseldorf,1,1,D
+1688,D2,2011,2011-10-17,St Pauli,Fortuna Dusseldorf,1,3,A
+1689,D2,2011,2011-12-05,Duisburg,Fortuna Dusseldorf,0,2,A
+1690,D2,2011,2012-04-16,Dresden,Fortuna Dusseldorf,2,1,H
+1691,D2,2011,2011-10-30,Frankfurt FSV,Fortuna Dusseldorf,2,5,A
+1692,D2,2011,2012-04-05,Hansa Rostock,Fortuna Dusseldorf,2,1,H
+1693,D2,2011,2012-02-04,Ingolstadt,Fortuna Dusseldorf,1,1,D
+1694,D2,2011,2011-10-03,Braunschweig,Fortuna Dusseldorf,1,1,D
+1695,D2,2011,2012-03-03,Karlsruhe,Fortuna Dusseldorf,0,5,A
+1696,D2,2011,2012-03-19,Cottbus,Fortuna Dusseldorf,1,1,D
+1697,D2,2011,2011-11-19,Union Berlin,Fortuna Dusseldorf,0,0,D
+1698,D2,2011,2012-02-19,Munich 1860,Fortuna Dusseldorf,2,1,H
+1699,D2,2011,2011-07-24,Paderborn,Fortuna Dusseldorf,1,1,D
+1700,D2,2011,2011-12-10,Bochum,Fortuna Dusseldorf,1,1,D
+1701,D2,2011,2011-08-15,Ein Frankfurt,Fortuna Dusseldorf,1,1,D
+1702,D2,2011,2011-08-27,Aachen,Fortuna Dusseldorf,0,0,D
+1703,D2,2011,2011-09-16,Erzgebirge Aue,Fortuna Dusseldorf,2,4,A
+44495,E0,2011,2011-08-13,Blackburn,Wolves,1,2,A
+44496,E0,2011,2011-08-13,Fulham,Aston Villa,0,0,D
+44497,E0,2011,2011-08-13,Liverpool,Sunderland,1,1,D
+44498,E0,2011,2011-08-13,Newcastle,Arsenal,0,0,D
+44499,E0,2011,2011-08-13,QPR,Bolton,0,4,A
+44500,E0,2011,2011-08-13,Wigan,Norwich,1,1,D
+44501,E0,2011,2011-08-14,Stoke,Chelsea,0,0,D
+44502,E0,2011,2011-08-14,West Brom,Man United,1,2,A
+44503,E0,2011,2011-08-15,Man City,Swansea,4,0,H
+44504,E0,2011,2011-08-20,Arsenal,Liverpool,0,2,A
+44505,E0,2011,2011-08-20,Aston Villa,Blackburn,3,1,H
+44506,E0,2011,2011-08-20,Chelsea,West Brom,2,1,H
+44507,E0,2011,2011-08-20,Everton,QPR,0,1,A
+44508,E0,2011,2011-08-20,Sunderland,Newcastle,0,1,A
+44509,E0,2011,2011-08-20,Swansea,Wigan,0,0,D
+44510,E0,2011,2011-08-21,Bolton,Man City,2,3,A
+44511,E0,2011,2011-08-21,Norwich,Stoke,1,1,D
+44512,E0,2011,2011-08-21,Wolves,Fulham,2,0,H
+44513,E0,2011,2011-08-22,Man United,Tottenham,3,0,H
+44514,E0,2011,2011-08-27,Aston Villa,Wolves,0,0,D
+44515,E0,2011,2011-08-27,Blackburn,Everton,0,1,A
+44516,E0,2011,2011-08-27,Chelsea,Norwich,3,1,H
+44517,E0,2011,2011-08-27,Liverpool,Bolton,3,1,H
+44518,E0,2011,2011-08-27,Swansea,Sunderland,0,0,D
+44519,E0,2011,2011-08-27,Wigan,QPR,2,0,H
+44520,E0,2011,2011-08-28,Man United,Arsenal,8,2,H
+44521,E0,2011,2011-08-28,Newcastle,Fulham,2,1,H
+44522,E0,2011,2011-08-28,Tottenham,Man City,1,5,A
+44523,E0,2011,2011-08-28,West Brom,Stoke,0,1,A
+44524,E0,2011,2011-09-10,Arsenal,Swansea,1,0,H
+44525,E0,2011,2011-09-10,Bolton,Man United,0,5,A
+44526,E0,2011,2011-09-10,Everton,Aston Villa,2,2,D
+44527,E0,2011,2011-09-10,Man City,Wigan,3,0,H
+44528,E0,2011,2011-09-10,Stoke,Liverpool,1,0,H
+44529,E0,2011,2011-09-10,Sunderland,Chelsea,1,2,A
+44530,E0,2011,2011-09-10,Wolves,Tottenham,0,2,A
+44531,E0,2011,2011-09-11,Fulham,Blackburn,1,1,D
+44532,E0,2011,2011-09-11,Norwich,West Brom,0,1,A
+44533,E0,2011,2011-09-12,QPR,Newcastle,0,0,D
+44534,E0,2011,2011-09-17,Aston Villa,Newcastle,1,1,D
+44535,E0,2011,2011-09-17,Blackburn,Arsenal,4,3,H
+44536,E0,2011,2011-09-17,Bolton,Norwich,1,2,A
+44537,E0,2011,2011-09-17,Everton,Wigan,3,1,H
+44538,E0,2011,2011-09-17,Swansea,West Brom,3,0,H
+44539,E0,2011,2011-09-17,Wolves,QPR,0,3,A
+44540,E0,2011,2011-09-18,Fulham,Man City,2,2,D
+44541,E0,2011,2011-09-18,Man United,Chelsea,3,1,H
+44542,E0,2011,2011-09-18,Sunderland,Stoke,4,0,H
+44543,E0,2011,2011-09-18,Tottenham,Liverpool,4,0,H
+44544,E0,2011,2011-09-24,Arsenal,Bolton,3,0,H
+44545,E0,2011,2011-09-24,Chelsea,Swansea,4,1,H
+44546,E0,2011,2011-09-24,Liverpool,Wolves,2,1,H
+44547,E0,2011,2011-09-24,Man City,Everton,2,0,H
+44548,E0,2011,2011-09-24,Newcastle,Blackburn,3,1,H
+44549,E0,2011,2011-09-24,Stoke,Man United,1,1,D
+44550,E0,2011,2011-09-24,West Brom,Fulham,0,0,D
+44551,E0,2011,2011-09-24,Wigan,Tottenham,1,2,A
+44552,E0,2011,2011-09-25,QPR,Aston Villa,1,1,D
+44553,E0,2011,2011-09-26,Norwich,Sunderland,2,1,H
+44554,E0,2011,2011-10-01,Aston Villa,Wigan,2,0,H
+44555,E0,2011,2011-10-01,Blackburn,Man City,0,4,A
+44556,E0,2011,2011-10-01,Everton,Liverpool,0,2,A
+44557,E0,2011,2011-10-01,Man United,Norwich,2,0,H
+44558,E0,2011,2011-10-01,Sunderland,West Brom,2,2,D
+44559,E0,2011,2011-10-01,Wolves,Newcastle,1,2,A
+44560,E0,2011,2011-10-02,Bolton,Chelsea,1,5,A
+44561,E0,2011,2011-10-02,Fulham,QPR,6,0,H
+44562,E0,2011,2011-10-02,Swansea,Stoke,2,0,H
+44563,E0,2011,2011-10-02,Tottenham,Arsenal,2,1,H
+44564,E0,2011,2011-10-15,Chelsea,Everton,3,1,H
+44565,E0,2011,2011-10-15,Liverpool,Man United,1,1,D
+44566,E0,2011,2011-10-15,Man City,Aston Villa,4,1,H
+44567,E0,2011,2011-10-15,Norwich,Swansea,3,1,H
+44568,E0,2011,2011-10-15,QPR,Blackburn,1,1,D
+44569,E0,2011,2011-10-15,Stoke,Fulham,2,0,H
+44570,E0,2011,2011-10-15,Wigan,Bolton,1,3,A
+44571,E0,2011,2011-10-16,Arsenal,Sunderland,2,1,H
+44572,E0,2011,2011-10-16,Newcastle,Tottenham,2,2,D
+44573,E0,2011,2011-10-16,West Brom,Wolves,2,0,H
+44574,E0,2011,2011-10-22,Aston Villa,West Brom,1,2,A
+44575,E0,2011,2011-10-22,Bolton,Sunderland,0,2,A
+44576,E0,2011,2011-10-22,Liverpool,Norwich,1,1,D
+44577,E0,2011,2011-10-22,Newcastle,Wigan,1,0,H
+44578,E0,2011,2011-10-22,Wolves,Swansea,2,2,D
+44579,E0,2011,2011-10-23,Arsenal,Stoke,3,1,H
+44580,E0,2011,2011-10-23,Blackburn,Tottenham,1,2,A
+44581,E0,2011,2011-10-23,Fulham,Everton,1,3,A
+44582,E0,2011,2011-10-23,Man United,Man City,1,6,A
+44583,E0,2011,2011-10-23,QPR,Chelsea,1,0,H
+44584,E0,2011,2011-10-29,Chelsea,Arsenal,3,5,A
+44585,E0,2011,2011-10-29,Everton,Man United,0,1,A
+44586,E0,2011,2011-10-29,Man City,Wolves,3,1,H
+44587,E0,2011,2011-10-29,Norwich,Blackburn,3,3,D
+44588,E0,2011,2011-10-29,Sunderland,Aston Villa,2,2,D
+44589,E0,2011,2011-10-29,Swansea,Bolton,3,1,H
+44590,E0,2011,2011-10-29,West Brom,Liverpool,0,2,A
+44591,E0,2011,2011-10-29,Wigan,Fulham,0,2,A
+44592,E0,2011,2011-10-30,Tottenham,QPR,3,1,H
+44593,E0,2011,2011-10-31,Stoke,Newcastle,1,3,A
+44594,E0,2011,2011-11-05,Arsenal,West Brom,3,0,H
+44595,E0,2011,2011-11-05,Aston Villa,Norwich,3,2,H
+44596,E0,2011,2011-11-05,Blackburn,Chelsea,0,1,A
+44597,E0,2011,2011-11-05,Liverpool,Swansea,0,0,D
+44598,E0,2011,2011-11-05,Man United,Sunderland,1,0,H
+44599,E0,2011,2011-11-05,Newcastle,Everton,2,1,H
+44600,E0,2011,2011-11-05,QPR,Man City,2,3,A
+44601,E0,2011,2011-11-06,Bolton,Stoke,5,0,H
+44602,E0,2011,2011-11-06,Fulham,Tottenham,1,3,A
+44603,E0,2011,2011-11-06,Wolves,Wigan,3,1,H
+44604,E0,2011,2011-11-19,Everton,Wolves,2,1,H
+44605,E0,2011,2011-11-19,Man City,Newcastle,3,1,H
+44606,E0,2011,2011-11-19,Norwich,Arsenal,1,2,A
+44607,E0,2011,2011-11-19,Stoke,QPR,2,3,A
+44608,E0,2011,2011-11-19,Sunderland,Fulham,0,0,D
+44609,E0,2011,2011-11-19,Swansea,Man United,0,1,A
+44610,E0,2011,2011-11-19,West Brom,Bolton,2,1,H
+44611,E0,2011,2011-11-19,Wigan,Blackburn,3,3,D
+44612,E0,2011,2011-11-20,Chelsea,Liverpool,1,2,A
+44613,E0,2011,2011-11-21,Tottenham,Aston Villa,2,0,H
+44614,E0,2011,2011-11-26,Arsenal,Fulham,1,1,D
+44615,E0,2011,2011-11-26,Bolton,Everton,0,2,A
+44616,E0,2011,2011-11-26,Chelsea,Wolves,3,0,H
+44617,E0,2011,2011-11-26,Man United,Newcastle,1,1,D
+44618,E0,2011,2011-11-26,Norwich,QPR,2,1,H
+44619,E0,2011,2011-11-26,Stoke,Blackburn,3,1,H
+44620,E0,2011,2011-11-26,Sunderland,Wigan,1,2,A
+44621,E0,2011,2011-11-26,West Brom,Tottenham,1,3,A
+44622,E0,2011,2011-11-27,Liverpool,Man City,1,1,D
+44623,E0,2011,2011-11-27,Swansea,Aston Villa,0,0,D
+44624,E0,2011,2011-12-03,Aston Villa,Man United,0,1,A
+44625,E0,2011,2011-12-03,Blackburn,Swansea,4,2,H
+44626,E0,2011,2011-12-03,Man City,Norwich,5,1,H
+44627,E0,2011,2011-12-03,Newcastle,Chelsea,0,3,A
+44628,E0,2011,2011-12-03,QPR,West Brom,1,1,D
+44629,E0,2011,2011-12-03,Tottenham,Bolton,3,0,H
+44630,E0,2011,2011-12-03,Wigan,Arsenal,0,4,A
+44631,E0,2011,2011-12-04,Everton,Stoke,0,1,A
+44632,E0,2011,2011-12-04,Wolves,Sunderland,2,1,H
+44633,E0,2011,2011-12-05,Fulham,Liverpool,1,0,H
+44634,E0,2011,2011-12-10,Arsenal,Everton,1,0,H
+44635,E0,2011,2011-12-10,Bolton,Aston Villa,1,2,A
+44636,E0,2011,2011-12-10,Liverpool,QPR,1,0,H
+44637,E0,2011,2011-12-10,Man United,Wolves,4,1,H
+44638,E0,2011,2011-12-10,Norwich,Newcastle,4,2,H
+44639,E0,2011,2011-12-10,Swansea,Fulham,2,0,H
+44640,E0,2011,2011-12-10,West Brom,Wigan,1,2,A
+44641,E0,2011,2011-12-11,Stoke,Tottenham,2,1,H
+44642,E0,2011,2011-12-11,Sunderland,Blackburn,2,1,H
+44643,E0,2011,2011-12-12,Chelsea,Man City,2,1,H
+44644,E0,2011,2011-12-17,Blackburn,West Brom,1,2,A
+44645,E0,2011,2011-12-17,Everton,Norwich,1,1,D
+44646,E0,2011,2011-12-17,Fulham,Bolton,2,0,H
+44647,E0,2011,2011-12-17,Newcastle,Swansea,0,0,D
+44648,E0,2011,2011-12-17,Wigan,Chelsea,1,1,D
+44649,E0,2011,2011-12-17,Wolves,Stoke,1,2,A
+44650,E0,2011,2011-12-18,Aston Villa,Liverpool,0,2,A
+44651,E0,2011,2011-12-18,Man City,Arsenal,1,0,H
+44652,E0,2011,2011-12-18,QPR,Man United,0,2,A
+44653,E0,2011,2011-12-18,Tottenham,Sunderland,1,0,H
+44654,E0,2011,2011-12-20,Blackburn,Bolton,1,2,A
+44655,E0,2011,2011-12-20,Wolves,Norwich,2,2,D
+44656,E0,2011,2011-12-21,Aston Villa,Arsenal,1,2,A
+44657,E0,2011,2011-12-21,Everton,Swansea,1,0,H
+44658,E0,2011,2011-12-21,Fulham,Man United,0,5,A
+44659,E0,2011,2011-12-21,Man City,Stoke,3,0,H
+44660,E0,2011,2011-12-21,Newcastle,West Brom,2,3,A
+44661,E0,2011,2011-12-21,QPR,Sunderland,2,3,A
+44662,E0,2011,2011-12-21,Wigan,Liverpool,0,0,D
+44663,E0,2011,2011-12-22,Tottenham,Chelsea,1,1,D
+44664,E0,2011,2011-12-26,Bolton,Newcastle,0,2,A
+44665,E0,2011,2011-12-26,Chelsea,Fulham,1,1,D
+44666,E0,2011,2011-12-26,Liverpool,Blackburn,1,1,D
+44667,E0,2011,2011-12-26,Man United,Wigan,5,0,H
+44668,E0,2011,2011-12-26,Stoke,Aston Villa,0,0,D
+44669,E0,2011,2011-12-26,Sunderland,Everton,1,1,D
+44670,E0,2011,2011-12-26,West Brom,Man City,0,0,D
+44671,E0,2011,2011-12-27,Arsenal,Wolves,1,1,D
+44672,E0,2011,2011-12-27,Norwich,Tottenham,0,2,A
+44673,E0,2011,2011-12-27,Swansea,QPR,1,1,D
+44674,E0,2011,2011-12-30,Liverpool,Newcastle,3,1,H
+44675,E0,2011,2011-12-31,Arsenal,QPR,1,0,H
+44676,E0,2011,2011-12-31,Bolton,Wolves,1,1,D
+44677,E0,2011,2011-12-31,Chelsea,Aston Villa,1,3,A
+44678,E0,2011,2011-12-31,Man United,Blackburn,2,3,A
+44679,E0,2011,2011-12-31,Norwich,Fulham,1,1,D
+44680,E0,2011,2011-12-31,Stoke,Wigan,2,2,D
+44681,E0,2011,2011-12-31,Swansea,Tottenham,1,1,D
+44682,E0,2011,2012-01-01,Sunderland,Man City,1,0,H
+44683,E0,2011,2012-01-01,West Brom,Everton,0,1,A
+44684,E0,2011,2012-01-02,Aston Villa,Swansea,0,2,A
+44685,E0,2011,2012-01-02,Blackburn,Stoke,1,2,A
+44686,E0,2011,2012-01-02,Fulham,Arsenal,2,1,H
+44687,E0,2011,2012-01-02,QPR,Norwich,1,2,A
+44688,E0,2011,2012-01-02,Wolves,Chelsea,1,2,A
+44689,E0,2011,2012-01-03,Man City,Liverpool,3,0,H
+44690,E0,2011,2012-01-03,Tottenham,West Brom,1,0,H
+44691,E0,2011,2012-01-03,Wigan,Sunderland,1,4,A
+44692,E0,2011,2012-01-04,Everton,Bolton,1,2,A
+44693,E0,2011,2012-01-04,Newcastle,Man United,3,0,H
+44694,E0,2011,2012-01-11,Tottenham,Everton,2,0,H
+44695,E0,2011,2012-01-14,Aston Villa,Everton,1,1,D
+44696,E0,2011,2012-01-14,Blackburn,Fulham,3,1,H
+44697,E0,2011,2012-01-14,Chelsea,Sunderland,1,0,H
+44698,E0,2011,2012-01-14,Liverpool,Stoke,0,0,D
+44699,E0,2011,2012-01-14,Man United,Bolton,3,0,H
+44700,E0,2011,2012-01-14,Tottenham,Wolves,1,1,D
+44701,E0,2011,2012-01-14,West Brom,Norwich,1,2,A
+44702,E0,2011,2012-01-15,Newcastle,QPR,1,0,H
+44703,E0,2011,2012-01-15,Swansea,Arsenal,3,2,H
+44704,E0,2011,2012-01-16,Wigan,Man City,0,1,A
+44705,E0,2011,2012-01-21,Bolton,Liverpool,3,1,H
+44706,E0,2011,2012-01-21,Everton,Blackburn,1,1,D
+44707,E0,2011,2012-01-21,Fulham,Newcastle,5,2,H
+44708,E0,2011,2012-01-21,Norwich,Chelsea,0,0,D
+44709,E0,2011,2012-01-21,QPR,Wigan,3,1,H
+44710,E0,2011,2012-01-21,Stoke,West Brom,1,2,A
+44711,E0,2011,2012-01-21,Sunderland,Swansea,2,0,H
+44712,E0,2011,2012-01-21,Wolves,Aston Villa,2,3,A
+44713,E0,2011,2012-01-22,Arsenal,Man United,1,2,A
+44714,E0,2011,2012-01-22,Man City,Tottenham,3,2,H
+44715,E0,2011,2012-01-31,Everton,Man City,1,0,H
+44716,E0,2011,2012-01-31,Man United,Stoke,2,0,H
+44717,E0,2011,2012-01-31,Swansea,Chelsea,1,1,D
+44718,E0,2011,2012-01-31,Tottenham,Wigan,3,1,H
+44719,E0,2011,2012-01-31,Wolves,Liverpool,0,3,A
+44720,E0,2011,2012-02-01,Aston Villa,QPR,2,2,D
+44721,E0,2011,2012-02-01,Blackburn,Newcastle,0,2,A
+44722,E0,2011,2012-02-01,Bolton,Arsenal,0,0,D
+44723,E0,2011,2012-02-01,Fulham,West Brom,1,1,D
+44724,E0,2011,2012-02-01,Sunderland,Norwich,3,0,H
+44725,E0,2011,2012-02-04,Arsenal,Blackburn,7,1,H
+44726,E0,2011,2012-02-04,Man City,Fulham,3,0,H
+44727,E0,2011,2012-02-04,Norwich,Bolton,2,0,H
+44728,E0,2011,2012-02-04,QPR,Wolves,1,2,A
+44729,E0,2011,2012-02-04,Stoke,Sunderland,0,1,A
+44730,E0,2011,2012-02-04,West Brom,Swansea,1,2,A
+44731,E0,2011,2012-02-04,Wigan,Everton,1,1,D
+44732,E0,2011,2012-02-05,Chelsea,Man United,3,3,D
+44733,E0,2011,2012-02-05,Newcastle,Aston Villa,2,1,H
+44734,E0,2011,2012-02-06,Liverpool,Tottenham,0,0,D
+44735,E0,2011,2012-02-11,Blackburn,QPR,3,2,H
+44736,E0,2011,2012-02-11,Bolton,Wigan,1,2,A
+44737,E0,2011,2012-02-11,Everton,Chelsea,2,0,H
+44738,E0,2011,2012-02-11,Fulham,Stoke,2,1,H
+44739,E0,2011,2012-02-11,Man United,Liverpool,2,1,H
+44740,E0,2011,2012-02-11,Sunderland,Arsenal,1,2,A
+44741,E0,2011,2012-02-11,Swansea,Norwich,2,3,A
+44742,E0,2011,2012-02-11,Tottenham,Newcastle,5,0,H
+44743,E0,2011,2012-02-12,Aston Villa,Man City,0,1,A
+44744,E0,2011,2012-02-12,Wolves,West Brom,1,5,A
+44745,E0,2011,2012-02-25,Chelsea,Bolton,3,0,H
+44746,E0,2011,2012-02-25,Man City,Blackburn,3,0,H
+44747,E0,2011,2012-02-25,Newcastle,Wolves,2,2,D
+44748,E0,2011,2012-02-25,QPR,Fulham,0,1,A
+44749,E0,2011,2012-02-25,West Brom,Sunderland,4,0,H
+44750,E0,2011,2012-02-25,Wigan,Aston Villa,0,0,D
+44751,E0,2011,2012-02-26,Arsenal,Tottenham,5,2,H
+44752,E0,2011,2012-02-26,Norwich,Man United,1,2,A
+44753,E0,2011,2012-02-26,Stoke,Swansea,2,0,H
+44754,E0,2011,2012-03-03,Blackburn,Aston Villa,1,1,D
+44755,E0,2011,2012-03-03,Liverpool,Arsenal,1,2,A
+44756,E0,2011,2012-03-03,Man City,Bolton,2,0,H
+44757,E0,2011,2012-03-03,QPR,Everton,1,1,D
+44758,E0,2011,2012-03-03,Stoke,Norwich,1,0,H
+44759,E0,2011,2012-03-03,West Brom,Chelsea,1,0,H
+44760,E0,2011,2012-03-03,Wigan,Swansea,0,2,A
+44761,E0,2011,2012-03-04,Fulham,Wolves,5,0,H
+44762,E0,2011,2012-03-04,Newcastle,Sunderland,1,1,D
+44763,E0,2011,2012-03-04,Tottenham,Man United,1,3,A
+44764,E0,2011,2012-03-10,Aston Villa,Fulham,1,0,H
+44765,E0,2011,2012-03-10,Bolton,QPR,2,1,H
+44766,E0,2011,2012-03-10,Chelsea,Stoke,1,0,H
+44767,E0,2011,2012-03-10,Everton,Tottenham,1,0,H
+44768,E0,2011,2012-03-10,Sunderland,Liverpool,1,0,H
+44769,E0,2011,2012-03-10,Wolves,Blackburn,0,2,A
+44770,E0,2011,2012-03-11,Man United,West Brom,2,0,H
+44771,E0,2011,2012-03-11,Norwich,Wigan,1,1,D
+44772,E0,2011,2012-03-11,Swansea,Man City,1,0,H
+44773,E0,2011,2012-03-12,Arsenal,Newcastle,2,1,H
+44774,E0,2011,2012-03-13,Liverpool,Everton,3,0,H
+44775,E0,2011,2012-03-17,Fulham,Swansea,0,3,A
+44776,E0,2011,2012-03-17,Wigan,West Brom,1,1,D
+44777,E0,2011,2012-03-18,Newcastle,Norwich,1,0,H
+44778,E0,2011,2012-03-18,Wolves,Man United,0,5,A
+44779,E0,2011,2012-03-20,Blackburn,Sunderland,2,0,H
+44780,E0,2011,2012-03-21,Everton,Arsenal,0,1,A
+44781,E0,2011,2012-03-21,Man City,Chelsea,2,1,H
+44782,E0,2011,2012-03-21,QPR,Liverpool,3,2,H
+44783,E0,2011,2012-03-21,Tottenham,Stoke,1,1,D
+44784,E0,2011,2012-03-24,Arsenal,Aston Villa,3,0,H
+44785,E0,2011,2012-03-24,Bolton,Blackburn,2,1,H
+44786,E0,2011,2012-03-24,Chelsea,Tottenham,0,0,D
+44787,E0,2011,2012-03-24,Liverpool,Wigan,1,2,A
+44788,E0,2011,2012-03-24,Norwich,Wolves,2,1,H
+44789,E0,2011,2012-03-24,Stoke,Man City,1,1,D
+44790,E0,2011,2012-03-24,Sunderland,QPR,3,1,H
+44791,E0,2011,2012-03-24,Swansea,Everton,0,2,A
+44792,E0,2011,2012-03-25,West Brom,Newcastle,1,3,A
+44793,E0,2011,2012-03-26,Man United,Fulham,1,0,H
+44794,E0,2011,2012-03-31,Aston Villa,Chelsea,2,4,A
+44795,E0,2011,2012-03-31,Everton,West Brom,2,0,H
+44796,E0,2011,2012-03-31,Fulham,Norwich,2,1,H
+44797,E0,2011,2012-03-31,Man City,Sunderland,3,3,D
+44798,E0,2011,2012-03-31,QPR,Arsenal,2,1,H
+44799,E0,2011,2012-03-31,Wigan,Stoke,2,0,H
+44800,E0,2011,2012-03-31,Wolves,Bolton,2,3,A
+44801,E0,2011,2012-04-01,Newcastle,Liverpool,2,0,H
+44802,E0,2011,2012-04-01,Tottenham,Swansea,3,1,H
+44803,E0,2011,2012-04-02,Blackburn,Man United,0,2,A
+44804,E0,2011,2012-04-06,Swansea,Newcastle,0,2,A
+44805,E0,2011,2012-04-07,Bolton,Fulham,0,3,A
+44806,E0,2011,2012-04-07,Chelsea,Wigan,2,1,H
+44807,E0,2011,2012-04-07,Liverpool,Aston Villa,1,1,D
+44808,E0,2011,2012-04-07,Norwich,Everton,2,2,D
+44809,E0,2011,2012-04-07,Stoke,Wolves,2,1,H
+44810,E0,2011,2012-04-07,Sunderland,Tottenham,0,0,D
+44811,E0,2011,2012-04-07,West Brom,Blackburn,3,0,H
+44812,E0,2011,2012-04-08,Arsenal,Man City,1,0,H
+44813,E0,2011,2012-04-08,Man United,QPR,2,0,H
+44814,E0,2011,2012-04-09,Aston Villa,Stoke,1,1,D
+44815,E0,2011,2012-04-09,Everton,Sunderland,4,0,H
+44816,E0,2011,2012-04-09,Fulham,Chelsea,1,1,D
+44817,E0,2011,2012-04-09,Newcastle,Bolton,2,0,H
+44818,E0,2011,2012-04-09,Tottenham,Norwich,1,2,A
+44819,E0,2011,2012-04-10,Blackburn,Liverpool,2,3,A
+44820,E0,2011,2012-04-11,Man City,West Brom,4,0,H
+44821,E0,2011,2012-04-11,QPR,Swansea,3,0,H
+44822,E0,2011,2012-04-11,Wigan,Man United,1,0,H
+44823,E0,2011,2012-04-11,Wolves,Arsenal,0,3,A
+44824,E0,2011,2012-04-14,Norwich,Man City,1,6,A
+44825,E0,2011,2012-04-14,Sunderland,Wolves,0,0,D
+44826,E0,2011,2012-04-14,Swansea,Blackburn,3,0,H
+44827,E0,2011,2012-04-14,West Brom,QPR,1,0,H
+44828,E0,2011,2012-04-15,Man United,Aston Villa,4,0,H
+44829,E0,2011,2012-04-16,Arsenal,Wigan,1,2,A
+44830,E0,2011,2012-04-21,Arsenal,Chelsea,0,0,D
+44831,E0,2011,2012-04-21,Aston Villa,Sunderland,0,0,D
+44832,E0,2011,2012-04-21,Blackburn,Norwich,2,0,H
+44833,E0,2011,2012-04-21,Bolton,Swansea,1,1,D
+44834,E0,2011,2012-04-21,Fulham,Wigan,2,1,H
+44835,E0,2011,2012-04-21,Newcastle,Stoke,3,0,H
+44836,E0,2011,2012-04-21,QPR,Tottenham,1,0,H
+44837,E0,2011,2012-04-22,Liverpool,West Brom,0,1,A
+44838,E0,2011,2012-04-22,Man United,Everton,4,4,D
+44839,E0,2011,2012-04-22,Wolves,Man City,0,2,A
+44840,E0,2011,2012-04-24,Aston Villa,Bolton,1,2,A
+44841,E0,2011,2012-04-28,Everton,Fulham,4,0,H
+44842,E0,2011,2012-04-28,Norwich,Liverpool,0,3,A
+44843,E0,2011,2012-04-28,Stoke,Arsenal,1,1,D
+44844,E0,2011,2012-04-28,Sunderland,Bolton,2,2,D
+44845,E0,2011,2012-04-28,Swansea,Wolves,4,4,D
+44846,E0,2011,2012-04-28,West Brom,Aston Villa,0,0,D
+44847,E0,2011,2012-04-28,Wigan,Newcastle,4,0,H
+44848,E0,2011,2012-04-29,Chelsea,QPR,6,1,H
+44849,E0,2011,2012-04-29,Tottenham,Blackburn,2,0,H
+44850,E0,2011,2012-04-30,Man City,Man United,1,0,H
+44851,E0,2011,2012-05-01,Liverpool,Fulham,0,1,A
+44852,E0,2011,2012-05-01,Stoke,Everton,1,1,D
+44853,E0,2011,2012-05-02,Bolton,Tottenham,1,4,A
+44854,E0,2011,2012-05-02,Chelsea,Newcastle,0,2,A
+44855,E0,2011,2012-05-05,Arsenal,Norwich,3,3,D
+44856,E0,2011,2012-05-06,Aston Villa,Tottenham,1,1,D
+44857,E0,2011,2012-05-06,Bolton,West Brom,2,2,D
+44858,E0,2011,2012-05-06,Fulham,Sunderland,2,1,H
+44859,E0,2011,2012-05-06,Man United,Swansea,2,0,H
+44860,E0,2011,2012-05-06,Newcastle,Man City,0,2,A
+44861,E0,2011,2012-05-06,QPR,Stoke,1,0,H
+44862,E0,2011,2012-05-06,Wolves,Everton,0,0,D
+44863,E0,2011,2012-05-07,Blackburn,Wigan,0,1,A
+44864,E0,2011,2012-05-08,Liverpool,Chelsea,4,1,H
+44865,E0,2011,2012-05-13,Chelsea,Blackburn,2,1,H
+44866,E0,2011,2012-05-13,Everton,Newcastle,3,1,H
+44867,E0,2011,2012-05-13,Man City,QPR,3,2,H
+44868,E0,2011,2012-05-13,Norwich,Aston Villa,2,0,H
+44869,E0,2011,2012-05-13,Stoke,Bolton,2,2,D
+44870,E0,2011,2012-05-13,Sunderland,Man United,0,1,A
+44871,E0,2011,2012-05-13,Swansea,Liverpool,1,0,H
+44872,E0,2011,2012-05-13,Tottenham,Fulham,2,0,H
+44873,E0,2011,2012-05-13,West Brom,Arsenal,2,3,A
+44874,E0,2011,2012-05-13,Wigan,Wolves,3,2,H

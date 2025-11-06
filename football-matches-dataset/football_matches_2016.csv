@@ -1,0 +1,993 @@
+Match_ID,Div,Season,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+4152,D1,2016,2017-04-04,Hoffenheim,Bayern Munich,1,0,H
+4153,D1,2016,2017-02-18,Hertha,Bayern Munich,1,1,D
+4154,D1,2016,2016-12-18,Darmstadt,Bayern Munich,0,1,A
+4155,D1,2016,2016-12-02,Mainz,Bayern Munich,1,3,A
+4156,D1,2016,2017-01-28,Werder Bremen,Bayern Munich,1,2,A
+4157,D1,2016,2016-09-24,Hamburg,Bayern Munich,0,1,A
+4158,D1,2016,2016-11-19,Dortmund,Bayern Munich,1,0,H
+4159,D1,2016,2017-03-19,M'gladbach,Bayern Munich,0,1,A
+4160,D1,2016,2017-03-04,FC Koln,Bayern Munich,0,3,A
+4161,D1,2016,2017-01-20,Freiburg,Bayern Munich,1,2,A
+4162,D1,2016,2017-04-15,Leverkusen,Bayern Munich,0,0,D
+4163,D1,2016,2017-05-13,RB Leipzig,Bayern Munich,4,5,A
+4164,D1,2016,2017-02-11,Ingolstadt,Bayern Munich,0,2,A
+4165,D1,2016,2016-10-29,Augsburg,Bayern Munich,1,3,A
+4166,D1,2016,2017-04-29,Wolfsburg,Bayern Munich,0,6,A
+4167,D1,2016,2016-10-15,Ein Frankfurt,Bayern Munich,2,2,D
+4168,D1,2016,2016-09-09,Schalke 04,Bayern Munich,0,2,A
+4169,D1,2016,2016-10-01,Leverkusen,Dortmund,2,0,H
+4170,D1,2016,2016-09-10,RB Leipzig,Dortmund,1,0,H
+4171,D1,2016,2017-04-22,M'gladbach,Dortmund,2,3,A
+4172,D1,2016,2017-03-11,Hertha,Dortmund,2,1,H
+4173,D1,2016,2016-12-10,FC Koln,Dortmund,1,1,D
+4174,D1,2016,2016-12-16,Hoffenheim,Dortmund,2,2,D
+4175,D1,2016,2017-01-29,Mainz,Dortmund,1,1,D
+4176,D1,2016,2016-09-20,Wolfsburg,Dortmund,1,5,A
+4177,D1,2016,2017-04-01,Schalke 04,Dortmund,1,1,D
+4178,D1,2016,2017-05-13,Augsburg,Dortmund,1,1,D
+4179,D1,2016,2017-02-25,Freiburg,Dortmund,0,3,A
+4180,D1,2016,2017-04-08,Bayern Munich,Dortmund,4,1,H
+4181,D1,2016,2016-11-05,Hamburg,Dortmund,2,5,A
+4182,D1,2016,2017-01-21,Werder Bremen,Dortmund,1,2,A
+4183,D1,2016,2016-11-26,Ein Frankfurt,Dortmund,2,1,H
+4184,D1,2016,2016-10-22,Ingolstadt,Dortmund,3,3,D
+4185,D1,2016,2017-02-11,Darmstadt,Dortmund,2,1,H
+4186,D2,2016,2016-08-15,Union Berlin,Dresden,2,2,D
+4187,D2,2016,2016-09-30,Sandhausen,Dresden,2,0,H
+4188,D2,2016,2017-01-29,Nurnberg,Dresden,1,2,A
+4189,D2,2016,2017-02-12,St Pauli,Dresden,2,0,H
+4190,D2,2016,2016-09-11,Hannover,Dresden,0,2,A
+4191,D2,2016,2017-04-02,Stuttgart,Dresden,3,3,D
+4192,D2,2016,2016-12-03,Munich 1860,Dresden,1,0,H
+4193,D2,2016,2016-12-18,Bielefeld,Dresden,1,2,A
+4194,D2,2016,2016-10-22,Heidenheim,Dresden,0,0,D
+4195,D2,2016,2016-11-04,Fortuna Dusseldorf,Dresden,0,3,A
+4196,D2,2016,2017-05-14,Karlsruhe,Dresden,3,4,A
+4197,D2,2016,2017-04-10,Braunschweig,Dresden,1,0,H
+4198,D2,2016,2017-04-21,Greuther Furth,Dresden,1,0,H
+4199,D2,2016,2017-02-26,Erzgebirge Aue,Dresden,1,4,A
+4200,D2,2016,2017-03-11,Wurzburger Kickers,Dresden,0,2,A
+4201,D2,2016,2017-04-28,Bochum,Dresden,4,2,H
+4202,D2,2016,2016-09-21,Kaiserslautern,Dresden,3,0,H
+4203,D1,2016,2016-09-20,Ingolstadt,Ein Frankfurt,0,2,A
+4204,D1,2016,2016-10-01,Freiburg,Ein Frankfurt,1,0,H
+4205,D1,2016,2016-10-28,M'gladbach,Ein Frankfurt,0,0,D
+4206,D1,2016,2016-12-17,Wolfsburg,Ein Frankfurt,1,0,H
+4207,D1,2016,2017-01-21,RB Leipzig,Ein Frankfurt,3,0,H
+4208,D1,2016,2017-04-30,Hoffenheim,Ein Frankfurt,1,0,H
+4209,D1,2016,2016-12-04,Augsburg,Ein Frankfurt,1,1,D
+4210,D1,2016,2017-05-13,Mainz,Ein Frankfurt,4,2,H
+4211,D1,2016,2017-02-11,Leverkusen,Ein Frankfurt,3,0,H
+4212,D1,2016,2017-04-15,Dortmund,Ein Frankfurt,3,1,H
+4213,D1,2016,2017-04-04,FC Koln,Ein Frankfurt,1,0,H
+4214,D1,2016,2017-01-27,Schalke 04,Ein Frankfurt,0,1,A
+4215,D1,2016,2016-09-10,Darmstadt,Ein Frankfurt,1,0,H
+4216,D1,2016,2017-03-11,Bayern Munich,Ein Frankfurt,3,0,H
+4217,D1,2016,2016-11-20,Werder Bremen,Ein Frankfurt,1,2,A
+4218,D1,2016,2016-10-21,Hamburg,Ein Frankfurt,0,3,A
+4219,D1,2016,2017-02-25,Hertha,Ein Frankfurt,2,0,H
+4220,D1,2016,2017-01-28,Darmstadt,FC Koln,1,6,A
+4221,D1,2016,2016-10-01,Bayern Munich,FC Koln,1,1,D
+4222,D1,2016,2016-11-05,Ein Frankfurt,FC Koln,1,0,H
+4223,D1,2016,2016-09-10,Wolfsburg,FC Koln,0,0,D
+4224,D1,2016,2017-03-11,Ingolstadt,FC Koln,2,2,D
+4225,D1,2016,2017-04-01,Hamburg,FC Koln,2,1,H
+4226,D1,2016,2017-04-15,Augsburg,FC Koln,2,1,H
+4227,D1,2016,2016-09-21,Schalke 04,FC Koln,1,3,A
+4228,D1,2016,2017-01-22,Mainz,FC Koln,0,0,D
+4229,D1,2016,2017-05-13,Leverkusen,FC Koln,2,2,D
+4230,D1,2016,2017-02-12,Freiburg,FC Koln,2,1,H
+4231,D1,2016,2017-04-29,Dortmund,FC Koln,0,0,D
+4232,D1,2016,2016-11-19,M'gladbach,FC Koln,1,2,A
+4233,D1,2016,2016-12-03,Hoffenheim,FC Koln,4,0,H
+4234,D1,2016,2016-10-22,Hertha,FC Koln,2,1,H
+4235,D1,2016,2016-12-17,Werder Bremen,FC Koln,1,1,D
+4236,D1,2016,2017-02-25,RB Leipzig,FC Koln,3,1,H
+4237,D1,2016,2016-09-16,FC Koln,Freiburg,3,0,H
+4238,D1,2016,2016-11-19,Mainz,Freiburg,4,2,H
+4239,D1,2016,2016-12-21,Ingolstadt,Freiburg,1,2,A
+4240,D1,2016,2017-05-20,Bayern Munich,Freiburg,4,1,H
+4241,D1,2016,2016-12-03,Leverkusen,Freiburg,1,1,D
+4242,D1,2016,2017-03-05,Ein Frankfurt,Freiburg,1,2,A
+4243,D1,2016,2016-09-23,Dortmund,Freiburg,3,1,H
+4244,D1,2016,2017-04-05,Wolfsburg,Freiburg,0,1,A
+4245,D1,2016,2017-02-04,M'gladbach,Freiburg,3,0,H
+4246,D1,2016,2016-10-15,Hoffenheim,Freiburg,2,1,H
+4247,D1,2016,2017-04-15,RB Leipzig,Freiburg,4,0,H
+4248,D1,2016,2017-04-29,Darmstadt,Freiburg,3,0,H
+4249,D1,2016,2016-12-17,Schalke 04,Freiburg,1,1,D
+4250,D1,2016,2016-10-29,Werder Bremen,Freiburg,1,3,A
+4251,D1,2016,2017-03-18,Augsburg,Freiburg,1,1,D
+4252,D1,2016,2016-08-28,Hertha,Freiburg,2,1,H
+4253,D1,2016,2017-02-18,Hamburg,Freiburg,2,2,D
+4254,D1,2016,2016-09-20,Freiburg,Hamburg,1,0,H
+4255,D1,2016,2017-02-11,RB Leipzig,Hamburg,0,3,A
+4256,D1,2016,2016-11-20,Hoffenheim,Hamburg,2,2,D
+4257,D1,2016,2016-10-30,FC Koln,Hamburg,3,0,H
+4258,D1,2016,2017-05-13,Schalke 04,Hamburg,1,1,D
+4259,D1,2016,2017-01-28,Ingolstadt,Hamburg,3,1,H
+4260,D1,2016,2016-10-15,M'gladbach,Hamburg,0,0,D
+4261,D1,2016,2017-04-16,Werder Bremen,Hamburg,2,1,H
+4262,D1,2016,2017-01-21,Wolfsburg,Hamburg,1,0,H
+4263,D1,2016,2017-02-25,Bayern Munich,Hamburg,8,0,H
+4264,D1,2016,2016-09-10,Leverkusen,Hamburg,3,1,H
+4265,D1,2016,2017-04-30,Augsburg,Hamburg,4,0,H
+4266,D1,2016,2017-04-04,Dortmund,Hamburg,3,0,H
+4267,D1,2016,2016-10-01,Hertha,Hamburg,2,0,H
+4268,D1,2016,2016-12-17,Mainz,Hamburg,3,1,H
+4269,D1,2016,2016-12-04,Darmstadt,Hamburg,0,2,A
+4270,D1,2016,2017-03-18,Ein Frankfurt,Hamburg,0,0,D
+4271,D2,2016,2017-01-30,Hannover,Kaiserslautern,1,0,H
+4272,D2,2016,2016-10-17,Braunschweig,Kaiserslautern,1,0,H
+4273,D2,2016,2016-08-14,Wurzburger Kickers,Kaiserslautern,1,1,D
+4274,D2,2016,2017-03-17,Bielefeld,Kaiserslautern,2,0,H
+4275,D2,2016,2016-12-02,St Pauli,Kaiserslautern,0,0,D
+4276,D2,2016,2017-04-16,Union Berlin,Kaiserslautern,3,1,H
+4277,D2,2016,2017-04-29,Karlsruhe,Kaiserslautern,1,3,A
+4278,D2,2016,2016-09-11,Sandhausen,Kaiserslautern,2,0,H
+4279,D2,2016,2016-10-29,Greuther Furth,Kaiserslautern,0,1,A
+4280,D2,2016,2017-02-26,Stuttgart,Kaiserslautern,2,0,H
+4281,D2,2016,2017-03-03,Dresden,Kaiserslautern,3,3,D
+4282,D2,2016,2016-12-19,Nurnberg,Kaiserslautern,2,1,H
+4283,D2,2016,2016-09-24,Heidenheim,Kaiserslautern,3,0,H
+4284,D2,2016,2017-02-10,Fortuna Dusseldorf,Kaiserslautern,1,1,D
+4285,D2,2016,2017-04-05,Bochum,Kaiserslautern,0,0,D
+4286,D2,2016,2016-11-21,Munich 1860,Kaiserslautern,1,1,D
+4287,D2,2016,2017-05-14,Erzgebirge Aue,Kaiserslautern,1,0,H
+4288,D2,2016,2017-03-10,Erzgebirge Aue,Karlsruhe,1,0,H
+4289,D2,2016,2017-04-09,Stuttgart,Karlsruhe,2,0,H
+4290,D2,2016,2017-02-05,Bochum,Karlsruhe,1,1,D
+4291,D2,2016,2017-02-11,Munich 1860,Karlsruhe,2,1,H
+4292,D2,2016,2017-03-31,Nurnberg,Karlsruhe,2,1,H
+4293,D2,2016,2016-12-09,Dresden,Karlsruhe,0,0,D
+4294,D2,2016,2016-10-01,Fortuna Dusseldorf,Karlsruhe,1,1,D
+4295,D2,2016,2016-08-07,Bielefeld,Karlsruhe,0,0,D
+4296,D2,2016,2017-02-27,St Pauli,Karlsruhe,5,0,H
+4297,D2,2016,2016-11-04,Heidenheim,Karlsruhe,2,1,H
+4298,D2,2016,2017-05-21,Braunschweig,Karlsruhe,2,1,H
+4299,D2,2016,2016-11-27,Kaiserslautern,Karlsruhe,0,0,D
+4300,D2,2016,2017-05-07,Greuther Furth,Karlsruhe,0,1,A
+4301,D2,2016,2017-04-23,Sandhausen,Karlsruhe,4,0,H
+4302,D2,2016,2016-09-10,Union Berlin,Karlsruhe,4,0,H
+4303,D2,2016,2016-10-21,Wurzburger Kickers,Karlsruhe,0,2,A
+4304,D2,2016,2016-09-21,Hannover,Karlsruhe,1,0,H
+4305,D1,2016,2017-04-23,Freiburg,Leverkusen,2,1,H
+4306,D1,2016,2016-12-11,Schalke 04,Leverkusen,0,1,A
+4307,D1,2016,2017-04-08,RB Leipzig,Leverkusen,1,0,H
+4308,D1,2016,2016-12-21,FC Koln,Leverkusen,1,1,D
+4309,D1,2016,2016-10-15,Werder Bremen,Leverkusen,2,1,H
+4310,D1,2016,2017-03-04,Dortmund,Leverkusen,6,2,H
+4311,D1,2016,2017-03-18,Hoffenheim,Leverkusen,1,0,H
+4312,D1,2016,2017-02-03,Hamburg,Leverkusen,1,0,H
+4313,D1,2016,2016-10-29,Wolfsburg,Leverkusen,1,2,A
+4314,D1,2016,2016-08-27,M'gladbach,Leverkusen,2,1,H
+4315,D1,2016,2016-11-26,Bayern Munich,Leverkusen,2,1,H
+4316,D1,2016,2017-05-20,Hertha,Leverkusen,2,6,A
+4317,D1,2016,2017-04-05,Darmstadt,Leverkusen,0,2,A
+4318,D1,2016,2016-09-17,Ein Frankfurt,Leverkusen,2,1,H
+4319,D1,2016,2017-05-06,Ingolstadt,Leverkusen,1,1,D
+4320,D1,2016,2016-09-24,Mainz,Leverkusen,2,3,A
+4321,D1,2016,2017-02-17,Augsburg,Leverkusen,1,3,A
+4322,D2,2016,2017-05-21,Kaiserslautern,Nurnberg,1,0,H
+4323,D2,2016,2016-10-16,Karlsruhe,Nurnberg,0,3,A
+4324,D2,2016,2016-09-25,Bielefeld,Nurnberg,1,3,A
+4325,D2,2016,2016-08-06,Dresden,Nurnberg,1,1,D
+4326,D2,2016,2016-08-28,Braunschweig,Nurnberg,6,1,H
+4327,D2,2016,2017-02-20,Munich 1860,Nurnberg,2,0,H
+4328,D2,2016,2017-02-04,Heidenheim,Nurnberg,2,3,A
+4329,D2,2016,2016-10-31,St Pauli,Nurnberg,1,1,D
+4330,D2,2016,2017-04-23,Wurzburger Kickers,Nurnberg,1,1,D
+4331,D2,2016,2017-03-20,Union Berlin,Nurnberg,1,0,H
+4332,D2,2016,2016-11-28,Stuttgart,Nurnberg,3,1,H
+4333,D2,2016,2017-03-05,Greuther Furth,Nurnberg,1,0,H
+4334,D2,2016,2016-11-04,Erzgebirge Aue,Nurnberg,1,2,A
+4335,D2,2016,2017-04-04,Hannover,Nurnberg,1,0,H
+4336,D2,2016,2017-05-06,Sandhausen,Nurnberg,0,1,A
+4337,D2,2016,2016-12-09,Fortuna Dusseldorf,Nurnberg,0,2,A
+4338,D2,2016,2016-09-16,Bochum,Nurnberg,5,4,H
+4339,D1,2016,2016-12-03,RB Leipzig,Schalke 04,2,1,H
+4340,D1,2016,2016-10-15,Augsburg,Schalke 04,1,1,D
+4341,D1,2016,2017-03-19,Mainz,Schalke 04,0,1,A
+4342,D1,2016,2016-09-18,Hertha,Schalke 04,2,0,H
+4343,D1,2016,2017-02-04,Bayern Munich,Schalke 04,1,1,D
+4344,D1,2016,2017-02-19,FC Koln,Schalke 04,1,1,D
+4345,D1,2016,2017-05-07,Freiburg,Schalke 04,2,0,H
+4346,D1,2016,2017-04-04,Werder Bremen,Schalke 04,3,0,H
+4347,D1,2016,2016-09-25,Hoffenheim,Schalke 04,2,1,H
+4348,D1,2016,2016-10-29,Dortmund,Schalke 04,0,0,D
+4349,D1,2016,2017-04-16,Darmstadt,Schalke 04,2,1,H
+4350,D1,2016,2016-11-19,Wolfsburg,Schalke 04,0,1,A
+4351,D1,2016,2016-12-20,Hamburg,Schalke 04,2,1,H
+4352,D1,2016,2017-03-04,M'gladbach,Schalke 04,4,2,H
+4353,D1,2016,2016-08-27,Ein Frankfurt,Schalke 04,1,0,H
+4354,D1,2016,2017-05-20,Ingolstadt,Schalke 04,1,1,D
+4355,D1,2016,2017-04-28,Leverkusen,Schalke 04,1,4,A
+4356,D2,2016,2016-10-15,Dresden,Stuttgart,5,0,H
+4357,D2,2016,2016-09-17,Kaiserslautern,Stuttgart,0,1,A
+4358,D2,2016,2017-04-05,Munich 1860,Stuttgart,1,1,D
+4359,D2,2016,2016-12-18,Wurzburger Kickers,Stuttgart,3,0,H
+4360,D2,2016,2017-03-06,Braunschweig,Stuttgart,1,1,D
+4361,D2,2016,2016-11-20,Union Berlin,Stuttgart,1,1,D
+4362,D2,2016,2017-01-29,St Pauli,Stuttgart,0,1,A
+4363,D2,2016,2016-08-26,Sandhausen,Stuttgart,1,2,A
+4364,D2,2016,2016-08-12,Fortuna Dusseldorf,Stuttgart,1,0,H
+4365,D2,2016,2016-10-30,Karlsruhe,Stuttgart,1,3,A
+4366,D2,2016,2017-04-29,Nurnberg,Stuttgart,2,3,A
+4367,D2,2016,2017-05-14,Hannover,Stuttgart,1,0,H
+4368,D2,2016,2017-04-17,Bielefeld,Stuttgart,2,3,A
+4369,D2,2016,2016-09-23,Bochum,Stuttgart,1,1,D
+4370,D2,2016,2017-03-18,Greuther Furth,Stuttgart,1,0,H
+4371,D2,2016,2016-12-04,Erzgebirge Aue,Stuttgart,0,4,A
+4372,D2,2016,2017-02-17,Heidenheim,Stuttgart,1,2,A
+4373,D1,2016,2016-08-26,Bayern Munich,Werder Bremen,6,0,H
+4374,D1,2016,2017-03-10,Leverkusen,Werder Bremen,1,1,D
+4375,D1,2016,2016-12-10,Hertha,Werder Bremen,0,1,A
+4376,D1,2016,2016-10-23,RB Leipzig,Werder Bremen,3,1,H
+4377,D1,2016,2017-04-22,Ingolstadt,Werder Bremen,2,4,A
+4378,D1,2016,2017-02-24,Wolfsburg,Werder Bremen,1,2,A
+4379,D1,2016,2017-02-05,Augsburg,Werder Bremen,3,2,H
+4380,D1,2016,2017-04-07,Ein Frankfurt,Werder Bremen,2,2,D
+4381,D1,2016,2016-09-17,M'gladbach,Werder Bremen,4,1,H
+4382,D1,2016,2017-04-01,Freiburg,Werder Bremen,2,5,A
+4383,D1,2016,2017-02-18,Mainz,Werder Bremen,0,2,A
+4384,D1,2016,2016-12-21,Hoffenheim,Werder Bremen,1,1,D
+4385,D1,2016,2016-11-06,Schalke 04,Werder Bremen,3,1,H
+4386,D1,2016,2017-05-20,Dortmund,Werder Bremen,4,3,H
+4387,D1,2016,2016-11-26,Hamburg,Werder Bremen,2,2,D
+4388,D1,2016,2017-05-05,FC Koln,Werder Bremen,4,3,H
+4389,D1,2016,2016-10-01,Darmstadt,Werder Bremen,2,2,D
+4390,D2,2016,2017-03-10,Stuttgart,Bochum,1,1,D
+4391,D2,2016,2016-09-20,Fortuna Dusseldorf,Bochum,3,0,H
+4392,D2,2016,2017-04-23,Braunschweig,Bochum,2,0,H
+4393,D2,2016,2017-02-13,Hannover,Bochum,2,1,H
+4394,D2,2016,2017-05-14,Munich 1860,Bochum,1,2,A
+4395,D2,2016,2016-09-30,Erzgebirge Aue,Bochum,2,4,A
+4396,D2,2016,2016-11-05,Greuther Furth,Bochum,2,1,H
+4397,D2,2016,2016-09-09,Wurzburger Kickers,Bochum,2,0,H
+4398,D2,2016,2017-04-08,Heidenheim,Bochum,0,0,D
+4399,D2,2016,2016-11-26,Dresden,Bochum,2,2,D
+4400,D2,2016,2016-08-13,Karlsruhe,Bochum,1,1,D
+4401,D2,2016,2017-04-01,Sandhausen,Bochum,0,0,D
+4402,D2,2016,2016-12-04,Bielefeld,Bochum,1,0,H
+4403,D2,2016,2016-10-24,Kaiserslautern,Bochum,3,0,H
+4404,D2,2016,2016-12-17,St Pauli,Bochum,1,1,D
+4405,D2,2016,2017-01-27,Union Berlin,Bochum,2,1,H
+4406,D2,2016,2017-02-26,Nurnberg,Bochum,0,1,A
+4407,D2,2016,2017-03-04,Karlsruhe,Hannover,2,0,H
+4408,D2,2016,2016-11-06,Braunschweig,Hannover,2,2,D
+4409,D2,2016,2017-02-03,Greuther Furth,Hannover,4,1,H
+4410,D2,2016,2016-12-12,Stuttgart,Hannover,1,2,A
+4411,D2,2016,2017-03-18,St Pauli,Hannover,0,0,D
+4412,D2,2016,2017-04-07,Wurzburger Kickers,Hannover,0,0,D
+4413,D2,2016,2016-11-25,Fortuna Dusseldorf,Hannover,2,2,D
+4414,D2,2016,2016-10-16,Union Berlin,Hannover,2,1,H
+4415,D2,2016,2017-05-05,Heidenheim,Hannover,0,2,A
+4416,D2,2016,2016-08-26,Bochum,Hannover,1,1,D
+4417,D2,2016,2017-05-21,Sandhausen,Hannover,1,1,D
+4418,D2,2016,2017-04-22,Erzgebirge Aue,Hannover,2,2,D
+4419,D2,2016,2016-10-23,Nurnberg,Hannover,2,0,H
+4420,D2,2016,2016-08-05,Kaiserslautern,Hannover,0,4,A
+4421,D2,2016,2017-02-19,Dresden,Hannover,1,2,A
+4422,D2,2016,2016-09-25,Munich 1860,Hannover,0,2,A
+4423,D2,2016,2016-09-18,Bielefeld,Hannover,3,3,D
+4424,D1,2016,2016-10-14,Dortmund,Hertha,1,1,D
+4425,D1,2016,2016-11-19,Augsburg,Hertha,0,0,D
+4426,D1,2016,2017-05-13,Darmstadt,Hertha,0,2,A
+4427,D1,2016,2017-01-29,Freiburg,Hertha,2,1,H
+4428,D1,2016,2017-04-05,M'gladbach,Hertha,1,0,H
+4429,D1,2016,2017-04-29,Werder Bremen,Hertha,2,0,H
+4430,D1,2016,2016-09-24,Ein Frankfurt,Hertha,3,3,D
+4431,D1,2016,2017-01-22,Leverkusen,Hertha,3,1,H
+4432,D1,2016,2017-02-11,Schalke 04,Hertha,2,0,H
+4433,D1,2016,2016-12-17,RB Leipzig,Hertha,2,0,H
+4434,D1,2016,2016-09-10,Ingolstadt,Hertha,0,2,A
+4435,D1,2016,2016-12-03,Wolfsburg,Hertha,2,3,A
+4436,D1,2016,2017-04-15,Mainz,Hertha,1,0,H
+4437,D1,2016,2016-10-30,Hoffenheim,Hertha,1,0,H
+4438,D1,2016,2016-09-21,Bayern Munich,Hertha,3,0,H
+4439,D1,2016,2017-03-18,FC Koln,Hertha,4,2,H
+4440,D1,2016,2017-03-05,Hamburg,Hertha,1,0,H
+4441,D1,2016,2017-04-22,Bayern Munich,Mainz,2,2,D
+4442,D1,2016,2016-10-23,Schalke 04,Mainz,3,0,H
+4443,D1,2016,2016-08-27,Dortmund,Mainz,2,1,H
+4444,D1,2016,2017-05-07,Hamburg,Mainz,0,0,D
+4445,D1,2016,2016-11-06,RB Leipzig,Mainz,3,1,H
+4446,D1,2016,2016-12-20,Ein Frankfurt,Mainz,3,0,H
+4447,D1,2016,2017-04-08,Freiburg,Mainz,1,0,H
+4448,D1,2016,2016-09-18,Augsburg,Mainz,1,3,A
+4449,D1,2016,2017-05-20,FC Koln,Mainz,2,0,H
+4450,D1,2016,2017-03-11,Darmstadt,Mainz,2,1,H
+4451,D1,2016,2016-12-11,M'gladbach,Mainz,1,0,H
+4452,D1,2016,2016-09-21,Werder Bremen,Mainz,1,2,A
+4453,D1,2016,2017-02-25,Leverkusen,Mainz,0,2,A
+4454,D1,2016,2016-10-02,Wolfsburg,Mainz,0,0,D
+4455,D1,2016,2017-04-02,Ingolstadt,Mainz,2,1,H
+4456,D1,2016,2017-02-04,Hoffenheim,Mainz,4,0,H
+4457,D1,2016,2016-11-27,Hertha,Mainz,2,1,H
+4458,D2,2016,2016-11-06,Sandhausen,Munich 1860,3,2,H
+4459,D2,2016,2017-05-05,Dresden,Munich 1860,1,2,A
+4460,D2,2016,2017-02-24,Union Berlin,Munich 1860,2,0,H
+4461,D2,2016,2017-04-09,Erzgebirge Aue,Munich 1860,3,0,H
+4462,D2,2016,2016-10-21,Stuttgart,Munich 1860,2,1,H
+4463,D2,2016,2016-08-27,Karlsruhe,Munich 1860,0,0,D
+4464,D2,2016,2016-08-07,Greuther Furth,Munich 1860,1,0,H
+4465,D2,2016,2017-03-11,Hannover,Munich 1860,1,0,H
+4466,D2,2016,2016-10-02,Wurzburger Kickers,Munich 1860,2,0,H
+4467,D2,2016,2016-09-12,Nurnberg,Munich 1860,1,2,A
+4468,D2,2016,2017-02-03,Bielefeld,Munich 1860,2,1,H
+4469,D2,2016,2017-05-21,Heidenheim,Munich 1860,2,1,H
+4470,D2,2016,2017-03-31,Fortuna Dusseldorf,Munich 1860,0,1,A
+4471,D2,2016,2016-09-22,St Pauli,Munich 1860,2,2,D
+4472,D2,2016,2016-11-27,Braunschweig,Munich 1860,2,1,H
+4473,D2,2016,2016-12-10,Bochum,Munich 1860,1,0,H
+4474,D2,2016,2017-04-21,Kaiserslautern,Munich 1860,1,0,H
+4475,D2,2016,2017-02-19,Bielefeld,St Pauli,1,1,D
+4476,D2,2016,2017-04-07,Nurnberg,St Pauli,0,2,A
+4477,D2,2016,2017-05-05,Kaiserslautern,St Pauli,1,2,A
+4478,D2,2016,2016-11-26,Heidenheim,St Pauli,2,0,H
+4479,D2,2016,2017-03-31,Erzgebirge Aue,St Pauli,1,0,H
+4480,D2,2016,2016-09-18,Karlsruhe,St Pauli,1,1,D
+4481,D2,2016,2016-10-22,Sandhausen,St Pauli,3,0,H
+4482,D2,2016,2016-08-08,Stuttgart,St Pauli,2,1,H
+4483,D2,2016,2017-02-05,Braunschweig,St Pauli,1,2,A
+4484,D2,2016,2017-03-04,Munich 1860,St Pauli,1,2,A
+4485,D2,2016,2016-11-07,Wurzburger Kickers,St Pauli,1,0,H
+4486,D2,2016,2017-04-21,Fortuna Dusseldorf,St Pauli,1,3,A
+4487,D2,2016,2016-10-01,Hannover,St Pauli,2,0,H
+4488,D2,2016,2016-08-28,Dresden,St Pauli,1,0,H
+4489,D2,2016,2016-09-26,Union Berlin,St Pauli,2,0,H
+4490,D2,2016,2016-12-11,Greuther Furth,St Pauli,0,2,A
+4491,D2,2016,2017-05-21,Bochum,St Pauli,1,3,A
+4492,D1,2016,2016-12-10,Bayern Munich,Wolfsburg,5,0,H
+4493,D1,2016,2017-03-04,Mainz,Wolfsburg,1,1,D
+4494,D1,2016,2017-05-20,Hamburg,Wolfsburg,2,1,H
+4495,D1,2016,2017-04-22,Hertha,Wolfsburg,1,0,H
+4496,D1,2016,2016-09-17,Hoffenheim,Wolfsburg,0,0,D
+4497,D1,2016,2016-09-24,Werder Bremen,Wolfsburg,2,1,H
+4498,D1,2016,2016-08-27,Augsburg,Wolfsburg,0,2,A
+4499,D1,2016,2017-02-04,FC Koln,Wolfsburg,1,0,H
+4500,D1,2016,2016-11-05,Freiburg,Wolfsburg,0,3,A
+4501,D1,2016,2017-05-06,Ein Frankfurt,Wolfsburg,0,2,A
+4502,D1,2016,2016-11-26,Ingolstadt,Wolfsburg,1,1,D
+4503,D1,2016,2016-10-22,Darmstadt,Wolfsburg,3,1,H
+4504,D1,2016,2016-12-20,M'gladbach,Wolfsburg,1,2,A
+4505,D1,2016,2017-02-18,Dortmund,Wolfsburg,3,0,H
+4506,D1,2016,2017-04-08,Schalke 04,Wolfsburg,4,1,H
+4507,D1,2016,2017-03-11,RB Leipzig,Wolfsburg,0,1,A
+4508,D1,2016,2017-04-02,Leverkusen,Wolfsburg,3,3,D
+4509,D1,2016,2016-09-10,Freiburg,M'gladbach,3,1,H
+4510,D1,2016,2017-05-13,Wolfsburg,M'gladbach,1,1,D
+4511,D1,2016,2017-01-28,Leverkusen,M'gladbach,2,3,A
+4512,D1,2016,2017-04-01,Ein Frankfurt,M'gladbach,0,0,D
+4513,D1,2016,2016-10-02,Schalke 04,M'gladbach,4,0,H
+4514,D1,2016,2017-04-08,FC Koln,M'gladbach,2,3,A
+4515,D1,2016,2017-02-11,Werder Bremen,M'gladbach,0,1,A
+4516,D1,2016,2016-10-22,Bayern Munich,M'gladbach,2,0,H
+4517,D1,2016,2016-12-17,Augsburg,M'gladbach,1,0,H
+4518,D1,2016,2016-11-04,Hertha,M'gladbach,3,0,H
+4519,D1,2016,2017-04-15,Hoffenheim,M'gladbach,5,3,H
+4520,D1,2016,2016-12-03,Dortmund,M'gladbach,4,1,H
+4521,D1,2016,2016-09-21,RB Leipzig,M'gladbach,1,1,D
+4522,D1,2016,2017-03-12,Hamburg,M'gladbach,2,1,H
+4523,D1,2016,2017-02-26,Ingolstadt,M'gladbach,0,2,A
+4524,D1,2016,2017-04-29,Mainz,M'gladbach,1,2,A
+4525,D1,2016,2017-01-21,Darmstadt,M'gladbach,0,0,D
+4526,D2,2016,2017-03-12,Nurnberg,Bielefeld,1,0,H
+4527,D2,2016,2017-04-01,Wurzburger Kickers,Bielefeld,1,1,D
+4528,D2,2016,2017-02-12,Union Berlin,Bielefeld,3,1,H
+4529,D2,2016,2016-11-06,Stuttgart,Bielefeld,3,1,H
+4530,D2,2016,2016-12-11,Braunschweig,Bielefeld,3,2,H
+4531,D2,2016,2016-09-21,Erzgebirge Aue,Bielefeld,1,1,D
+4532,D2,2016,2016-11-25,Greuther Furth,Bielefeld,2,1,H
+4533,D2,2016,2016-09-10,St Pauli,Bielefeld,2,1,H
+4534,D2,2016,2017-05-07,Bochum,Bielefeld,1,1,D
+4535,D2,2016,2016-10-21,Fortuna Dusseldorf,Bielefeld,4,0,H
+4536,D2,2016,2017-05-21,Dresden,Bielefeld,1,1,D
+4537,D2,2016,2017-01-29,Karlsruhe,Bielefeld,3,2,H
+4538,D2,2016,2017-02-25,Hannover,Bielefeld,2,2,D
+4539,D2,2016,2017-04-22,Heidenheim,Bielefeld,2,2,D
+4540,D2,2016,2017-04-07,Sandhausen,Bielefeld,1,3,A
+4541,D2,2016,2016-10-02,Kaiserslautern,Bielefeld,0,0,D
+4542,D2,2016,2016-08-14,Munich 1860,Bielefeld,1,0,H
+4543,D2,2016,2017-02-10,Erzgebirge Aue,Greuther Furth,0,0,D
+4544,D2,2016,2016-12-02,Karlsruhe,Greuther Furth,1,2,A
+4545,D2,2016,2016-09-11,Fortuna Dusseldorf,Greuther Furth,1,1,D
+4546,D2,2016,2017-03-12,Sandhausen,Greuther Furth,1,1,D
+4547,D2,2016,2016-08-14,Hannover,Greuther Furth,3,1,H
+4548,D2,2016,2017-01-27,Munich 1860,Greuther Furth,2,1,H
+4549,D2,2016,2017-04-02,Heidenheim,Greuther Furth,0,2,A
+4550,D2,2016,2016-10-23,Braunschweig,Greuther Furth,1,0,H
+4551,D2,2016,2016-11-20,Dresden,Greuther Furth,2,1,H
+4552,D2,2016,2017-05-14,St Pauli,Greuther Furth,1,1,D
+4553,D2,2016,2016-12-16,Union Berlin,Greuther Furth,1,1,D
+4554,D2,2016,2016-09-20,Nurnberg,Greuther Furth,1,2,A
+4555,D2,2016,2017-04-29,Bielefeld,Greuther Furth,1,1,D
+4556,D2,2016,2017-04-08,Kaiserslautern,Greuther Furth,2,0,H
+4557,D2,2016,2016-10-03,Stuttgart,Greuther Furth,4,0,H
+4558,D2,2016,2017-02-24,Wurzburger Kickers,Greuther Furth,1,1,D
+4559,D2,2016,2017-04-16,Bochum,Greuther Furth,1,0,H
+4560,D2,2016,2017-03-10,St Pauli,Union Berlin,1,2,A
+4561,D2,2016,2017-04-09,Fortuna Dusseldorf,Union Berlin,2,2,D
+4562,D2,2016,2017-05-21,Greuther Furth,Union Berlin,1,2,A
+4563,D2,2016,2016-09-30,Nurnberg,Union Berlin,2,0,H
+4564,D2,2016,2017-04-01,Hannover,Union Berlin,2,0,H
+4565,D2,2016,2017-02-05,Dresden,Union Berlin,0,0,D
+4566,D2,2016,2016-11-27,Sandhausen,Union Berlin,0,1,A
+4567,D2,2016,2016-09-21,Wurzburger Kickers,Union Berlin,0,1,A
+4568,D2,2016,2016-12-09,Heidenheim,Union Berlin,3,0,H
+4569,D2,2016,2017-04-24,Stuttgart,Union Berlin,3,1,H
+4570,D2,2016,2016-08-28,Bielefeld,Union Berlin,4,4,D
+4571,D2,2016,2016-11-05,Kaiserslautern,Union Berlin,1,0,H
+4572,D2,2016,2016-10-23,Erzgebirge Aue,Union Berlin,1,3,A
+4573,D2,2016,2017-02-19,Karlsruhe,Union Berlin,1,2,A
+4574,D2,2016,2017-05-08,Braunschweig,Union Berlin,3,1,H
+4575,D2,2016,2016-08-06,Bochum,Union Berlin,2,1,H
+4576,D2,2016,2016-09-16,Munich 1860,Union Berlin,1,2,A
+4577,D2,2016,2016-11-18,Bochum,Braunschweig,1,1,D
+4578,D2,2016,2017-01-28,Wurzburger Kickers,Braunschweig,1,1,D
+4579,D2,2016,2017-04-30,Munich 1860,Braunschweig,0,1,A
+4580,D2,2016,2017-04-05,Greuther Furth,Braunschweig,0,0,D
+4581,D2,2016,2017-03-13,Fortuna Dusseldorf,Braunschweig,1,2,A
+4582,D2,2016,2017-04-02,Kaiserslautern,Braunschweig,0,1,A
+4583,D2,2016,2016-12-17,Karlsruhe,Braunschweig,0,0,D
+4584,D2,2016,2017-05-14,Bielefeld,Braunschweig,6,0,H
+4585,D2,2016,2016-10-02,Heidenheim,Braunschweig,1,1,D
+4586,D2,2016,2016-09-09,Erzgebirge Aue,Braunschweig,0,2,A
+4587,D2,2016,2017-02-10,Nurnberg,Braunschweig,1,1,D
+4588,D2,2016,2016-12-05,Union Berlin,Braunschweig,2,0,H
+4589,D2,2016,2017-04-15,Hannover,Braunschweig,1,0,H
+4590,D2,2016,2017-02-24,Sandhausen,Braunschweig,0,1,A
+4591,D2,2016,2016-10-28,Dresden,Braunschweig,3,2,H
+4592,D2,2016,2016-08-13,St Pauli,Braunschweig,0,2,A
+4593,D2,2016,2016-09-20,Stuttgart,Braunschweig,2,0,H
+4594,D2,2016,2016-10-28,Munich 1860,Erzgebirge Aue,6,2,H
+4595,D2,2016,2017-04-05,Union Berlin,Erzgebirge Aue,0,1,A
+4596,D2,2016,2017-03-19,Bochum,Erzgebirge Aue,1,1,D
+4597,D2,2016,2016-09-24,Karlsruhe,Erzgebirge Aue,2,0,H
+4598,D2,2016,2016-11-25,Wurzburger Kickers,Erzgebirge Aue,1,1,D
+4599,D2,2016,2017-03-05,Bielefeld,Erzgebirge Aue,2,2,D
+4600,D2,2016,2017-02-17,Braunschweig,Erzgebirge Aue,1,1,D
+4601,D2,2016,2017-05-21,Fortuna Dusseldorf,Erzgebirge Aue,1,0,H
+4602,D2,2016,2016-08-27,Greuther Furth,Erzgebirge Aue,3,2,H
+4603,D2,2016,2017-02-04,Sandhausen,Erzgebirge Aue,2,0,H
+4604,D2,2016,2017-04-15,Nurnberg,Erzgebirge Aue,2,1,H
+4605,D2,2016,2016-09-18,Dresden,Erzgebirge Aue,0,3,A
+4606,D2,2016,2016-08-07,Heidenheim,Erzgebirge Aue,1,0,H
+4607,D2,2016,2017-05-07,Stuttgart,Erzgebirge Aue,3,0,H
+4608,D2,2016,2016-11-19,Hannover,Erzgebirge Aue,2,0,H
+4609,D2,2016,2016-12-10,Kaiserslautern,Erzgebirge Aue,0,0,D
+4610,D2,2016,2016-10-14,St Pauli,Erzgebirge Aue,1,2,A
+4611,D1,2016,2017-02-10,Mainz,Augsburg,2,0,H
+4612,D1,2016,2017-04-01,Bayern Munich,Augsburg,6,0,H
+4613,D1,2016,2017-04-22,Ein Frankfurt,Augsburg,3,1,H
+4614,D1,2016,2016-11-05,Ingolstadt,Augsburg,0,2,A
+4615,D1,2016,2017-05-20,Hoffenheim,Augsburg,0,0,D
+4616,D1,2016,2017-05-06,M'gladbach,Augsburg,1,1,D
+4617,D1,2016,2016-09-11,Werder Bremen,Augsburg,1,2,A
+4618,D1,2016,2016-09-30,RB Leipzig,Augsburg,2,1,H
+4619,D1,2016,2017-01-28,Wolfsburg,Augsburg,1,2,A
+4620,D1,2016,2017-02-25,Darmstadt,Augsburg,1,2,A
+4621,D1,2016,2016-12-20,Dortmund,Augsburg,1,1,D
+4622,D1,2016,2016-10-22,Freiburg,Augsburg,2,1,H
+4623,D1,2016,2016-09-21,Leverkusen,Augsburg,0,0,D
+4624,D1,2016,2016-12-10,Hamburg,Augsburg,1,0,H
+4625,D1,2016,2017-04-09,Hertha,Augsburg,2,0,H
+4626,D1,2016,2017-03-12,Schalke 04,Augsburg,3,0,H
+4627,D1,2016,2016-11-26,FC Koln,Augsburg,0,0,D
+4628,D1,2016,2017-05-06,Dortmund,Hoffenheim,2,1,H
+4629,D1,2016,2016-10-22,Leverkusen,Hoffenheim,0,3,A
+4630,D1,2016,2017-04-08,Hamburg,Hoffenheim,2,1,H
+4631,D1,2016,2016-09-11,Mainz,Hoffenheim,4,4,D
+4632,D1,2016,2017-01-28,RB Leipzig,Hoffenheim,2,1,H
+4633,D1,2016,2017-04-21,FC Koln,Hoffenheim,1,1,D
+4634,D1,2016,2017-03-31,Hertha,Hoffenheim,1,3,A
+4635,D1,2016,2016-09-20,Darmstadt,Hoffenheim,1,1,D
+4636,D1,2016,2017-02-26,Schalke 04,Hoffenheim,1,1,D
+4637,D1,2016,2017-05-13,Werder Bremen,Hoffenheim,3,5,A
+4638,D1,2016,2017-03-11,Freiburg,Hoffenheim,1,1,D
+4639,D1,2016,2017-02-12,Wolfsburg,Hoffenheim,2,1,H
+4640,D1,2016,2017-01-21,Augsburg,Hoffenheim,0,2,A
+4641,D1,2016,2016-11-05,Bayern Munich,Hoffenheim,1,1,D
+4642,D1,2016,2016-11-26,M'gladbach,Hoffenheim,1,1,D
+4643,D1,2016,2016-12-09,Ein Frankfurt,Hoffenheim,0,0,D
+4644,D1,2016,2016-10-01,Ingolstadt,Hoffenheim,1,2,A
+4645,D1,2016,2017-04-05,Augsburg,Ingolstadt,2,3,A
+4646,D1,2016,2017-03-04,Hoffenheim,Ingolstadt,5,2,H
+4647,D1,2016,2017-01-21,Schalke 04,Ingolstadt,1,0,H
+4648,D1,2016,2016-09-17,Bayern Munich,Ingolstadt,3,1,H
+4649,D1,2016,2016-11-19,Darmstadt,Ingolstadt,0,1,A
+4650,D1,2016,2016-10-15,FC Koln,Ingolstadt,2,1,H
+4651,D1,2016,2017-02-04,Hertha,Ingolstadt,1,0,H
+4652,D1,2016,2016-09-24,M'gladbach,Ingolstadt,2,0,H
+4653,D1,2016,2017-05-13,Freiburg,Ingolstadt,1,1,D
+4654,D1,2016,2016-10-29,Mainz,Ingolstadt,2,0,H
+4655,D1,2016,2016-08-27,Hamburg,Ingolstadt,1,1,D
+4656,D1,2016,2017-04-15,Wolfsburg,Ingolstadt,3,0,H
+4657,D1,2016,2017-02-18,Ein Frankfurt,Ingolstadt,0,2,A
+4658,D1,2016,2016-12-18,Leverkusen,Ingolstadt,1,2,A
+4659,D1,2016,2017-03-17,Dortmund,Ingolstadt,1,0,H
+4660,D1,2016,2017-04-29,RB Leipzig,Ingolstadt,0,0,D
+4661,D1,2016,2016-12-03,Werder Bremen,Ingolstadt,2,1,H
+4662,D2,2016,2016-09-17,Heidenheim,Fortuna Dusseldorf,2,0,H
+4663,D2,2016,2017-05-14,Nurnberg,Fortuna Dusseldorf,2,3,A
+4664,D2,2016,2016-11-20,St Pauli,Fortuna Dusseldorf,0,1,A
+4665,D2,2016,2017-02-18,Greuther Furth,Fortuna Dusseldorf,1,0,H
+4666,D2,2016,2016-12-16,Erzgebirge Aue,Fortuna Dusseldorf,0,0,D
+4667,D2,2016,2017-02-06,Stuttgart,Fortuna Dusseldorf,2,0,H
+4668,D2,2016,2016-10-16,Munich 1860,Fortuna Dusseldorf,1,3,A
+4669,D2,2016,2016-10-29,Union Berlin,Fortuna Dusseldorf,0,1,A
+4670,D2,2016,2017-04-16,Dresden,Fortuna Dusseldorf,1,1,D
+4671,D2,2016,2017-04-30,Hannover,Fortuna Dusseldorf,1,0,H
+4672,D2,2016,2016-12-04,Wurzburger Kickers,Fortuna Dusseldorf,0,0,D
+4673,D2,2016,2017-03-19,Karlsruhe,Fortuna Dusseldorf,0,3,A
+4674,D2,2016,2016-08-06,Sandhausen,Fortuna Dusseldorf,2,2,D
+4675,D2,2016,2017-03-03,Bochum,Fortuna Dusseldorf,1,2,A
+4676,D2,2016,2017-04-04,Bielefeld,Fortuna Dusseldorf,2,1,H
+4677,D2,2016,2016-09-23,Braunschweig,Fortuna Dusseldorf,2,1,H
+4678,D2,2016,2016-08-29,Kaiserslautern,Fortuna Dusseldorf,0,0,D
+4679,D2,2016,2017-02-17,Kaiserslautern,Sandhausen,3,0,H
+4680,D2,2016,2016-10-14,Bochum,Sandhausen,2,2,D
+4681,D2,2016,2017-03-05,Heidenheim,Sandhausen,2,2,D
+4682,D2,2016,2017-03-19,Dresden,Sandhausen,2,0,H
+4683,D2,2016,2016-12-03,Nurnberg,Sandhausen,1,3,A
+4684,D2,2016,2017-05-14,Wurzburger Kickers,Sandhausen,0,1,A
+4685,D2,2016,2016-11-19,Karlsruhe,Sandhausen,1,3,A
+4686,D2,2016,2016-12-18,Hannover,Sandhausen,0,0,D
+4687,D2,2016,2016-09-23,Greuther Furth,Sandhausen,1,1,D
+4688,D2,2016,2016-09-17,Braunschweig,Sandhausen,2,1,H
+4689,D2,2016,2017-04-28,Union Berlin,Sandhausen,2,1,H
+4690,D2,2016,2016-10-28,Bielefeld,Sandhausen,1,0,H
+4691,D2,2016,2016-08-12,Erzgebirge Aue,Sandhausen,2,0,H
+4692,D2,2016,2017-01-27,Fortuna Dusseldorf,Sandhausen,0,3,A
+4693,D2,2016,2017-04-04,St Pauli,Sandhausen,0,0,D
+4694,D2,2016,2017-02-12,Stuttgart,Sandhausen,2,1,H
+4695,D2,2016,2017-04-16,Munich 1860,Sandhausen,1,1,D
+4696,D1,2016,2016-12-21,Hertha,Darmstadt,2,0,H
+4697,D1,2016,2017-05-20,M'gladbach,Darmstadt,2,2,D
+4698,D1,2016,2016-11-05,Leverkusen,Darmstadt,3,2,H
+4699,D1,2016,2017-05-06,Bayern Munich,Darmstadt,1,0,H
+4700,D1,2016,2017-02-18,Hoffenheim,Darmstadt,2,0,H
+4701,D1,2016,2017-02-05,Ein Frankfurt,Darmstadt,2,0,H
+4702,D1,2016,2016-08-27,FC Koln,Darmstadt,2,0,H
+4703,D1,2016,2016-09-17,Dortmund,Darmstadt,6,0,H
+4704,D1,2016,2017-03-04,Werder Bremen,Darmstadt,2,0,H
+4705,D1,2016,2017-04-09,Ingolstadt,Darmstadt,3,2,H
+4706,D1,2016,2017-04-22,Hamburg,Darmstadt,1,2,A
+4707,D1,2016,2017-04-01,RB Leipzig,Darmstadt,4,0,H
+4708,D1,2016,2017-03-18,Wolfsburg,Darmstadt,1,0,H
+4709,D1,2016,2016-10-16,Mainz,Darmstadt,2,1,H
+4710,D1,2016,2016-12-10,Freiburg,Darmstadt,1,0,H
+4711,D1,2016,2016-11-27,Schalke 04,Darmstadt,3,1,H
+4712,D1,2016,2016-09-24,Augsburg,Darmstadt,1,0,H
+4713,D2,2016,2016-11-18,Bielefeld,Heidenheim,2,1,H
+4714,D2,2016,2016-12-16,Munich 1860,Heidenheim,1,1,D
+4715,D2,2016,2016-10-30,Bochum,Heidenheim,2,1,H
+4716,D2,2016,2017-05-14,Union Berlin,Heidenheim,0,1,A
+4717,D2,2016,2016-09-09,Stuttgart,Heidenheim,1,2,A
+4718,D2,2016,2016-08-12,Nurnberg,Heidenheim,1,1,D
+4719,D2,2016,2017-01-28,Erzgebirge Aue,Heidenheim,2,1,H
+4720,D2,2016,2017-03-12,Kaiserslautern,Heidenheim,1,1,D
+4721,D2,2016,2016-09-20,Sandhausen,Heidenheim,0,0,D
+4722,D2,2016,2016-10-15,Greuther Furth,Heidenheim,0,2,A
+4723,D2,2016,2017-02-25,Fortuna Dusseldorf,Heidenheim,0,0,D
+4724,D2,2016,2017-02-11,Wurzburger Kickers,Heidenheim,0,2,A
+4725,D2,2016,2017-03-17,Braunschweig,Heidenheim,3,2,H
+4726,D2,2016,2017-04-16,Karlsruhe,Heidenheim,0,1,A
+4727,D2,2016,2016-12-02,Hannover,Heidenheim,3,2,H
+4728,D2,2016,2017-04-05,Dresden,Heidenheim,2,1,H
+4729,D2,2016,2017-04-28,St Pauli,Heidenheim,3,0,H
+4730,D1,2016,2016-11-25,Freiburg,RB Leipzig,1,4,A
+4731,D1,2016,2016-11-18,Leverkusen,RB Leipzig,2,3,A
+4732,D1,2016,2016-08-28,Hoffenheim,RB Leipzig,2,2,D
+4733,D1,2016,2017-05-06,Hertha,RB Leipzig,1,4,A
+4734,D1,2016,2016-10-29,Darmstadt,RB Leipzig,0,2,A
+4735,D1,2016,2016-10-16,Wolfsburg,RB Leipzig,0,1,A
+4736,D1,2016,2017-04-23,Schalke 04,RB Leipzig,1,1,D
+4737,D1,2016,2017-03-03,Augsburg,RB Leipzig,2,2,D
+4738,D1,2016,2016-12-21,Bayern Munich,RB Leipzig,3,0,H
+4739,D1,2016,2017-02-19,M'gladbach,RB Leipzig,1,2,A
+4740,D1,2016,2017-04-05,Mainz,RB Leipzig,2,3,A
+4741,D1,2016,2017-03-18,Werder Bremen,RB Leipzig,3,0,H
+4742,D1,2016,2016-09-25,FC Koln,RB Leipzig,1,1,D
+4743,D1,2016,2016-12-10,Ingolstadt,RB Leipzig,1,0,H
+4744,D1,2016,2017-02-04,Dortmund,RB Leipzig,1,0,H
+4745,D1,2016,2016-09-17,Hamburg,RB Leipzig,0,4,A
+4746,D1,2016,2017-05-20,Ein Frankfurt,RB Leipzig,2,2,D
+4747,D2,2016,2016-11-18,Nurnberg,Wurzburger Kickers,2,2,D
+4748,D2,2016,2017-04-30,Erzgebirge Aue,Wurzburger Kickers,3,1,H
+4749,D2,2016,2017-04-16,St Pauli,Wurzburger Kickers,1,0,H
+4750,D2,2016,2016-10-14,Bielefeld,Wurzburger Kickers,0,1,A
+4751,D2,2016,2017-05-21,Stuttgart,Wurzburger Kickers,4,1,H
+4752,D2,2016,2017-02-03,Kaiserslautern,Wurzburger Kickers,1,0,H
+4753,D2,2016,2016-12-11,Sandhausen,Wurzburger Kickers,0,0,D
+4754,D2,2016,2016-09-16,Greuther Furth,Wurzburger Kickers,0,3,A
+4755,D2,2016,2017-04-04,Karlsruhe,Wurzburger Kickers,1,1,D
+4756,D2,2016,2016-09-25,Dresden,Wurzburger Kickers,2,2,D
+4757,D2,2016,2016-08-07,Braunschweig,Wurzburger Kickers,2,1,H
+4758,D2,2016,2016-08-26,Heidenheim,Wurzburger Kickers,1,2,A
+4759,D2,2016,2017-03-17,Munich 1860,Wurzburger Kickers,2,1,H
+4760,D2,2016,2017-03-03,Union Berlin,Wurzburger Kickers,2,0,H
+4761,D2,2016,2017-02-18,Bochum,Wurzburger Kickers,2,1,H
+4762,D2,2016,2017-05-06,Fortuna Dusseldorf,Wurzburger Kickers,1,1,D
+4763,D2,2016,2016-10-30,Hannover,Wurzburger Kickers,3,1,H
+46395,E0,2016,2016-08-13,Burnley,Swansea,0,1,A
+46396,E0,2016,2016-08-13,Crystal Palace,West Brom,0,1,A
+46397,E0,2016,2016-08-13,Everton,Tottenham,1,1,D
+46398,E0,2016,2016-08-13,Hull,Leicester,2,1,H
+46399,E0,2016,2016-08-13,Man City,Sunderland,2,1,H
+46400,E0,2016,2016-08-13,Middlesbrough,Stoke,1,1,D
+46401,E0,2016,2016-08-13,Southampton,Watford,1,1,D
+46402,E0,2016,2016-08-14,Arsenal,Liverpool,3,4,A
+46403,E0,2016,2016-08-14,Bournemouth,Man United,1,3,A
+46404,E0,2016,2016-08-15,Chelsea,West Ham,2,1,H
+46405,E0,2016,2016-08-19,Man United,Southampton,2,0,H
+46406,E0,2016,2016-08-20,Burnley,Liverpool,2,0,H
+46407,E0,2016,2016-08-20,Leicester,Arsenal,0,0,D
+46408,E0,2016,2016-08-20,Stoke,Man City,1,4,A
+46409,E0,2016,2016-08-20,Swansea,Hull,0,2,A
+46410,E0,2016,2016-08-20,Tottenham,Crystal Palace,1,0,H
+46411,E0,2016,2016-08-20,Watford,Chelsea,1,2,A
+46412,E0,2016,2016-08-20,West Brom,Everton,1,2,A
+46413,E0,2016,2016-08-21,Sunderland,Middlesbrough,1,2,A
+46414,E0,2016,2016-08-21,West Ham,Bournemouth,1,0,H
+46415,E0,2016,2016-08-27,Chelsea,Burnley,3,0,H
+46416,E0,2016,2016-08-27,Crystal Palace,Bournemouth,1,1,D
+46417,E0,2016,2016-08-27,Everton,Stoke,1,0,H
+46418,E0,2016,2016-08-27,Hull,Man United,0,1,A
+46419,E0,2016,2016-08-27,Leicester,Swansea,2,1,H
+46420,E0,2016,2016-08-27,Southampton,Sunderland,1,1,D
+46421,E0,2016,2016-08-27,Tottenham,Liverpool,1,1,D
+46422,E0,2016,2016-08-27,Watford,Arsenal,1,3,A
+46423,E0,2016,2016-08-28,Man City,West Ham,3,1,H
+46424,E0,2016,2016-08-28,West Brom,Middlesbrough,0,0,D
+46425,E0,2016,2016-09-10,Arsenal,Southampton,2,1,H
+46426,E0,2016,2016-09-10,Bournemouth,West Brom,1,0,H
+46427,E0,2016,2016-09-10,Burnley,Hull,1,1,D
+46428,E0,2016,2016-09-10,Liverpool,Leicester,4,1,H
+46429,E0,2016,2016-09-10,Man United,Man City,1,2,A
+46430,E0,2016,2016-09-10,Middlesbrough,Crystal Palace,1,2,A
+46431,E0,2016,2016-09-10,Stoke,Tottenham,0,4,A
+46432,E0,2016,2016-09-10,West Ham,Watford,2,4,A
+46433,E0,2016,2016-09-11,Swansea,Chelsea,2,2,D
+46434,E0,2016,2016-09-12,Sunderland,Everton,0,3,A
+46435,E0,2016,2016-09-16,Chelsea,Liverpool,1,2,A
+46436,E0,2016,2016-09-17,Everton,Middlesbrough,3,1,H
+46437,E0,2016,2016-09-17,Hull,Arsenal,1,4,A
+46438,E0,2016,2016-09-17,Leicester,Burnley,3,0,H
+46439,E0,2016,2016-09-17,Man City,Bournemouth,4,0,H
+46440,E0,2016,2016-09-17,West Brom,West Ham,4,2,H
+46441,E0,2016,2016-09-18,Crystal Palace,Stoke,4,1,H
+46442,E0,2016,2016-09-18,Southampton,Swansea,1,0,H
+46443,E0,2016,2016-09-18,Tottenham,Sunderland,1,0,H
+46444,E0,2016,2016-09-18,Watford,Man United,3,1,H
+46445,E0,2016,2016-09-24,Arsenal,Chelsea,3,0,H
+46446,E0,2016,2016-09-24,Bournemouth,Everton,1,0,H
+46447,E0,2016,2016-09-24,Liverpool,Hull,5,1,H
+46448,E0,2016,2016-09-24,Man United,Leicester,4,1,H
+46449,E0,2016,2016-09-24,Middlesbrough,Tottenham,1,2,A
+46450,E0,2016,2016-09-24,Stoke,West Brom,1,1,D
+46451,E0,2016,2016-09-24,Sunderland,Crystal Palace,2,3,A
+46452,E0,2016,2016-09-24,Swansea,Man City,1,3,A
+46453,E0,2016,2016-09-25,West Ham,Southampton,0,3,A
+46454,E0,2016,2016-09-26,Burnley,Watford,2,0,H
+46455,E0,2016,2016-09-30,Everton,Crystal Palace,1,1,D
+46456,E0,2016,2016-10-01,Hull,Chelsea,0,2,A
+46457,E0,2016,2016-10-01,Sunderland,West Brom,1,1,D
+46458,E0,2016,2016-10-01,Swansea,Liverpool,1,2,A
+46459,E0,2016,2016-10-01,Watford,Bournemouth,2,2,D
+46460,E0,2016,2016-10-01,West Ham,Middlesbrough,1,1,D
+46461,E0,2016,2016-10-02,Burnley,Arsenal,0,1,A
+46462,E0,2016,2016-10-02,Leicester,Southampton,0,0,D
+46463,E0,2016,2016-10-02,Man United,Stoke,1,1,D
+46464,E0,2016,2016-10-02,Tottenham,Man City,2,0,H
+46465,E0,2016,2016-10-15,Arsenal,Swansea,3,2,H
+46466,E0,2016,2016-10-15,Bournemouth,Hull,6,1,H
+46467,E0,2016,2016-10-15,Chelsea,Leicester,3,0,H
+46468,E0,2016,2016-10-15,Crystal Palace,West Ham,0,1,A
+46469,E0,2016,2016-10-15,Man City,Everton,1,1,D
+46470,E0,2016,2016-10-15,Stoke,Sunderland,2,0,H
+46471,E0,2016,2016-10-15,West Brom,Tottenham,1,1,D
+46472,E0,2016,2016-10-16,Middlesbrough,Watford,0,1,A
+46473,E0,2016,2016-10-16,Southampton,Burnley,3,1,H
+46474,E0,2016,2016-10-17,Liverpool,Man United,0,0,D
+46475,E0,2016,2016-10-22,Arsenal,Middlesbrough,0,0,D
+46476,E0,2016,2016-10-22,Bournemouth,Tottenham,0,0,D
+46477,E0,2016,2016-10-22,Burnley,Everton,2,1,H
+46478,E0,2016,2016-10-22,Hull,Stoke,0,2,A
+46479,E0,2016,2016-10-22,Leicester,Crystal Palace,3,1,H
+46480,E0,2016,2016-10-22,Liverpool,West Brom,2,1,H
+46481,E0,2016,2016-10-22,Swansea,Watford,0,0,D
+46482,E0,2016,2016-10-22,West Ham,Sunderland,1,0,H
+46483,E0,2016,2016-10-23,Chelsea,Man United,4,0,H
+46484,E0,2016,2016-10-23,Man City,Southampton,1,1,D
+46485,E0,2016,2016-10-29,Crystal Palace,Liverpool,2,4,A
+46486,E0,2016,2016-10-29,Man United,Burnley,0,0,D
+46487,E0,2016,2016-10-29,Middlesbrough,Bournemouth,2,0,H
+46488,E0,2016,2016-10-29,Sunderland,Arsenal,1,4,A
+46489,E0,2016,2016-10-29,Tottenham,Leicester,1,1,D
+46490,E0,2016,2016-10-29,Watford,Hull,1,0,H
+46491,E0,2016,2016-10-29,West Brom,Man City,0,4,A
+46492,E0,2016,2016-10-30,Everton,West Ham,2,0,H
+46493,E0,2016,2016-10-30,Southampton,Chelsea,0,2,A
+46494,E0,2016,2016-10-31,Stoke,Swansea,3,1,H
+46495,E0,2016,2016-11-05,Bournemouth,Sunderland,1,2,A
+46496,E0,2016,2016-11-05,Burnley,Crystal Palace,3,2,H
+46497,E0,2016,2016-11-05,Chelsea,Everton,5,0,H
+46498,E0,2016,2016-11-05,Man City,Middlesbrough,1,1,D
+46499,E0,2016,2016-11-05,West Ham,Stoke,1,1,D
+46500,E0,2016,2016-11-06,Arsenal,Tottenham,1,1,D
+46501,E0,2016,2016-11-06,Hull,Southampton,2,1,H
+46502,E0,2016,2016-11-06,Leicester,West Brom,1,2,A
+46503,E0,2016,2016-11-06,Liverpool,Watford,6,1,H
+46504,E0,2016,2016-11-06,Swansea,Man United,1,3,A
+46505,E0,2016,2016-11-19,Crystal Palace,Man City,1,2,A
+46506,E0,2016,2016-11-19,Everton,Swansea,1,1,D
+46507,E0,2016,2016-11-19,Man United,Arsenal,1,1,D
+46508,E0,2016,2016-11-19,Southampton,Liverpool,0,0,D
+46509,E0,2016,2016-11-19,Stoke,Bournemouth,0,1,A
+46510,E0,2016,2016-11-19,Sunderland,Hull,3,0,H
+46511,E0,2016,2016-11-19,Tottenham,West Ham,3,2,H
+46512,E0,2016,2016-11-19,Watford,Leicester,2,1,H
+46513,E0,2016,2016-11-20,Middlesbrough,Chelsea,0,1,A
+46514,E0,2016,2016-11-21,West Brom,Burnley,4,0,H
+46515,E0,2016,2016-11-26,Burnley,Man City,1,2,A
+46516,E0,2016,2016-11-26,Chelsea,Tottenham,2,1,H
+46517,E0,2016,2016-11-26,Hull,West Brom,1,1,D
+46518,E0,2016,2016-11-26,Leicester,Middlesbrough,2,2,D
+46519,E0,2016,2016-11-26,Liverpool,Sunderland,2,0,H
+46520,E0,2016,2016-11-26,Swansea,Crystal Palace,5,4,H
+46521,E0,2016,2016-11-27,Arsenal,Bournemouth,3,1,H
+46522,E0,2016,2016-11-27,Man United,West Ham,1,1,D
+46523,E0,2016,2016-11-27,Southampton,Everton,1,0,H
+46524,E0,2016,2016-11-27,Watford,Stoke,0,1,A
+46525,E0,2016,2016-12-03,Crystal Palace,Southampton,3,0,H
+46526,E0,2016,2016-12-03,Man City,Chelsea,1,3,A
+46527,E0,2016,2016-12-03,Stoke,Burnley,2,0,H
+46528,E0,2016,2016-12-03,Sunderland,Leicester,2,1,H
+46529,E0,2016,2016-12-03,Tottenham,Swansea,5,0,H
+46530,E0,2016,2016-12-03,West Brom,Watford,3,1,H
+46531,E0,2016,2016-12-03,West Ham,Arsenal,1,5,A
+46532,E0,2016,2016-12-04,Bournemouth,Liverpool,4,3,H
+46533,E0,2016,2016-12-04,Everton,Man United,1,1,D
+46534,E0,2016,2016-12-05,Middlesbrough,Hull,1,0,H
+46535,E0,2016,2016-12-10,Arsenal,Stoke,3,1,H
+46536,E0,2016,2016-12-10,Burnley,Bournemouth,3,2,H
+46537,E0,2016,2016-12-10,Hull,Crystal Palace,3,3,D
+46538,E0,2016,2016-12-10,Leicester,Man City,4,2,H
+46539,E0,2016,2016-12-10,Swansea,Sunderland,3,0,H
+46540,E0,2016,2016-12-10,Watford,Everton,3,2,H
+46541,E0,2016,2016-12-11,Chelsea,West Brom,1,0,H
+46542,E0,2016,2016-12-11,Liverpool,West Ham,2,2,D
+46543,E0,2016,2016-12-11,Man United,Tottenham,1,0,H
+46544,E0,2016,2016-12-11,Southampton,Middlesbrough,1,0,H
+46545,E0,2016,2016-12-13,Bournemouth,Leicester,1,0,H
+46546,E0,2016,2016-12-13,Everton,Arsenal,2,1,H
+46547,E0,2016,2016-12-14,Crystal Palace,Man United,1,2,A
+46548,E0,2016,2016-12-14,Man City,Watford,2,0,H
+46549,E0,2016,2016-12-14,Middlesbrough,Liverpool,0,3,A
+46550,E0,2016,2016-12-14,Stoke,Southampton,0,0,D
+46551,E0,2016,2016-12-14,Sunderland,Chelsea,0,1,A
+46552,E0,2016,2016-12-14,Tottenham,Hull,3,0,H
+46553,E0,2016,2016-12-14,West Brom,Swansea,3,1,H
+46554,E0,2016,2016-12-14,West Ham,Burnley,1,0,H
+46555,E0,2016,2016-12-17,Crystal Palace,Chelsea,0,1,A
+46556,E0,2016,2016-12-17,Middlesbrough,Swansea,3,0,H
+46557,E0,2016,2016-12-17,Stoke,Leicester,2,2,D
+46558,E0,2016,2016-12-17,Sunderland,Watford,1,0,H
+46559,E0,2016,2016-12-17,West Brom,Man United,0,2,A
+46560,E0,2016,2016-12-17,West Ham,Hull,1,0,H
+46561,E0,2016,2016-12-18,Bournemouth,Southampton,1,3,A
+46562,E0,2016,2016-12-18,Man City,Arsenal,2,1,H
+46563,E0,2016,2016-12-18,Tottenham,Burnley,2,1,H
+46564,E0,2016,2016-12-19,Everton,Liverpool,0,1,A
+46565,E0,2016,2016-12-26,Arsenal,West Brom,1,0,H
+46566,E0,2016,2016-12-26,Burnley,Middlesbrough,1,0,H
+46567,E0,2016,2016-12-26,Chelsea,Bournemouth,3,0,H
+46568,E0,2016,2016-12-26,Hull,Man City,0,3,A
+46569,E0,2016,2016-12-26,Leicester,Everton,0,2,A
+46570,E0,2016,2016-12-26,Man United,Sunderland,3,1,H
+46571,E0,2016,2016-12-26,Swansea,West Ham,1,4,A
+46572,E0,2016,2016-12-26,Watford,Crystal Palace,1,1,D
+46573,E0,2016,2016-12-27,Liverpool,Stoke,4,1,H
+46574,E0,2016,2016-12-28,Southampton,Tottenham,1,4,A
+46575,E0,2016,2016-12-30,Hull,Everton,2,2,D
+46576,E0,2016,2016-12-31,Burnley,Sunderland,4,1,H
+46577,E0,2016,2016-12-31,Chelsea,Stoke,4,2,H
+46578,E0,2016,2016-12-31,Leicester,West Ham,1,0,H
+46579,E0,2016,2016-12-31,Liverpool,Man City,1,0,H
+46580,E0,2016,2016-12-31,Man United,Middlesbrough,2,1,H
+46581,E0,2016,2016-12-31,Southampton,West Brom,1,2,A
+46582,E0,2016,2016-12-31,Swansea,Bournemouth,0,3,A
+46583,E0,2016,2017-01-01,Arsenal,Crystal Palace,2,0,H
+46584,E0,2016,2017-01-01,Watford,Tottenham,1,4,A
+46585,E0,2016,2017-01-02,Everton,Southampton,3,0,H
+46586,E0,2016,2017-01-02,Man City,Burnley,2,1,H
+46587,E0,2016,2017-01-02,Middlesbrough,Leicester,0,0,D
+46588,E0,2016,2017-01-02,Sunderland,Liverpool,2,2,D
+46589,E0,2016,2017-01-02,West Brom,Hull,3,1,H
+46590,E0,2016,2017-01-02,West Ham,Man United,0,2,A
+46591,E0,2016,2017-01-03,Bournemouth,Arsenal,3,3,D
+46592,E0,2016,2017-01-03,Crystal Palace,Swansea,1,2,A
+46593,E0,2016,2017-01-03,Stoke,Watford,2,0,H
+46594,E0,2016,2017-01-04,Tottenham,Chelsea,2,0,H
+46595,E0,2016,2017-01-14,Burnley,Southampton,1,0,H
+46596,E0,2016,2017-01-14,Hull,Bournemouth,3,1,H
+46597,E0,2016,2017-01-14,Leicester,Chelsea,0,3,A
+46598,E0,2016,2017-01-14,Sunderland,Stoke,1,3,A
+46599,E0,2016,2017-01-14,Swansea,Arsenal,0,4,A
+46600,E0,2016,2017-01-14,Tottenham,West Brom,4,0,H
+46601,E0,2016,2017-01-14,Watford,Middlesbrough,0,0,D
+46602,E0,2016,2017-01-14,West Ham,Crystal Palace,3,0,H
+46603,E0,2016,2017-01-15,Everton,Man City,4,0,H
+46604,E0,2016,2017-01-15,Man United,Liverpool,1,1,D
+46605,E0,2016,2017-01-21,Bournemouth,Watford,2,2,D
+46606,E0,2016,2017-01-21,Crystal Palace,Everton,0,1,A
+46607,E0,2016,2017-01-21,Liverpool,Swansea,2,3,A
+46608,E0,2016,2017-01-21,Man City,Tottenham,2,2,D
+46609,E0,2016,2017-01-21,Middlesbrough,West Ham,1,3,A
+46610,E0,2016,2017-01-21,Stoke,Man United,1,1,D
+46611,E0,2016,2017-01-21,West Brom,Sunderland,2,0,H
+46612,E0,2016,2017-01-22,Arsenal,Burnley,2,1,H
+46613,E0,2016,2017-01-22,Chelsea,Hull,2,0,H
+46614,E0,2016,2017-01-22,Southampton,Leicester,3,0,H
+46615,E0,2016,2017-01-31,Arsenal,Watford,1,2,A
+46616,E0,2016,2017-01-31,Bournemouth,Crystal Palace,0,2,A
+46617,E0,2016,2017-01-31,Burnley,Leicester,1,0,H
+46618,E0,2016,2017-01-31,Liverpool,Chelsea,1,1,D
+46619,E0,2016,2017-01-31,Middlesbrough,West Brom,1,1,D
+46620,E0,2016,2017-01-31,Sunderland,Tottenham,0,0,D
+46621,E0,2016,2017-01-31,Swansea,Southampton,2,1,H
+46622,E0,2016,2017-02-01,Man United,Hull,0,0,D
+46623,E0,2016,2017-02-01,Stoke,Everton,1,1,D
+46624,E0,2016,2017-02-01,West Ham,Man City,0,4,A
+46625,E0,2016,2017-02-04,Chelsea,Arsenal,3,1,H
+46626,E0,2016,2017-02-04,Crystal Palace,Sunderland,0,4,A
+46627,E0,2016,2017-02-04,Everton,Bournemouth,6,3,H
+46628,E0,2016,2017-02-04,Hull,Liverpool,2,0,H
+46629,E0,2016,2017-02-04,Southampton,West Ham,1,3,A
+46630,E0,2016,2017-02-04,Tottenham,Middlesbrough,1,0,H
+46631,E0,2016,2017-02-04,Watford,Burnley,2,1,H
+46632,E0,2016,2017-02-04,West Brom,Stoke,1,0,H
+46633,E0,2016,2017-02-05,Leicester,Man United,0,3,A
+46634,E0,2016,2017-02-05,Man City,Swansea,2,1,H
+46635,E0,2016,2017-02-11,Arsenal,Hull,2,0,H
+46636,E0,2016,2017-02-11,Liverpool,Tottenham,2,0,H
+46637,E0,2016,2017-02-11,Man United,Watford,2,0,H
+46638,E0,2016,2017-02-11,Middlesbrough,Everton,0,0,D
+46639,E0,2016,2017-02-11,Stoke,Crystal Palace,1,0,H
+46640,E0,2016,2017-02-11,Sunderland,Southampton,0,4,A
+46641,E0,2016,2017-02-11,West Ham,West Brom,2,2,D
+46642,E0,2016,2017-02-12,Burnley,Chelsea,1,1,D
+46643,E0,2016,2017-02-12,Swansea,Leicester,2,0,H
+46644,E0,2016,2017-02-13,Bournemouth,Man City,0,2,A
+46645,E0,2016,2017-02-25,Chelsea,Swansea,3,1,H
+46646,E0,2016,2017-02-25,Crystal Palace,Middlesbrough,1,0,H
+46647,E0,2016,2017-02-25,Everton,Sunderland,2,0,H
+46648,E0,2016,2017-02-25,Hull,Burnley,1,1,D
+46649,E0,2016,2017-02-25,Watford,West Ham,1,1,D
+46650,E0,2016,2017-02-25,West Brom,Bournemouth,2,1,H
+46651,E0,2016,2017-02-26,Tottenham,Stoke,4,0,H
+46652,E0,2016,2017-02-27,Leicester,Liverpool,3,1,H
+46653,E0,2016,2017-03-04,Leicester,Hull,3,1,H
+46654,E0,2016,2017-03-04,Liverpool,Arsenal,3,1,H
+46655,E0,2016,2017-03-04,Man United,Bournemouth,1,1,D
+46656,E0,2016,2017-03-04,Stoke,Middlesbrough,2,0,H
+46657,E0,2016,2017-03-04,Swansea,Burnley,3,2,H
+46658,E0,2016,2017-03-04,Watford,Southampton,3,4,A
+46659,E0,2016,2017-03-04,West Brom,Crystal Palace,0,2,A
+46660,E0,2016,2017-03-05,Sunderland,Man City,0,2,A
+46661,E0,2016,2017-03-05,Tottenham,Everton,3,2,H
+46662,E0,2016,2017-03-06,West Ham,Chelsea,1,2,A
+46663,E0,2016,2017-03-08,Man City,Stoke,0,0,D
+46664,E0,2016,2017-03-11,Bournemouth,West Ham,3,2,H
+46665,E0,2016,2017-03-11,Everton,West Brom,3,0,H
+46666,E0,2016,2017-03-11,Hull,Swansea,2,1,H
+46667,E0,2016,2017-03-12,Liverpool,Burnley,2,1,H
+46668,E0,2016,2017-03-18,Bournemouth,Swansea,2,0,H
+46669,E0,2016,2017-03-18,Crystal Palace,Watford,1,0,H
+46670,E0,2016,2017-03-18,Everton,Hull,4,0,H
+46671,E0,2016,2017-03-18,Stoke,Chelsea,1,2,A
+46672,E0,2016,2017-03-18,Sunderland,Burnley,0,0,D
+46673,E0,2016,2017-03-18,West Brom,Arsenal,3,1,H
+46674,E0,2016,2017-03-18,West Ham,Leicester,2,3,A
+46675,E0,2016,2017-03-19,Man City,Liverpool,1,1,D
+46676,E0,2016,2017-03-19,Middlesbrough,Man United,1,3,A
+46677,E0,2016,2017-03-19,Tottenham,Southampton,2,1,H
+46678,E0,2016,2017-04-01,Burnley,Tottenham,0,2,A
+46679,E0,2016,2017-04-01,Chelsea,Crystal Palace,1,2,A
+46680,E0,2016,2017-04-01,Hull,West Ham,2,1,H
+46681,E0,2016,2017-04-01,Leicester,Stoke,2,0,H
+46682,E0,2016,2017-04-01,Liverpool,Everton,3,1,H
+46683,E0,2016,2017-04-01,Man United,West Brom,0,0,D
+46684,E0,2016,2017-04-01,Southampton,Bournemouth,0,0,D
+46685,E0,2016,2017-04-01,Watford,Sunderland,1,0,H
+46686,E0,2016,2017-04-02,Arsenal,Man City,2,2,D
+46687,E0,2016,2017-04-02,Swansea,Middlesbrough,0,0,D
+46688,E0,2016,2017-04-04,Burnley,Stoke,1,0,H
+46689,E0,2016,2017-04-04,Leicester,Sunderland,2,0,H
+46690,E0,2016,2017-04-04,Man United,Everton,1,1,D
+46691,E0,2016,2017-04-04,Watford,West Brom,2,0,H
+46692,E0,2016,2017-04-05,Arsenal,West Ham,3,0,H
+46693,E0,2016,2017-04-05,Chelsea,Man City,2,1,H
+46694,E0,2016,2017-04-05,Hull,Middlesbrough,4,2,H
+46695,E0,2016,2017-04-05,Liverpool,Bournemouth,2,2,D
+46696,E0,2016,2017-04-05,Southampton,Crystal Palace,3,1,H
+46697,E0,2016,2017-04-05,Swansea,Tottenham,1,3,A
+46698,E0,2016,2017-04-08,Bournemouth,Chelsea,1,3,A
+46699,E0,2016,2017-04-08,Man City,Hull,3,1,H
+46700,E0,2016,2017-04-08,Middlesbrough,Burnley,0,0,D
+46701,E0,2016,2017-04-08,Stoke,Liverpool,1,2,A
+46702,E0,2016,2017-04-08,Tottenham,Watford,4,0,H
+46703,E0,2016,2017-04-08,West Brom,Southampton,0,1,A
+46704,E0,2016,2017-04-08,West Ham,Swansea,1,0,H
+46705,E0,2016,2017-04-09,Everton,Leicester,4,2,H
+46706,E0,2016,2017-04-09,Sunderland,Man United,0,3,A
+46707,E0,2016,2017-04-10,Crystal Palace,Arsenal,3,0,H
+46708,E0,2016,2017-04-15,Crystal Palace,Leicester,2,2,D
+46709,E0,2016,2017-04-15,Everton,Burnley,3,1,H
+46710,E0,2016,2017-04-15,Southampton,Man City,0,3,A
+46711,E0,2016,2017-04-15,Stoke,Hull,3,1,H
+46712,E0,2016,2017-04-15,Sunderland,West Ham,2,2,D
+46713,E0,2016,2017-04-15,Tottenham,Bournemouth,4,0,H
+46714,E0,2016,2017-04-15,Watford,Swansea,1,0,H
+46715,E0,2016,2017-04-16,Man United,Chelsea,2,0,H
+46716,E0,2016,2017-04-16,West Brom,Liverpool,0,1,A
+46717,E0,2016,2017-04-17,Middlesbrough,Arsenal,1,2,A
+46718,E0,2016,2017-04-22,Bournemouth,Middlesbrough,4,0,H
+46719,E0,2016,2017-04-22,Hull,Watford,2,0,H
+46720,E0,2016,2017-04-22,Swansea,Stoke,2,0,H
+46721,E0,2016,2017-04-22,West Ham,Everton,0,0,D
+46722,E0,2016,2017-04-23,Burnley,Man United,0,2,A
+46723,E0,2016,2017-04-23,Liverpool,Crystal Palace,1,2,A
+46724,E0,2016,2017-04-25,Chelsea,Southampton,4,2,H
+46725,E0,2016,2017-04-26,Arsenal,Leicester,1,0,H
+46726,E0,2016,2017-04-26,Crystal Palace,Tottenham,0,1,A
+46727,E0,2016,2017-04-26,Middlesbrough,Sunderland,1,0,H
+46728,E0,2016,2017-04-27,Man City,Man United,0,0,D
+46729,E0,2016,2017-04-29,Crystal Palace,Burnley,0,2,A
+46730,E0,2016,2017-04-29,Southampton,Hull,0,0,D
+46731,E0,2016,2017-04-29,Stoke,West Ham,0,0,D
+46732,E0,2016,2017-04-29,Sunderland,Bournemouth,0,1,A
+46733,E0,2016,2017-04-29,West Brom,Leicester,0,1,A
+46734,E0,2016,2017-04-30,Everton,Chelsea,0,3,A
+46735,E0,2016,2017-04-30,Man United,Swansea,1,1,D
+46736,E0,2016,2017-04-30,Middlesbrough,Man City,2,2,D
+46737,E0,2016,2017-04-30,Tottenham,Arsenal,2,0,H
+46738,E0,2016,2017-05-01,Watford,Liverpool,0,1,A
+46739,E0,2016,2017-05-05,West Ham,Tottenham,1,0,H
+46740,E0,2016,2017-05-06,Bournemouth,Stoke,2,2,D
+46741,E0,2016,2017-05-06,Burnley,West Brom,2,2,D
+46742,E0,2016,2017-05-06,Hull,Sunderland,0,2,A
+46743,E0,2016,2017-05-06,Leicester,Watford,3,0,H
+46744,E0,2016,2017-05-06,Man City,Crystal Palace,5,0,H
+46745,E0,2016,2017-05-06,Swansea,Everton,1,0,H
+46746,E0,2016,2017-05-07,Arsenal,Man United,2,0,H
+46747,E0,2016,2017-05-07,Liverpool,Southampton,0,0,D
+46748,E0,2016,2017-05-08,Chelsea,Middlesbrough,3,0,H
+46749,E0,2016,2017-05-10,Southampton,Arsenal,0,2,A
+46750,E0,2016,2017-05-12,Everton,Watford,1,0,H
+46751,E0,2016,2017-05-12,West Brom,Chelsea,0,1,A
+46752,E0,2016,2017-05-13,Bournemouth,Burnley,2,1,H
+46753,E0,2016,2017-05-13,Man City,Leicester,2,1,H
+46754,E0,2016,2017-05-13,Middlesbrough,Southampton,1,2,A
+46755,E0,2016,2017-05-13,Stoke,Arsenal,1,4,A
+46756,E0,2016,2017-05-13,Sunderland,Swansea,0,2,A
+46757,E0,2016,2017-05-14,Crystal Palace,Hull,4,0,H
+46758,E0,2016,2017-05-14,Tottenham,Man United,2,1,H
+46759,E0,2016,2017-05-14,West Ham,Liverpool,0,4,A
+46760,E0,2016,2017-05-15,Chelsea,Watford,4,3,H
+46761,E0,2016,2017-05-16,Arsenal,Sunderland,2,0,H
+46762,E0,2016,2017-05-16,Man City,West Brom,3,1,H
+46763,E0,2016,2017-05-17,Southampton,Man United,0,0,D
+46764,E0,2016,2017-05-18,Leicester,Tottenham,1,6,A
+46765,E0,2016,2017-05-21,Arsenal,Everton,3,1,H
+46766,E0,2016,2017-05-21,Burnley,West Ham,1,2,A
+46767,E0,2016,2017-05-21,Chelsea,Sunderland,5,1,H
+46768,E0,2016,2017-05-21,Hull,Tottenham,1,7,A
+46769,E0,2016,2017-05-21,Leicester,Bournemouth,1,1,D
+46770,E0,2016,2017-05-21,Liverpool,Middlesbrough,3,0,H
+46771,E0,2016,2017-05-21,Man United,Crystal Palace,2,0,H
+46772,E0,2016,2017-05-21,Southampton,Stoke,0,1,A
+46773,E0,2016,2017-05-21,Swansea,West Brom,2,1,H
+46774,E0,2016,2017-05-21,Watford,Man City,0,5,A
