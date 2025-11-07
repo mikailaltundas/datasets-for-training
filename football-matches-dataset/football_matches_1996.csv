@@ -1,0 +1,993 @@
+Match_ID,Div,Season,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+31981,D1,1996,1996-08-16,M'gladbach,Bielefeld,0,0,D
+31982,D1,1996,1996-08-16,St Pauli,Bayern Munich,1,2,A
+31983,D1,1996,1996-08-17,Bochum,Duisburg,1,0,H
+31984,D1,1996,1996-08-17,Freiburg,Werder Bremen,3,2,H
+31985,D1,1996,1996-08-17,Hansa Rostock,Karlsruhe,2,2,D
+31986,D1,1996,1996-08-17,Leverkusen,Dortmund,4,2,H
+31987,D1,1996,1996-08-17,Munich 1860,Hamburg,2,1,H
+31988,D1,1996,1996-08-17,Stuttgart,Schalke 04,4,0,H
+31989,D1,1996,1996-08-18,Fortuna Dusseldorf,FC Koln,0,3,A
+31990,D1,1996,1996-08-20,Bielefeld,St Pauli,1,2,A
+31991,D1,1996,1996-08-20,Hamburg,Freiburg,5,1,H
+31992,D1,1996,1996-08-20,Schalke 04,M'gladbach,0,0,D
+31993,D1,1996,1996-08-20,Werder Bremen,Hansa Rostock,1,1,D
+31994,D1,1996,1996-08-21,Bayern Munich,Bochum,1,1,D
+31995,D1,1996,1996-08-21,Dortmund,Dusseldorf,4,0,H
+31996,D1,1996,1996-08-21,Duisburg,Leverkusen,1,3,A
+31997,D1,1996,1996-08-21,FC Koln,Munich 1860,1,0,H
+31998,D1,1996,1996-08-23,Hansa Rostock,Hamburg,0,1,A
+31999,D1,1996,1996-08-23,St Pauli,Schalke 04,4,4,D
+32000,D1,1996,1996-08-24,Bochum,Bielefeld,1,1,D
+32001,D1,1996,1996-08-24,Freiburg,FC Koln,1,3,A
+32002,D1,1996,1996-08-24,Leverkusen,Dusseldorf,0,1,A
+32003,D1,1996,1996-08-24,M'gladbach,Karlsruhe,1,3,A
+32004,D1,1996,1996-08-24,Munich 1860,Dortmund,1,3,A
+32005,D1,1996,1996-08-24,Stuttgart,Werder Bremen,2,1,H
+32006,D1,1996,1996-08-25,Duisburg,Bayern Munich,0,4,A
+32007,D1,1996,1996-08-27,Dortmund,Freiburg,3,1,H
+32008,D1,1996,1996-08-27,Hamburg,Stuttgart,0,4,A
+32009,D1,1996,1996-08-27,Schalke 04,Bochum,1,1,D
+32010,D1,1996,1996-08-27,Werder Bremen,M'gladbach,1,0,H
+32011,D1,1996,1996-08-28,Bayern Munich,Leverkusen,4,2,H
+32012,D1,1996,1996-08-28,Bielefeld,Duisburg,1,1,D
+32013,D1,1996,1996-08-28,Fortuna Dusseldorf,Munich 1860,0,0,D
+32014,D1,1996,1996-08-28,FC Koln,Hansa Rostock,0,2,A
+32015,D1,1996,1996-08-28,Karlsruhe,St Pauli,4,0,H
+32016,D1,1996,1996-09-06,Freiburg,Dusseldorf,1,2,A
+32017,D1,1996,1996-09-06,M'gladbach,Hamburg,3,0,H
+32018,D1,1996,1996-09-07,Bayern Munich,Bielefeld,1,0,H
+32019,D1,1996,1996-09-07,Bochum,Karlsruhe,3,1,H
+32020,D1,1996,1996-09-07,Duisburg,Schalke 04,0,1,A
+32021,D1,1996,1996-09-07,Hansa Rostock,Dortmund,0,1,A
+32022,D1,1996,1996-09-07,Leverkusen,Munich 1860,3,0,H
+32023,D1,1996,1996-09-07,St Pauli,Werder Bremen,0,3,A
+32024,D1,1996,1996-09-08,Stuttgart,FC Koln,4,0,H
+32025,D1,1996,1996-09-13,Fortuna Dusseldorf,Hansa Rostock,0,2,A
+32026,D1,1996,1996-09-13,Werder Bremen,Bochum,5,1,H
+32027,D1,1996,1996-09-14,Bielefeld,Leverkusen,0,1,A
+32028,D1,1996,1996-09-14,Dortmund,Stuttgart,1,1,D
+32029,D1,1996,1996-09-14,FC Koln,M'gladbach,4,0,H
+32030,D1,1996,1996-09-14,Karlsruhe,Duisburg,1,0,H
+32031,D1,1996,1996-09-14,Munich 1860,Freiburg,4,0,H
+32032,D1,1996,1996-09-14,Schalke 04,Bayern Munich,1,1,D
+32033,D1,1996,1996-09-15,Hamburg,St Pauli,3,0,H
+32034,D1,1996,1996-09-17,Karlsruhe,Stuttgart,0,2,A
+32035,D1,1996,1996-09-20,Duisburg,Werder Bremen,3,2,H
+32036,D1,1996,1996-09-20,Hansa Rostock,Munich 1860,2,4,A
+32037,D1,1996,1996-09-21,Bayern Munich,Karlsruhe,1,0,H
+32038,D1,1996,1996-09-21,Bielefeld,Schalke 04,0,1,A
+32039,D1,1996,1996-09-21,Bochum,Hamburg,3,1,H
+32040,D1,1996,1996-09-21,M'gladbach,Dortmund,5,1,H
+32041,D1,1996,1996-09-21,St Pauli,FC Koln,0,0,D
+32042,D1,1996,1996-09-21,Stuttgart,Dusseldorf,0,2,A
+32043,D1,1996,1996-09-22,Leverkusen,Freiburg,5,3,H
+32044,D1,1996,1996-09-27,FC Koln,Bochum,2,0,H
+32045,D1,1996,1996-09-27,Karlsruhe,Bielefeld,5,2,H
+32046,D1,1996,1996-09-28,Fortuna Dusseldorf,M'gladbach,1,0,H
+32047,D1,1996,1996-09-28,Freiburg,Hansa Rostock,1,0,H
+32048,D1,1996,1996-09-28,Hamburg,Duisburg,1,1,D
+32049,D1,1996,1996-09-28,Munich 1860,Stuttgart,2,5,A
+32050,D1,1996,1996-09-28,Schalke 04,Leverkusen,1,2,A
+32051,D1,1996,1996-09-28,Werder Bremen,Bayern Munich,3,0,H
+32052,D1,1996,1996-09-29,Dortmund,St Pauli,2,1,H
+32053,D1,1996,1996-10-04,Bochum,Dortmund,1,0,H
+32054,D1,1996,1996-10-04,Leverkusen,Hansa Rostock,4,1,H
+32055,D1,1996,1996-10-04,Stuttgart,Freiburg,4,2,H
+32056,D1,1996,1996-10-05,Bayern Munich,Hamburg,2,1,H
+32057,D1,1996,1996-10-05,Bielefeld,Werder Bremen,3,1,H
+32058,D1,1996,1996-10-05,Duisburg,FC Koln,3,0,H
+32059,D1,1996,1996-10-05,M'gladbach,Munich 1860,1,0,H
+32060,D1,1996,1996-10-05,Schalke 04,Karlsruhe,0,1,A
+32061,D1,1996,1996-10-05,St Pauli,Dusseldorf,3,0,H
+32062,D1,1996,1996-10-11,Freiburg,M'gladbach,1,0,H
+32063,D1,1996,1996-10-11,Munich 1860,St Pauli,4,2,H
+32064,D1,1996,1996-10-12,Dortmund,Duisburg,2,0,H
+32065,D1,1996,1996-10-12,FC Koln,Bayern Munich,2,4,A
+32066,D1,1996,1996-10-12,Hamburg,Bielefeld,2,2,D
+32067,D1,1996,1996-10-12,Hansa Rostock,Stuttgart,2,2,D
+32068,D1,1996,1996-10-12,Karlsruhe,Leverkusen,1,1,D
+32069,D1,1996,1996-10-12,Werder Bremen,Schalke 04,3,0,H
+32070,D1,1996,1996-10-13,Fortuna Dusseldorf,Bochum,2,2,D
+32071,D1,1996,1996-10-18,Bochum,Munich 1860,2,2,D
+32072,D1,1996,1996-10-18,Leverkusen,Stuttgart,0,0,D
+32073,D1,1996,1996-10-19,Bielefeld,FC Koln,1,4,A
+32074,D1,1996,1996-10-19,Duisburg,Dusseldorf,0,0,D
+32075,D1,1996,1996-10-19,Karlsruhe,Werder Bremen,1,3,A
+32076,D1,1996,1996-10-19,M'gladbach,Hansa Rostock,2,0,H
+32077,D1,1996,1996-10-19,Schalke 04,Hamburg,2,0,H
+32078,D1,1996,1996-10-19,St Pauli,Freiburg,2,0,H
+32079,D1,1996,1996-10-20,Bayern Munich,Dortmund,0,0,D
+32080,D1,1996,1996-10-25,Hansa Rostock,St Pauli,3,1,H
+32081,D1,1996,1996-10-25,Werder Bremen,Leverkusen,1,1,D
+32082,D1,1996,1996-10-26,Dortmund,Bielefeld,5,0,H
+32083,D1,1996,1996-10-26,Fortuna Dusseldorf,Bayern Munich,0,2,A
+32084,D1,1996,1996-10-26,FC Koln,Schalke 04,3,1,H
+32085,D1,1996,1996-10-26,Hamburg,Karlsruhe,2,0,H
+32086,D1,1996,1996-10-26,Munich 1860,Duisburg,1,1,D
+32087,D1,1996,1996-10-26,Stuttgart,M'gladbach,5,0,H
+32088,D1,1996,1996-10-27,Freiburg,Bochum,0,1,A
+32089,D1,1996,1996-11-01,Bayern Munich,Munich 1860,1,1,D
+32090,D1,1996,1996-11-01,Bochum,Hansa Rostock,1,0,H
+32091,D1,1996,1996-11-02,Bielefeld,Dusseldorf,1,0,H
+32092,D1,1996,1996-11-02,Duisburg,Freiburg,1,4,A
+32093,D1,1996,1996-11-02,Leverkusen,M'gladbach,3,0,H
+32094,D1,1996,1996-11-02,Schalke 04,Dortmund,1,3,A
+32095,D1,1996,1996-11-02,St Pauli,Stuttgart,2,1,H
+32096,D1,1996,1996-11-02,Werder Bremen,Hamburg,0,0,D
+32097,D1,1996,1996-11-03,Karlsruhe,FC Koln,4,1,H
+32098,D1,1996,1996-11-15,FC Koln,Werder Bremen,4,1,H
+32099,D1,1996,1996-11-15,M'gladbach,St Pauli,0,0,D
+32100,D1,1996,1996-11-16,Dortmund,Karlsruhe,1,1,D
+32101,D1,1996,1996-11-16,Fortuna Dusseldorf,Schalke 04,1,3,A
+32102,D1,1996,1996-11-16,Freiburg,Bayern Munich,0,0,D
+32103,D1,1996,1996-11-16,Hamburg,Leverkusen,0,2,A
+32104,D1,1996,1996-11-16,Munich 1860,Bielefeld,1,3,A
+32105,D1,1996,1996-11-16,Stuttgart,Bochum,3,1,H
+32106,D1,1996,1996-11-17,Hansa Rostock,Duisburg,0,1,A
+32107,D1,1996,1996-11-22,Bochum,M'gladbach,2,0,H
+32108,D1,1996,1996-11-22,Karlsruhe,Dusseldorf,2,0,H
+32109,D1,1996,1996-11-23,Bayern Munich,Hansa Rostock,2,1,H
+32110,D1,1996,1996-11-23,Bielefeld,Freiburg,2,0,H
+32111,D1,1996,1996-11-23,FC Koln,Hamburg,2,2,D
+32112,D1,1996,1996-11-23,Schalke 04,Munich 1860,4,1,H
+32113,D1,1996,1996-11-23,St Pauli,Leverkusen,3,1,H
+32114,D1,1996,1996-11-23,Werder Bremen,Dortmund,0,4,A
+32115,D1,1996,1996-11-24,Duisburg,Stuttgart,3,1,H
+32116,D1,1996,1996-11-29,Dortmund,Hamburg,1,1,D
+32117,D1,1996,1996-11-30,Fortuna Dusseldorf,Werder Bremen,4,1,H
+32118,D1,1996,1996-11-30,Freiburg,Schalke 04,2,3,A
+32119,D1,1996,1996-11-30,Hansa Rostock,Bielefeld,3,1,H
+32120,D1,1996,1996-11-30,Leverkusen,FC Koln,4,2,H
+32121,D1,1996,1996-11-30,M'gladbach,Duisburg,0,1,A
+32122,D1,1996,1996-11-30,Munich 1860,Karlsruhe,1,1,D
+32123,D1,1996,1996-12-01,Stuttgart,Bayern Munich,1,1,D
+32124,D1,1996,1996-12-06,Bochum,Leverkusen,2,2,D
+32125,D1,1996,1996-12-06,Karlsruhe,Freiburg,3,0,H
+32126,D1,1996,1996-12-06,Schalke 04,Hansa Rostock,2,0,H
+32127,D1,1996,1996-12-06,Werder Bremen,Munich 1860,1,1,D
+32128,D1,1996,1996-12-07,Bayern Munich,M'gladbach,1,0,H
+32129,D1,1996,1996-12-07,Bielefeld,Stuttgart,2,0,H
+32130,D1,1996,1996-12-07,Duisburg,St Pauli,1,0,H
+32131,D1,1996,1996-12-07,FC Koln,Dortmund,1,3,A
+32132,D1,1996,1996-12-07,Hamburg,Dusseldorf,2,1,H
+32133,D1,1996,1997-02-14,Dortmund,Leverkusen,3,1,H
+32134,D1,1996,1997-02-14,FC Koln,Dusseldorf,2,0,H
+32135,D1,1996,1997-02-15,Bayern Munich,St Pauli,3,0,H
+32136,D1,1996,1997-02-15,Duisburg,Bochum,1,1,D
+32137,D1,1996,1997-02-15,Hamburg,Munich 1860,2,3,A
+32138,D1,1996,1997-02-15,Karlsruhe,Hansa Rostock,1,1,D
+32139,D1,1996,1997-02-15,Schalke 04,Stuttgart,1,0,H
+32140,D1,1996,1997-02-15,Werder Bremen,Freiburg,1,0,H
+32141,D1,1996,1997-02-16,Bielefeld,M'gladbach,0,2,A
+32142,D1,1996,1997-02-21,Fortuna Dusseldorf,Dortmund,2,0,H
+32143,D1,1996,1997-02-21,Freiburg,Hamburg,0,4,A
+32144,D1,1996,1997-02-21,St Pauli,Bielefeld,2,3,A
+32145,D1,1996,1997-02-22,Bochum,Bayern Munich,1,1,D
+32146,D1,1996,1997-02-22,Hansa Rostock,Werder Bremen,0,1,A
+32147,D1,1996,1997-02-22,Leverkusen,Duisburg,1,0,H
+32148,D1,1996,1997-02-22,M'gladbach,Schalke 04,0,0,D
+32149,D1,1996,1997-02-22,Munich 1860,FC Koln,2,1,H
+32150,D1,1996,1997-02-22,Stuttgart,Karlsruhe,1,0,H
+32151,D1,1996,1997-02-28,Bielefeld,Bochum,3,1,H
+32152,D1,1996,1997-02-28,Schalke 04,St Pauli,0,0,D
+32153,D1,1996,1997-03-01,Bayern Munich,Duisburg,5,2,H
+32154,D1,1996,1997-03-01,Dortmund,Munich 1860,4,1,H
+32155,D1,1996,1997-03-01,Fortuna Dusseldorf,Leverkusen,0,0,D
+32156,D1,1996,1997-03-01,FC Koln,Freiburg,1,0,H
+32157,D1,1996,1997-03-01,Karlsruhe,M'gladbach,1,1,D
+32158,D1,1996,1997-03-01,Werder Bremen,Stuttgart,2,2,D
+32159,D1,1996,1997-03-02,Hamburg,Hansa Rostock,1,1,D
+32160,D1,1996,1997-03-07,Bochum,Schalke 04,0,1,A
+32161,D1,1996,1997-03-07,Hansa Rostock,FC Koln,0,0,D
+32162,D1,1996,1997-03-08,Duisburg,Bielefeld,0,0,D
+32163,D1,1996,1997-03-08,Freiburg,Dortmund,1,2,A
+32164,D1,1996,1997-03-08,M'gladbach,Werder Bremen,4,1,H
+32165,D1,1996,1997-03-08,Munich 1860,Dusseldorf,3,0,H
+32166,D1,1996,1997-03-08,St Pauli,Karlsruhe,2,4,A
+32167,D1,1996,1997-03-08,Stuttgart,Hamburg,4,1,H
+32168,D1,1996,1997-03-09,Leverkusen,Bayern Munich,5,2,H
+32169,D1,1996,1997-03-11,FC Koln,Stuttgart,1,5,A
+32170,D1,1996,1997-03-11,Hamburg,M'gladbach,2,1,H
+32171,D1,1996,1997-03-11,Karlsruhe,Bochum,2,3,A
+32172,D1,1996,1997-03-11,Schalke 04,Duisburg,4,0,H
+32173,D1,1996,1997-03-11,Werder Bremen,St Pauli,2,1,H
+32174,D1,1996,1997-03-12,Bielefeld,Bayern Munich,2,0,H
+32175,D1,1996,1997-03-12,Dortmund,Hansa Rostock,3,0,H
+32176,D1,1996,1997-03-12,Fortuna Dusseldorf,Freiburg,2,1,H
+32177,D1,1996,1997-03-12,Munich 1860,Leverkusen,3,0,H
+32178,D1,1996,1997-03-14,Duisburg,Karlsruhe,2,2,D
+32179,D1,1996,1997-03-14,St Pauli,Hamburg,2,2,D
+32180,D1,1996,1997-03-15,Bayern Munich,Schalke 04,3,0,H
+32181,D1,1996,1997-03-15,Freiburg,Munich 1860,2,2,D
+32182,D1,1996,1997-03-15,Hansa Rostock,Dusseldorf,3,1,H
+32183,D1,1996,1997-03-15,Leverkusen,Bielefeld,1,0,H
+32184,D1,1996,1997-03-15,M'gladbach,FC Koln,2,1,H
+32185,D1,1996,1997-03-15,Stuttgart,Dortmund,4,1,H
+32186,D1,1996,1997-03-16,Bochum,Werder Bremen,3,2,H
+32187,D1,1996,1997-03-21,Fortuna Dusseldorf,Stuttgart,0,4,A
+32188,D1,1996,1997-03-21,Werder Bremen,Duisburg,0,2,A
+32189,D1,1996,1997-03-22,Dortmund,M'gladbach,1,3,A
+32190,D1,1996,1997-03-22,FC Koln,St Pauli,0,1,A
+32191,D1,1996,1997-03-22,Freiburg,Leverkusen,1,2,A
+32192,D1,1996,1997-03-22,Hamburg,Bochum,2,2,D
+32193,D1,1996,1997-03-22,Munich 1860,Hansa Rostock,2,0,H
+32194,D1,1996,1997-03-22,Schalke 04,Bielefeld,0,0,D
+32195,D1,1996,1997-03-23,Karlsruhe,Bayern Munich,0,2,A
+32196,D1,1996,1997-03-28,Bochum,FC Koln,2,2,D
+32197,D1,1996,1997-03-28,Duisburg,Hamburg,1,1,D
+32198,D1,1996,1997-03-28,St Pauli,Dortmund,0,1,A
+32199,D1,1996,1997-03-28,Stuttgart,Munich 1860,1,1,D
+32200,D1,1996,1997-03-29,Bayern Munich,Werder Bremen,1,0,H
+32201,D1,1996,1997-03-29,Bielefeld,Karlsruhe,1,2,A
+32202,D1,1996,1997-03-29,Hansa Rostock,Freiburg,3,1,H
+32203,D1,1996,1997-03-29,Leverkusen,Schalke 04,2,0,H
+32204,D1,1996,1997-03-29,M'gladbach,Dusseldorf,2,0,H
+32205,D1,1996,1997-04-04,FC Koln,Duisburg,2,5,A
+32206,D1,1996,1997-04-04,Munich 1860,M'gladbach,3,0,H
+32207,D1,1996,1997-04-05,Dortmund,Bochum,2,0,H
+32208,D1,1996,1997-04-05,Fortuna Dusseldorf,St Pauli,2,0,H
+32209,D1,1996,1997-04-05,Hamburg,Bayern Munich,0,3,A
+32210,D1,1996,1997-04-05,Hansa Rostock,Leverkusen,1,0,H
+32211,D1,1996,1997-04-05,Karlsruhe,Schalke 04,0,0,D
+32212,D1,1996,1997-04-05,Werder Bremen,Bielefeld,2,1,H
+32213,D1,1996,1997-04-06,Freiburg,Stuttgart,1,1,D
+32214,D1,1996,1997-04-08,St Pauli,Bochum,2,1,H
+32215,D1,1996,1997-04-12,Bayern Munich,FC Koln,3,2,H
+32216,D1,1996,1997-04-12,Bielefeld,Hamburg,1,1,D
+32217,D1,1996,1997-04-12,Bochum,Dusseldorf,3,1,H
+32218,D1,1996,1997-04-12,Duisburg,Dortmund,3,2,H
+32219,D1,1996,1997-04-12,Leverkusen,Karlsruhe,3,1,H
+32220,D1,1996,1997-04-12,M'gladbach,Freiburg,4,3,H
+32221,D1,1996,1997-04-12,Schalke 04,Werder Bremen,1,1,D
+32222,D1,1996,1997-04-12,St Pauli,Munich 1860,0,0,D
+32223,D1,1996,1997-04-12,Stuttgart,Hansa Rostock,5,1,H
+32224,D1,1996,1997-04-18,Fortuna Dusseldorf,Duisburg,1,1,D
+32225,D1,1996,1997-04-18,Hansa Rostock,M'gladbach,1,0,H
+32226,D1,1996,1997-04-19,Dortmund,Bayern Munich,1,1,D
+32227,D1,1996,1997-04-19,FC Koln,Bielefeld,2,5,A
+32228,D1,1996,1997-04-19,Freiburg,St Pauli,4,0,H
+32229,D1,1996,1997-04-19,Hamburg,Schalke 04,1,0,H
+32230,D1,1996,1997-04-19,Munich 1860,Bochum,0,1,A
+32231,D1,1996,1997-04-19,Werder Bremen,Karlsruhe,1,0,H
+32232,D1,1996,1997-04-20,Stuttgart,Leverkusen,1,2,A
+32233,D1,1996,1997-04-24,St Pauli,Hansa Rostock,0,1,A
+32234,D1,1996,1997-04-25,Duisburg,Munich 1860,2,3,A
+32235,D1,1996,1997-04-25,Leverkusen,Werder Bremen,2,1,H
+32236,D1,1996,1997-04-26,Bayern Munich,Dusseldorf,5,0,H
+32237,D1,1996,1997-04-26,Bielefeld,Dortmund,2,0,H
+32238,D1,1996,1997-04-26,Bochum,Freiburg,3,2,H
+32239,D1,1996,1997-04-26,Karlsruhe,Hamburg,3,1,H
+32240,D1,1996,1997-04-26,M'gladbach,Stuttgart,0,1,A
+32241,D1,1996,1997-04-26,Schalke 04,FC Koln,1,1,D
+32242,D1,1996,1997-05-02,Dortmund,Schalke 04,1,0,H
+32243,D1,1996,1997-05-02,Hansa Rostock,Bochum,0,0,D
+32244,D1,1996,1997-05-03,Fortuna Dusseldorf,Bielefeld,1,2,A
+32245,D1,1996,1997-05-03,FC Koln,Karlsruhe,4,1,H
+32246,D1,1996,1997-05-03,Freiburg,Duisburg,2,0,H
+32247,D1,1996,1997-05-03,Hamburg,Werder Bremen,3,2,H
+32248,D1,1996,1997-05-03,M'gladbach,Leverkusen,2,2,D
+32249,D1,1996,1997-05-03,Munich 1860,Bayern Munich,3,3,D
+32250,D1,1996,1997-05-03,Stuttgart,St Pauli,3,0,H
+32251,D1,1996,1997-05-09,Duisburg,Hansa Rostock,0,1,A
+32252,D1,1996,1997-05-09,Werder Bremen,FC Koln,3,2,H
+32253,D1,1996,1997-05-10,Bayern Munich,Freiburg,0,0,D
+32254,D1,1996,1997-05-10,Bielefeld,Munich 1860,2,3,A
+32255,D1,1996,1997-05-10,Bochum,Stuttgart,2,1,H
+32256,D1,1996,1997-05-10,Karlsruhe,Dortmund,1,1,D
+32257,D1,1996,1997-05-10,Schalke 04,Dusseldorf,0,1,A
+32258,D1,1996,1997-05-10,St Pauli,M'gladbach,1,3,A
+32259,D1,1996,1997-05-11,Leverkusen,Hamburg,5,0,H
+32260,D1,1996,1997-05-16,Fortuna Dusseldorf,Karlsruhe,0,3,A
+32261,D1,1996,1997-05-16,Hansa Rostock,Bayern Munich,0,3,A
+32262,D1,1996,1997-05-17,Dortmund,Werder Bremen,2,1,H
+32263,D1,1996,1997-05-17,Hamburg,FC Koln,0,4,A
+32264,D1,1996,1997-05-17,Leverkusen,St Pauli,3,0,H
+32265,D1,1996,1997-05-17,M'gladbach,Bochum,6,2,H
+32266,D1,1996,1997-05-17,Munich 1860,Schalke 04,2,1,H
+32267,D1,1996,1997-05-17,Stuttgart,Duisburg,0,2,A
+32268,D1,1996,1997-05-18,Freiburg,Bielefeld,2,1,H
+32269,D1,1996,1997-05-24,Bayern Munich,Stuttgart,4,2,H
+32270,D1,1996,1997-05-24,Bielefeld,Hansa Rostock,1,3,A
+32271,D1,1996,1997-05-24,Bochum,St Pauli,6,0,H
+32272,D1,1996,1997-05-24,Duisburg,M'gladbach,4,2,H
+32273,D1,1996,1997-05-24,FC Koln,Leverkusen,4,0,H
+32274,D1,1996,1997-05-24,Hamburg,Dortmund,2,1,H
+32275,D1,1996,1997-05-24,Karlsruhe,Munich 1860,3,0,H
+32276,D1,1996,1997-05-24,Schalke 04,Freiburg,0,2,A
+32277,D1,1996,1997-05-24,Werder Bremen,Dusseldorf,1,0,H
+32278,D1,1996,1997-05-31,Dortmund,FC Koln,2,1,H
+32279,D1,1996,1997-05-31,Fortuna Dusseldorf,Hamburg,1,1,D
+32280,D1,1996,1997-05-31,Freiburg,Karlsruhe,1,1,D
+32281,D1,1996,1997-05-31,Hansa Rostock,Schalke 04,0,1,A
+32282,D1,1996,1997-05-31,Leverkusen,Bochum,2,0,H
+32283,D1,1996,1997-05-31,M'gladbach,Bayern Munich,2,2,D
+32284,D1,1996,1997-05-31,Munich 1860,Werder Bremen,0,3,A
+32285,D1,1996,1997-05-31,St Pauli,Duisburg,0,2,A
+32286,D1,1996,1997-05-31,Stuttgart,Bielefeld,4,2,H
+32287,D2,1996,1996-08-02,F Koln,Wolfsburg,2,0,H
+32288,D2,1996,1996-08-03,RW Essen,Stuttgarter K,0,4,A
+32289,D2,1996,1996-08-03,Hertha,Mainz,1,0,H
+32290,D2,1996,1996-08-03,RB Leipzig,Uerdingen,3,1,H
+32291,D2,1996,1996-08-03,Zwickau,Mannheim,2,0,H
+32292,D2,1996,1996-08-04,Gutersloh,CZ Jena,0,0,D
+32293,D2,1996,1996-08-04,Lubeck,Ein Frankfurt,1,1,D
+32294,D2,1996,1996-08-04,Oldenburg,Meppen,1,1,D
+32295,D2,1996,1996-08-06,Mainz,RB Leipzig,2,1,H
+32296,D2,1996,1996-08-07,CZ Jena,RW Essen,4,0,H
+32297,D2,1996,1996-08-07,Ein Frankfurt,Zwickau,2,1,H
+32298,D2,1996,1996-08-07,Mannheim,F Koln,3,3,D
+32299,D2,1996,1996-08-07,Meppen,Lubeck,2,0,H
+32300,D2,1996,1996-08-07,Stuttgarter K,Kaiserslautern,0,2,A
+32301,D2,1996,1996-08-07,Uerdingen,Gutersloh,0,2,A
+32302,D2,1996,1996-08-07,Unterhaching,Oldenburg,1,1,D
+32303,D2,1996,1996-08-07,Wolfsburg,Hertha,1,1,D
+32304,D2,1996,1996-08-16,F Koln,Hertha,2,0,H
+32305,D2,1996,1996-08-17,Kaiserslautern,CZ Jena,2,0,H
+32306,D2,1996,1996-08-17,Zwickau,Meppen,1,1,D
+32307,D2,1996,1996-08-18,RW Essen,Uerdingen,1,2,A
+32308,D2,1996,1996-08-18,Gutersloh,Mainz,0,0,D
+32309,D2,1996,1996-08-18,RB Leipzig,Wolfsburg,0,2,A
+32310,D2,1996,1996-08-18,Lubeck,Unterhaching,0,0,D
+32311,D2,1996,1996-08-18,Oldenburg,Stuttgarter K,1,1,D
+32312,D2,1996,1996-08-19,Mannheim,Ein Frankfurt,1,2,A
+32313,D2,1996,1996-08-23,Mainz,RW Essen,2,1,H
+32314,D2,1996,1996-08-23,Unterhaching,Zwickau,2,1,H
+32315,D2,1996,1996-08-24,Wolfsburg,Gutersloh,3,0,H
+32316,D2,1996,1996-08-25,CZ Jena,Oldenburg,3,1,H
+32317,D2,1996,1996-08-25,Ein Frankfurt,F Koln,3,1,H
+32318,D2,1996,1996-08-25,Meppen,Mannheim,1,1,D
+32319,D2,1996,1996-08-25,Stuttgarter K,Lubeck,2,3,A
+32320,D2,1996,1996-08-25,Uerdingen,Kaiserslautern,0,1,A
+32321,D2,1996,1996-08-26,Hertha,RB Leipzig,1,1,D
+32322,D2,1996,1996-09-06,RW Essen,Wolfsburg,0,1,A
+32323,D2,1996,1996-09-06,Kaiserslautern,Mainz,1,1,D
+32324,D2,1996,1996-09-07,F Koln,RB Leipzig,2,3,A
+32325,D2,1996,1996-09-07,Mannheim,Unterhaching,1,1,D
+32326,D2,1996,1996-09-08,Gutersloh,Hertha,1,0,H
+32327,D2,1996,1996-09-08,Lubeck,CZ Jena,1,0,H
+32328,D2,1996,1996-09-08,Oldenburg,Uerdingen,1,2,A
+32329,D2,1996,1996-09-09,Ein Frankfurt,Meppen,0,1,A
+32330,D2,1996,1996-09-10,Zwickau,Stuttgarter K,0,1,A
+32331,D2,1996,1996-09-13,Mainz,Oldenburg,3,0,H
+32332,D2,1996,1996-09-14,RB Leipzig,Gutersloh,3,1,H
+32333,D2,1996,1996-09-14,Stuttgarter K,Mannheim,2,1,H
+32334,D2,1996,1996-09-14,Uerdingen,Lubeck,5,0,H
+32335,D2,1996,1996-09-15,CZ Jena,Zwickau,2,1,H
+32336,D2,1996,1996-09-15,Hertha,RW Essen,7,3,H
+32337,D2,1996,1996-09-15,Meppen,F Koln,0,3,A
+32338,D2,1996,1996-09-15,Unterhaching,Ein Frankfurt,2,1,H
+32339,D2,1996,1996-09-16,Wolfsburg,Kaiserslautern,0,0,D
+32340,D2,1996,1996-09-20,F Koln,Gutersloh,3,0,H
+32341,D2,1996,1996-09-20,Kaiserslautern,Hertha,0,0,D
+32342,D2,1996,1996-09-20,Lubeck,Mainz,0,2,A
+32343,D2,1996,1996-09-21,Mannheim,CZ Jena,4,0,H
+32344,D2,1996,1996-09-22,Ein Frankfurt,Stuttgarter K,0,1,A
+32345,D2,1996,1996-09-22,Meppen,Unterhaching,1,1,D
+32346,D2,1996,1996-09-22,Oldenburg,Wolfsburg,1,4,A
+32347,D2,1996,1996-09-22,Zwickau,Uerdingen,2,1,H
+32348,D2,1996,1996-09-23,RW Essen,RB Leipzig,4,1,H
+32349,D2,1996,1996-09-27,Uerdingen,Mannheim,4,1,H
+32350,D2,1996,1996-09-27,Wolfsburg,Lubeck,0,0,D
+32351,D2,1996,1996-09-28,Stuttgarter K,Meppen,0,0,D
+32352,D2,1996,1996-09-29,Gutersloh,RW Essen,2,3,A
+32353,D2,1996,1996-09-29,RB Leipzig,Kaiserslautern,2,2,D
+32354,D2,1996,1996-09-29,Mainz,Zwickau,1,1,D
+32355,D2,1996,1996-09-29,Unterhaching,F Koln,0,0,D
+32356,D2,1996,1996-09-30,CZ Jena,Ein Frankfurt,1,1,D
+32357,D2,1996,1996-10-03,Kaiserslautern,Unterhaching,0,0,D
+32358,D2,1996,1996-10-03,Oldenburg,RB Leipzig,4,1,H
+32359,D2,1996,1996-10-04,Ein Frankfurt,Uerdingen,0,1,A
+32360,D2,1996,1996-10-05,F Koln,RW Essen,1,1,D
+32361,D2,1996,1996-10-05,Lubeck,Hertha,1,4,A
+32362,D2,1996,1996-10-06,Kaiserslautern,Gutersloh,2,0,H
+32363,D2,1996,1996-10-06,Mannheim,Mainz,2,2,D
+32364,D2,1996,1996-10-06,Unterhaching,Stuttgarter K,1,1,D
+32365,D2,1996,1996-10-06,Zwickau,Wolfsburg,0,0,D
+32366,D2,1996,1996-10-07,Meppen,CZ Jena,0,0,D
+32367,D2,1996,1996-10-11,RW Essen,Kaiserslautern,1,4,A
+32368,D2,1996,1996-10-11,Wolfsburg,Mannheim,1,1,D
+32369,D2,1996,1996-10-12,CZ Jena,Unterhaching,1,1,D
+32370,D2,1996,1996-10-12,Uerdingen,Meppen,0,0,D
+32371,D2,1996,1996-10-13,Gutersloh,Oldenburg,1,0,H
+32372,D2,1996,1996-10-13,Hertha,Zwickau,1,0,H
+32373,D2,1996,1996-10-13,RB Leipzig,Lubeck,0,0,D
+32374,D2,1996,1996-10-13,Stuttgarter K,F Koln,3,1,H
+32375,D2,1996,1996-10-14,Mainz,Ein Frankfurt,2,2,D
+32376,D2,1996,1996-10-18,Mannheim,Hertha,2,1,H
+32377,D2,1996,1996-10-18,Meppen,Mainz,5,4,H
+32378,D2,1996,1996-10-19,Ein Frankfurt,Wolfsburg,1,1,D
+32379,D2,1996,1996-10-19,Unterhaching,Uerdingen,0,0,D
+32380,D2,1996,1996-10-20,Lubeck,Gutersloh,2,3,A
+32381,D2,1996,1996-10-20,Oldenburg,RW Essen,2,1,H
+32382,D2,1996,1996-10-20,Stuttgarter K,CZ Jena,1,2,A
+32383,D2,1996,1996-10-20,Zwickau,RB Leipzig,1,2,A
+32384,D2,1996,1996-10-21,F Koln,Kaiserslautern,0,0,D
+32385,D2,1996,1996-10-23,Hertha,Oldenburg,1,0,H
+32386,D2,1996,1996-10-25,CZ Jena,F Koln,1,1,D
+32387,D2,1996,1996-10-25,RW Essen,Lubeck,2,0,H
+32388,D2,1996,1996-10-25,Uerdingen,Stuttgarter K,3,1,H
+32389,D2,1996,1996-10-26,Kaiserslautern,Oldenburg,6,2,H
+32390,D2,1996,1996-10-27,Gutersloh,Zwickau,3,1,H
+32391,D2,1996,1996-10-27,RB Leipzig,Mannheim,6,1,H
+32392,D2,1996,1996-10-27,Mainz,Unterhaching,0,0,D
+32393,D2,1996,1996-10-27,Wolfsburg,Meppen,3,1,H
+32394,D2,1996,1996-10-28,Hertha,Ein Frankfurt,1,2,A
+32395,D2,1996,1996-11-01,CZ Jena,Uerdingen,2,2,D
+32396,D2,1996,1996-11-01,F Koln,Oldenburg,7,1,H
+32397,D2,1996,1996-11-02,Ein Frankfurt,RB Leipzig,2,3,A
+32398,D2,1996,1996-11-02,Stuttgarter K,Mainz,2,1,H
+32399,D2,1996,1996-11-03,Lubeck,Kaiserslautern,0,2,A
+32400,D2,1996,1996-11-03,Mannheim,Gutersloh,1,0,H
+32401,D2,1996,1996-11-03,Meppen,Hertha,1,1,D
+32402,D2,1996,1996-11-03,Zwickau,RW Essen,2,1,H
+32403,D2,1996,1996-11-04,Unterhaching,Wolfsburg,1,0,H
+32404,D2,1996,1996-11-15,Hertha,Unterhaching,3,0,H
+32405,D2,1996,1996-11-15,Kaiserslautern,Zwickau,4,1,H
+32406,D2,1996,1996-11-15,Wolfsburg,Stuttgarter K,0,0,D
+32407,D2,1996,1996-11-16,Mainz,CZ Jena,3,2,H
+32408,D2,1996,1996-11-17,RW Essen,Mannheim,2,1,H
+32409,D2,1996,1996-11-17,Gutersloh,Ein Frankfurt,3,1,H
+32410,D2,1996,1996-11-17,RB Leipzig,Meppen,1,3,A
+32411,D2,1996,1996-11-17,Oldenburg,Lubeck,1,1,D
+32412,D2,1996,1996-11-18,Uerdingen,F Koln,1,2,A
+32413,D2,1996,1996-11-22,CZ Jena,Wolfsburg,3,3,D
+32414,D2,1996,1996-11-22,Ein Frankfurt,RW Essen,3,0,H
+32415,D2,1996,1996-11-23,Mannheim,Kaiserslautern,2,0,H
+32416,D2,1996,1996-11-23,Zwickau,Oldenburg,1,0,H
+32417,D2,1996,1996-11-24,Lubeck,F Koln,1,1,D
+32418,D2,1996,1996-11-24,Meppen,Gutersloh,2,0,H
+32419,D2,1996,1996-11-24,Stuttgarter K,Hertha,1,2,A
+32420,D2,1996,1996-11-24,Unterhaching,RB Leipzig,1,1,D
+32421,D2,1996,1996-11-25,Mainz,Uerdingen,3,1,H
+32422,D2,1996,1996-11-29,RW Essen,Meppen,2,1,H
+32423,D2,1996,1996-11-29,Wolfsburg,Uerdingen,1,0,H
+32424,D2,1996,1996-11-30,Hertha,CZ Jena,0,1,A
+32425,D2,1996,1996-11-30,RB Leipzig,Stuttgarter K,0,0,D
+32426,D2,1996,1996-12-01,F Koln,Mainz,1,3,A
+32427,D2,1996,1996-12-01,Gutersloh,Unterhaching,1,1,D
+32428,D2,1996,1996-12-01,Lubeck,Zwickau,1,1,D
+32429,D2,1996,1996-12-02,Kaiserslautern,Ein Frankfurt,5,0,H
+32430,D2,1996,1996-12-06,CZ Jena,RB Leipzig,0,0,D
+32431,D2,1996,1996-12-06,Mainz,Wolfsburg,0,0,D
+32432,D2,1996,1996-12-07,Ein Frankfurt,Oldenburg,2,3,A
+32433,D2,1996,1996-12-07,Zwickau,F Koln,2,0,H
+32434,D2,1996,1996-12-08,Mannheim,Lubeck,3,1,H
+32435,D2,1996,1996-12-08,Meppen,Kaiserslautern,2,1,H
+32436,D2,1996,1996-12-08,Stuttgarter K,Gutersloh,1,1,D
+32437,D2,1996,1996-12-08,Unterhaching,RW Essen,2,0,H
+32438,D2,1996,1996-12-09,Uerdingen,Hertha,2,3,A
+32439,D2,1996,1996-12-14,Oldenburg,Mannheim,1,0,H
+32440,D2,1996,1997-02-21,Uerdingen,RB Leipzig,5,0,H
+32441,D2,1996,1997-02-21,Unterhaching,Kaiserslautern,0,0,D
+32442,D2,1996,1997-02-22,Mannheim,Zwickau,4,0,H
+32443,D2,1996,1997-02-22,Wolfsburg,F Koln,2,1,H
+32444,D2,1996,1997-02-23,CZ Jena,Gutersloh,2,5,A
+32445,D2,1996,1997-02-23,Ein Frankfurt,Lubeck,3,0,H
+32446,D2,1996,1997-02-23,Meppen,Oldenburg,2,1,H
+32447,D2,1996,1997-02-23,Stuttgarter K,RW Essen,1,1,D
+32448,D2,1996,1997-02-24,Mainz,Hertha,0,1,A
+32449,D2,1996,1997-02-28,RW Essen,CZ Jena,0,2,A
+32450,D2,1996,1997-02-28,F Koln,Mannheim,4,0,H
+32451,D2,1996,1997-03-01,RB Leipzig,Mainz,3,0,H
+32452,D2,1996,1997-03-02,Gutersloh,Uerdingen,1,1,D
+32453,D2,1996,1997-03-02,Kaiserslautern,Stuttgarter K,2,0,H
+32454,D2,1996,1997-03-02,Lubeck,Meppen,4,1,H
+32455,D2,1996,1997-03-02,Oldenburg,Unterhaching,1,3,A
+32456,D2,1996,1997-03-02,Zwickau,Ein Frankfurt,1,0,H
+32457,D2,1996,1997-03-03,Hertha,Wolfsburg,1,0,H
+32458,D2,1996,1997-03-07,CZ Jena,Kaiserslautern,2,2,D
+32459,D2,1996,1997-03-07,Mainz,Gutersloh,3,0,H
+32460,D2,1996,1997-03-08,Hertha,F Koln,4,2,H
+32461,D2,1996,1997-03-08,Meppen,Zwickau,3,0,H
+32462,D2,1996,1997-03-08,Stuttgarter K,Oldenburg,5,0,H
+32463,D2,1996,1997-03-08,Uerdingen,RW Essen,1,0,H
+32464,D2,1996,1997-03-08,Unterhaching,Lubeck,0,0,D
+32465,D2,1996,1997-03-10,Ein Frankfurt,Mannheim,1,0,H
+32466,D2,1996,1997-03-14,RW Essen,Mainz,0,2,A
+32467,D2,1996,1997-03-14,F Koln,Ein Frankfurt,0,0,D
+32468,D2,1996,1997-03-15,Mannheim,Meppen,1,0,H
+32469,D2,1996,1997-03-15,Zwickau,Unterhaching,0,2,A
+32470,D2,1996,1997-03-16,Gutersloh,Wolfsburg,1,1,D
+32471,D2,1996,1997-03-16,RB Leipzig,Hertha,0,3,A
+32472,D2,1996,1997-03-16,Lubeck,Stuttgarter K,1,0,H
+32473,D2,1996,1997-03-16,Oldenburg,CZ Jena,1,0,H
+32474,D2,1996,1997-03-17,Kaiserslautern,Uerdingen,3,1,H
+32475,D2,1996,1997-03-19,Wolfsburg,RB Leipzig,2,0,H
+32476,D2,1996,1997-03-21,CZ Jena,Lubeck,1,1,D
+32477,D2,1996,1997-03-21,Uerdingen,Oldenburg,1,0,H
+32478,D2,1996,1997-03-22,Stuttgarter K,Zwickau,1,0,H
+32479,D2,1996,1997-03-23,Hertha,Gutersloh,5,2,H
+32480,D2,1996,1997-03-23,RB Leipzig,F Koln,4,1,H
+32481,D2,1996,1997-03-23,Meppen,Ein Frankfurt,1,1,D
+32482,D2,1996,1997-03-23,Unterhaching,Mannheim,2,1,H
+32483,D2,1996,1997-03-23,Wolfsburg,RW Essen,5,1,H
+32484,D2,1996,1997-03-24,Mainz,Kaiserslautern,0,0,D
+32485,D2,1996,1997-03-28,F Koln,Meppen,0,0,D
+32486,D2,1996,1997-03-28,Mannheim,Stuttgarter K,0,1,A
+32487,D2,1996,1997-03-29,RW Essen,Hertha,2,1,H
+32488,D2,1996,1997-03-29,Kaiserslautern,Wolfsburg,4,0,H
+32489,D2,1996,1997-03-29,Lubeck,Uerdingen,2,0,H
+32490,D2,1996,1997-03-30,Ein Frankfurt,Unterhaching,1,0,H
+32491,D2,1996,1997-03-30,Gutersloh,RB Leipzig,2,0,H
+32492,D2,1996,1997-03-30,Oldenburg,Mainz,1,1,D
+32493,D2,1996,1997-03-30,Zwickau,CZ Jena,1,0,H
+32494,D2,1996,1997-04-04,CZ Jena,Mannheim,1,1,D
+32495,D2,1996,1997-04-04,Mainz,Lubeck,1,1,D
+32496,D2,1996,1997-04-05,Gutersloh,F Koln,1,0,H
+32497,D2,1996,1997-04-05,Stuttgarter K,Ein Frankfurt,0,0,D
+32498,D2,1996,1997-04-06,RB Leipzig,RW Essen,2,0,H
+32499,D2,1996,1997-04-06,Uerdingen,Zwickau,3,0,H
+32500,D2,1996,1997-04-06,Unterhaching,Meppen,1,2,A
+32501,D2,1996,1997-04-06,Wolfsburg,Oldenburg,2,2,D
+32502,D2,1996,1997-04-07,Hertha,Kaiserslautern,2,0,H
+32503,D2,1996,1997-04-11,Ein Frankfurt,CZ Jena,1,1,D
+32504,D2,1996,1997-04-11,Kaiserslautern,RB Leipzig,4,1,H
+32505,D2,1996,1997-04-12,RW Essen,Gutersloh,2,2,D
+32506,D2,1996,1997-04-12,Mannheim,Uerdingen,1,0,H
+32507,D2,1996,1997-04-13,F Koln,Unterhaching,3,1,H
+32508,D2,1996,1997-04-13,Lubeck,Wolfsburg,0,0,D
+32509,D2,1996,1997-04-13,Oldenburg,Hertha,2,2,D
+32510,D2,1996,1997-04-13,Zwickau,Mainz,0,0,D
+32511,D2,1996,1997-04-14,Meppen,Stuttgarter K,1,1,D
+32512,D2,1996,1997-04-18,Mainz,Mannheim,2,0,H
+32513,D2,1996,1997-04-18,Wolfsburg,Zwickau,1,1,D
+32514,D2,1996,1997-04-19,Stuttgarter K,Unterhaching,1,0,H
+32515,D2,1996,1997-04-19,Uerdingen,Ein Frankfurt,3,0,H
+32516,D2,1996,1997-04-20,CZ Jena,Meppen,2,1,H
+32517,D2,1996,1997-04-20,RW Essen,F Koln,0,4,A
+32518,D2,1996,1997-04-20,Gutersloh,Kaiserslautern,1,1,D
+32519,D2,1996,1997-04-20,RB Leipzig,Oldenburg,0,0,D
+32520,D2,1996,1997-04-21,Hertha,Lubeck,0,0,D
+32521,D2,1996,1997-04-24,Mannheim,Wolfsburg,1,3,A
+32522,D2,1996,1997-04-25,Kaiserslautern,RW Essen,3,2,H
+32523,D2,1996,1997-04-25,Meppen,Uerdingen,2,0,H
+32524,D2,1996,1997-04-26,Zwickau,Hertha,1,2,A
+32525,D2,1996,1997-04-27,F Koln,Stuttgarter K,1,2,A
+32526,D2,1996,1997-04-27,Lubeck,RB Leipzig,0,1,A
+32527,D2,1996,1997-04-27,Oldenburg,Gutersloh,2,0,H
+32528,D2,1996,1997-04-27,Unterhaching,CZ Jena,2,1,H
+32529,D2,1996,1997-04-28,Ein Frankfurt,Mainz,1,0,H
+32530,D2,1996,1997-05-02,Hertha,Mannheim,2,2,D
+32531,D2,1996,1997-05-02,Mainz,Meppen,3,0,H
+32532,D2,1996,1997-05-03,RW Essen,Oldenburg,5,0,H
+32533,D2,1996,1997-05-03,Wolfsburg,Ein Frankfurt,4,1,H
+32534,D2,1996,1997-05-04,CZ Jena,Stuttgarter K,0,0,D
+32535,D2,1996,1997-05-04,Gutersloh,Lubeck,3,1,H
+32536,D2,1996,1997-05-04,Kaiserslautern,F Koln,2,0,H
+32537,D2,1996,1997-05-04,RB Leipzig,Zwickau,4,0,H
+32538,D2,1996,1997-05-05,Uerdingen,Unterhaching,0,4,A
+32539,D2,1996,1997-05-09,F Koln,CZ Jena,2,0,H
+32540,D2,1996,1997-05-09,Meppen,Wolfsburg,0,0,D
+32541,D2,1996,1997-05-10,Mannheim,RB Leipzig,1,1,D
+32542,D2,1996,1997-05-10,Oldenburg,Kaiserslautern,0,1,A
+32543,D2,1996,1997-05-11,Lubeck,RW Essen,3,2,H
+32544,D2,1996,1997-05-11,Stuttgarter K,Uerdingen,1,0,H
+32545,D2,1996,1997-05-11,Unterhaching,Mainz,0,0,D
+32546,D2,1996,1997-05-11,Zwickau,Gutersloh,3,1,H
+32547,D2,1996,1997-05-12,Ein Frankfurt,Hertha,3,1,H
+32548,D2,1996,1997-05-16,Uerdingen,CZ Jena,2,2,D
+32549,D2,1996,1997-05-16,Wolfsburg,Unterhaching,0,0,D
+32550,D2,1996,1997-05-17,RB Leipzig,Ein Frankfurt,2,3,A
+32551,D2,1996,1997-05-17,Oldenburg,F Koln,1,1,D
+32552,D2,1996,1997-05-18,RW Essen,Zwickau,1,2,A
+32553,D2,1996,1997-05-18,Gutersloh,Mannheim,0,0,D
+32554,D2,1996,1997-05-18,Kaiserslautern,Lubeck,7,0,H
+32555,D2,1996,1997-05-18,Mainz,Stuttgarter K,1,0,H
+32556,D2,1996,1997-05-19,Hertha,Meppen,3,0,H
+32557,D2,1996,1997-05-21,CZ Jena,Mainz,2,1,H
+32558,D2,1996,1997-05-21,F Koln,Uerdingen,1,2,A
+32559,D2,1996,1997-05-21,Stuttgarter K,Wolfsburg,0,0,D
+32560,D2,1996,1997-05-22,Ein Frankfurt,Gutersloh,2,0,H
+32561,D2,1996,1997-05-22,Lubeck,Oldenburg,2,0,H
+32562,D2,1996,1997-05-22,Mannheim,RW Essen,3,3,D
+32563,D2,1996,1997-05-22,Meppen,RB Leipzig,0,0,D
+32564,D2,1996,1997-05-22,Unterhaching,Hertha,1,2,A
+32565,D2,1996,1997-05-22,Zwickau,Kaiserslautern,2,1,H
+32566,D2,1996,1997-05-24,Wolfsburg,CZ Jena,4,1,H
+32567,D2,1996,1997-05-25,RW Essen,Ein Frankfurt,4,1,H
+32568,D2,1996,1997-05-25,F Koln,Lubeck,0,3,A
+32569,D2,1996,1997-05-25,Gutersloh,Meppen,4,2,H
+32570,D2,1996,1997-05-25,Hertha,Stuttgarter K,0,1,A
+32571,D2,1996,1997-05-25,RB Leipzig,Unterhaching,3,0,H
+32572,D2,1996,1997-05-25,Oldenburg,Zwickau,1,2,A
+32573,D2,1996,1997-05-25,Uerdingen,Mainz,0,1,A
+32574,D2,1996,1997-05-26,Kaiserslautern,Mannheim,5,0,H
+32575,D2,1996,1997-06-01,CZ Jena,Hertha,2,1,H
+32576,D2,1996,1997-06-01,Ein Frankfurt,Kaiserslautern,0,0,D
+32577,D2,1996,1997-06-01,Mainz,F Koln,2,0,H
+32578,D2,1996,1997-06-01,Mannheim,Oldenburg,2,0,H
+32579,D2,1996,1997-06-01,Meppen,RW Essen,1,1,D
+32580,D2,1996,1997-06-01,Stuttgarter K,RB Leipzig,3,1,H
+32581,D2,1996,1997-06-01,Uerdingen,Wolfsburg,0,3,A
+32582,D2,1996,1997-06-01,Unterhaching,Gutersloh,3,1,H
+32583,D2,1996,1997-06-01,Zwickau,Lubeck,2,0,H
+32584,D2,1996,1997-06-08,Hertha,Uerdingen,0,2,A
+32585,D2,1996,1997-06-11,RW Essen,Unterhaching,1,2,A
+32586,D2,1996,1997-06-11,F Koln,Zwickau,2,1,H
+32587,D2,1996,1997-06-11,Gutersloh,Stuttgarter K,1,0,H
+32588,D2,1996,1997-06-11,Kaiserslautern,Meppen,7,6,H
+32589,D2,1996,1997-06-11,RB Leipzig,CZ Jena,3,3,D
+32590,D2,1996,1997-06-11,Lubeck,Mannheim,2,3,A
+32591,D2,1996,1997-06-11,Oldenburg,Ein Frankfurt,1,2,A
+32592,D2,1996,1997-06-11,Wolfsburg,Mainz,5,4,H
+38795,E0,1996,1996-08-17,Arsenal,West Ham,2,0,H
+38796,E0,1996,1996-08-17,Blackburn,Tottenham,0,2,A
+38797,E0,1996,1996-08-17,Coventry,Nott'm Forest,0,3,A
+38798,E0,1996,1996-08-17,Derby,Leeds,3,3,D
+38799,E0,1996,1996-08-17,Everton,Newcastle,2,0,H
+38800,E0,1996,1996-08-17,Middlesbrough,Liverpool,3,3,D
+38801,E0,1996,1996-08-17,Sheffield Weds,Aston Villa,2,1,H
+38802,E0,1996,1996-08-17,Sunderland,Leicester,0,0,D
+38803,E0,1996,1996-08-17,Wimbledon,Man United,0,3,A
+38804,E0,1996,1996-08-18,Southampton,Chelsea,0,0,D
+38805,E0,1996,1996-08-19,Liverpool,Arsenal,2,0,H
+38806,E0,1996,1996-08-20,Leeds,Sheffield Weds,0,2,A
+38807,E0,1996,1996-08-21,Aston Villa,Blackburn,1,0,H
+38808,E0,1996,1996-08-21,Chelsea,Middlesbrough,1,0,H
+38809,E0,1996,1996-08-21,Leicester,Southampton,2,1,H
+38810,E0,1996,1996-08-21,Man United,Everton,2,2,D
+38811,E0,1996,1996-08-21,Newcastle,Wimbledon,2,0,H
+38812,E0,1996,1996-08-21,Nott'm Forest,Sunderland,1,4,A
+38813,E0,1996,1996-08-21,Tottenham,Derby,1,1,D
+38814,E0,1996,1996-08-21,West Ham,Coventry,1,1,D
+38815,E0,1996,1996-08-24,Aston Villa,Derby,2,0,H
+38816,E0,1996,1996-08-24,Chelsea,Coventry,2,0,H
+38817,E0,1996,1996-08-24,Leicester,Arsenal,0,2,A
+38818,E0,1996,1996-08-24,Liverpool,Sunderland,0,0,D
+38819,E0,1996,1996-08-24,Newcastle,Sheffield Weds,1,2,A
+38820,E0,1996,1996-08-24,Nott'm Forest,Middlesbrough,1,1,D
+38821,E0,1996,1996-08-24,Tottenham,Everton,0,0,D
+38822,E0,1996,1996-08-24,West Ham,Southampton,2,1,H
+38823,E0,1996,1996-08-25,Man United,Blackburn,2,2,D
+38824,E0,1996,1996-08-26,Leeds,Wimbledon,1,0,H
+38825,E0,1996,1996-09-02,Sheffield Weds,Leicester,2,1,H
+38826,E0,1996,1996-09-04,Arsenal,Chelsea,3,3,D
+38827,E0,1996,1996-09-04,Blackburn,Leeds,0,1,A
+38828,E0,1996,1996-09-04,Coventry,Liverpool,0,1,A
+38829,E0,1996,1996-09-04,Derby,Man United,1,1,D
+38830,E0,1996,1996-09-04,Everton,Aston Villa,0,1,A
+38831,E0,1996,1996-09-04,Middlesbrough,West Ham,4,1,H
+38832,E0,1996,1996-09-04,Southampton,Nott'm Forest,2,2,D
+38833,E0,1996,1996-09-04,Sunderland,Newcastle,1,2,A
+38834,E0,1996,1996-09-04,Wimbledon,Tottenham,1,0,H
+38835,E0,1996,1996-09-07,Aston Villa,Arsenal,2,2,D
+38836,E0,1996,1996-09-07,Leeds,Man United,0,4,A
+38837,E0,1996,1996-09-07,Liverpool,Southampton,2,1,H
+38838,E0,1996,1996-09-07,Middlesbrough,Coventry,4,0,H
+38839,E0,1996,1996-09-07,Nott'm Forest,Leicester,0,0,D
+38840,E0,1996,1996-09-07,Sheffield Weds,Chelsea,0,2,A
+38841,E0,1996,1996-09-07,Tottenham,Newcastle,1,2,A
+38842,E0,1996,1996-09-07,Wimbledon,Everton,4,0,H
+38843,E0,1996,1996-09-08,Sunderland,West Ham,0,0,D
+38844,E0,1996,1996-09-09,Blackburn,Derby,1,2,A
+38845,E0,1996,1996-09-14,Coventry,Leeds,2,1,H
+38846,E0,1996,1996-09-14,Derby,Sunderland,1,0,H
+38847,E0,1996,1996-09-14,Everton,Middlesbrough,1,2,A
+38848,E0,1996,1996-09-14,Man United,Nott'm Forest,4,1,H
+38849,E0,1996,1996-09-14,Newcastle,Blackburn,2,1,H
+38850,E0,1996,1996-09-14,Southampton,Tottenham,0,1,A
+38851,E0,1996,1996-09-14,West Ham,Wimbledon,0,2,A
+38852,E0,1996,1996-09-15,Chelsea,Aston Villa,1,1,D
+38853,E0,1996,1996-09-15,Leicester,Liverpool,0,3,A
+38854,E0,1996,1996-09-16,Arsenal,Sheffield Weds,4,1,H
+38855,E0,1996,1996-09-21,Aston Villa,Man United,0,0,D
+38856,E0,1996,1996-09-21,Blackburn,Everton,1,1,D
+38857,E0,1996,1996-09-21,Leeds,Newcastle,0,1,A
+38858,E0,1996,1996-09-21,Liverpool,Chelsea,5,1,H
+38859,E0,1996,1996-09-21,Middlesbrough,Arsenal,0,2,A
+38860,E0,1996,1996-09-21,Nott'm Forest,West Ham,0,2,A
+38861,E0,1996,1996-09-21,Sheffield Weds,Derby,0,0,D
+38862,E0,1996,1996-09-21,Sunderland,Coventry,1,0,H
+38863,E0,1996,1996-09-22,Tottenham,Leicester,1,2,A
+38864,E0,1996,1996-09-23,Wimbledon,Southampton,3,1,H
+38865,E0,1996,1996-09-28,Arsenal,Sunderland,2,0,H
+38866,E0,1996,1996-09-28,Chelsea,Nott'm Forest,1,1,D
+38867,E0,1996,1996-09-28,Coventry,Blackburn,0,0,D
+38868,E0,1996,1996-09-28,Derby,Wimbledon,0,2,A
+38869,E0,1996,1996-09-28,Everton,Sheffield Weds,2,0,H
+38870,E0,1996,1996-09-28,Leicester,Leeds,1,0,H
+38871,E0,1996,1996-09-28,Southampton,Middlesbrough,4,0,H
+38872,E0,1996,1996-09-29,Man United,Tottenham,2,0,H
+38873,E0,1996,1996-09-29,West Ham,Liverpool,1,2,A
+38874,E0,1996,1996-09-30,Newcastle,Aston Villa,4,3,H
+38875,E0,1996,1996-10-12,Blackburn,Arsenal,0,2,A
+38876,E0,1996,1996-10-12,Derby,Newcastle,0,1,A
+38877,E0,1996,1996-10-12,Everton,West Ham,2,1,H
+38878,E0,1996,1996-10-12,Leeds,Nott'm Forest,2,0,H
+38879,E0,1996,1996-10-12,Leicester,Chelsea,1,3,A
+38880,E0,1996,1996-10-12,Man United,Liverpool,1,0,H
+38881,E0,1996,1996-10-12,Tottenham,Aston Villa,1,0,H
+38882,E0,1996,1996-10-12,Wimbledon,Sheffield Weds,4,2,H
+38883,E0,1996,1996-10-13,Coventry,Southampton,1,1,D
+38884,E0,1996,1996-10-14,Sunderland,Middlesbrough,2,2,D
+38885,E0,1996,1996-10-19,Arsenal,Coventry,0,0,D
+38886,E0,1996,1996-10-19,Aston Villa,Leeds,2,0,H
+38887,E0,1996,1996-10-19,Chelsea,Wimbledon,2,4,A
+38888,E0,1996,1996-10-19,Middlesbrough,Tottenham,0,3,A
+38889,E0,1996,1996-10-19,Nott'm Forest,Derby,1,1,D
+38890,E0,1996,1996-10-19,Sheffield Weds,Blackburn,1,1,D
+38891,E0,1996,1996-10-19,Southampton,Sunderland,3,0,H
+38892,E0,1996,1996-10-19,West Ham,Leicester,1,0,H
+38893,E0,1996,1996-10-20,Newcastle,Man United,5,0,H
+38894,E0,1996,1996-10-26,Arsenal,Leeds,3,0,H
+38895,E0,1996,1996-10-26,Chelsea,Tottenham,3,1,H
+38896,E0,1996,1996-10-26,Coventry,Sheffield Weds,0,0,D
+38897,E0,1996,1996-10-26,Leicester,Newcastle,2,0,H
+38898,E0,1996,1996-10-26,Middlesbrough,Wimbledon,0,0,D
+38899,E0,1996,1996-10-26,Southampton,Man United,6,3,H
+38900,E0,1996,1996-10-26,Sunderland,Aston Villa,1,0,H
+38901,E0,1996,1996-10-26,West Ham,Blackburn,2,1,H
+38902,E0,1996,1996-10-27,Liverpool,Derby,2,1,H
+38903,E0,1996,1996-10-28,Nott'm Forest,Everton,0,1,A
+38904,E0,1996,1996-11-02,Aston Villa,Nott'm Forest,2,0,H
+38905,E0,1996,1996-11-02,Derby,Leicester,2,0,H
+38906,E0,1996,1996-11-02,Leeds,Sunderland,3,0,H
+38907,E0,1996,1996-11-02,Man United,Chelsea,1,2,A
+38908,E0,1996,1996-11-02,Sheffield Weds,Southampton,1,1,D
+38909,E0,1996,1996-11-02,Tottenham,West Ham,1,0,H
+38910,E0,1996,1996-11-02,Wimbledon,Arsenal,2,2,D
+38911,E0,1996,1996-11-03,Blackburn,Liverpool,3,0,H
+38912,E0,1996,1996-11-03,Newcastle,Middlesbrough,3,1,H
+38913,E0,1996,1996-11-04,Everton,Coventry,1,1,D
+38914,E0,1996,1996-11-16,Aston Villa,Leicester,1,3,A
+38915,E0,1996,1996-11-16,Blackburn,Chelsea,1,1,D
+38916,E0,1996,1996-11-16,Everton,Southampton,7,1,H
+38917,E0,1996,1996-11-16,Leeds,Liverpool,0,2,A
+38918,E0,1996,1996-11-16,Man United,Arsenal,1,0,H
+38919,E0,1996,1996-11-16,Newcastle,West Ham,1,1,D
+38920,E0,1996,1996-11-16,Tottenham,Sunderland,2,0,H
+38921,E0,1996,1996-11-16,Wimbledon,Coventry,2,2,D
+38922,E0,1996,1996-11-17,Derby,Middlesbrough,2,1,H
+38923,E0,1996,1996-11-18,Sheffield Weds,Nott'm Forest,2,0,H
+38924,E0,1996,1996-11-20,Liverpool,Everton,1,1,D
+38925,E0,1996,1996-11-23,Chelsea,Newcastle,1,1,D
+38926,E0,1996,1996-11-23,Coventry,Aston Villa,1,2,A
+38927,E0,1996,1996-11-23,Leicester,Everton,1,2,A
+38928,E0,1996,1996-11-23,Liverpool,Wimbledon,1,1,D
+38929,E0,1996,1996-11-23,Middlesbrough,Man United,2,2,D
+38930,E0,1996,1996-11-23,Southampton,Leeds,0,2,A
+38931,E0,1996,1996-11-23,Sunderland,Sheffield Weds,1,1,D
+38932,E0,1996,1996-11-23,West Ham,Derby,1,1,D
+38933,E0,1996,1996-11-24,Arsenal,Tottenham,3,1,H
+38934,E0,1996,1996-11-25,Nott'm Forest,Blackburn,2,2,D
+38935,E0,1996,1996-11-30,Aston Villa,Middlesbrough,1,0,H
+38936,E0,1996,1996-11-30,Blackburn,Southampton,2,1,H
+38937,E0,1996,1996-11-30,Derby,Coventry,2,1,H
+38938,E0,1996,1996-11-30,Everton,Sunderland,1,3,A
+38939,E0,1996,1996-11-30,Man United,Leicester,3,1,H
+38940,E0,1996,1996-11-30,Newcastle,Arsenal,1,2,A
+38941,E0,1996,1996-11-30,Sheffield Weds,West Ham,0,0,D
+38942,E0,1996,1996-11-30,Wimbledon,Nott'm Forest,1,0,H
+38943,E0,1996,1996-12-01,Leeds,Chelsea,2,0,H
+38944,E0,1996,1996-12-02,Tottenham,Liverpool,0,2,A
+38945,E0,1996,1996-12-03,Middlesbrough,Leicester,0,2,A
+38946,E0,1996,1996-12-04,Arsenal,Southampton,3,1,H
+38947,E0,1996,1996-12-04,West Ham,Aston Villa,0,2,A
+38948,E0,1996,1996-12-07,Arsenal,Derby,2,2,D
+38949,E0,1996,1996-12-07,Chelsea,Everton,2,2,D
+38950,E0,1996,1996-12-07,Coventry,Tottenham,1,2,A
+38951,E0,1996,1996-12-07,Leicester,Blackburn,1,1,D
+38952,E0,1996,1996-12-07,Liverpool,Sheffield Weds,0,1,A
+38953,E0,1996,1996-12-07,Middlesbrough,Leeds,0,0,D
+38954,E0,1996,1996-12-07,Southampton,Aston Villa,0,1,A
+38955,E0,1996,1996-12-07,Sunderland,Wimbledon,1,3,A
+38956,E0,1996,1996-12-08,West Ham,Man United,2,2,D
+38957,E0,1996,1996-12-09,Nott'm Forest,Newcastle,0,0,D
+38958,E0,1996,1996-12-14,Leeds,Tottenham,0,0,D
+38959,E0,1996,1996-12-14,Liverpool,Middlesbrough,5,1,H
+38960,E0,1996,1996-12-14,Wimbledon,Blackburn,1,0,H
+38961,E0,1996,1996-12-15,Sunderland,Chelsea,3,0,H
+38962,E0,1996,1996-12-16,Derby,Everton,0,1,A
+38963,E0,1996,1996-12-17,Coventry,Newcastle,2,1,H
+38964,E0,1996,1996-12-17,Liverpool,Nott'm Forest,4,2,H
+38965,E0,1996,1996-12-18,Sheffield Weds,Man United,1,1,D
+38966,E0,1996,1996-12-21,Chelsea,West Ham,3,1,H
+38967,E0,1996,1996-12-21,Everton,Leeds,0,0,D
+38968,E0,1996,1996-12-21,Leicester,Coventry,0,2,A
+38969,E0,1996,1996-12-21,Man United,Sunderland,5,0,H
+38970,E0,1996,1996-12-21,Nott'm Forest,Arsenal,2,1,H
+38971,E0,1996,1996-12-21,Southampton,Derby,3,1,H
+38972,E0,1996,1996-12-21,Tottenham,Sheffield Weds,1,1,D
+38973,E0,1996,1996-12-22,Aston Villa,Wimbledon,5,0,H
+38974,E0,1996,1996-12-23,Newcastle,Liverpool,1,1,D
+38975,E0,1996,1996-12-26,Aston Villa,Chelsea,0,2,A
+38976,E0,1996,1996-12-26,Blackburn,Newcastle,1,0,H
+38977,E0,1996,1996-12-26,Leeds,Coventry,1,3,A
+38978,E0,1996,1996-12-26,Liverpool,Leicester,1,1,D
+38979,E0,1996,1996-12-26,Middlesbrough,Everton,4,2,H
+38980,E0,1996,1996-12-26,Nott'm Forest,Man United,0,4,A
+38981,E0,1996,1996-12-26,Sheffield Weds,Arsenal,0,0,D
+38982,E0,1996,1996-12-26,Sunderland,Derby,2,0,H
+38983,E0,1996,1996-12-26,Tottenham,Southampton,3,1,H
+38984,E0,1996,1996-12-28,Arsenal,Aston Villa,2,2,D
+38985,E0,1996,1996-12-28,Chelsea,Sheffield Weds,2,2,D
+38986,E0,1996,1996-12-28,Coventry,Middlesbrough,3,0,H
+38987,E0,1996,1996-12-28,Derby,Blackburn,0,0,D
+38988,E0,1996,1996-12-28,Everton,Wimbledon,1,3,A
+38989,E0,1996,1996-12-28,Leicester,Nott'm Forest,2,2,D
+38990,E0,1996,1996-12-28,Man United,Leeds,1,0,H
+38991,E0,1996,1996-12-28,Newcastle,Tottenham,7,1,H
+38992,E0,1996,1996-12-28,West Ham,Sunderland,2,0,H
+38993,E0,1996,1996-12-29,Southampton,Liverpool,0,1,A
+38994,E0,1996,1997-01-01,Arsenal,Middlesbrough,2,0,H
+38995,E0,1996,1997-01-01,Chelsea,Liverpool,1,0,H
+38996,E0,1996,1997-01-01,Coventry,Sunderland,2,2,D
+38997,E0,1996,1997-01-01,Everton,Blackburn,0,2,A
+38998,E0,1996,1997-01-01,Man United,Aston Villa,0,0,D
+38999,E0,1996,1997-01-01,Newcastle,Leeds,3,0,H
+39000,E0,1996,1997-01-01,West Ham,Nott'm Forest,0,1,A
+39001,E0,1996,1997-01-11,Aston Villa,Newcastle,2,2,D
+39002,E0,1996,1997-01-11,Blackburn,Coventry,4,0,H
+39003,E0,1996,1997-01-11,Leeds,Leicester,3,0,H
+39004,E0,1996,1997-01-11,Liverpool,West Ham,0,0,D
+39005,E0,1996,1997-01-11,Middlesbrough,Southampton,0,1,A
+39006,E0,1996,1997-01-11,Nott'm Forest,Chelsea,2,0,H
+39007,E0,1996,1997-01-11,Sheffield Weds,Everton,2,1,H
+39008,E0,1996,1997-01-11,Sunderland,Arsenal,1,0,H
+39009,E0,1996,1997-01-11,Wimbledon,Derby,1,1,D
+39010,E0,1996,1997-01-12,Tottenham,Man United,1,2,A
+39011,E0,1996,1997-01-18,Chelsea,Derby,3,1,H
+39012,E0,1996,1997-01-18,Coventry,Man United,0,2,A
+39013,E0,1996,1997-01-18,Leicester,Wimbledon,1,0,H
+39014,E0,1996,1997-01-18,Liverpool,Aston Villa,3,0,H
+39015,E0,1996,1997-01-18,Middlesbrough,Sheffield Weds,4,2,H
+39016,E0,1996,1997-01-18,Southampton,Newcastle,2,2,D
+39017,E0,1996,1997-01-18,Sunderland,Blackburn,0,0,D
+39018,E0,1996,1997-01-19,Arsenal,Everton,3,1,H
+39019,E0,1996,1997-01-19,Nott'm Forest,Tottenham,2,1,H
+39020,E0,1996,1997-01-20,West Ham,Leeds,0,2,A
+39021,E0,1996,1997-01-29,Aston Villa,Sheffield Weds,0,1,A
+39022,E0,1996,1997-01-29,Leeds,Derby,0,0,D
+39023,E0,1996,1997-01-29,Leicester,Sunderland,1,1,D
+39024,E0,1996,1997-01-29,Man United,Wimbledon,2,1,H
+39025,E0,1996,1997-01-29,Newcastle,Everton,4,1,H
+39026,E0,1996,1997-01-29,Nott'm Forest,Coventry,0,1,A
+39027,E0,1996,1997-01-29,Tottenham,Blackburn,2,1,H
+39028,E0,1996,1997-01-29,West Ham,Arsenal,1,2,A
+39029,E0,1996,1997-02-01,Aston Villa,Sunderland,1,0,H
+39030,E0,1996,1997-02-01,Blackburn,West Ham,2,1,H
+39031,E0,1996,1997-02-01,Derby,Liverpool,0,1,A
+39032,E0,1996,1997-02-01,Everton,Nott'm Forest,2,0,H
+39033,E0,1996,1997-02-01,Leeds,Arsenal,0,0,D
+39034,E0,1996,1997-02-01,Man United,Southampton,2,1,H
+39035,E0,1996,1997-02-01,Sheffield Weds,Coventry,0,0,D
+39036,E0,1996,1997-02-01,Tottenham,Chelsea,1,2,A
+39037,E0,1996,1997-02-01,Wimbledon,Middlesbrough,1,1,D
+39038,E0,1996,1997-02-02,Newcastle,Leicester,4,3,H
+39039,E0,1996,1997-02-15,Derby,West Ham,1,0,H
+39040,E0,1996,1997-02-15,Tottenham,Arsenal,0,0,D
+39041,E0,1996,1997-02-19,Arsenal,Man United,1,2,A
+39042,E0,1996,1997-02-19,Aston Villa,Coventry,2,1,H
+39043,E0,1996,1997-02-19,Derby,Sheffield Weds,2,2,D
+39044,E0,1996,1997-02-19,Liverpool,Leeds,4,0,H
+39045,E0,1996,1997-02-22,Chelsea,Man United,1,1,D
+39046,E0,1996,1997-02-22,Coventry,Everton,0,0,D
+39047,E0,1996,1997-02-22,Leicester,Derby,4,2,H
+39048,E0,1996,1997-02-22,Liverpool,Blackburn,0,0,D
+39049,E0,1996,1997-02-22,Middlesbrough,Newcastle,0,1,A
+39050,E0,1996,1997-02-22,Nott'm Forest,Aston Villa,0,0,D
+39051,E0,1996,1997-02-22,Southampton,Sheffield Weds,2,3,A
+39052,E0,1996,1997-02-22,Sunderland,Leeds,0,1,A
+39053,E0,1996,1997-02-23,Arsenal,Wimbledon,0,1,A
+39054,E0,1996,1997-02-24,West Ham,Tottenham,4,3,H
+39055,E0,1996,1997-02-26,Southampton,Wimbledon,0,0,D
+39056,E0,1996,1997-03-01,Blackburn,Sunderland,1,0,H
+39057,E0,1996,1997-03-01,Derby,Chelsea,3,2,H
+39058,E0,1996,1997-03-01,Everton,Arsenal,0,2,A
+39059,E0,1996,1997-03-01,Leeds,West Ham,1,0,H
+39060,E0,1996,1997-03-01,Man United,Coventry,3,1,H
+39061,E0,1996,1997-03-01,Newcastle,Southampton,0,1,A
+39062,E0,1996,1997-03-01,Sheffield Weds,Middlesbrough,3,1,H
+39063,E0,1996,1997-03-01,Tottenham,Nott'm Forest,0,1,A
+39064,E0,1996,1997-03-01,Wimbledon,Leicester,1,3,A
+39065,E0,1996,1997-03-02,Aston Villa,Liverpool,1,0,H
+39066,E0,1996,1997-03-03,Coventry,Wimbledon,1,1,D
+39067,E0,1996,1997-03-04,Sunderland,Tottenham,0,4,A
+39068,E0,1996,1997-03-05,Chelsea,Blackburn,1,1,D
+39069,E0,1996,1997-03-05,Leicester,Aston Villa,1,0,H
+39070,E0,1996,1997-03-05,Middlesbrough,Derby,6,1,H
+39071,E0,1996,1997-03-05,Nott'm Forest,Sheffield Weds,0,3,A
+39072,E0,1996,1997-03-05,Southampton,Everton,2,2,D
+39073,E0,1996,1997-03-08,Arsenal,Nott'm Forest,2,0,H
+39074,E0,1996,1997-03-08,Coventry,Leicester,0,0,D
+39075,E0,1996,1997-03-08,Leeds,Everton,1,0,H
+39076,E0,1996,1997-03-08,Sunderland,Man United,2,1,H
+39077,E0,1996,1997-03-10,Liverpool,Newcastle,4,3,H
+39078,E0,1996,1997-03-11,Blackburn,Nott'm Forest,1,1,D
+39079,E0,1996,1997-03-12,Leeds,Southampton,0,0,D
+39080,E0,1996,1997-03-12,Sheffield Weds,Sunderland,2,1,H
+39081,E0,1996,1997-03-12,West Ham,Chelsea,3,2,H
+39082,E0,1996,1997-03-15,Aston Villa,West Ham,0,0,D
+39083,E0,1996,1997-03-15,Blackburn,Wimbledon,3,1,H
+39084,E0,1996,1997-03-15,Everton,Derby,1,0,H
+39085,E0,1996,1997-03-15,Leicester,Middlesbrough,1,3,A
+39086,E0,1996,1997-03-15,Man United,Sheffield Weds,2,0,H
+39087,E0,1996,1997-03-15,Newcastle,Coventry,4,0,H
+39088,E0,1996,1997-03-15,Nott'm Forest,Liverpool,1,1,D
+39089,E0,1996,1997-03-15,Southampton,Arsenal,0,2,A
+39090,E0,1996,1997-03-15,Tottenham,Leeds,1,0,H
+39091,E0,1996,1997-03-16,Chelsea,Sunderland,6,2,H
+39092,E0,1996,1997-03-18,Wimbledon,West Ham,1,1,D
+39093,E0,1996,1997-03-19,Chelsea,Southampton,1,0,H
+39094,E0,1996,1997-03-19,Leicester,Tottenham,1,1,D
+39095,E0,1996,1997-03-19,Middlesbrough,Blackburn,2,1,H
+39096,E0,1996,1997-03-22,Blackburn,Aston Villa,0,2,A
+39097,E0,1996,1997-03-22,Coventry,West Ham,1,3,A
+39098,E0,1996,1997-03-22,Derby,Tottenham,4,2,H
+39099,E0,1996,1997-03-22,Everton,Man United,0,2,A
+39100,E0,1996,1997-03-22,Middlesbrough,Chelsea,1,0,H
+39101,E0,1996,1997-03-22,Sheffield Weds,Leeds,2,2,D
+39102,E0,1996,1997-03-22,Southampton,Leicester,2,2,D
+39103,E0,1996,1997-03-22,Sunderland,Nott'm Forest,1,1,D
+39104,E0,1996,1997-03-23,Wimbledon,Newcastle,1,1,D
+39105,E0,1996,1997-03-24,Arsenal,Liverpool,1,2,A
+39106,E0,1996,1997-03-24,Middlesbrough,Nott'm Forest,1,1,D
+39107,E0,1996,1997-04-05,Aston Villa,Everton,3,1,H
+39108,E0,1996,1997-04-05,Chelsea,Arsenal,0,3,A
+39109,E0,1996,1997-04-05,Man United,Derby,2,3,A
+39110,E0,1996,1997-04-05,Newcastle,Sunderland,1,1,D
+39111,E0,1996,1997-04-05,Nott'm Forest,Southampton,1,3,A
+39112,E0,1996,1997-04-05,Tottenham,Wimbledon,1,0,H
+39113,E0,1996,1997-04-06,Liverpool,Coventry,1,2,A
+39114,E0,1996,1997-04-07,Leeds,Blackburn,0,0,D
+39115,E0,1996,1997-04-09,Coventry,Chelsea,3,1,H
+39116,E0,1996,1997-04-09,Derby,Southampton,1,1,D
+39117,E0,1996,1997-04-09,Everton,Leicester,1,1,D
+39118,E0,1996,1997-04-09,Sheffield Weds,Tottenham,2,1,H
+39119,E0,1996,1997-04-09,West Ham,Middlesbrough,0,0,D
+39120,E0,1996,1997-04-09,Wimbledon,Aston Villa,0,2,A
+39121,E0,1996,1997-04-12,Arsenal,Leicester,2,0,H
+39122,E0,1996,1997-04-12,Blackburn,Man United,2,3,A
+39123,E0,1996,1997-04-12,Derby,Aston Villa,2,1,H
+39124,E0,1996,1997-04-12,Everton,Tottenham,1,0,H
+39125,E0,1996,1997-04-12,Southampton,West Ham,2,0,H
+39126,E0,1996,1997-04-13,Sheffield Weds,Newcastle,1,1,D
+39127,E0,1996,1997-04-13,Sunderland,Liverpool,1,2,A
+39128,E0,1996,1997-04-16,Everton,Liverpool,1,1,D
+39129,E0,1996,1997-04-16,Newcastle,Chelsea,3,1,H
+39130,E0,1996,1997-04-16,Wimbledon,Leeds,2,0,H
+39131,E0,1996,1997-04-19,Arsenal,Blackburn,1,1,D
+39132,E0,1996,1997-04-19,Aston Villa,Tottenham,1,1,D
+39133,E0,1996,1997-04-19,Chelsea,Leicester,2,1,H
+39134,E0,1996,1997-04-19,Liverpool,Man United,1,3,A
+39135,E0,1996,1997-04-19,Middlesbrough,Sunderland,0,1,A
+39136,E0,1996,1997-04-19,Newcastle,Derby,3,1,H
+39137,E0,1996,1997-04-19,Nott'm Forest,Leeds,1,1,D
+39138,E0,1996,1997-04-19,Sheffield Weds,Wimbledon,3,1,H
+39139,E0,1996,1997-04-19,Southampton,Coventry,2,2,D
+39140,E0,1996,1997-04-19,West Ham,Everton,2,2,D
+39141,E0,1996,1997-04-21,Coventry,Arsenal,1,1,D
+39142,E0,1996,1997-04-22,Blackburn,Sheffield Weds,4,1,H
+39143,E0,1996,1997-04-22,Leeds,Aston Villa,0,0,D
+39144,E0,1996,1997-04-22,Sunderland,Southampton,0,1,A
+39145,E0,1996,1997-04-22,Wimbledon,Chelsea,0,1,A
+39146,E0,1996,1997-04-23,Derby,Nott'm Forest,0,0,D
+39147,E0,1996,1997-04-23,Leicester,West Ham,0,1,A
+39148,E0,1996,1997-04-24,Tottenham,Middlesbrough,1,0,H
+39149,E0,1996,1997-05-03,Arsenal,Newcastle,0,1,A
+39150,E0,1996,1997-05-03,Chelsea,Leeds,0,0,D
+39151,E0,1996,1997-05-03,Coventry,Derby,1,2,A
+39152,E0,1996,1997-05-03,Leicester,Man United,2,2,D
+39153,E0,1996,1997-05-03,Liverpool,Tottenham,2,1,H
+39154,E0,1996,1997-05-03,Middlesbrough,Aston Villa,3,2,H
+39155,E0,1996,1997-05-03,Nott'm Forest,Wimbledon,1,1,D
+39156,E0,1996,1997-05-03,Southampton,Blackburn,2,0,H
+39157,E0,1996,1997-05-03,Sunderland,Everton,3,0,H
+39158,E0,1996,1997-05-03,West Ham,Sheffield Weds,5,1,H
+39159,E0,1996,1997-05-05,Man United,Middlesbrough,3,3,D
+39160,E0,1996,1997-05-06,West Ham,Newcastle,0,0,D
+39161,E0,1996,1997-05-06,Wimbledon,Liverpool,2,1,H
+39162,E0,1996,1997-05-07,Leicester,Sheffield Weds,1,0,H
+39163,E0,1996,1997-05-08,Blackburn,Middlesbrough,0,0,D
+39164,E0,1996,1997-05-08,Man United,Newcastle,0,0,D
+39165,E0,1996,1997-05-11,Aston Villa,Southampton,1,0,H
+39166,E0,1996,1997-05-11,Blackburn,Leicester,2,4,A
+39167,E0,1996,1997-05-11,Derby,Arsenal,1,3,A
+39168,E0,1996,1997-05-11,Everton,Chelsea,1,2,A
+39169,E0,1996,1997-05-11,Leeds,Middlesbrough,1,1,D
+39170,E0,1996,1997-05-11,Man United,West Ham,2,0,H
+39171,E0,1996,1997-05-11,Newcastle,Nott'm Forest,5,0,H
+39172,E0,1996,1997-05-11,Sheffield Weds,Liverpool,1,1,D
+39173,E0,1996,1997-05-11,Tottenham,Coventry,1,2,A
+39174,E0,1996,1997-05-11,Wimbledon,Sunderland,1,0,H

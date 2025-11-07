@@ -1,0 +1,993 @@
+Match_ID,Div,Season,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+33205,D1,1998,1998-08-14,Duisburg,Ein Frankfurt,2,1,H
+33206,D1,1998,1998-08-14,Stuttgart,Dortmund,2,1,H
+33207,D1,1998,1998-08-15,Bochum,Freiburg,1,2,A
+33208,D1,1998,1998-08-15,Leverkusen,Hansa Rostock,3,1,H
+33209,D1,1998,1998-08-15,M'gladbach,Schalke 04,3,0,H
+33210,D1,1998,1998-08-15,Munich 1860,Kaiserslautern,1,2,A
+33211,D1,1998,1998-08-15,Nurnberg,Hamburg,1,1,D
+33212,D1,1998,1998-08-15,Wolfsburg,Bayern Munich,0,1,A
+33213,D1,1998,1998-08-16,Hertha,Werder Bremen,1,0,H
+33214,D1,1998,1998-08-21,Hansa Rostock,Wolfsburg,3,3,D
+33215,D1,1998,1998-08-21,Werder Bremen,Nurnberg,2,3,A
+33216,D1,1998,1998-08-22,Bayern Munich,Duisburg,3,1,H
+33217,D1,1998,1998-08-22,Dortmund,Hertha,3,0,H
+33218,D1,1998,1998-08-22,Ein Frankfurt,Munich 1860,2,3,A
+33219,D1,1998,1998-08-22,Freiburg,Leverkusen,1,1,D
+33220,D1,1998,1998-08-22,Kaiserslautern,M'gladbach,2,1,H
+33221,D1,1998,1998-08-22,Schalke 04,Stuttgart,1,0,H
+33222,D1,1998,1998-08-23,Hamburg,Bochum,1,0,H
+33223,D1,1998,1998-09-08,Bochum,Werder Bremen,2,0,H
+33224,D1,1998,1998-09-08,Duisburg,Munich 1860,1,1,D
+33225,D1,1998,1998-09-08,M'gladbach,Ein Frankfurt,1,1,D
+33226,D1,1998,1998-09-08,Stuttgart,Kaiserslautern,4,0,H
+33227,D1,1998,1998-09-08,Wolfsburg,Freiburg,1,1,D
+33228,D1,1998,1998-09-09,Bayern Munich,Hansa Rostock,6,1,H
+33229,D1,1998,1998-09-09,Hertha,Schalke 04,2,0,H
+33230,D1,1998,1998-09-09,Leverkusen,Hamburg,1,2,A
+33231,D1,1998,1998-09-09,Nurnberg,Dortmund,0,0,D
+33232,D1,1998,1998-09-11,Ein Frankfurt,Stuttgart,1,1,D
+33233,D1,1998,1998-09-11,Munich 1860,M'gladbach,3,1,H
+33234,D1,1998,1998-09-12,Freiburg,Bayern Munich,0,2,A
+33235,D1,1998,1998-09-12,Hamburg,Wolfsburg,1,1,D
+33236,D1,1998,1998-09-12,Hansa Rostock,Duisburg,3,0,H
+33237,D1,1998,1998-09-12,Kaiserslautern,Hertha,4,3,H
+33238,D1,1998,1998-09-12,Schalke 04,Nurnberg,2,2,D
+33239,D1,1998,1998-09-12,Werder Bremen,Leverkusen,2,2,D
+33240,D1,1998,1998-09-13,Dortmund,Bochum,0,1,A
+33241,D1,1998,1998-09-18,Hansa Rostock,Freiburg,0,2,A
+33242,D1,1998,1998-09-18,Hertha,Ein Frankfurt,3,1,H
+33243,D1,1998,1998-09-19,Bochum,Schalke 04,1,2,A
+33244,D1,1998,1998-09-19,Leverkusen,Dortmund,3,1,H
+33245,D1,1998,1998-09-19,Nurnberg,Kaiserslautern,1,1,D
+33246,D1,1998,1998-09-19,Stuttgart,Munich 1860,0,1,A
+33247,D1,1998,1998-09-19,Wolfsburg,Werder Bremen,2,4,A
+33248,D1,1998,1998-09-20,Bayern Munich,Hamburg,5,3,H
+33249,D1,1998,1998-09-20,Duisburg,M'gladbach,2,2,D
+33250,D1,1998,1998-09-25,Hamburg,Hansa Rostock,1,0,H
+33251,D1,1998,1998-09-25,Munich 1860,Hertha,2,0,H
+33252,D1,1998,1998-09-26,Dortmund,Wolfsburg,2,1,H
+33253,D1,1998,1998-09-26,Freiburg,Duisburg,2,2,D
+33254,D1,1998,1998-09-26,Kaiserslautern,Bochum,2,3,A
+33255,D1,1998,1998-09-26,M'gladbach,Stuttgart,2,3,A
+33256,D1,1998,1998-09-26,Schalke 04,Leverkusen,0,1,A
+33257,D1,1998,1998-09-26,Werder Bremen,Bayern Munich,0,1,A
+33258,D1,1998,1998-09-27,Ein Frankfurt,Nurnberg,3,2,H
+33259,D1,1998,1998-10-02,Hertha,M'gladbach,4,1,H
+33260,D1,1998,1998-10-02,Wolfsburg,Schalke 04,0,0,D
+33261,D1,1998,1998-10-03,Bochum,Ein Frankfurt,0,0,D
+33262,D1,1998,1998-10-03,Freiburg,Hamburg,0,0,D
+33263,D1,1998,1998-10-03,Hansa Rostock,Werder Bremen,2,1,H
+33264,D1,1998,1998-10-03,Leverkusen,Kaiserslautern,2,2,D
+33265,D1,1998,1998-10-03,Nurnberg,Munich 1860,1,5,A
+33266,D1,1998,1998-10-04,Bayern Munich,Dortmund,2,2,D
+33267,D1,1998,1998-10-04,Duisburg,Stuttgart,2,0,H
+33268,D1,1998,1998-10-16,Kaiserslautern,Wolfsburg,1,1,D
+33269,D1,1998,1998-10-16,Munich 1860,Bochum,2,1,H
+33270,D1,1998,1998-10-17,Ein Frankfurt,Leverkusen,2,3,A
+33271,D1,1998,1998-10-17,Hamburg,Duisburg,4,1,H
+33272,D1,1998,1998-10-17,M'gladbach,Nurnberg,0,2,A
+33273,D1,1998,1998-10-17,Schalke 04,Bayern Munich,1,3,A
+33274,D1,1998,1998-10-17,Stuttgart,Hertha,0,0,D
+33275,D1,1998,1998-10-17,Werder Bremen,Freiburg,2,3,A
+33276,D1,1998,1998-10-18,Dortmund,Hansa Rostock,2,0,H
+33277,D1,1998,1998-10-23,Freiburg,Dortmund,2,2,D
+33278,D1,1998,1998-10-23,Hamburg,Werder Bremen,1,1,D
+33279,D1,1998,1998-10-24,Bayern Munich,Kaiserslautern,4,0,H
+33280,D1,1998,1998-10-24,Bochum,M'gladbach,2,1,H
+33281,D1,1998,1998-10-24,Hansa Rostock,Schalke 04,2,2,D
+33282,D1,1998,1998-10-24,Nurnberg,Stuttgart,2,2,D
+33283,D1,1998,1998-10-24,Wolfsburg,Ein Frankfurt,2,0,H
+33284,D1,1998,1998-10-25,Duisburg,Hertha,0,0,D
+33285,D1,1998,1998-10-25,Leverkusen,Munich 1860,1,1,D
+33286,D1,1998,1998-10-30,Kaiserslautern,Hansa Rostock,3,2,H
+33287,D1,1998,1998-10-30,M'gladbach,Leverkusen,2,8,A
+33288,D1,1998,1998-10-31,Ein Frankfurt,Bayern Munich,1,0,H
+33289,D1,1998,1998-10-31,Munich 1860,Wolfsburg,2,3,A
+33290,D1,1998,1998-10-31,Stuttgart,Bochum,4,2,H
+33291,D1,1998,1998-10-31,Werder Bremen,Duisburg,1,1,D
+33292,D1,1998,1998-11-01,Hertha,Nurnberg,3,0,H
+33293,D1,1998,1998-11-03,Schalke 04,Freiburg,1,1,D
+33294,D1,1998,1998-11-06,Duisburg,Nurnberg,1,1,D
+33295,D1,1998,1998-11-06,Werder Bremen,Dortmund,1,1,D
+33296,D1,1998,1998-11-07,Bayern Munich,Munich 1860,3,1,H
+33297,D1,1998,1998-11-07,Bochum,Hertha,2,0,H
+33298,D1,1998,1998-11-07,Freiburg,Kaiserslautern,0,1,A
+33299,D1,1998,1998-11-07,Hamburg,Schalke 04,2,2,D
+33300,D1,1998,1998-11-07,Hansa Rostock,Ein Frankfurt,2,2,D
+33301,D1,1998,1998-11-07,Wolfsburg,M'gladbach,7,1,H
+33302,D1,1998,1998-11-08,Leverkusen,Stuttgart,0,0,D
+33303,D1,1998,1998-11-10,Kaiserslautern,Hamburg,1,0,H
+33304,D1,1998,1998-11-10,Munich 1860,Hansa Rostock,2,1,H
+33305,D1,1998,1998-11-11,Dortmund,Duisburg,2,0,H
+33306,D1,1998,1998-11-11,Ein Frankfurt,Freiburg,3,1,H
+33307,D1,1998,1998-11-11,Hertha,Leverkusen,0,1,A
+33308,D1,1998,1998-11-11,Nurnberg,Bochum,2,2,D
+33309,D1,1998,1998-11-11,Stuttgart,Wolfsburg,1,2,A
+33310,D1,1998,1998-11-13,Hansa Rostock,M'gladbach,1,1,D
+33311,D1,1998,1998-11-13,Werder Bremen,Kaiserslautern,0,1,A
+33312,D1,1998,1998-11-14,Bayern Munich,Stuttgart,2,0,H
+33313,D1,1998,1998-11-14,Dortmund,Schalke 04,3,0,H
+33314,D1,1998,1998-11-14,Duisburg,Bochum,2,0,H
+33315,D1,1998,1998-11-14,Hamburg,Ein Frankfurt,0,1,A
+33316,D1,1998,1998-11-14,Leverkusen,Nurnberg,3,0,H
+33317,D1,1998,1998-11-14,Wolfsburg,Hertha,2,1,H
+33318,D1,1998,1998-11-15,Freiburg,Munich 1860,1,2,A
+33319,D1,1998,1998-11-20,Ein Frankfurt,Werder Bremen,0,2,A
+33320,D1,1998,1998-11-20,Schalke 04,Duisburg,2,0,H
+33321,D1,1998,1998-11-21,Bochum,Leverkusen,1,5,A
+33322,D1,1998,1998-11-21,Hertha,Bayern Munich,1,0,H
+33323,D1,1998,1998-11-21,Kaiserslautern,Dortmund,1,0,H
+33324,D1,1998,1998-11-21,Munich 1860,Hamburg,0,0,D
+33325,D1,1998,1998-11-21,Nurnberg,Wolfsburg,1,1,D
+33326,D1,1998,1998-11-21,Stuttgart,Hansa Rostock,1,1,D
+33327,D1,1998,1998-11-22,M'gladbach,Freiburg,3,1,H
+33328,D1,1998,1998-11-24,Dortmund,Hamburg,2,1,H
+33329,D1,1998,1998-11-24,Schalke 04,Werder Bremen,1,2,A
+33330,D1,1998,1998-11-27,Dortmund,Ein Frankfurt,3,1,H
+33331,D1,1998,1998-11-27,Hansa Rostock,Hertha,1,2,A
+33332,D1,1998,1998-11-28,Bayern Munich,Nurnberg,2,0,H
+33333,D1,1998,1998-11-28,Freiburg,Stuttgart,2,0,H
+33334,D1,1998,1998-11-28,Hamburg,M'gladbach,3,0,H
+33335,D1,1998,1998-11-28,Leverkusen,Duisburg,2,0,H
+33336,D1,1998,1998-11-28,Werder Bremen,Munich 1860,4,1,H
+33337,D1,1998,1998-11-28,Wolfsburg,Bochum,4,1,H
+33338,D1,1998,1998-11-29,Kaiserslautern,Schalke 04,4,1,H
+33339,D1,1998,1998-12-04,Bochum,Bayern Munich,2,2,D
+33340,D1,1998,1998-12-04,Nurnberg,Hansa Rostock,2,2,D
+33341,D1,1998,1998-12-05,Ein Frankfurt,Schalke 04,1,2,A
+33342,D1,1998,1998-12-05,Leverkusen,Wolfsburg,3,0,H
+33343,D1,1998,1998-12-05,Stuttgart,Hamburg,3,1,H
+33344,D1,1998,1998-12-06,Munich 1860,Dortmund,2,0,H
+33345,D1,1998,1998-12-08,M'gladbach,Werder Bremen,0,1,A
+33346,D1,1998,1998-12-11,Dortmund,M'gladbach,1,1,D
+33347,D1,1998,1998-12-11,Hamburg,Hertha,0,4,A
+33348,D1,1998,1998-12-12,Freiburg,Nurnberg,1,0,H
+33349,D1,1998,1998-12-12,Hansa Rostock,Bochum,3,0,H
+33350,D1,1998,1998-12-12,Kaiserslautern,Ein Frankfurt,2,1,H
+33351,D1,1998,1998-12-12,Schalke 04,Munich 1860,2,2,D
+33352,D1,1998,1998-12-12,Werder Bremen,Stuttgart,2,2,D
+33353,D1,1998,1998-12-12,Wolfsburg,Duisburg,4,2,H
+33354,D1,1998,1998-12-13,Bayern Munich,Leverkusen,2,0,H
+33355,D1,1998,1998-12-15,Hertha,Freiburg,1,0,H
+33356,D1,1998,1998-12-16,Duisburg,Kaiserslautern,3,1,H
+33357,D1,1998,1998-12-16,M'gladbach,Bayern Munich,0,2,A
+33358,D1,1998,1998-12-18,Dortmund,Stuttgart,3,0,H
+33359,D1,1998,1998-12-18,Freiburg,Bochum,1,1,D
+33360,D1,1998,1998-12-19,Bayern Munich,Wolfsburg,3,0,H
+33361,D1,1998,1998-12-19,Ein Frankfurt,Duisburg,0,0,D
+33362,D1,1998,1998-12-19,Hamburg,Nurnberg,2,0,H
+33363,D1,1998,1998-12-19,Hansa Rostock,Leverkusen,1,1,D
+33364,D1,1998,1998-12-19,Kaiserslautern,Munich 1860,1,1,D
+33365,D1,1998,1998-12-19,Schalke 04,M'gladbach,1,0,H
+33366,D1,1998,1998-12-20,Werder Bremen,Hertha,2,1,H
+33367,D1,1998,1999-02-19,Wolfsburg,Hansa Rostock,1,1,D
+33368,D1,1998,1999-02-20,Duisburg,Bayern Munich,0,3,A
+33369,D1,1998,1999-02-20,Hertha,Dortmund,3,0,H
+33370,D1,1998,1999-02-20,Leverkusen,Freiburg,1,1,D
+33371,D1,1998,1999-02-20,Munich 1860,Ein Frankfurt,4,1,H
+33372,D1,1998,1999-02-20,Nurnberg,Werder Bremen,1,1,D
+33373,D1,1998,1999-02-20,Stuttgart,Schalke 04,2,1,H
+33374,D1,1998,1999-02-21,M'gladbach,Kaiserslautern,0,2,A
+33375,D1,1998,1999-02-26,Kaiserslautern,Stuttgart,1,1,D
+33376,D1,1998,1999-02-26,Werder Bremen,Bochum,1,1,D
+33377,D1,1998,1999-02-27,Dortmund,Nurnberg,3,0,H
+33378,D1,1998,1999-02-27,Ein Frankfurt,M'gladbach,0,0,D
+33379,D1,1998,1999-02-27,Freiburg,Wolfsburg,0,0,D
+33380,D1,1998,1999-02-27,Hamburg,Leverkusen,0,0,D
+33381,D1,1998,1999-02-27,Hansa Rostock,Bayern Munich,0,4,A
+33382,D1,1998,1999-02-27,Munich 1860,Duisburg,0,0,D
+33383,D1,1998,1999-02-28,Schalke 04,Hertha,0,0,D
+33384,D1,1998,1999-03-05,Duisburg,Hansa Rostock,4,1,H
+33385,D1,1998,1999-03-05,Nurnberg,Schalke 04,3,0,H
+33386,D1,1998,1999-03-06,Bayern Munich,Freiburg,2,0,H
+33387,D1,1998,1999-03-06,Bochum,Dortmund,0,1,A
+33388,D1,1998,1999-03-06,Hertha,Kaiserslautern,1,1,D
+33389,D1,1998,1999-03-06,M'gladbach,Munich 1860,2,0,H
+33390,D1,1998,1999-03-06,Stuttgart,Ein Frankfurt,2,0,H
+33391,D1,1998,1999-03-06,Wolfsburg,Hamburg,4,1,H
+33392,D1,1998,1999-03-07,Leverkusen,Werder Bremen,2,0,H
+33393,D1,1998,1999-03-12,Dortmund,Leverkusen,1,0,H
+33394,D1,1998,1999-03-12,Freiburg,Hansa Rostock,3,0,H
+33395,D1,1998,1999-03-13,Hamburg,Bayern Munich,0,2,A
+33396,D1,1998,1999-03-13,Kaiserslautern,Nurnberg,2,0,H
+33397,D1,1998,1999-03-13,M'gladbach,Duisburg,0,2,A
+33398,D1,1998,1999-03-13,Munich 1860,Stuttgart,1,1,D
+33399,D1,1998,1999-03-13,Schalke 04,Bochum,2,2,D
+33400,D1,1998,1999-03-13,Werder Bremen,Wolfsburg,0,1,A
+33401,D1,1998,1999-03-14,Ein Frankfurt,Hertha,1,1,D
+33402,D1,1998,1999-03-16,Bochum,Hamburg,2,0,H
+33403,D1,1998,1999-03-19,Leverkusen,Schalke 04,1,1,D
+33404,D1,1998,1999-03-19,Wolfsburg,Dortmund,0,0,D
+33405,D1,1998,1999-03-20,Bayern Munich,Werder Bremen,1,0,H
+33406,D1,1998,1999-03-20,Bochum,Kaiserslautern,1,2,A
+33407,D1,1998,1999-03-20,Duisburg,Freiburg,1,0,H
+33408,D1,1998,1999-03-20,Hertha,Munich 1860,2,1,H
+33409,D1,1998,1999-03-20,Nurnberg,Ein Frankfurt,2,2,D
+33410,D1,1998,1999-03-20,Stuttgart,M'gladbach,2,2,D
+33411,D1,1998,1999-03-21,Hansa Rostock,Hamburg,0,1,A
+33412,D1,1998,1999-04-03,Dortmund,Bayern Munich,2,2,D
+33413,D1,1998,1999-04-03,Hamburg,Freiburg,2,1,H
+33414,D1,1998,1999-04-03,Kaiserslautern,Leverkusen,0,1,A
+33415,D1,1998,1999-04-03,Munich 1860,Nurnberg,1,2,A
+33416,D1,1998,1999-04-03,Schalke 04,Wolfsburg,2,0,H
+33417,D1,1998,1999-04-03,Stuttgart,Duisburg,0,0,D
+33418,D1,1998,1999-04-03,Werder Bremen,Hansa Rostock,0,3,A
+33419,D1,1998,1999-04-04,Ein Frankfurt,Bochum,1,0,H
+33420,D1,1998,1999-04-04,M'gladbach,Hertha,2,4,A
+33421,D1,1998,1999-04-09,Duisburg,Hamburg,2,3,A
+33422,D1,1998,1999-04-09,Freiburg,Werder Bremen,0,2,A
+33423,D1,1998,1999-04-10,Bayern Munich,Schalke 04,1,1,D
+33424,D1,1998,1999-04-10,Hansa Rostock,Dortmund,2,0,H
+33425,D1,1998,1999-04-10,Hertha,Stuttgart,2,0,H
+33426,D1,1998,1999-04-10,Leverkusen,Ein Frankfurt,2,1,H
+33427,D1,1998,1999-04-10,Nurnberg,M'gladbach,2,0,H
+33428,D1,1998,1999-04-10,Wolfsburg,Kaiserslautern,2,1,H
+33429,D1,1998,1999-04-11,Bochum,Munich 1860,2,0,H
+33430,D1,1998,1999-04-13,Ein Frankfurt,Wolfsburg,0,1,A
+33431,D1,1998,1999-04-13,Kaiserslautern,Bayern Munich,2,1,H
+33432,D1,1998,1999-04-13,Schalke 04,Hansa Rostock,1,0,H
+33433,D1,1998,1999-04-13,Stuttgart,Nurnberg,0,0,D
+33434,D1,1998,1999-04-13,Werder Bremen,Hamburg,0,0,D
+33435,D1,1998,1999-04-14,Dortmund,Freiburg,2,1,H
+33436,D1,1998,1999-04-14,Hertha,Duisburg,1,3,A
+33437,D1,1998,1999-04-14,M'gladbach,Bochum,2,2,D
+33438,D1,1998,1999-04-14,Munich 1860,Leverkusen,0,2,A
+33439,D1,1998,1999-04-16,Bayern Munich,Ein Frankfurt,3,1,H
+33440,D1,1998,1999-04-16,Hansa Rostock,Kaiserslautern,2,1,H
+33441,D1,1998,1999-04-17,Bochum,Stuttgart,3,3,D
+33442,D1,1998,1999-04-17,Duisburg,Werder Bremen,2,0,H
+33443,D1,1998,1999-04-17,Freiburg,Schalke 04,0,2,A
+33444,D1,1998,1999-04-17,Leverkusen,M'gladbach,4,1,H
+33445,D1,1998,1999-04-17,Nurnberg,Hertha,0,0,D
+33446,D1,1998,1999-04-17,Wolfsburg,Munich 1860,1,0,H
+33447,D1,1998,1999-04-18,Hamburg,Dortmund,0,0,D
+33448,D1,1998,1999-04-23,Dortmund,Werder Bremen,2,1,H
+33449,D1,1998,1999-04-23,Stuttgart,Leverkusen,0,1,A
+33450,D1,1998,1999-04-24,Ein Frankfurt,Hansa Rostock,2,2,D
+33451,D1,1998,1999-04-24,Hertha,Bochum,4,1,H
+33452,D1,1998,1999-04-24,Kaiserslautern,Freiburg,0,2,A
+33453,D1,1998,1999-04-24,M'gladbach,Wolfsburg,5,2,H
+33454,D1,1998,1999-04-24,Nurnberg,Duisburg,0,2,A
+33455,D1,1998,1999-04-24,Schalke 04,Hamburg,1,4,A
+33456,D1,1998,1999-04-25,Munich 1860,Bayern Munich,1,1,D
+33457,D1,1998,1999-04-30,Bochum,Nurnberg,0,3,A
+33458,D1,1998,1999-04-30,Freiburg,Ein Frankfurt,2,0,H
+33459,D1,1998,1999-05-01,Bayern Munich,M'gladbach,4,2,H
+33460,D1,1998,1999-05-01,Hamburg,Kaiserslautern,2,0,H
+33461,D1,1998,1999-05-01,Hansa Rostock,Munich 1860,4,1,H
+33462,D1,1998,1999-05-01,Leverkusen,Hertha,2,2,D
+33463,D1,1998,1999-05-01,Wolfsburg,Stuttgart,3,2,H
+33464,D1,1998,1999-05-02,Duisburg,Dortmund,3,2,H
+33465,D1,1998,1999-05-04,Ein Frankfurt,Hamburg,2,2,D
+33466,D1,1998,1999-05-04,Kaiserslautern,Werder Bremen,4,0,H
+33467,D1,1998,1999-05-04,M'gladbach,Hansa Rostock,1,1,D
+33468,D1,1998,1999-05-04,Stuttgart,Bayern Munich,0,2,A
+33469,D1,1998,1999-05-05,Bochum,Duisburg,0,2,A
+33470,D1,1998,1999-05-05,Hertha,Wolfsburg,2,0,H
+33471,D1,1998,1999-05-05,Munich 1860,Freiburg,2,0,H
+33472,D1,1998,1999-05-05,Nurnberg,Leverkusen,2,2,D
+33473,D1,1998,1999-05-05,Schalke 04,Dortmund,1,1,D
+33474,D1,1998,1999-05-07,Hansa Rostock,Stuttgart,3,0,H
+33475,D1,1998,1999-05-07,Werder Bremen,Ein Frankfurt,1,2,A
+33476,D1,1998,1999-05-08,Dortmund,Kaiserslautern,1,0,H
+33477,D1,1998,1999-05-08,Duisburg,Schalke 04,1,2,A
+33478,D1,1998,1999-05-08,Freiburg,M'gladbach,2,1,H
+33479,D1,1998,1999-05-08,Hamburg,Munich 1860,3,0,H
+33480,D1,1998,1999-05-08,Leverkusen,Bochum,2,0,H
+33481,D1,1998,1999-05-08,Wolfsburg,Nurnberg,1,1,D
+33482,D1,1998,1999-05-09,Bayern Munich,Hertha,1,1,D
+33483,D1,1998,1999-05-11,Werder Bremen,Schalke 04,1,0,H
+33484,D1,1998,1999-05-14,Hertha,Hansa Rostock,2,0,H
+33485,D1,1998,1999-05-14,M'gladbach,Hamburg,2,2,D
+33486,D1,1998,1999-05-15,Bochum,Wolfsburg,0,2,A
+33487,D1,1998,1999-05-15,Duisburg,Leverkusen,0,0,D
+33488,D1,1998,1999-05-15,Ein Frankfurt,Dortmund,2,0,H
+33489,D1,1998,1999-05-15,Munich 1860,Werder Bremen,1,3,A
+33490,D1,1998,1999-05-15,Nurnberg,Bayern Munich,2,0,H
+33491,D1,1998,1999-05-15,Stuttgart,Freiburg,3,1,H
+33492,D1,1998,1999-05-16,Schalke 04,Kaiserslautern,0,2,A
+33493,D1,1998,1999-05-22,Bayern Munich,Bochum,4,2,H
+33494,D1,1998,1999-05-22,Dortmund,Munich 1860,3,1,H
+33495,D1,1998,1999-05-22,Freiburg,Hertha,0,2,A
+33496,D1,1998,1999-05-22,Hamburg,Stuttgart,3,1,H
+33497,D1,1998,1999-05-22,Hansa Rostock,Nurnberg,1,1,D
+33498,D1,1998,1999-05-22,Kaiserslautern,Duisburg,3,0,H
+33499,D1,1998,1999-05-22,Schalke 04,Ein Frankfurt,2,3,A
+33500,D1,1998,1999-05-22,Werder Bremen,M'gladbach,4,1,H
+33501,D1,1998,1999-05-22,Wolfsburg,Leverkusen,1,0,H
+33502,D1,1998,1999-05-29,Bochum,Hansa Rostock,2,3,A
+33503,D1,1998,1999-05-29,Duisburg,Wolfsburg,6,1,H
+33504,D1,1998,1999-05-29,Ein Frankfurt,Kaiserslautern,5,1,H
+33505,D1,1998,1999-05-29,Hertha,Hamburg,6,1,H
+33506,D1,1998,1999-05-29,Leverkusen,Bayern Munich,1,2,A
+33507,D1,1998,1999-05-29,M'gladbach,Dortmund,0,2,A
+33508,D1,1998,1999-05-29,Munich 1860,Schalke 04,4,5,A
+33509,D1,1998,1999-05-29,Nurnberg,Freiburg,1,2,A
+33510,D1,1998,1999-05-29,Stuttgart,Werder Bremen,1,0,H
+33511,D2,1998,1998-07-30,Hannover,Karlsruhe,1,0,H
+33512,D2,1998,1998-07-31,Cottbus,Stuttgarter K,2,0,H
+33513,D2,1998,1998-07-31,F Koln,Dusseldorf,2,1,H
+33514,D2,1998,1998-07-31,St Pauli,TB Berlin,1,0,H
+33515,D2,1998,1998-08-02,Gutersloh,FC Koln,0,1,A
+33516,D2,1998,1998-08-02,Mainz,Greuther Furth,3,0,H
+33517,D2,1998,1998-08-02,Oberhausen,Uerdingen,0,0,D
+33518,D2,1998,1998-08-02,Ulm,Wattenscheid,2,0,H
+33519,D2,1998,1998-08-02,Unterhaching,Bielefeld,0,2,A
+33520,D2,1998,1998-08-07,FC Koln,Unterhaching,0,1,A
+33521,D2,1998,1998-08-07,Stuttgarter K,Oberhausen,2,0,H
+33522,D2,1998,1998-08-07,Uerdingen,F Koln,1,2,A
+33523,D2,1998,1998-08-09,Fortuna Dusseldorf,Gutersloh,3,1,H
+33524,D2,1998,1998-08-09,Greuther Furth,St Pauli,1,0,H
+33525,D2,1998,1998-08-09,Karlsruhe,Ulm,1,2,A
+33526,D2,1998,1998-08-09,TB Berlin,Cottbus,1,0,H
+33527,D2,1998,1998-08-09,Wattenscheid,Mainz,1,1,D
+33528,D2,1998,1998-08-10,Bielefeld,Hannover,0,1,A
+33529,D2,1998,1998-08-11,F Koln,Stuttgarter K,2,1,H
+33530,D2,1998,1998-08-12,Oberhausen,TB Berlin,0,2,A
+33531,D2,1998,1998-08-13,Cottbus,Greuther Furth,1,1,D
+33532,D2,1998,1998-08-13,Fortuna Dusseldorf,Uerdingen,2,2,D
+33533,D2,1998,1998-08-13,Gutersloh,Unterhaching,1,1,D
+33534,D2,1998,1998-08-13,Mainz,Karlsruhe,4,1,H
+33535,D2,1998,1998-08-13,St Pauli,Wattenscheid,1,0,H
+33536,D2,1998,1998-08-13,Ulm,Bielefeld,6,2,H
+33537,D2,1998,1998-08-15,TB Berlin,F Koln,3,2,H
+33538,D2,1998,1998-08-16,Bielefeld,Mainz,1,0,H
+33539,D2,1998,1998-08-16,FC Koln,Ulm,1,1,D
+33540,D2,1998,1998-08-16,Greuther Furth,Oberhausen,1,1,D
+33541,D2,1998,1998-08-16,Stuttgarter K,Dusseldorf,1,0,H
+33542,D2,1998,1998-08-16,Uerdingen,Gutersloh,2,0,H
+33543,D2,1998,1998-08-16,Unterhaching,Hannover,3,1,H
+33544,D2,1998,1998-08-16,Wattenscheid,Cottbus,1,1,D
+33545,D2,1998,1998-08-17,Karlsruhe,St Pauli,3,0,H
+33546,D2,1998,1998-08-21,Mainz,FC Koln,2,1,H
+33547,D2,1998,1998-08-21,Uerdingen,Stuttgarter K,0,1,A
+33548,D2,1998,1998-08-21,Ulm,Unterhaching,3,1,H
+33549,D2,1998,1998-08-23,Cottbus,Karlsruhe,4,0,H
+33550,D2,1998,1998-08-23,F Koln,Greuther Furth,1,4,A
+33551,D2,1998,1998-08-23,Gutersloh,Hannover,2,1,H
+33552,D2,1998,1998-08-23,Oberhausen,Wattenscheid,1,0,H
+33553,D2,1998,1998-08-24,St Pauli,Bielefeld,1,2,A
+33554,D2,1998,1998-09-09,Fortuna Dusseldorf,TB Berlin,2,2,D
+33555,D2,1998,1998-09-10,Hannover,FC Koln,6,1,H
+33556,D2,1998,1998-09-11,Bielefeld,Cottbus,2,0,H
+33557,D2,1998,1998-09-11,Karlsruhe,Oberhausen,3,1,H
+33558,D2,1998,1998-09-11,Wattenscheid,F Koln,0,0,D
+33559,D2,1998,1998-09-13,Greuther Furth,Dusseldorf,1,0,H
+33560,D2,1998,1998-09-13,Hannover,Ulm,1,1,D
+33561,D2,1998,1998-09-13,Stuttgarter K,Gutersloh,2,1,H
+33562,D2,1998,1998-09-13,TB Berlin,Uerdingen,3,1,H
+33563,D2,1998,1998-09-13,Unterhaching,Mainz,1,0,H
+33564,D2,1998,1998-09-14,FC Koln,St Pauli,1,4,A
+33565,D2,1998,1998-09-18,Oberhausen,Bielefeld,1,5,A
+33566,D2,1998,1998-09-18,Stuttgarter K,TB Berlin,1,0,H
+33567,D2,1998,1998-09-19,Fortuna Dusseldorf,Wattenscheid,1,1,D
+33568,D2,1998,1998-09-20,F Koln,Karlsruhe,0,1,A
+33569,D2,1998,1998-09-20,Gutersloh,Ulm,1,1,D
+33570,D2,1998,1998-09-20,Mainz,Hannover,1,0,H
+33571,D2,1998,1998-09-20,St Pauli,Unterhaching,1,1,D
+33572,D2,1998,1998-09-21,Cottbus,FC Koln,2,3,A
+33573,D2,1998,1998-09-25,Karlsruhe,Dusseldorf,3,1,H
+33574,D2,1998,1998-09-25,TB Berlin,Gutersloh,2,0,H
+33575,D2,1998,1998-09-26,Bielefeld,F Koln,2,1,H
+33576,D2,1998,1998-09-27,FC Koln,Oberhausen,2,1,H
+33577,D2,1998,1998-09-27,Greuther Furth,Stuttgarter K,1,0,H
+33578,D2,1998,1998-09-27,Hannover,St Pauli,3,0,H
+33579,D2,1998,1998-09-27,Unterhaching,Cottbus,1,0,H
+33580,D2,1998,1998-09-27,Wattenscheid,Uerdingen,2,1,H
+33581,D2,1998,1998-09-28,Ulm,Mainz,4,2,H
+33582,D2,1998,1998-10-02,Fortuna Dusseldorf,Bielefeld,2,2,D
+33583,D2,1998,1998-10-02,Oberhausen,Unterhaching,0,2,A
+33584,D2,1998,1998-10-02,St Pauli,Ulm,0,1,A
+33585,D2,1998,1998-10-02,Uerdingen,Karlsruhe,1,3,A
+33586,D2,1998,1998-10-04,Cottbus,Hannover,1,0,H
+33587,D2,1998,1998-10-04,Gutersloh,Mainz,6,1,H
+33588,D2,1998,1998-10-04,Stuttgarter K,Wattenscheid,0,2,A
+33589,D2,1998,1998-10-04,TB Berlin,Greuther Furth,2,1,H
+33590,D2,1998,1998-10-05,F Koln,FC Koln,4,2,H
+33591,D2,1998,1998-10-16,Hannover,Oberhausen,1,1,D
+33592,D2,1998,1998-10-16,Karlsruhe,Stuttgarter K,6,0,H
+33593,D2,1998,1998-10-16,Wattenscheid,TB Berlin,0,1,A
+33594,D2,1998,1998-10-18,Bielefeld,Uerdingen,1,0,H
+33595,D2,1998,1998-10-18,Greuther Furth,Gutersloh,3,2,H
+33596,D2,1998,1998-10-18,Mainz,St Pauli,3,0,H
+33597,D2,1998,1998-10-18,Ulm,Cottbus,2,2,D
+33598,D2,1998,1998-10-18,Unterhaching,F Koln,3,0,H
+33599,D2,1998,1998-10-19,FC Koln,Dusseldorf,1,0,H
+33600,D2,1998,1998-10-21,Uerdingen,Greuther Furth,0,2,A
+33601,D2,1998,1998-10-23,Cottbus,Mainz,2,2,D
+33602,D2,1998,1998-10-23,Oberhausen,Ulm,2,2,D
+33603,D2,1998,1998-10-23,Stuttgarter K,Bielefeld,2,2,D
+33604,D2,1998,1998-10-25,Fortuna Dusseldorf,Unterhaching,1,3,A
+33605,D2,1998,1998-10-25,Greuther Furth,Wattenscheid,2,1,H
+33606,D2,1998,1998-10-25,Gutersloh,St Pauli,1,4,A
+33607,D2,1998,1998-10-25,TB Berlin,Karlsruhe,3,2,H
+33608,D2,1998,1998-10-25,Uerdingen,FC Koln,2,2,D
+33609,D2,1998,1998-10-26,F Koln,Hannover,3,0,H
+33610,D2,1998,1998-10-30,FC Koln,Stuttgarter K,0,1,A
+33611,D2,1998,1998-10-30,Mainz,Oberhausen,0,0,D
+33612,D2,1998,1998-10-30,Wattenscheid,Gutersloh,1,1,D
+33613,D2,1998,1998-10-31,Unterhaching,Uerdingen,2,0,H
+33614,D2,1998,1998-11-01,Hannover,Dusseldorf,0,2,A
+33615,D2,1998,1998-11-01,Karlsruhe,Greuther Furth,1,0,H
+33616,D2,1998,1998-11-01,St Pauli,Cottbus,1,1,D
+33617,D2,1998,1998-11-01,Ulm,F Koln,3,3,D
+33618,D2,1998,1998-11-02,Bielefeld,TB Berlin,3,1,H
+33619,D2,1998,1998-11-06,Stuttgarter K,Unterhaching,1,0,H
+33620,D2,1998,1998-11-06,Wattenscheid,Karlsruhe,0,0,D
+33621,D2,1998,1998-11-08,Fortuna Dusseldorf,Ulm,1,3,A
+33622,D2,1998,1998-11-08,F Koln,Mainz,2,0,H
+33623,D2,1998,1998-11-08,Greuther Furth,Bielefeld,2,0,H
+33624,D2,1998,1998-11-08,Gutersloh,Cottbus,1,1,D
+33625,D2,1998,1998-11-08,Oberhausen,St Pauli,3,2,H
+33626,D2,1998,1998-11-09,TB Berlin,FC Koln,1,1,D
+33627,D2,1998,1998-11-13,Cottbus,Oberhausen,0,2,A
+33628,D2,1998,1998-11-13,Hannover,Stuttgarter K,2,1,H
+33629,D2,1998,1998-11-13,Mainz,Dusseldorf,0,0,D
+33630,D2,1998,1998-11-13,Unterhaching,TB Berlin,3,1,H
+33631,D2,1998,1998-11-15,Bielefeld,Wattenscheid,1,0,H
+33632,D2,1998,1998-11-15,FC Koln,Greuther Furth,1,0,H
+33633,D2,1998,1998-11-15,St Pauli,F Koln,0,0,D
+33634,D2,1998,1998-11-15,Ulm,Uerdingen,2,2,D
+33635,D2,1998,1998-11-16,Karlsruhe,Gutersloh,2,3,A
+33636,D2,1998,1998-11-20,Fortuna Dusseldorf,St Pauli,2,2,D
+33637,D2,1998,1998-11-20,F Koln,Cottbus,3,0,H
+33638,D2,1998,1998-11-20,Oberhausen,Gutersloh,3,0,H
+33639,D2,1998,1998-11-20,Uerdingen,Mainz,1,2,A
+33640,D2,1998,1998-11-20,Wattenscheid,FC Koln,1,1,D
+33641,D2,1998,1998-11-22,Greuther Furth,Unterhaching,0,0,D
+33642,D2,1998,1998-11-22,Stuttgarter K,Ulm,1,2,A
+33643,D2,1998,1998-11-22,TB Berlin,Hannover,3,1,H
+33644,D2,1998,1998-11-23,Bielefeld,Karlsruhe,0,1,A
+33645,D2,1998,1998-11-27,Cottbus,Dusseldorf,0,1,A
+33646,D2,1998,1998-11-29,Gutersloh,Bielefeld,0,2,A
+33647,D2,1998,1998-11-29,Hannover,Greuther Furth,1,1,D
+33648,D2,1998,1998-11-29,Oberhausen,F Koln,0,0,D
+33649,D2,1998,1998-11-29,Ulm,TB Berlin,2,0,H
+33650,D2,1998,1998-11-29,Unterhaching,Wattenscheid,1,0,H
+33651,D2,1998,1998-11-30,FC Koln,Karlsruhe,4,1,H
+33652,D2,1998,1998-12-01,St Pauli,Uerdingen,2,3,A
+33653,D2,1998,1998-12-02,Mainz,Stuttgarter K,2,2,D
+33654,D2,1998,1998-12-04,F Koln,Gutersloh,3,2,H
+33655,D2,1998,1998-12-04,Karlsruhe,Unterhaching,1,0,H
+33656,D2,1998,1998-12-04,Uerdingen,Cottbus,0,0,D
+33657,D2,1998,1998-12-06,Fortuna Dusseldorf,Oberhausen,2,2,D
+33658,D2,1998,1998-12-06,Greuther Furth,Ulm,2,0,H
+33659,D2,1998,1998-12-06,TB Berlin,Mainz,3,0,H
+33660,D2,1998,1998-12-06,Wattenscheid,Hannover,0,3,A
+33661,D2,1998,1998-12-07,Bielefeld,FC Koln,0,0,D
+33662,D2,1998,1998-12-11,Fortuna Dusseldorf,F Koln,2,2,D
+33663,D2,1998,1998-12-11,Stuttgarter K,Cottbus,1,0,H
+33664,D2,1998,1998-12-13,FC Koln,Gutersloh,1,1,D
+33665,D2,1998,1998-12-13,Greuther Furth,Mainz,3,1,H
+33666,D2,1998,1998-12-13,Wattenscheid,Ulm,0,3,A
+33667,D2,1998,1998-12-15,Bielefeld,Unterhaching,2,0,H
+33668,D2,1998,1998-12-15,Karlsruhe,Hannover,1,0,H
+33669,D2,1998,1998-12-15,Uerdingen,Oberhausen,2,2,D
+33670,D2,1998,1998-12-18,Cottbus,TB Berlin,2,2,D
+33671,D2,1998,1998-12-18,Hannover,Bielefeld,2,1,H
+33672,D2,1998,1998-12-18,Mainz,Wattenscheid,2,0,H
+33673,D2,1998,1998-12-20,F Koln,Uerdingen,1,1,D
+33674,D2,1998,1998-12-20,Gutersloh,Dusseldorf,2,2,D
+33675,D2,1998,1998-12-20,Oberhausen,Stuttgarter K,1,1,D
+33676,D2,1998,1998-12-20,St Pauli,Greuther Furth,0,2,A
+33677,D2,1998,1998-12-20,Unterhaching,FC Koln,2,0,H
+33678,D2,1998,1998-12-21,Ulm,Karlsruhe,1,5,A
+33679,D2,1998,1999-02-21,Uerdingen,Hannover,0,1,A
+33680,D2,1998,1999-02-22,Stuttgarter K,St Pauli,1,3,A
+33681,D2,1998,1999-02-26,FC Koln,Hannover,0,2,A
+33682,D2,1998,1999-02-26,Karlsruhe,Mainz,0,1,A
+33683,D2,1998,1999-02-26,Wattenscheid,St Pauli,4,2,H
+33684,D2,1998,1999-02-28,Greuther Furth,Cottbus,0,0,D
+33685,D2,1998,1999-02-28,Stuttgarter K,F Koln,2,2,D
+33686,D2,1998,1999-02-28,TB Berlin,Oberhausen,2,2,D
+33687,D2,1998,1999-02-28,Uerdingen,Dusseldorf,4,1,H
+33688,D2,1998,1999-02-28,Unterhaching,Gutersloh,2,0,H
+33689,D2,1998,1999-03-01,Bielefeld,Ulm,5,0,H
+33690,D2,1998,1999-03-04,TB Berlin,St Pauli,0,2,A
+33691,D2,1998,1999-03-05,Cottbus,Wattenscheid,2,0,H
+33692,D2,1998,1999-03-05,Hannover,Unterhaching,0,1,A
+33693,D2,1998,1999-03-05,Oberhausen,Greuther Furth,0,2,A
+33694,D2,1998,1999-03-07,Fortuna Dusseldorf,Stuttgarter K,0,0,D
+33695,D2,1998,1999-03-07,F Koln,TB Berlin,1,3,A
+33696,D2,1998,1999-03-07,Gutersloh,Uerdingen,2,0,H
+33697,D2,1998,1999-03-07,St Pauli,Karlsruhe,1,0,H
+33698,D2,1998,1999-03-07,Ulm,FC Koln,2,2,D
+33699,D2,1998,1999-03-08,Mainz,Bielefeld,3,1,H
+33700,D2,1998,1999-03-12,Bielefeld,St Pauli,0,0,D
+33701,D2,1998,1999-03-12,Karlsruhe,Cottbus,3,2,H
+33702,D2,1998,1999-03-12,Stuttgarter K,Uerdingen,0,1,A
+33703,D2,1998,1999-03-14,FC Koln,Mainz,2,1,H
+33704,D2,1998,1999-03-14,Greuther Furth,F Koln,4,0,H
+33705,D2,1998,1999-03-14,Hannover,Gutersloh,4,1,H
+33706,D2,1998,1999-03-14,TB Berlin,Dusseldorf,1,1,D
+33707,D2,1998,1999-03-14,Wattenscheid,Oberhausen,2,4,A
+33708,D2,1998,1999-03-15,Unterhaching,Ulm,2,0,H
+33709,D2,1998,1999-03-19,Cottbus,Bielefeld,0,2,A
+33710,D2,1998,1999-03-19,Uerdingen,TB Berlin,2,3,A
+33711,D2,1998,1999-03-19,Ulm,Hannover,1,1,D
+33712,D2,1998,1999-03-21,Fortuna Dusseldorf,Greuther Furth,0,0,D
+33713,D2,1998,1999-03-21,F Koln,Wattenscheid,1,2,A
+33714,D2,1998,1999-03-21,Gutersloh,Stuttgarter K,1,0,H
+33715,D2,1998,1999-03-21,Mainz,Unterhaching,1,0,H
+33716,D2,1998,1999-03-21,Oberhausen,Karlsruhe,2,0,H
+33717,D2,1998,1999-03-22,St Pauli,FC Koln,0,0,D
+33718,D2,1998,1999-04-01,Bielefeld,Oberhausen,2,0,H
+33719,D2,1998,1999-04-01,TB Berlin,Stuttgarter K,0,2,A
+33720,D2,1998,1999-04-01,Unterhaching,St Pauli,2,1,H
+33721,D2,1998,1999-04-04,FC Koln,Cottbus,2,2,D
+33722,D2,1998,1999-04-04,Greuther Furth,Uerdingen,0,0,D
+33723,D2,1998,1999-04-04,Hannover,Mainz,3,2,H
+33724,D2,1998,1999-04-04,Ulm,Gutersloh,1,1,D
+33725,D2,1998,1999-04-04,Wattenscheid,Dusseldorf,2,0,H
+33726,D2,1998,1999-04-05,Karlsruhe,F Koln,4,2,H
+33727,D2,1998,1999-04-09,Oberhausen,FC Koln,0,4,A
+33728,D2,1998,1999-04-09,Stuttgarter K,Greuther Furth,2,2,D
+33729,D2,1998,1999-04-09,Uerdingen,Wattenscheid,0,0,D
+33730,D2,1998,1999-04-11,Cottbus,Unterhaching,4,2,H
+33731,D2,1998,1999-04-11,F Koln,Bielefeld,1,1,D
+33732,D2,1998,1999-04-11,Gutersloh,TB Berlin,1,0,H
+33733,D2,1998,1999-04-11,Mainz,Ulm,1,1,D
+33734,D2,1998,1999-04-12,Fortuna Dusseldorf,Karlsruhe,0,1,A
+33735,D2,1998,1999-04-12,St Pauli,Hannover,0,2,A
+33736,D2,1998,1999-04-16,Bielefeld,Dusseldorf,2,0,H
+33737,D2,1998,1999-04-16,Hannover,Cottbus,2,0,H
+33738,D2,1998,1999-04-16,Ulm,St Pauli,4,1,H
+33739,D2,1998,1999-04-18,Greuther Furth,TB Berlin,1,2,A
+33740,D2,1998,1999-04-18,Karlsruhe,Uerdingen,0,1,A
+33741,D2,1998,1999-04-18,Mainz,Gutersloh,1,0,H
+33742,D2,1998,1999-04-18,Unterhaching,Oberhausen,0,0,D
+33743,D2,1998,1999-04-18,Wattenscheid,Stuttgarter K,2,0,H
+33744,D2,1998,1999-04-19,FC Koln,F Koln,0,3,A
+33745,D2,1998,1999-04-23,Cottbus,Ulm,3,0,H
+33746,D2,1998,1999-04-23,Fortuna Dusseldorf,FC Koln,2,1,H
+33747,D2,1998,1999-04-23,St Pauli,Mainz,2,1,H
+33748,D2,1998,1999-04-25,F Koln,Unterhaching,0,2,A
+33749,D2,1998,1999-04-25,Oberhausen,Hannover,1,1,D
+33750,D2,1998,1999-04-25,Stuttgarter K,Karlsruhe,2,2,D
+33751,D2,1998,1999-04-25,TB Berlin,Wattenscheid,1,0,H
+33752,D2,1998,1999-04-25,Uerdingen,Bielefeld,0,4,A
+33753,D2,1998,1999-04-26,Gutersloh,Greuther Furth,1,0,H
+33754,D2,1998,1999-04-30,FC Koln,Uerdingen,4,0,H
+33755,D2,1998,1999-04-30,St Pauli,Gutersloh,1,0,H
+33756,D2,1998,1999-04-30,Ulm,Oberhausen,1,0,H
+33757,D2,1998,1999-05-02,Bielefeld,Stuttgarter K,1,2,A
+33758,D2,1998,1999-05-02,Hannover,F Koln,3,3,D
+33759,D2,1998,1999-05-02,Mainz,Cottbus,0,0,D
+33760,D2,1998,1999-05-02,Unterhaching,Dusseldorf,1,0,H
+33761,D2,1998,1999-05-02,Wattenscheid,Greuther Furth,1,1,D
+33762,D2,1998,1999-05-03,Karlsruhe,TB Berlin,0,0,D
+33763,D2,1998,1999-05-07,Fortuna Dusseldorf,Hannover,1,1,D
+33764,D2,1998,1999-05-07,F Koln,Ulm,2,2,D
+33765,D2,1998,1999-05-07,Stuttgarter K,FC Koln,2,0,H
+33766,D2,1998,1999-05-09,Cottbus,St Pauli,0,3,A
+33767,D2,1998,1999-05-09,Greuther Furth,Karlsruhe,1,2,A
+33768,D2,1998,1999-05-09,Gutersloh,Wattenscheid,2,1,H
+33769,D2,1998,1999-05-09,Oberhausen,Mainz,2,1,H
+33770,D2,1998,1999-05-09,Uerdingen,Unterhaching,3,0,H
+33771,D2,1998,1999-05-10,TB Berlin,Bielefeld,1,1,D
+33772,D2,1998,1999-05-12,Hannover,Uerdingen,3,1,H
+33773,D2,1998,1999-05-14,St Pauli,Oberhausen,1,1,D
+33774,D2,1998,1999-05-14,Ulm,Dusseldorf,4,2,H
+33775,D2,1998,1999-05-14,Unterhaching,Stuttgarter K,2,0,H
+33776,D2,1998,1999-05-16,Cottbus,Gutersloh,5,1,H
+33777,D2,1998,1999-05-16,FC Koln,TB Berlin,1,0,H
+33778,D2,1998,1999-05-16,Karlsruhe,Wattenscheid,2,1,H
+33779,D2,1998,1999-05-16,Mainz,F Koln,1,1,D
+33780,D2,1998,1999-05-17,Bielefeld,Greuther Furth,2,1,H
+33781,D2,1998,1999-05-21,Gutersloh,Karlsruhe,2,0,H
+33782,D2,1998,1999-05-21,Oberhausen,Cottbus,3,1,H
+33783,D2,1998,1999-05-21,Wattenscheid,Bielefeld,0,2,A
+33784,D2,1998,1999-05-23,Fortuna Dusseldorf,Mainz,0,3,A
+33785,D2,1998,1999-05-23,F Koln,St Pauli,1,1,D
+33786,D2,1998,1999-05-23,Greuther Furth,FC Koln,0,1,A
+33787,D2,1998,1999-05-23,Stuttgarter K,Hannover,2,2,D
+33788,D2,1998,1999-05-23,Uerdingen,Ulm,2,1,H
+33789,D2,1998,1999-05-24,TB Berlin,Unterhaching,1,1,D
+33790,D2,1998,1999-05-27,Karlsruhe,Bielefeld,1,1,D
+33791,D2,1998,1999-05-28,FC Koln,Wattenscheid,2,1,H
+33792,D2,1998,1999-05-28,Mainz,Uerdingen,3,0,H
+33793,D2,1998,1999-05-28,St Pauli,Dusseldorf,5,0,H
+33794,D2,1998,1999-05-28,Ulm,Stuttgarter K,3,2,H
+33795,D2,1998,1999-05-30,Cottbus,F Koln,2,0,H
+33796,D2,1998,1999-05-30,Gutersloh,Oberhausen,0,3,A
+33797,D2,1998,1999-05-30,Hannover,TB Berlin,0,0,D
+33798,D2,1998,1999-05-31,Unterhaching,Greuther Furth,4,1,H
+33799,D2,1998,1999-06-13,Bielefeld,Gutersloh,3,0,H
+33800,D2,1998,1999-06-13,Fortuna Dusseldorf,Cottbus,0,3,A
+33801,D2,1998,1999-06-13,F Koln,Oberhausen,0,0,D
+33802,D2,1998,1999-06-13,Greuther Furth,Hannover,0,1,A
+33803,D2,1998,1999-06-13,Karlsruhe,FC Koln,3,1,H
+33804,D2,1998,1999-06-13,Stuttgarter K,Mainz,1,3,A
+33805,D2,1998,1999-06-13,TB Berlin,Ulm,0,2,A
+33806,D2,1998,1999-06-13,Uerdingen,St Pauli,1,1,D
+33807,D2,1998,1999-06-13,Wattenscheid,Unterhaching,4,2,H
+33808,D2,1998,1999-06-17,Cottbus,Uerdingen,5,0,H
+33809,D2,1998,1999-06-17,FC Koln,Bielefeld,3,5,A
+33810,D2,1998,1999-06-17,Gutersloh,F Koln,2,1,H
+33811,D2,1998,1999-06-17,Hannover,Wattenscheid,2,1,H
+33812,D2,1998,1999-06-17,Mainz,TB Berlin,0,3,A
+33813,D2,1998,1999-06-17,Oberhausen,Dusseldorf,1,3,A
+33814,D2,1998,1999-06-17,St Pauli,Stuttgarter K,6,2,H
+33815,D2,1998,1999-06-17,Ulm,Greuther Furth,0,0,D
+33816,D2,1998,1999-06-17,Unterhaching,Karlsruhe,1,1,D
+39555,E0,1998,1998-08-15,Blackburn,Derby,0,0,D
+39556,E0,1998,1998-08-15,Coventry,Chelsea,2,1,H
+39557,E0,1998,1998-08-15,Everton,Aston Villa,0,0,D
+39558,E0,1998,1998-08-15,Man United,Leicester,2,2,D
+39559,E0,1998,1998-08-15,Middlesbrough,Leeds,0,0,D
+39560,E0,1998,1998-08-15,Newcastle,Charlton,0,0,D
+39561,E0,1998,1998-08-15,Sheffield Weds,West Ham,0,1,A
+39562,E0,1998,1998-08-15,Wimbledon,Tottenham,3,1,H
+39563,E0,1998,1998-08-16,Southampton,Liverpool,1,2,A
+39564,E0,1998,1998-08-17,Arsenal,Nott'm Forest,2,1,H
+39565,E0,1998,1998-08-22,Charlton,Southampton,5,0,H
+39566,E0,1998,1998-08-22,Chelsea,Newcastle,1,1,D
+39567,E0,1998,1998-08-22,Derby,Wimbledon,0,0,D
+39568,E0,1998,1998-08-22,Leicester,Everton,2,0,H
+39569,E0,1998,1998-08-22,Liverpool,Arsenal,0,0,D
+39570,E0,1998,1998-08-22,Nott'm Forest,Coventry,1,0,H
+39571,E0,1998,1998-08-22,Tottenham,Sheffield Weds,0,3,A
+39572,E0,1998,1998-08-22,West Ham,Man United,0,0,D
+39573,E0,1998,1998-08-23,Aston Villa,Middlesbrough,3,1,H
+39574,E0,1998,1998-08-24,Leeds,Blackburn,1,0,H
+39575,E0,1998,1998-08-29,Arsenal,Charlton,0,0,D
+39576,E0,1998,1998-08-29,Blackburn,Leicester,1,0,H
+39577,E0,1998,1998-08-29,Coventry,West Ham,0,0,D
+39578,E0,1998,1998-08-29,Everton,Tottenham,0,1,A
+39579,E0,1998,1998-08-29,Middlesbrough,Derby,1,1,D
+39580,E0,1998,1998-08-29,Sheffield Weds,Aston Villa,0,1,A
+39581,E0,1998,1998-08-29,Southampton,Nott'm Forest,1,2,A
+39582,E0,1998,1998-08-29,Wimbledon,Leeds,1,1,D
+39583,E0,1998,1998-08-30,Newcastle,Liverpool,1,4,A
+39584,E0,1998,1998-09-08,Leeds,Southampton,3,0,H
+39585,E0,1998,1998-09-08,Nott'm Forest,Everton,0,2,A
+39586,E0,1998,1998-09-09,Aston Villa,Newcastle,1,0,H
+39587,E0,1998,1998-09-09,Chelsea,Arsenal,0,0,D
+39588,E0,1998,1998-09-09,Derby,Sheffield Weds,1,0,H
+39589,E0,1998,1998-09-09,Leicester,Middlesbrough,0,1,A
+39590,E0,1998,1998-09-09,Liverpool,Coventry,2,0,H
+39591,E0,1998,1998-09-09,Man United,Charlton,4,1,H
+39592,E0,1998,1998-09-09,Tottenham,Blackburn,2,1,H
+39593,E0,1998,1998-09-09,West Ham,Wimbledon,3,4,A
+39594,E0,1998,1998-09-12,Aston Villa,Wimbledon,2,0,H
+39595,E0,1998,1998-09-12,Charlton,Derby,1,2,A
+39596,E0,1998,1998-09-12,Chelsea,Nott'm Forest,2,1,H
+39597,E0,1998,1998-09-12,Everton,Leeds,0,0,D
+39598,E0,1998,1998-09-12,Leicester,Arsenal,1,1,D
+39599,E0,1998,1998-09-12,Man United,Coventry,2,0,H
+39600,E0,1998,1998-09-12,Newcastle,Southampton,4,0,H
+39601,E0,1998,1998-09-12,Sheffield Weds,Blackburn,3,0,H
+39602,E0,1998,1998-09-12,West Ham,Liverpool,2,1,H
+39603,E0,1998,1998-09-13,Tottenham,Middlesbrough,0,3,A
+39604,E0,1998,1998-09-19,Coventry,Newcastle,1,5,A
+39605,E0,1998,1998-09-19,Derby,Leicester,2,0,H
+39606,E0,1998,1998-09-19,Leeds,Aston Villa,0,0,D
+39607,E0,1998,1998-09-19,Liverpool,Charlton,3,3,D
+39608,E0,1998,1998-09-19,Middlesbrough,Everton,2,2,D
+39609,E0,1998,1998-09-19,Nott'm Forest,West Ham,0,0,D
+39610,E0,1998,1998-09-19,Southampton,Tottenham,1,1,D
+39611,E0,1998,1998-09-19,Wimbledon,Sheffield Weds,2,1,H
+39612,E0,1998,1998-09-20,Arsenal,Man United,3,0,H
+39613,E0,1998,1998-09-21,Blackburn,Chelsea,3,4,A
+39614,E0,1998,1998-09-24,Man United,Liverpool,2,0,H
+39615,E0,1998,1998-09-26,Aston Villa,Derby,1,0,H
+39616,E0,1998,1998-09-26,Charlton,Coventry,1,1,D
+39617,E0,1998,1998-09-26,Chelsea,Middlesbrough,2,0,H
+39618,E0,1998,1998-09-26,Everton,Blackburn,0,0,D
+39619,E0,1998,1998-09-26,Newcastle,Nott'm Forest,2,0,H
+39620,E0,1998,1998-09-26,Sheffield Weds,Arsenal,1,0,H
+39621,E0,1998,1998-09-26,Tottenham,Leeds,3,3,D
+39622,E0,1998,1998-09-27,Leicester,Wimbledon,1,1,D
+39623,E0,1998,1998-09-28,West Ham,Southampton,1,0,H
+39624,E0,1998,1998-10-03,Blackburn,West Ham,3,0,H
+39625,E0,1998,1998-10-03,Coventry,Aston Villa,1,2,A
+39626,E0,1998,1998-10-03,Derby,Tottenham,0,1,A
+39627,E0,1998,1998-10-03,Leeds,Leicester,0,1,A
+39628,E0,1998,1998-10-03,Middlesbrough,Sheffield Weds,4,0,H
+39629,E0,1998,1998-10-03,Nott'm Forest,Charlton,0,1,A
+39630,E0,1998,1998-10-03,Southampton,Man United,0,3,A
+39631,E0,1998,1998-10-03,Wimbledon,Everton,1,2,A
+39632,E0,1998,1998-10-04,Arsenal,Newcastle,3,0,H
+39633,E0,1998,1998-10-04,Liverpool,Chelsea,1,1,D
+39634,E0,1998,1998-10-17,Arsenal,Southampton,1,1,D
+39635,E0,1998,1998-10-17,Chelsea,Charlton,2,1,H
+39636,E0,1998,1998-10-17,Everton,Liverpool,0,0,D
+39637,E0,1998,1998-10-17,Man United,Wimbledon,5,1,H
+39638,E0,1998,1998-10-17,Middlesbrough,Blackburn,2,1,H
+39639,E0,1998,1998-10-17,Newcastle,Derby,2,1,H
+39640,E0,1998,1998-10-17,Nott'm Forest,Leeds,1,1,D
+39641,E0,1998,1998-10-17,West Ham,Aston Villa,0,0,D
+39642,E0,1998,1998-10-18,Coventry,Sheffield Weds,1,0,H
+39643,E0,1998,1998-10-19,Leicester,Tottenham,2,1,H
+39644,E0,1998,1998-10-24,Aston Villa,Leicester,1,1,D
+39645,E0,1998,1998-10-24,Charlton,West Ham,4,2,H
+39646,E0,1998,1998-10-24,Derby,Man United,1,1,D
+39647,E0,1998,1998-10-24,Liverpool,Nott'm Forest,5,1,H
+39648,E0,1998,1998-10-24,Sheffield Weds,Everton,0,0,D
+39649,E0,1998,1998-10-24,Southampton,Coventry,2,1,H
+39650,E0,1998,1998-10-24,Tottenham,Newcastle,2,0,H
+39651,E0,1998,1998-10-24,Wimbledon,Middlesbrough,2,2,D
+39652,E0,1998,1998-10-25,Blackburn,Arsenal,1,2,A
+39653,E0,1998,1998-10-25,Leeds,Chelsea,0,0,D
+39654,E0,1998,1998-10-31,Coventry,Arsenal,0,1,A
+39655,E0,1998,1998-10-31,Derby,Leeds,2,2,D
+39656,E0,1998,1998-10-31,Everton,Man United,1,4,A
+39657,E0,1998,1998-10-31,Leicester,Liverpool,1,0,H
+39658,E0,1998,1998-10-31,Newcastle,West Ham,0,3,A
+39659,E0,1998,1998-10-31,Sheffield Weds,Southampton,0,0,D
+39660,E0,1998,1998-10-31,Wimbledon,Blackburn,1,1,D
+39661,E0,1998,1998-11-01,Middlesbrough,Nott'm Forest,1,1,D
+39662,E0,1998,1998-11-02,Tottenham,Charlton,2,2,D
+39663,E0,1998,1998-11-07,Aston Villa,Tottenham,3,2,H
+39664,E0,1998,1998-11-07,Blackburn,Coventry,1,2,A
+39665,E0,1998,1998-11-07,Charlton,Leicester,0,0,D
+39666,E0,1998,1998-11-07,Liverpool,Derby,1,2,A
+39667,E0,1998,1998-11-07,Nott'm Forest,Wimbledon,0,1,A
+39668,E0,1998,1998-11-07,Southampton,Middlesbrough,3,3,D
+39669,E0,1998,1998-11-08,Arsenal,Everton,1,0,H
+39670,E0,1998,1998-11-08,Leeds,Sheffield Weds,2,1,H
+39671,E0,1998,1998-11-08,Man United,Newcastle,0,0,D
+39672,E0,1998,1998-11-08,West Ham,Chelsea,1,1,D
+39673,E0,1998,1998-11-14,Arsenal,Tottenham,0,0,D
+39674,E0,1998,1998-11-14,Charlton,Middlesbrough,1,1,D
+39675,E0,1998,1998-11-14,Chelsea,Wimbledon,3,0,H
+39676,E0,1998,1998-11-14,Liverpool,Leeds,1,3,A
+39677,E0,1998,1998-11-14,Man United,Blackburn,3,2,H
+39678,E0,1998,1998-11-14,Newcastle,Sheffield Weds,1,1,D
+39679,E0,1998,1998-11-14,Southampton,Aston Villa,1,4,A
+39680,E0,1998,1998-11-14,West Ham,Leicester,3,2,H
+39681,E0,1998,1998-11-15,Coventry,Everton,3,0,H
+39682,E0,1998,1998-11-16,Nott'm Forest,Derby,2,2,D
+39683,E0,1998,1998-11-21,Aston Villa,Liverpool,2,4,A
+39684,E0,1998,1998-11-21,Blackburn,Southampton,0,2,A
+39685,E0,1998,1998-11-21,Leeds,Charlton,4,1,H
+39686,E0,1998,1998-11-21,Leicester,Chelsea,2,4,A
+39687,E0,1998,1998-11-21,Middlesbrough,Coventry,2,0,H
+39688,E0,1998,1998-11-21,Sheffield Weds,Man United,3,1,H
+39689,E0,1998,1998-11-21,Tottenham,Nott'm Forest,2,0,H
+39690,E0,1998,1998-11-21,Wimbledon,Arsenal,1,0,H
+39691,E0,1998,1998-11-22,Derby,West Ham,0,2,A
+39692,E0,1998,1998-11-23,Everton,Newcastle,1,0,H
+39693,E0,1998,1998-11-28,Charlton,Everton,1,2,A
+39694,E0,1998,1998-11-28,Chelsea,Sheffield Weds,1,1,D
+39695,E0,1998,1998-11-28,Coventry,Leicester,1,1,D
+39696,E0,1998,1998-11-28,Newcastle,Wimbledon,3,1,H
+39697,E0,1998,1998-11-28,Nott'm Forest,Aston Villa,2,2,D
+39698,E0,1998,1998-11-28,Southampton,Derby,0,1,A
+39699,E0,1998,1998-11-28,West Ham,Tottenham,2,1,H
+39700,E0,1998,1998-11-29,Arsenal,Middlesbrough,1,1,D
+39701,E0,1998,1998-11-29,Liverpool,Blackburn,2,0,H
+39702,E0,1998,1998-11-29,Man United,Leeds,3,2,H
+39703,E0,1998,1998-12-05,Aston Villa,Man United,1,1,D
+39704,E0,1998,1998-12-05,Blackburn,Charlton,1,0,H
+39705,E0,1998,1998-12-05,Derby,Arsenal,0,0,D
+39706,E0,1998,1998-12-05,Everton,Chelsea,0,0,D
+39707,E0,1998,1998-12-05,Leeds,West Ham,4,0,H
+39708,E0,1998,1998-12-05,Leicester,Southampton,2,0,H
+39709,E0,1998,1998-12-05,Tottenham,Liverpool,2,1,H
+39710,E0,1998,1998-12-05,Wimbledon,Coventry,2,1,H
+39711,E0,1998,1998-12-06,Middlesbrough,Newcastle,2,2,D
+39712,E0,1998,1998-12-07,Sheffield Weds,Nott'm Forest,3,2,H
+39713,E0,1998,1998-12-09,Chelsea,Aston Villa,2,1,H
+39714,E0,1998,1998-12-12,Blackburn,Newcastle,0,0,D
+39715,E0,1998,1998-12-12,Derby,Chelsea,2,2,D
+39716,E0,1998,1998-12-12,Everton,Southampton,1,0,H
+39717,E0,1998,1998-12-12,Leicester,Nott'm Forest,3,1,H
+39718,E0,1998,1998-12-12,Middlesbrough,West Ham,1,0,H
+39719,E0,1998,1998-12-12,Sheffield Weds,Charlton,3,0,H
+39720,E0,1998,1998-12-12,Tottenham,Man United,2,2,D
+39721,E0,1998,1998-12-13,Aston Villa,Arsenal,3,2,H
+39722,E0,1998,1998-12-13,Wimbledon,Liverpool,1,0,H
+39723,E0,1998,1998-12-14,Leeds,Coventry,2,0,H
+39724,E0,1998,1998-12-16,Man United,Chelsea,1,1,D
+39725,E0,1998,1998-12-19,Chelsea,Tottenham,2,0,H
+39726,E0,1998,1998-12-19,Coventry,Derby,1,1,D
+39727,E0,1998,1998-12-19,Liverpool,Sheffield Weds,2,0,H
+39728,E0,1998,1998-12-19,Man United,Middlesbrough,2,3,A
+39729,E0,1998,1998-12-19,Newcastle,Leicester,1,0,H
+39730,E0,1998,1998-12-19,Nott'm Forest,Blackburn,2,2,D
+39731,E0,1998,1998-12-19,Southampton,Wimbledon,3,1,H
+39732,E0,1998,1998-12-19,West Ham,Everton,2,1,H
+39733,E0,1998,1998-12-20,Arsenal,Leeds,3,1,H
+39734,E0,1998,1998-12-21,Charlton,Aston Villa,0,1,A
+39735,E0,1998,1998-12-26,Arsenal,West Ham,1,0,H
+39736,E0,1998,1998-12-26,Blackburn,Aston Villa,2,1,H
+39737,E0,1998,1998-12-26,Coventry,Tottenham,1,1,D
+39738,E0,1998,1998-12-26,Everton,Derby,0,0,D
+39739,E0,1998,1998-12-26,Man United,Nott'm Forest,3,0,H
+39740,E0,1998,1998-12-26,Middlesbrough,Liverpool,1,3,A
+39741,E0,1998,1998-12-26,Newcastle,Leeds,0,3,A
+39742,E0,1998,1998-12-26,Sheffield Weds,Leicester,0,1,A
+39743,E0,1998,1998-12-26,Southampton,Chelsea,0,2,A
+39744,E0,1998,1998-12-26,Wimbledon,Charlton,2,1,H
+39745,E0,1998,1998-12-28,Aston Villa,Sheffield Weds,2,1,H
+39746,E0,1998,1998-12-28,Charlton,Arsenal,0,1,A
+39747,E0,1998,1998-12-28,Derby,Middlesbrough,2,1,H
+39748,E0,1998,1998-12-28,Leicester,Blackburn,1,1,D
+39749,E0,1998,1998-12-28,Liverpool,Newcastle,4,2,H
+39750,E0,1998,1998-12-28,Nott'm Forest,Southampton,1,1,D
+39751,E0,1998,1998-12-28,Tottenham,Everton,4,1,H
+39752,E0,1998,1998-12-28,West Ham,Coventry,2,0,H
+39753,E0,1998,1998-12-29,Chelsea,Man United,0,0,D
+39754,E0,1998,1998-12-29,Leeds,Wimbledon,2,2,D
+39755,E0,1998,1999-01-09,Arsenal,Liverpool,0,0,D
+39756,E0,1998,1999-01-09,Blackburn,Leeds,1,0,H
+39757,E0,1998,1999-01-09,Coventry,Nott'm Forest,4,0,H
+39758,E0,1998,1999-01-09,Everton,Leicester,0,0,D
+39759,E0,1998,1999-01-09,Middlesbrough,Aston Villa,0,0,D
+39760,E0,1998,1999-01-09,Newcastle,Chelsea,0,1,A
+39761,E0,1998,1999-01-09,Sheffield Weds,Tottenham,0,0,D
+39762,E0,1998,1999-01-09,Southampton,Charlton,3,1,H
+39763,E0,1998,1999-01-09,Wimbledon,Derby,2,1,H
+39764,E0,1998,1999-01-10,Man United,West Ham,4,1,H
+39765,E0,1998,1999-01-16,Chelsea,Coventry,2,1,H
+39766,E0,1998,1999-01-16,Derby,Blackburn,1,0,H
+39767,E0,1998,1999-01-16,Leeds,Middlesbrough,2,0,H
+39768,E0,1998,1999-01-16,Leicester,Man United,2,6,A
+39769,E0,1998,1999-01-16,Liverpool,Southampton,7,1,H
+39770,E0,1998,1999-01-16,Nott'm Forest,Arsenal,0,1,A
+39771,E0,1998,1999-01-16,Tottenham,Wimbledon,0,0,D
+39772,E0,1998,1999-01-16,West Ham,Sheffield Weds,0,4,A
+39773,E0,1998,1999-01-17,Charlton,Newcastle,2,2,D
+39774,E0,1998,1999-01-18,Aston Villa,Everton,3,0,H
+39775,E0,1998,1999-01-30,Blackburn,Tottenham,1,1,D
+39776,E0,1998,1999-01-30,Coventry,Liverpool,2,1,H
+39777,E0,1998,1999-01-30,Everton,Nott'm Forest,0,1,A
+39778,E0,1998,1999-01-30,Middlesbrough,Leicester,0,0,D
+39779,E0,1998,1999-01-30,Newcastle,Aston Villa,2,1,H
+39780,E0,1998,1999-01-30,Sheffield Weds,Derby,0,1,A
+39781,E0,1998,1999-01-30,Southampton,Leeds,3,0,H
+39782,E0,1998,1999-01-30,Wimbledon,West Ham,0,0,D
+39783,E0,1998,1999-01-31,Arsenal,Chelsea,1,0,H
+39784,E0,1998,1999-01-31,Charlton,Man United,0,1,A
+39785,E0,1998,1999-02-02,Man United,Derby,1,0,H
+39786,E0,1998,1999-02-06,Aston Villa,Blackburn,1,3,A
+39787,E0,1998,1999-02-06,Chelsea,Southampton,1,0,H
+39788,E0,1998,1999-02-06,Leeds,Newcastle,0,1,A
+39789,E0,1998,1999-02-06,Leicester,Sheffield Weds,0,2,A
+39790,E0,1998,1999-02-06,Liverpool,Middlesbrough,3,1,H
+39791,E0,1998,1999-02-06,Nott'm Forest,Man United,1,8,A
+39792,E0,1998,1999-02-06,Tottenham,Coventry,0,0,D
+39793,E0,1998,1999-02-06,West Ham,Arsenal,0,4,A
+39794,E0,1998,1999-02-07,Derby,Everton,2,1,H
+39795,E0,1998,1999-02-08,Charlton,Wimbledon,2,0,H
+39796,E0,1998,1999-02-13,Charlton,Liverpool,1,0,H
+39797,E0,1998,1999-02-13,West Ham,Nott'm Forest,2,1,H
+39798,E0,1998,1999-02-17,Aston Villa,Leeds,1,2,A
+39799,E0,1998,1999-02-17,Chelsea,Blackburn,1,1,D
+39800,E0,1998,1999-02-17,Everton,Middlesbrough,5,0,H
+39801,E0,1998,1999-02-17,Man United,Arsenal,1,1,D
+39802,E0,1998,1999-02-17,Newcastle,Coventry,4,1,H
+39803,E0,1998,1999-02-20,Arsenal,Leicester,5,0,H
+39804,E0,1998,1999-02-20,Blackburn,Sheffield Weds,1,4,A
+39805,E0,1998,1999-02-20,Coventry,Man United,0,1,A
+39806,E0,1998,1999-02-20,Derby,Charlton,0,2,A
+39807,E0,1998,1999-02-20,Leeds,Everton,1,0,H
+39808,E0,1998,1999-02-20,Liverpool,West Ham,2,2,D
+39809,E0,1998,1999-02-20,Middlesbrough,Tottenham,0,0,D
+39810,E0,1998,1999-02-20,Nott'm Forest,Chelsea,1,3,A
+39811,E0,1998,1999-02-20,Southampton,Newcastle,2,1,H
+39812,E0,1998,1999-02-21,Wimbledon,Aston Villa,0,0,D
+39813,E0,1998,1999-02-27,Aston Villa,Coventry,1,4,A
+39814,E0,1998,1999-02-27,Charlton,Nott'm Forest,0,0,D
+39815,E0,1998,1999-02-27,Chelsea,Liverpool,2,1,H
+39816,E0,1998,1999-02-27,Everton,Wimbledon,1,1,D
+39817,E0,1998,1999-02-27,Man United,Southampton,2,1,H
+39818,E0,1998,1999-02-27,Sheffield Weds,Middlesbrough,3,1,H
+39819,E0,1998,1999-02-27,Tottenham,Derby,1,1,D
+39820,E0,1998,1999-02-27,West Ham,Blackburn,2,0,H
+39821,E0,1998,1999-02-28,Newcastle,Arsenal,1,1,D
+39822,E0,1998,1999-03-01,Leicester,Leeds,1,2,A
+39823,E0,1998,1999-03-02,Tottenham,Southampton,3,0,H
+39824,E0,1998,1999-03-03,Sheffield Weds,Wimbledon,1,2,A
+39825,E0,1998,1999-03-06,Coventry,Charlton,2,1,H
+39826,E0,1998,1999-03-06,Southampton,West Ham,1,0,H
+39827,E0,1998,1999-03-06,Wimbledon,Leicester,0,1,A
+39828,E0,1998,1999-03-09,Arsenal,Sheffield Weds,3,0,H
+39829,E0,1998,1999-03-10,Blackburn,Everton,1,2,A
+39830,E0,1998,1999-03-10,Derby,Aston Villa,2,1,H
+39831,E0,1998,1999-03-10,Leeds,Tottenham,2,0,H
+39832,E0,1998,1999-03-10,Nott'm Forest,Newcastle,1,2,A
+39833,E0,1998,1999-03-13,Chelsea,West Ham,0,1,A
+39834,E0,1998,1999-03-13,Coventry,Blackburn,1,1,D
+39835,E0,1998,1999-03-13,Derby,Liverpool,3,2,H
+39836,E0,1998,1999-03-13,Everton,Arsenal,0,2,A
+39837,E0,1998,1999-03-13,Leicester,Charlton,1,1,D
+39838,E0,1998,1999-03-13,Newcastle,Man United,1,2,A
+39839,E0,1998,1999-03-13,Sheffield Weds,Leeds,0,2,A
+39840,E0,1998,1999-03-13,Tottenham,Aston Villa,1,0,H
+39841,E0,1998,1999-03-13,Wimbledon,Nott'm Forest,1,3,A
+39842,E0,1998,1999-03-14,Middlesbrough,Southampton,3,0,H
+39843,E0,1998,1999-03-20,Arsenal,Coventry,2,0,H
+39844,E0,1998,1999-03-20,Blackburn,Wimbledon,3,1,H
+39845,E0,1998,1999-03-20,Leeds,Derby,4,1,H
+39846,E0,1998,1999-03-20,Nott'm Forest,Middlesbrough,1,2,A
+39847,E0,1998,1999-03-20,Southampton,Sheffield Weds,1,0,H
+39848,E0,1998,1999-03-20,West Ham,Newcastle,2,0,H
+39849,E0,1998,1999-03-21,Aston Villa,Chelsea,0,3,A
+39850,E0,1998,1999-03-21,Man United,Everton,3,1,H
+39851,E0,1998,1999-04-02,Aston Villa,West Ham,0,0,D
+39852,E0,1998,1999-04-03,Blackburn,Middlesbrough,0,0,D
+39853,E0,1998,1999-04-03,Charlton,Chelsea,0,1,A
+39854,E0,1998,1999-04-03,Derby,Newcastle,3,4,A
+39855,E0,1998,1999-04-03,Leeds,Nott'm Forest,3,1,H
+39856,E0,1998,1999-04-03,Liverpool,Everton,3,2,H
+39857,E0,1998,1999-04-03,Sheffield Weds,Coventry,1,2,A
+39858,E0,1998,1999-04-03,Southampton,Arsenal,0,0,D
+39859,E0,1998,1999-04-03,Tottenham,Leicester,0,2,A
+39860,E0,1998,1999-04-03,Wimbledon,Man United,1,1,D
+39861,E0,1998,1999-04-05,Coventry,Southampton,1,0,H
+39862,E0,1998,1999-04-05,Everton,Sheffield Weds,1,2,A
+39863,E0,1998,1999-04-05,Middlesbrough,Wimbledon,3,1,H
+39864,E0,1998,1999-04-05,Newcastle,Tottenham,1,1,D
+39865,E0,1998,1999-04-05,Nott'm Forest,Liverpool,2,2,D
+39866,E0,1998,1999-04-05,West Ham,Charlton,0,1,A
+39867,E0,1998,1999-04-06,Arsenal,Blackburn,1,0,H
+39868,E0,1998,1999-04-06,Leicester,Aston Villa,2,2,D
+39869,E0,1998,1999-04-10,Aston Villa,Southampton,3,0,H
+39870,E0,1998,1999-04-10,Derby,Nott'm Forest,1,0,H
+39871,E0,1998,1999-04-10,Leicester,West Ham,0,0,D
+39872,E0,1998,1999-04-10,Middlesbrough,Charlton,2,0,H
+39873,E0,1998,1999-04-11,Everton,Coventry,2,0,H
+39874,E0,1998,1999-04-11,Wimbledon,Chelsea,1,2,A
+39875,E0,1998,1999-04-12,Leeds,Liverpool,0,0,D
+39876,E0,1998,1999-04-14,Middlesbrough,Chelsea,0,0,D
+39877,E0,1998,1999-04-17,Charlton,Leeds,1,1,D
+39878,E0,1998,1999-04-17,Coventry,Middlesbrough,1,2,A
+39879,E0,1998,1999-04-17,Liverpool,Aston Villa,0,1,A
+39880,E0,1998,1999-04-17,Man United,Sheffield Weds,3,0,H
+39881,E0,1998,1999-04-17,Newcastle,Everton,1,3,A
+39882,E0,1998,1999-04-17,Nott'm Forest,Tottenham,0,1,A
+39883,E0,1998,1999-04-17,Southampton,Blackburn,3,3,D
+39884,E0,1998,1999-04-17,West Ham,Derby,5,1,H
+39885,E0,1998,1999-04-18,Chelsea,Leicester,2,2,D
+39886,E0,1998,1999-04-19,Arsenal,Wimbledon,5,1,H
+39887,E0,1998,1999-04-20,Charlton,Tottenham,1,4,A
+39888,E0,1998,1999-04-21,Liverpool,Leicester,0,1,A
+39889,E0,1998,1999-04-21,Sheffield Weds,Newcastle,1,1,D
+39890,E0,1998,1999-04-24,Aston Villa,Nott'm Forest,2,0,H
+39891,E0,1998,1999-04-24,Blackburn,Liverpool,1,3,A
+39892,E0,1998,1999-04-24,Derby,Southampton,0,0,D
+39893,E0,1998,1999-04-24,Everton,Charlton,4,1,H
+39894,E0,1998,1999-04-24,Leicester,Coventry,1,0,H
+39895,E0,1998,1999-04-24,Middlesbrough,Arsenal,1,6,A
+39896,E0,1998,1999-04-24,Tottenham,West Ham,1,2,A
+39897,E0,1998,1999-04-24,Wimbledon,Newcastle,1,1,D
+39898,E0,1998,1999-04-25,Leeds,Man United,1,1,D
+39899,E0,1998,1999-04-25,Sheffield Weds,Chelsea,0,0,D
+39900,E0,1998,1999-05-01,Charlton,Blackburn,0,0,D
+39901,E0,1998,1999-05-01,Chelsea,Everton,3,1,H
+39902,E0,1998,1999-05-01,Coventry,Wimbledon,2,1,H
+39903,E0,1998,1999-05-01,Liverpool,Tottenham,3,2,H
+39904,E0,1998,1999-05-01,Man United,Aston Villa,2,1,H
+39905,E0,1998,1999-05-01,Newcastle,Middlesbrough,1,1,D
+39906,E0,1998,1999-05-01,Nott'm Forest,Sheffield Weds,2,0,H
+39907,E0,1998,1999-05-01,Southampton,Leicester,2,1,H
+39908,E0,1998,1999-05-01,West Ham,Leeds,1,5,A
+39909,E0,1998,1999-05-02,Arsenal,Derby,1,0,H
+39910,E0,1998,1999-05-05,Chelsea,Leeds,1,0,H
+39911,E0,1998,1999-05-05,Leicester,Derby,1,2,A
+39912,E0,1998,1999-05-05,Liverpool,Man United,2,2,D
+39913,E0,1998,1999-05-05,Tottenham,Arsenal,1,3,A
+39914,E0,1998,1999-05-08,Aston Villa,Charlton,3,4,A
+39915,E0,1998,1999-05-08,Blackburn,Nott'm Forest,1,2,A
+39916,E0,1998,1999-05-08,Derby,Coventry,0,0,D
+39917,E0,1998,1999-05-08,Everton,West Ham,6,0,H
+39918,E0,1998,1999-05-08,Leicester,Newcastle,2,0,H
+39919,E0,1998,1999-05-08,Sheffield Weds,Liverpool,1,0,H
+39920,E0,1998,1999-05-08,Wimbledon,Southampton,0,2,A
+39921,E0,1998,1999-05-09,Middlesbrough,Man United,0,1,A
+39922,E0,1998,1999-05-10,Tottenham,Chelsea,2,2,D
+39923,E0,1998,1999-05-11,Leeds,Arsenal,1,0,H
+39924,E0,1998,1999-05-12,Blackburn,Man United,0,0,D
+39925,E0,1998,1999-05-16,Arsenal,Aston Villa,1,0,H
+39926,E0,1998,1999-05-16,Charlton,Sheffield Weds,0,1,A
+39927,E0,1998,1999-05-16,Chelsea,Derby,2,1,H
+39928,E0,1998,1999-05-16,Coventry,Leeds,2,2,D
+39929,E0,1998,1999-05-16,Liverpool,Wimbledon,3,0,H
+39930,E0,1998,1999-05-16,Man United,Tottenham,2,1,H
+39931,E0,1998,1999-05-16,Newcastle,Blackburn,1,1,D
+39932,E0,1998,1999-05-16,Nott'm Forest,Leicester,1,0,H
+39933,E0,1998,1999-05-16,Southampton,Everton,2,0,H
+39934,E0,1998,1999-05-16,West Ham,Middlesbrough,4,0,H

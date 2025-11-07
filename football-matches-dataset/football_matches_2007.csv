@@ -1,0 +1,978 @@
+Match_ID,Div,Season,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+6600,D1,2007,2008-05-10,Duisburg,Bayern Munich,2,3,A
+6601,D1,2007,2007-12-15,Hertha,Bayern Munich,0,0,D
+6602,D1,2007,2007-12-02,Bielefeld,Bayern Munich,0,1,A
+6603,D1,2007,2007-09-23,Karlsruhe,Bayern Munich,1,4,A
+6604,D1,2007,2008-02-17,Hannover,Bayern Munich,0,3,A
+6605,D1,2007,2007-10-28,Dortmund,Bayern Munich,0,0,D
+6606,D1,2007,2008-04-16,Ein Frankfurt,Bayern Munich,1,3,A
+6607,D1,2007,2008-03-15,Cottbus,Bayern Munich,2,0,H
+6608,D1,2007,2007-09-02,Hamburg,Bayern Munich,1,1,D
+6609,D1,2007,2007-10-20,Bochum,Bayern Munich,1,2,A
+6610,D1,2007,2007-08-18,Werder Bremen,Bayern Munich,0,4,A
+6611,D1,2007,2007-09-29,Leverkusen,Bayern Munich,0,1,A
+6612,D1,2007,2008-05-04,Wolfsburg,Bayern Munich,0,0,D
+6613,D1,2007,2008-02-01,Hansa Rostock,Bayern Munich,1,2,A
+6614,D1,2007,2007-11-10,Stuttgart,Bayern Munich,3,1,H
+6615,D1,2007,2008-03-01,Schalke 04,Bayern Munich,0,1,A
+6616,D1,2007,2008-03-29,Nurnberg,Bayern Munich,1,1,D
+6617,D1,2007,2007-12-15,Wolfsburg,Dortmund,4,0,H
+6618,D1,2007,2007-12-01,Stuttgart,Dortmund,1,2,A
+6619,D1,2007,2008-03-15,Hamburg,Dortmund,1,0,H
+6620,D1,2007,2007-11-03,Hannover,Dortmund,2,1,H
+6621,D1,2007,2008-04-13,Bayern Munich,Dortmund,5,0,H
+6622,D1,2007,2008-02-16,Cottbus,Dortmund,0,2,A
+6623,D1,2007,2008-03-29,Bochum,Dortmund,3,3,D
+6624,D1,2007,2008-05-10,Bielefeld,Dortmund,2,2,D
+6625,D1,2007,2007-11-25,Nurnberg,Dortmund,2,0,H
+6626,D1,2007,2008-04-25,Ein Frankfurt,Dortmund,1,1,D
+6627,D1,2007,2007-10-20,Leverkusen,Dortmund,2,2,D
+6628,D1,2007,2008-02-02,Duisburg,Dortmund,3,3,D
+6629,D1,2007,2007-09-29,Karlsruhe,Dortmund,3,1,H
+6630,D1,2007,2007-09-01,Hansa Rostock,Dortmund,0,1,A
+6631,D1,2007,2007-09-22,Hertha,Dortmund,3,2,H
+6632,D1,2007,2008-03-01,Werder Bremen,Dortmund,2,0,H
+6633,D1,2007,2007-08-18,Schalke 04,Dortmund,4,1,H
+6634,D1,2007,2008-04-26,Bochum,Duisburg,1,1,D
+6635,D1,2007,2008-03-29,Werder Bremen,Duisburg,1,2,A
+6636,D1,2007,2008-03-14,Schalke 04,Duisburg,2,1,H
+6637,D1,2007,2007-11-24,Leverkusen,Duisburg,4,1,H
+6638,D1,2007,2008-02-09,Wolfsburg,Duisburg,2,1,H
+6639,D1,2007,2007-08-12,Dortmund,Duisburg,1,3,A
+6640,D1,2007,2007-08-25,Stuttgart,Duisburg,1,0,H
+6641,D1,2007,2008-05-17,Ein Frankfurt,Duisburg,4,2,H
+6642,D1,2007,2007-11-04,Karlsruhe,Duisburg,1,0,H
+6643,D1,2007,2008-02-23,Bielefeld,Duisburg,0,2,A
+6644,D1,2007,2008-02-29,Hertha,Duisburg,2,0,H
+6645,D1,2007,2008-05-07,Nurnberg,Duisburg,2,0,H
+6646,D1,2007,2007-10-19,Cottbus,Duisburg,1,2,A
+6647,D1,2007,2007-12-08,Bayern Munich,Duisburg,0,0,D
+6648,D1,2007,2008-04-12,Hamburg,Duisburg,0,1,A
+6649,D1,2007,2007-09-30,Hannover,Duisburg,2,1,H
+6650,D1,2007,2007-09-22,Hansa Rostock,Duisburg,2,0,H
+6651,D1,2007,2007-12-16,Duisburg,Ein Frankfurt,0,1,A
+6652,D1,2007,2008-03-02,Hamburg,Ein Frankfurt,4,1,H
+6653,D1,2007,2007-11-03,Bayern Munich,Ein Frankfurt,0,0,D
+6654,D1,2007,2008-05-10,Schalke 04,Ein Frankfurt,1,0,H
+6655,D1,2007,2008-02-16,Hansa Rostock,Ein Frankfurt,1,0,H
+6656,D1,2007,2007-12-01,Wolfsburg,Ein Frankfurt,2,2,D
+6657,D1,2007,2007-09-30,Cottbus,Ein Frankfurt,2,2,D
+6658,D1,2007,2008-05-03,Stuttgart,Ein Frankfurt,4,1,H
+6659,D1,2007,2007-11-10,Dortmund,Ein Frankfurt,1,1,D
+6660,D1,2007,2008-04-12,Hannover,Ein Frankfurt,2,1,H
+6661,D1,2007,2007-09-01,Werder Bremen,Ein Frankfurt,2,1,H
+6662,D1,2007,2008-03-15,Karlsruhe,Ein Frankfurt,0,1,A
+6663,D1,2007,2007-08-18,Bielefeld,Ein Frankfurt,2,2,D
+6664,D1,2007,2007-10-20,Nurnberg,Ein Frankfurt,5,1,H
+6665,D1,2007,2008-02-02,Hertha,Ein Frankfurt,0,3,A
+6666,D1,2007,2007-09-21,Bochum,Ein Frankfurt,0,0,D
+6667,D1,2007,2008-03-29,Leverkusen,Ein Frankfurt,0,2,A
+6668,D2,2007,2008-05-18,Kaiserslautern,FC Koln,3,0,H
+6669,D2,2007,2007-09-23,Koblenz,FC Koln,1,2,A
+6670,D2,2007,2007-11-01,Osnabruck,FC Koln,2,1,H
+6671,D2,2007,2007-12-07,Mainz,FC Koln,1,0,H
+6672,D2,2007,2008-04-11,Paderborn,FC Koln,2,2,D
+6673,D2,2007,2007-10-22,M'gladbach,FC Koln,2,2,D
+6674,D2,2007,2008-05-07,Augsburg,FC Koln,1,3,A
+6675,D2,2007,2008-03-17,Freiburg,FC Koln,1,0,H
+6676,D2,2007,2008-04-25,Erzgebirge Aue,FC Koln,3,3,D
+6677,D2,2007,2008-02-29,Greuther Furth,FC Koln,2,2,D
+6678,D2,2007,2007-11-25,Hoffenheim,FC Koln,0,2,A
+6679,D2,2007,2007-09-30,Wehen,FC Koln,4,3,H
+6680,D2,2007,2008-02-15,CZ Jena,FC Koln,1,3,A
+6681,D2,2007,2007-08-10,St Pauli,FC Koln,0,2,A
+6682,D2,2007,2008-02-11,Aachen,FC Koln,3,2,H
+6683,D2,2007,2008-03-30,Offenbach,FC Koln,1,3,A
+6684,D2,2007,2007-08-31,Munich 1860,FC Koln,1,1,D
+6685,D2,2007,2008-05-02,Munich 1860,Freiburg,0,3,A
+6686,D2,2007,2008-03-23,Erzgebirge Aue,Freiburg,2,2,D
+6687,D2,2007,2007-12-16,Wehen,Freiburg,2,2,D
+6688,D2,2007,2007-10-28,CZ Jena,Freiburg,1,2,A
+6689,D2,2007,2008-05-11,M'gladbach,Freiburg,2,3,A
+6690,D2,2007,2007-09-16,Mainz,Freiburg,1,1,D
+6691,D2,2007,2008-03-07,Kaiserslautern,Freiburg,0,0,D
+6692,D2,2007,2007-09-26,FC Koln,Freiburg,1,3,A
+6693,D2,2007,2008-02-10,Paderborn,Freiburg,3,2,H
+6694,D2,2007,2007-08-10,Osnabruck,Freiburg,2,1,H
+6695,D2,2007,2007-08-27,Augsburg,Freiburg,1,1,D
+6696,D2,2007,2007-11-11,Greuther Furth,Freiburg,1,1,D
+6697,D2,2007,2008-04-16,Koblenz,Freiburg,3,2,H
+6698,D2,2007,2007-10-08,Aachen,Freiburg,2,0,H
+6699,D2,2007,2007-12-02,Offenbach,Freiburg,0,0,D
+6700,D2,2007,2008-04-06,St Pauli,Freiburg,5,0,H
+6701,D2,2007,2008-02-22,Hoffenheim,Freiburg,2,0,H
+6702,D1,2007,2007-12-01,Werder Bremen,Hamburg,2,1,H
+6703,D1,2007,2007-08-11,Hannover,Hamburg,0,1,A
+6704,D1,2007,2008-04-15,Hertha,Hamburg,0,0,D
+6705,D1,2007,2008-03-09,Nurnberg,Hamburg,0,0,D
+6706,D1,2007,2008-04-05,Stuttgart,Hamburg,1,0,H
+6707,D1,2007,2008-02-24,Bayern Munich,Hamburg,1,1,D
+6708,D1,2007,2008-05-03,Hansa Rostock,Hamburg,1,3,A
+6709,D1,2007,2007-10-28,Duisburg,Hamburg,0,1,A
+6710,D1,2007,2007-09-25,Dortmund,Hamburg,0,3,A
+6711,D1,2007,2007-11-10,Schalke 04,Hamburg,1,1,D
+6712,D1,2007,2008-03-22,Wolfsburg,Hamburg,1,1,D
+6713,D1,2007,2007-12-15,Karlsruhe,Hamburg,1,1,D
+6714,D1,2007,2008-05-10,Cottbus,Hamburg,2,0,H
+6715,D1,2007,2007-08-24,Bochum,Hamburg,2,1,H
+6716,D1,2007,2007-09-15,Ein Frankfurt,Hamburg,2,1,H
+6717,D1,2007,2007-10-06,Bielefeld,Hamburg,0,1,A
+6718,D1,2007,2008-02-09,Leverkusen,Hamburg,1,1,D
+6719,D2,2007,2007-08-31,Koblenz,Kaiserslautern,2,2,D
+6720,D2,2007,2007-08-19,Munich 1860,Kaiserslautern,3,1,H
+6721,D1,2007,2007-08-25,Leverkusen,Karlsruhe,3,0,H
+6722,D1,2007,2007-12-01,Cottbus,Karlsruhe,2,0,H
+6723,D1,2007,2008-04-05,Bielefeld,Karlsruhe,1,0,H
+6724,D1,2007,2008-02-09,Hannover,Karlsruhe,2,2,D
+6725,D1,2007,2008-02-23,Stuttgart,Karlsruhe,3,1,H
+6726,D1,2007,2008-05-03,Hertha,Karlsruhe,3,1,H
+6727,D1,2007,2007-12-08,Bochum,Karlsruhe,2,2,D
+6728,D1,2007,2007-10-06,Schalke 04,Karlsruhe,0,2,A
+6729,D1,2007,2008-03-22,Dortmund,Karlsruhe,1,1,D
+6730,D1,2007,2008-05-17,Hamburg,Karlsruhe,7,0,H
+6731,D1,2007,2008-04-16,Duisburg,Karlsruhe,0,1,A
+6732,D1,2007,2008-03-08,Bayern Munich,Karlsruhe,2,0,H
+6733,D1,2007,2007-09-16,Wolfsburg,Karlsruhe,1,2,A
+6734,D1,2007,2007-10-27,Hansa Rostock,Karlsruhe,0,0,D
+6735,D1,2007,2007-08-12,Nurnberg,Karlsruhe,0,2,A
+6736,D1,2007,2007-11-10,Werder Bremen,Karlsruhe,4,0,H
+6737,D1,2007,2007-09-26,Ein Frankfurt,Karlsruhe,0,1,A
+6738,D1,2007,2007-08-31,Schalke 04,Leverkusen,1,1,D
+6739,D1,2007,2007-09-23,Hannover,Leverkusen,0,3,A
+6740,D1,2007,2008-04-06,Dortmund,Leverkusen,2,1,H
+6741,D1,2007,2008-03-22,Bayern Munich,Leverkusen,2,1,H
+6742,D1,2007,2007-08-19,Hamburg,Leverkusen,1,0,H
+6743,D1,2007,2008-04-16,Bielefeld,Leverkusen,1,0,H
+6744,D1,2007,2007-11-11,Wolfsburg,Leverkusen,1,2,A
+6745,D1,2007,2008-03-02,Bochum,Leverkusen,2,0,H
+6746,D1,2007,2007-10-27,Stuttgart,Leverkusen,1,0,H
+6747,D1,2007,2008-05-10,Hansa Rostock,Leverkusen,1,2,A
+6748,D1,2007,2008-05-04,Duisburg,Leverkusen,3,2,H
+6749,D1,2007,2007-09-26,Nurnberg,Leverkusen,1,2,A
+6750,D1,2007,2007-10-07,Ein Frankfurt,Leverkusen,2,1,H
+6751,D1,2007,2007-12-15,Werder Bremen,Leverkusen,5,2,H
+6752,D1,2007,2007-12-01,Hertha,Leverkusen,0,3,A
+6753,D1,2007,2008-02-02,Cottbus,Leverkusen,2,3,A
+6754,D1,2007,2008-02-16,Karlsruhe,Leverkusen,2,2,D
+6755,D1,2007,2007-09-29,Bochum,Nurnberg,3,3,D
+6756,D1,2007,2007-12-02,Duisburg,Nurnberg,1,0,H
+6757,D1,2007,2008-05-10,Hertha,Nurnberg,1,0,H
+6758,D1,2007,2007-11-11,Bielefeld,Nurnberg,3,1,H
+6759,D1,2007,2008-05-02,Dortmund,Nurnberg,0,0,D
+6760,D1,2007,2008-04-16,Stuttgart,Nurnberg,3,0,H
+6761,D1,2007,2008-04-05,Ein Frankfurt,Nurnberg,1,3,A
+6762,D1,2007,2007-10-27,Wolfsburg,Nurnberg,3,1,H
+6763,D1,2007,2007-08-18,Hansa Rostock,Nurnberg,1,2,A
+6764,D1,2007,2007-10-07,Bayern Munich,Nurnberg,3,0,H
+6765,D1,2007,2007-09-22,Hamburg,Nurnberg,1,0,H
+6766,D1,2007,2008-03-01,Hannover,Nurnberg,2,1,H
+6767,D1,2007,2007-12-15,Schalke 04,Nurnberg,2,1,H
+6768,D1,2007,2008-03-16,Leverkusen,Nurnberg,4,1,H
+6769,D1,2007,2007-09-01,Cottbus,Nurnberg,1,1,D
+6770,D1,2007,2008-02-02,Karlsruhe,Nurnberg,2,0,H
+6771,D1,2007,2008-02-16,Werder Bremen,Nurnberg,2,0,H
+6772,D1,2007,2008-04-12,Werder Bremen,Schalke 04,5,1,H
+6773,D1,2007,2007-10-20,Hansa Rostock,Schalke 04,1,1,D
+6774,D1,2007,2008-03-29,Karlsruhe,Schalke 04,0,0,D
+6775,D1,2007,2007-11-24,Hannover,Schalke 04,2,3,A
+6776,D1,2007,2007-09-15,Bayern Munich,Schalke 04,1,1,D
+6777,D1,2007,2008-05-17,Nurnberg,Schalke 04,0,2,A
+6778,D1,2007,2007-11-02,Cottbus,Schalke 04,1,0,H
+6779,D1,2007,2007-08-26,Wolfsburg,Schalke 04,1,1,D
+6780,D1,2007,2007-09-25,Duisburg,Schalke 04,0,2,A
+6781,D1,2007,2008-02-10,Dortmund,Schalke 04,2,3,A
+6782,D1,2007,2008-03-23,Hertha,Schalke 04,1,2,A
+6783,D1,2007,2008-05-06,Bochum,Schalke 04,0,3,A
+6784,D1,2007,2008-04-26,Hamburg,Schalke 04,0,1,A
+6785,D1,2007,2008-02-23,Leverkusen,Schalke 04,1,0,H
+6786,D1,2007,2008-03-08,Bielefeld,Schalke 04,0,2,A
+6787,D1,2007,2007-08-10,Stuttgart,Schalke 04,2,2,D
+6788,D1,2007,2007-12-08,Ein Frankfurt,Schalke 04,2,2,D
+6789,D1,2007,2008-05-06,Dortmund,Stuttgart,3,2,H
+6790,D1,2007,2008-04-27,Bayern Munich,Stuttgart,4,1,H
+6791,D1,2007,2008-05-10,Wolfsburg,Stuttgart,4,0,H
+6792,D1,2007,2007-10-20,Hamburg,Stuttgart,4,1,H
+6793,D1,2007,2008-03-30,Hannover,Stuttgart,0,0,D
+6794,D1,2007,2008-04-13,Leverkusen,Stuttgart,3,0,H
+6795,D1,2007,2008-03-15,Bochum,Stuttgart,1,1,D
+6796,D1,2007,2007-09-02,Karlsruhe,Stuttgart,1,0,H
+6797,D1,2007,2007-09-22,Werder Bremen,Stuttgart,4,1,H
+6798,D1,2007,2007-09-29,Hansa Rostock,Stuttgart,2,1,H
+6799,D1,2007,2008-02-16,Duisburg,Stuttgart,2,3,A
+6800,D1,2007,2007-12-15,Bielefeld,Stuttgart,2,0,H
+6801,D1,2007,2008-03-11,Cottbus,Stuttgart,0,1,A
+6802,D1,2007,2008-02-03,Schalke 04,Stuttgart,4,1,H
+6803,D1,2007,2007-11-24,Ein Frankfurt,Stuttgart,1,4,A
+6804,D1,2007,2007-08-18,Hertha,Stuttgart,3,1,H
+6805,D1,2007,2007-11-03,Nurnberg,Stuttgart,0,1,A
+6806,D1,2007,2007-10-27,Schalke 04,Werder Bremen,1,1,D
+6807,D1,2007,2008-03-08,Stuttgart,Werder Bremen,6,3,H
+6808,D1,2007,2007-08-25,Nurnberg,Werder Bremen,0,1,A
+6809,D1,2007,2008-04-05,Hertha,Werder Bremen,1,2,A
+6810,D1,2007,2008-05-17,Leverkusen,Werder Bremen,0,1,A
+6811,D1,2007,2008-02-10,Bayern Munich,Werder Bremen,1,1,D
+6812,D1,2007,2008-04-26,Karlsruhe,Werder Bremen,3,3,D
+6813,D1,2007,2008-02-23,Ein Frankfurt,Werder Bremen,1,0,H
+6814,D1,2007,2007-08-11,Bochum,Werder Bremen,2,2,D
+6815,D1,2007,2007-12-08,Hannover,Werder Bremen,4,3,H
+6816,D1,2007,2008-05-07,Hamburg,Werder Bremen,0,1,A
+6817,D1,2007,2007-10-06,Duisburg,Werder Bremen,1,3,A
+6818,D1,2007,2008-03-23,Bielefeld,Werder Bremen,1,1,D
+6819,D1,2007,2007-09-14,Dortmund,Werder Bremen,3,0,H
+6820,D1,2007,2008-04-15,Hansa Rostock,Werder Bremen,1,2,A
+6821,D1,2007,2007-09-25,Wolfsburg,Werder Bremen,1,1,D
+6822,D1,2007,2007-11-24,Cottbus,Werder Bremen,0,2,A
+6823,D1,2007,2008-05-10,Karlsruhe,Bochum,1,3,A
+6824,D1,2007,2007-10-05,Dortmund,Bochum,2,1,H
+6825,D1,2007,2007-10-27,Hertha,Bochum,2,0,H
+6826,D1,2007,2008-04-15,Wolfsburg,Bochum,0,1,A
+6827,D1,2007,2008-02-03,Werder Bremen,Bochum,1,2,A
+6828,D1,2007,2007-09-15,Leverkusen,Bochum,2,0,H
+6829,D1,2007,2008-02-17,Hamburg,Bochum,3,0,H
+6830,D1,2007,2007-09-26,Stuttgart,Bochum,1,0,H
+6831,D1,2007,2008-03-08,Ein Frankfurt,Bochum,1,1,D
+6832,D1,2007,2007-11-09,Duisburg,Bochum,0,2,A
+6833,D1,2007,2008-04-06,Bayern Munich,Bochum,3,1,H
+6834,D1,2007,2007-09-01,Hannover,Bochum,3,2,H
+6835,D1,2007,2008-05-03,Bielefeld,Bochum,2,0,H
+6836,D1,2007,2008-03-22,Nurnberg,Bochum,1,1,D
+6837,D1,2007,2007-12-16,Hansa Rostock,Bochum,2,0,H
+6838,D1,2007,2007-12-01,Schalke 04,Bochum,1,0,H
+6839,D1,2007,2007-08-19,Cottbus,Bochum,1,2,A
+6840,D2,2007,2008-02-22,Mainz,CZ Jena,2,2,D
+6841,D2,2007,2007-10-21,Paderborn,CZ Jena,2,2,D
+6842,D2,2007,2008-02-08,St Pauli,CZ Jena,2,2,D
+6843,D2,2007,2007-08-24,FC Koln,CZ Jena,4,3,H
+6844,D2,2007,2008-05-06,Erzgebirge Aue,CZ Jena,5,0,H
+6845,D2,2007,2007-12-09,Kaiserslautern,CZ Jena,2,3,A
+6846,D2,2007,2008-04-27,Hoffenheim,CZ Jena,5,0,H
+6847,D2,2007,2007-09-23,Wehen,CZ Jena,5,1,H
+6848,D2,2007,2007-11-05,M'gladbach,CZ Jena,2,1,H
+6849,D2,2007,2008-03-02,Koblenz,CZ Jena,2,0,H
+6850,D2,2007,2008-04-13,Freiburg,CZ Jena,2,0,H
+6851,D2,2007,2008-05-18,Augsburg,CZ Jena,1,1,D
+6852,D2,2007,2007-08-10,Aachen,CZ Jena,2,2,D
+6853,D2,2007,2008-03-14,Offenbach,CZ Jena,2,1,H
+6854,D2,2007,2007-09-30,Greuther Furth,CZ Jena,2,2,D
+6855,D2,2007,2008-03-30,Munich 1860,CZ Jena,1,2,A
+6856,D2,2007,2007-11-23,Osnabruck,CZ Jena,1,1,D
+6857,D1,2007,2007-10-26,Ein Frankfurt,Hannover,0,0,D
+6858,D1,2007,2007-08-25,Bayern Munich,Hannover,3,0,H
+6859,D1,2007,2008-05-03,Schalke 04,Hannover,1,1,D
+6860,D1,2007,2007-11-30,Hansa Rostock,Hannover,0,3,A
+6861,D1,2007,2008-04-05,Wolfsburg,Hannover,3,2,H
+6862,D1,2007,2007-09-26,Bielefeld,Hannover,0,2,A
+6863,D1,2007,2008-04-16,Dortmund,Hannover,1,3,A
+6864,D1,2007,2008-02-02,Hamburg,Hannover,1,1,D
+6865,D1,2007,2008-02-22,Bochum,Hannover,2,1,H
+6866,D1,2007,2007-12-14,Cottbus,Hannover,5,1,H
+6867,D1,2007,2007-08-17,Karlsruhe,Hannover,1,2,A
+6868,D1,2007,2008-05-10,Werder Bremen,Hannover,6,1,H
+6869,D1,2007,2008-03-22,Duisburg,Hannover,1,1,D
+6870,D1,2007,2008-03-09,Leverkusen,Hannover,2,0,H
+6871,D1,2007,2007-10-06,Stuttgart,Hannover,0,2,A
+6872,D1,2007,2007-11-10,Hertha,Hannover,1,0,H
+6873,D1,2007,2007-09-15,Nurnberg,Hannover,2,2,D
+6874,D1,2007,2008-04-26,Cottbus,Hansa Rostock,2,1,H
+6875,D1,2007,2008-03-08,Duisburg,Hansa Rostock,1,1,D
+6876,D1,2007,2008-05-06,Hannover,Hansa Rostock,3,0,H
+6877,D1,2007,2008-02-23,Dortmund,Hansa Rostock,1,0,H
+6878,D1,2007,2008-04-12,Karlsruhe,Hansa Rostock,1,2,A
+6879,D1,2007,2008-03-22,Stuttgart,Hansa Rostock,4,1,H
+6880,D1,2007,2007-09-15,Bielefeld,Hansa Rostock,4,2,H
+6881,D1,2007,2007-08-11,Bayern Munich,Hansa Rostock,3,0,H
+6882,D1,2007,2007-11-03,Werder Bremen,Hansa Rostock,1,0,H
+6883,D1,2007,2007-12-09,Leverkusen,Hansa Rostock,3,0,H
+6884,D1,2007,2008-02-09,Nurnberg,Hansa Rostock,1,1,D
+6885,D1,2007,2007-09-25,Hertha,Hansa Rostock,1,3,A
+6886,D1,2007,2007-11-25,Hamburg,Hansa Rostock,2,0,H
+6887,D1,2007,2007-08-26,Ein Frankfurt,Hansa Rostock,1,0,H
+6888,D1,2007,2008-05-17,Bochum,Hansa Rostock,1,2,A
+6889,D1,2007,2008-04-05,Schalke 04,Hansa Rostock,1,0,H
+6890,D1,2007,2007-10-06,Wolfsburg,Hansa Rostock,1,0,H
+6891,D1,2007,2008-04-12,Bochum,Hertha,1,1,D
+6892,D1,2007,2007-11-23,Karlsruhe,Hertha,2,1,H
+6893,D1,2007,2008-03-30,Cottbus,Hertha,2,1,H
+6894,D1,2007,2008-02-23,Wolfsburg,Hertha,0,0,D
+6895,D1,2007,2007-12-09,Nurnberg,Hertha,2,1,H
+6896,D1,2007,2007-08-11,Ein Frankfurt,Hertha,1,0,H
+6897,D1,2007,2008-05-07,Leverkusen,Hertha,1,2,A
+6898,D1,2007,2008-04-26,Hannover,Hertha,2,2,D
+6899,D1,2007,2007-09-16,Duisburg,Hertha,1,2,A
+6900,D1,2007,2008-03-15,Hansa Rostock,Hertha,0,0,D
+6901,D1,2007,2008-05-17,Bayern Munich,Hertha,4,1,H
+6902,D1,2007,2007-09-28,Schalke 04,Hertha,1,0,H
+6903,D1,2007,2008-02-09,Stuttgart,Hertha,1,3,A
+6904,D1,2007,2007-10-20,Werder Bremen,Hertha,3,2,H
+6905,D1,2007,2008-03-07,Dortmund,Hertha,1,1,D
+6906,D1,2007,2007-11-03,Hamburg,Hertha,2,1,H
+6907,D1,2007,2007-08-25,Bielefeld,Hertha,2,0,H
+6908,D2,2007,2008-03-28,Erzgebirge Aue,Mainz,3,3,D
+6909,D2,2007,2007-09-23,Offenbach,Mainz,2,0,H
+6910,D2,2007,2008-05-11,FC Koln,Mainz,2,0,H
+6911,D2,2007,2008-02-03,Koblenz,Mainz,1,1,D
+6912,D2,2007,2008-03-03,Freiburg,Mainz,1,1,D
+6913,D2,2007,2008-03-16,Munich 1860,Mainz,1,1,D
+6914,D2,2007,2008-04-11,Augsburg,Mainz,2,1,H
+6915,D2,2007,2007-09-30,Hoffenheim,Mainz,1,0,H
+6916,D2,2007,2008-04-27,Osnabruck,Mainz,1,2,A
+6917,D2,2007,2007-11-26,Kaiserslautern,Mainz,0,0,D
+6918,D2,2007,2007-08-19,Greuther Furth,Mainz,3,0,H
+6919,D2,2007,2007-12-14,St Pauli,Mainz,1,0,H
+6920,D2,2007,2007-10-21,Wehen,Mainz,1,3,A
+6921,D2,2007,2007-12-03,Aachen,Mainz,0,3,A
+6922,D2,2007,2007-11-04,Paderborn,Mainz,1,1,D
+6923,D2,2007,2008-02-18,M'gladbach,Mainz,0,1,A
+6924,D2,2007,2007-09-02,CZ Jena,Mainz,1,2,A
+6925,D2,2007,2008-05-18,Erzgebirge Aue,Munich 1860,1,1,D
+6926,D2,2007,2007-08-26,Hoffenheim,Munich 1860,0,3,A
+6927,D2,2007,2008-02-22,FC Koln,Munich 1860,0,0,D
+6928,D2,2007,2008-04-13,Offenbach,Munich 1860,2,0,H
+6929,D2,2007,2007-11-25,Freiburg,Munich 1860,2,2,D
+6930,D2,2007,2008-05-06,Paderborn,Munich 1860,3,1,H
+6931,D2,2007,2008-04-04,Greuther Furth,Munich 1860,3,1,H
+6932,D2,2007,2007-09-27,Mainz,Munich 1860,3,0,H
+6933,D2,2007,2007-08-12,Augsburg,Munich 1860,2,6,A
+6934,D2,2007,2007-10-05,CZ Jena,Munich 1860,0,2,A
+6935,D2,2007,2007-12-09,Osnabruck,Munich 1860,3,0,H
+6936,D2,2007,2008-03-23,Koblenz,Munich 1860,3,1,H
+6937,D2,2007,2008-04-27,M'gladbach,Munich 1860,2,2,D
+6938,D2,2007,2007-11-04,Wehen,Munich 1860,0,0,D
+6939,D2,2007,2007-09-16,Aachen,Munich 1860,0,0,D
+6940,D2,2007,2008-03-10,St Pauli,Munich 1860,0,0,D
+6941,D2,2007,2008-02-08,Kaiserslautern,Munich 1860,1,2,A
+6942,D2,2007,2007-12-07,Aachen,St Pauli,2,2,D
+6943,D2,2007,2008-04-27,Augsburg,St Pauli,1,0,H
+6944,D2,2007,2008-02-01,FC Koln,St Pauli,1,1,D
+6945,D2,2007,2008-05-06,Kaiserslautern,St Pauli,2,0,H
+6946,D2,2007,2007-11-02,Hoffenheim,St Pauli,1,1,D
+6947,D2,2007,2007-08-19,CZ Jena,St Pauli,0,1,A
+6948,D2,2007,2007-09-21,Munich 1860,St Pauli,2,1,H
+6949,D2,2007,2007-09-28,Osnabruck,St Pauli,3,1,H
+6950,D2,2007,2008-05-18,Mainz,St Pauli,5,1,H
+6951,D2,2007,2007-10-21,Freiburg,St Pauli,2,0,H
+6952,D2,2007,2008-04-13,Wehen,St Pauli,1,3,A
+6953,D2,2007,2008-03-16,M'gladbach,St Pauli,1,0,H
+6954,D2,2007,2008-03-02,Offenbach,St Pauli,4,3,H
+6955,D2,2007,2007-11-25,Erzgebirge Aue,St Pauli,0,0,D
+6956,D2,2007,2008-02-15,Koblenz,St Pauli,1,1,D
+6957,D2,2007,2007-09-02,Greuther Furth,St Pauli,2,1,H
+6958,D2,2007,2008-03-30,Paderborn,St Pauli,4,1,H
+6959,D1,2007,2007-09-22,Cottbus,Wolfsburg,1,2,A
+6960,D1,2007,2007-09-01,Hertha,Wolfsburg,2,1,H
+6961,D1,2007,2008-05-07,Ein Frankfurt,Wolfsburg,2,3,A
+6962,D1,2007,2008-02-15,Schalke 04,Wolfsburg,1,2,A
+6963,D1,2007,2007-11-24,Bayern Munich,Wolfsburg,2,1,H
+6964,D1,2007,2007-12-08,Stuttgart,Wolfsburg,3,1,H
+6965,D1,2007,2008-04-27,Leverkusen,Wolfsburg,2,2,D
+6966,D1,2007,2007-10-21,Hannover,Wolfsburg,2,2,D
+6967,D1,2007,2008-02-02,Bielefeld,Wolfsburg,0,1,A
+6968,D1,2007,2008-05-17,Dortmund,Wolfsburg,2,4,A
+6969,D1,2007,2007-08-18,Duisburg,Wolfsburg,1,3,A
+6970,D1,2007,2008-03-16,Werder Bremen,Wolfsburg,0,1,A
+6971,D1,2007,2007-09-29,Hamburg,Wolfsburg,2,2,D
+6972,D1,2007,2008-03-01,Karlsruhe,Wolfsburg,3,1,H
+6973,D1,2007,2008-04-20,Nurnberg,Wolfsburg,1,0,H
+6974,D1,2007,2007-11-04,Bochum,Wolfsburg,5,3,H
+6975,D1,2007,2008-03-28,Hansa Rostock,Wolfsburg,0,1,A
+6976,D2,2007,2008-02-10,Hoffenheim,M'gladbach,4,2,H
+6977,D2,2007,2007-11-12,Munich 1860,M'gladbach,0,0,D
+6978,D2,2007,2008-05-04,Offenbach,M'gladbach,1,7,A
+6979,D2,2007,2007-10-07,Koblenz,M'gladbach,0,5,A
+6980,D2,2007,2008-03-07,Augsburg,M'gladbach,0,2,A
+6981,D2,2007,2007-08-13,Kaiserslautern,M'gladbach,1,1,D
+6982,D2,2007,2007-08-24,Mainz,M'gladbach,4,1,H
+6983,D2,2007,2008-02-24,Osnabruck,M'gladbach,2,2,D
+6984,D2,2007,2008-04-16,CZ Jena,M'gladbach,2,2,D
+6985,D2,2007,2008-03-24,Aachen,M'gladbach,1,1,D
+6986,D2,2007,2007-09-25,St Pauli,M'gladbach,0,3,A
+6987,D2,2007,2007-10-26,Greuther Furth,M'gladbach,1,3,A
+6988,D2,2007,2007-09-17,Erzgebirge Aue,M'gladbach,2,3,A
+6989,D2,2007,2007-11-30,Wehen,M'gladbach,1,1,D
+6990,D2,2007,2008-04-07,FC Koln,M'gladbach,1,1,D
+6991,D2,2007,2007-12-10,Freiburg,M'gladbach,1,3,A
+6992,D2,2007,2008-05-18,Paderborn,M'gladbach,2,3,A
+6993,D1,2007,2007-09-01,Duisburg,Bielefeld,3,0,H
+6994,D1,2007,2007-10-21,Karlsruhe,Bielefeld,0,0,D
+6995,D1,2007,2008-05-07,Bayern Munich,Bielefeld,2,0,H
+6996,D1,2007,2008-02-08,Ein Frankfurt,Bielefeld,2,1,H
+6997,D1,2007,2007-08-11,Wolfsburg,Bielefeld,1,3,A
+6998,D1,2007,2007-11-03,Leverkusen,Bielefeld,4,0,H
+6999,D1,2007,2008-02-16,Hertha,Bielefeld,1,0,H
+7000,D1,2007,2007-09-22,Schalke 04,Bielefeld,3,0,H
+7001,D1,2007,2008-03-15,Hannover,Bielefeld,2,2,D
+7002,D1,2007,2008-04-12,Cottbus,Bielefeld,1,0,H
+7003,D1,2007,2007-12-07,Dortmund,Bielefeld,6,1,H
+7004,D1,2007,2008-04-26,Nurnberg,Bielefeld,2,2,D
+7005,D1,2007,2008-03-29,Hamburg,Bielefeld,1,1,D
+7006,D1,2007,2008-03-01,Hansa Rostock,Bielefeld,1,1,D
+7007,D1,2007,2007-11-24,Bochum,Bielefeld,3,0,H
+7008,D1,2007,2007-09-29,Werder Bremen,Bielefeld,8,1,H
+7009,D1,2007,2008-05-17,Stuttgart,Bielefeld,2,2,D
+7010,D1,2007,2007-09-15,Stuttgart,Cottbus,3,0,H
+7011,D1,2007,2007-10-27,Bielefeld,Cottbus,1,1,D
+7012,D1,2007,2007-12-08,Hamburg,Cottbus,0,0,D
+7013,D1,2007,2007-11-10,Hansa Rostock,Cottbus,3,2,H
+7014,D1,2007,2008-03-08,Wolfsburg,Cottbus,3,0,H
+7015,D1,2007,2008-05-17,Hannover,Cottbus,4,0,H
+7016,D1,2007,2008-04-04,Duisburg,Cottbus,0,1,A
+7017,D1,2007,2008-04-15,Schalke 04,Cottbus,5,0,H
+7018,D1,2007,2007-10-06,Hertha,Cottbus,0,0,D
+7019,D1,2007,2007-09-26,Bayern Munich,Cottbus,5,0,H
+7020,D1,2007,2008-03-20,Ein Frankfurt,Cottbus,2,1,H
+7021,D1,2007,2007-08-11,Leverkusen,Cottbus,0,0,D
+7022,D1,2007,2008-02-09,Bochum,Cottbus,3,3,D
+7023,D1,2007,2008-05-03,Werder Bremen,Cottbus,2,0,H
+7024,D1,2007,2008-02-24,Nurnberg,Cottbus,1,1,D
+7025,D1,2007,2008-05-06,Karlsruhe,Cottbus,1,1,D
+7026,D1,2007,2007-08-25,Dortmund,Cottbus,3,0,H
+7027,D2,2007,2007-11-23,Paderborn,Greuther Furth,1,0,H
+7028,D2,2007,2008-04-28,Freiburg,Greuther Furth,3,2,H
+7029,D2,2007,2008-03-23,CZ Jena,Greuther Furth,1,0,H
+7030,D2,2007,2008-02-10,Mainz,Greuther Furth,1,2,A
+7031,D2,2007,2007-12-09,Augsburg,Greuther Furth,3,0,H
+7032,D2,2007,2008-02-24,St Pauli,Greuther Furth,1,1,D
+7033,D2,2007,2008-05-18,Hoffenheim,Greuther Furth,5,0,H
+7034,D2,2007,2007-09-26,Koblenz,Greuther Furth,3,0,H
+7035,D2,2007,2008-04-13,M'gladbach,Greuther Furth,3,0,H
+7036,D2,2007,2007-08-12,Erzgebirge Aue,Greuther Furth,1,1,D
+7037,D2,2007,2007-10-21,Munich 1860,Greuther Furth,0,3,A
+7038,D2,2007,2008-03-07,Aachen,Greuther Furth,2,5,A
+7039,D2,2007,2007-08-26,Kaiserslautern,Greuther Furth,0,1,A
+7040,D2,2007,2008-05-06,Osnabruck,Greuther Furth,0,0,D
+7041,D2,2007,2008-03-30,Wehen,Greuther Furth,1,1,D
+7042,D2,2007,2007-09-16,FC Koln,Greuther Furth,0,0,D
+7043,D2,2007,2007-11-02,Offenbach,Greuther Furth,1,2,A
+7044,D2,2007,2007-12-14,Koblenz,Aachen,0,0,D
+7045,D2,2007,2008-03-14,Paderborn,Aachen,0,1,A
+7046,D2,2007,2008-05-07,Mainz,Aachen,0,1,A
+7047,D2,2007,2008-05-11,St Pauli,Aachen,0,2,A
+7048,D2,2007,2008-04-13,Hoffenheim,Aachen,1,2,A
+7049,D2,2007,2008-04-25,Kaiserslautern,Aachen,2,1,H
+7050,D2,2007,2007-09-02,Wehen,Aachen,3,0,H
+7051,D2,2007,2007-09-21,Greuther Furth,Aachen,2,0,H
+7052,D2,2007,2008-03-28,Freiburg,Aachen,1,0,H
+7053,D2,2007,2008-03-02,Munich 1860,Aachen,0,0,D
+7054,D2,2007,2008-02-04,CZ Jena,Aachen,2,3,A
+7055,D2,2007,2007-11-02,Erzgebirge Aue,Aachen,2,1,H
+7056,D2,2007,2007-10-19,Osnabruck,Aachen,2,2,D
+7057,D2,2007,2007-08-20,FC Koln,Aachen,0,1,A
+7058,D2,2007,2007-11-25,Augsburg,Aachen,1,0,H
+7059,D2,2007,2007-09-28,M'gladbach,Aachen,2,1,H
+7060,D2,2007,2008-02-17,Offenbach,Aachen,1,1,D
+7061,D2,2007,2008-03-20,Kaiserslautern,Offenbach,1,1,D
+7062,D2,2007,2008-02-24,Augsburg,Offenbach,1,1,D
+7063,D2,2007,2008-02-08,Erzgebirge Aue,Offenbach,3,1,H
+7064,D2,2007,2008-05-07,Freiburg,Offenbach,0,1,A
+7065,D2,2007,2008-04-16,Greuther Furth,Offenbach,2,1,H
+7066,D2,2007,2007-10-26,Munich 1860,Offenbach,3,0,H
+7067,D2,2007,2008-04-27,Wehen,Offenbach,2,1,H
+7068,D2,2007,2007-11-23,M'gladbach,Offenbach,3,0,H
+7069,D2,2007,2008-04-04,Koblenz,Offenbach,1,1,D
+7070,D2,2007,2008-03-09,Mainz,Offenbach,1,0,H
+7071,D2,2007,2007-08-26,Aachen,Offenbach,4,0,H
+7072,D2,2007,2007-12-09,Hoffenheim,Offenbach,2,2,D
+7073,D2,2007,2008-05-18,Osnabruck,Offenbach,3,0,H
+7074,D2,2007,2007-09-26,CZ Jena,Offenbach,2,0,H
+7075,D2,2007,2007-08-12,Paderborn,Offenbach,0,2,A
+7076,D2,2007,2007-10-05,FC Koln,Offenbach,4,1,H
+7077,D2,2007,2007-09-14,St Pauli,Offenbach,3,1,H
+7078,D2,2007,2007-09-16,Hoffenheim,Osnabruck,3,1,H
+7079,D2,2007,2007-12-14,Offenbach,Osnabruck,3,3,D
+7080,D2,2007,2008-02-17,Paderborn,Osnabruck,1,3,A
+7081,D2,2007,2007-10-28,Koblenz,Osnabruck,1,0,H
+7082,D2,2007,2008-04-15,FC Koln,Osnabruck,2,0,H
+7083,D2,2007,2007-12-02,Greuther Furth,Osnabruck,6,3,H
+7084,D2,2007,2008-05-02,CZ Jena,Osnabruck,1,1,D
+7085,D2,2007,2007-11-09,Mainz,Osnabruck,4,1,H
+7086,D2,2007,2007-09-02,M'gladbach,Osnabruck,2,1,H
+7087,D2,2007,2007-08-17,Wehen,Osnabruck,1,1,D
+7088,D2,2007,2008-02-03,Freiburg,Osnabruck,1,1,D
+7089,D2,2007,2007-10-07,Kaiserslautern,Osnabruck,3,0,H
+7090,D2,2007,2008-03-09,Erzgebirge Aue,Osnabruck,0,1,A
+7091,D2,2007,2008-04-06,Aachen,Osnabruck,3,0,H
+7092,D2,2007,2007-09-25,Augsburg,Osnabruck,2,0,H
+7093,D2,2007,2008-03-20,St Pauli,Osnabruck,2,1,H
+7094,D2,2007,2008-05-11,Munich 1860,Osnabruck,1,1,D
+7095,D2,2007,2007-09-30,Freiburg,Erzgebirge Aue,2,0,H
+7096,D2,2007,2008-02-29,M'gladbach,Erzgebirge Aue,2,0,H
+7097,D2,2007,2007-08-19,Offenbach,Erzgebirge Aue,3,2,H
+7098,D2,2007,2008-04-16,Aachen,Erzgebirge Aue,1,0,H
+7099,D2,2007,2007-12-16,Munich 1860,Erzgebirge Aue,5,0,H
+7100,D2,2007,2007-10-07,Mainz,Erzgebirge Aue,4,1,H
+7101,D2,2007,2007-09-21,Osnabruck,Erzgebirge Aue,2,1,H
+7102,D2,2007,2008-04-06,Augsburg,Erzgebirge Aue,1,1,D
+7103,D2,2007,2008-02-03,Greuther Furth,Erzgebirge Aue,2,0,H
+7104,D2,2007,2007-11-09,FC Koln,Erzgebirge Aue,3,2,H
+7105,D2,2007,2008-02-15,Wehen,Erzgebirge Aue,3,0,H
+7106,D2,2007,2008-05-02,St Pauli,Erzgebirge Aue,4,2,H
+7107,D2,2007,2008-03-16,Hoffenheim,Erzgebirge Aue,1,0,H
+7108,D2,2007,2007-10-28,Kaiserslautern,Erzgebirge Aue,2,0,H
+7109,D2,2007,2007-11-30,CZ Jena,Erzgebirge Aue,2,1,H
+7110,D2,2007,2007-09-02,Paderborn,Erzgebirge Aue,0,1,A
+7111,D2,2007,2008-05-11,Koblenz,Erzgebirge Aue,2,2,D
+7112,D2,2007,2007-10-07,St Pauli,Paderborn,2,1,H
+7113,D2,2007,2007-12-16,M'gladbach,Paderborn,1,1,D
+7114,D2,2007,2007-09-25,Aachen,Paderborn,3,1,H
+7115,D2,2007,2007-11-13,Koblenz,Paderborn,0,0,D
+7116,D2,2007,2008-05-11,Wehen,Paderborn,1,1,D
+7117,D2,2007,2008-04-15,Mainz,Paderborn,6,1,H
+7118,D2,2007,2007-08-17,Freiburg,Paderborn,1,0,H
+7119,D2,2007,2008-04-06,CZ Jena,Paderborn,3,0,H
+7120,D2,2007,2008-02-24,Erzgebirge Aue,Paderborn,6,0,H
+7121,D2,2007,2007-08-24,Osnabruck,Paderborn,0,0,D
+7122,D2,2007,2008-03-09,Hoffenheim,Paderborn,1,0,H
+7123,D2,2007,2007-12-02,Munich 1860,Paderborn,0,0,D
+7124,D2,2007,2007-09-14,Kaiserslautern,Paderborn,0,0,D
+7125,D2,2007,2008-05-02,Greuther Furth,Paderborn,1,1,D
+7126,D2,2007,2007-10-28,FC Koln,Paderborn,2,1,H
+7127,D2,2007,2008-03-20,Augsburg,Paderborn,0,1,A
+7128,D2,2007,2008-02-03,Offenbach,Paderborn,2,1,H
+7129,D2,2007,2007-09-21,M'gladbach,Augsburg,4,2,H
+7130,D2,2007,2008-02-29,Wehen,Augsburg,2,1,H
+7131,D2,2007,2007-12-02,FC Koln,Augsburg,3,0,H
+7132,D2,2007,2008-02-03,Munich 1860,Augsburg,0,3,A
+7133,D2,2007,2007-09-28,Paderborn,Augsburg,1,1,D
+7134,D2,2007,2007-11-11,St Pauli,Augsburg,2,0,H
+7135,D2,2007,2007-08-31,Offenbach,Augsburg,1,0,H
+7136,D2,2007,2008-05-11,Greuther Furth,Augsburg,3,2,H
+7137,D2,2007,2008-02-17,Freiburg,Augsburg,1,0,H
+7138,D2,2007,2007-12-16,CZ Jena,Augsburg,1,2,A
+7139,D2,2007,2008-04-15,Kaiserslautern,Augsburg,2,0,H
+7140,D2,2007,2007-10-21,Erzgebirge Aue,Augsburg,3,0,H
+7141,D2,2007,2008-03-16,Osnabruck,Augsburg,0,2,A
+7142,D2,2007,2008-05-04,Aachen,Augsburg,3,0,H
+7143,D2,2007,2008-03-28,Hoffenheim,Augsburg,2,0,H
+7144,D2,2007,2007-10-26,Mainz,Augsburg,1,1,D
+7145,D2,2007,2007-08-17,Koblenz,Augsburg,2,1,H
+7146,D2,2007,2008-03-09,FC Koln,Koblenz,1,0,H
+7147,D2,2007,2008-05-18,Aachen,Koblenz,1,3,A
+7148,D2,2007,2007-09-14,CZ Jena,Koblenz,1,2,A
+7149,D2,2007,2008-05-07,Hoffenheim,Koblenz,3,1,H
+7150,D2,2007,2007-08-26,St Pauli,Koblenz,1,0,H
+7151,D2,2007,2007-09-30,Munich 1860,Koblenz,2,2,D
+7152,D2,2007,2007-08-12,Mainz,Koblenz,4,1,H
+7153,D2,2007,2007-11-04,Freiburg,Koblenz,4,2,H
+7154,D2,2007,2008-02-25,Kaiserslautern,Koblenz,2,3,A
+7155,D2,2007,2008-03-30,M'gladbach,Koblenz,1,0,H
+7156,D2,2007,2008-04-11,Osnabruck,Koblenz,2,0,H
+7157,D2,2007,2008-04-25,Paderborn,Koblenz,3,2,H
+7158,D2,2007,2008-03-16,Greuther Furth,Koblenz,0,1,A
+7159,D2,2007,2007-12-07,Erzgebirge Aue,Koblenz,0,0,D
+7160,D2,2007,2008-02-10,Augsburg,Koblenz,1,0,H
+7161,D2,2007,2007-10-19,Offenbach,Koblenz,1,1,D
+7162,D2,2007,2007-11-23,Wehen,Koblenz,0,2,A
+7163,D2,2007,2007-11-11,CZ Jena,Hoffenheim,0,1,A
+7164,D2,2007,2007-12-02,Koblenz,Hoffenheim,2,2,D
+7165,D2,2007,2008-03-23,Mainz,Hoffenheim,1,1,D
+7166,D2,2007,2007-09-21,Paderborn,Hoffenheim,0,2,A
+7167,D2,2007,2008-02-17,Munich 1860,Hoffenheim,0,1,A
+7168,D2,2007,2008-04-04,Kaiserslautern,Hoffenheim,0,2,A
+7169,D2,2007,2007-09-25,Erzgebirge Aue,Hoffenheim,2,2,D
+7170,D2,2007,2007-10-07,Augsburg,Hoffenheim,2,2,D
+7171,D2,2007,2008-04-16,St Pauli,Hoffenheim,3,1,H
+7172,D2,2007,2007-12-16,Greuther Furth,Hoffenheim,4,1,H
+7173,D2,2007,2007-08-19,M'gladbach,Hoffenheim,0,0,D
+7174,D2,2007,2007-10-26,Aachen,Hoffenheim,2,2,D
+7175,D2,2007,2008-03-02,Osnabruck,Hoffenheim,0,3,A
+7176,D2,2007,2008-05-04,FC Koln,Hoffenheim,3,1,H
+7177,D2,2007,2008-05-11,Offenbach,Hoffenheim,1,1,D
+7178,D2,2007,2007-09-03,Freiburg,Hoffenheim,3,2,H
+7179,D2,2007,2008-02-01,Wehen,Hoffenheim,0,2,A
+7180,D2,2007,2008-04-17,Munich 1860,Wehen,2,1,H
+7181,D2,2007,2008-05-07,M'gladbach,Wehen,3,0,H
+7182,D2,2007,2008-02-10,Osnabruck,Wehen,0,2,A
+7183,D2,2007,2007-12-09,Paderborn,Wehen,1,1,D
+7184,D2,2007,2008-02-24,Aachen,Wehen,2,3,A
+7185,D2,2007,2008-05-18,Freiburg,Wehen,0,2,A
+7186,D2,2007,2007-09-26,Kaiserslautern,Wehen,0,2,A
+7187,D2,2007,2008-05-04,Koblenz,Wehen,2,0,H
+7188,D2,2007,2008-03-23,FC Koln,Wehen,2,1,H
+7189,D2,2007,2007-08-26,Erzgebirge Aue,Wehen,3,0,H
+7190,D2,2007,2008-03-09,CZ Jena,Wehen,2,2,D
+7191,D2,2007,2007-10-05,Greuther Furth,Wehen,1,1,D
+7192,D2,2007,2007-11-09,Offenbach,Wehen,0,0,D
+7193,D2,2007,2008-04-06,Mainz,Wehen,3,0,H
+7194,D2,2007,2007-08-12,Hoffenheim,Wehen,2,3,A
+7195,D2,2007,2007-09-16,Augsburg,Wehen,5,1,H
+7196,D2,2007,2007-10-26,St Pauli,Wehen,1,1,D
+42975,E0,2007,2007-08-11,Aston Villa,Liverpool,1,2,A
+42976,E0,2007,2007-08-11,Bolton,Newcastle,1,3,A
+42977,E0,2007,2007-08-11,Derby,Portsmouth,2,2,D
+42978,E0,2007,2007-08-11,Everton,Wigan,2,1,H
+42979,E0,2007,2007-08-11,Middlesbrough,Blackburn,1,2,A
+42980,E0,2007,2007-08-11,Sunderland,Tottenham,1,0,H
+42981,E0,2007,2007-08-11,West Ham,Man City,0,2,A
+42982,E0,2007,2007-08-12,Arsenal,Fulham,2,1,H
+42983,E0,2007,2007-08-12,Chelsea,Birmingham,3,2,H
+42984,E0,2007,2007-08-12,Man United,Reading,0,0,D
+42985,E0,2007,2007-08-14,Tottenham,Everton,1,3,A
+42986,E0,2007,2007-08-15,Birmingham,Sunderland,2,2,D
+42987,E0,2007,2007-08-15,Fulham,Bolton,2,1,H
+42988,E0,2007,2007-08-15,Man City,Derby,1,0,H
+42989,E0,2007,2007-08-15,Portsmouth,Man United,1,1,D
+42990,E0,2007,2007-08-15,Reading,Chelsea,1,2,A
+42991,E0,2007,2007-08-15,Wigan,Middlesbrough,1,0,H
+42992,E0,2007,2007-08-18,Birmingham,West Ham,0,1,A
+42993,E0,2007,2007-08-18,Fulham,Middlesbrough,1,2,A
+42994,E0,2007,2007-08-18,Newcastle,Aston Villa,0,0,D
+42995,E0,2007,2007-08-18,Portsmouth,Bolton,3,1,H
+42996,E0,2007,2007-08-18,Reading,Everton,1,0,H
+42997,E0,2007,2007-08-18,Tottenham,Derby,4,0,H
+42998,E0,2007,2007-08-18,Wigan,Sunderland,3,0,H
+42999,E0,2007,2007-08-19,Blackburn,Arsenal,1,1,D
+43000,E0,2007,2007-08-19,Liverpool,Chelsea,1,1,D
+43001,E0,2007,2007-08-19,Man City,Man United,1,0,H
+43002,E0,2007,2007-08-25,Arsenal,Man City,1,0,H
+43003,E0,2007,2007-08-25,Aston Villa,Fulham,2,1,H
+43004,E0,2007,2007-08-25,Bolton,Reading,3,0,H
+43005,E0,2007,2007-08-25,Chelsea,Portsmouth,1,0,H
+43006,E0,2007,2007-08-25,Derby,Birmingham,1,2,A
+43007,E0,2007,2007-08-25,Everton,Blackburn,1,1,D
+43008,E0,2007,2007-08-25,Sunderland,Liverpool,0,2,A
+43009,E0,2007,2007-08-25,West Ham,Wigan,1,1,D
+43010,E0,2007,2007-08-26,Man United,Tottenham,1,0,H
+43011,E0,2007,2007-08-26,Middlesbrough,Newcastle,2,2,D
+43012,E0,2007,2007-09-01,Bolton,Everton,1,2,A
+43013,E0,2007,2007-09-01,Fulham,Tottenham,3,3,D
+43014,E0,2007,2007-09-01,Liverpool,Derby,6,0,H
+43015,E0,2007,2007-09-01,Man United,Sunderland,1,0,H
+43016,E0,2007,2007-09-01,Middlesbrough,Birmingham,2,0,H
+43017,E0,2007,2007-09-01,Newcastle,Wigan,1,0,H
+43018,E0,2007,2007-09-01,Reading,West Ham,0,3,A
+43019,E0,2007,2007-09-02,Arsenal,Portsmouth,3,1,H
+43020,E0,2007,2007-09-02,Aston Villa,Chelsea,2,0,H
+43021,E0,2007,2007-09-02,Blackburn,Man City,1,0,H
+43022,E0,2007,2007-09-15,Birmingham,Bolton,1,0,H
+43023,E0,2007,2007-09-15,Chelsea,Blackburn,0,0,D
+43024,E0,2007,2007-09-15,Everton,Man United,0,1,A
+43025,E0,2007,2007-09-15,Portsmouth,Liverpool,0,0,D
+43026,E0,2007,2007-09-15,Sunderland,Reading,2,1,H
+43027,E0,2007,2007-09-15,Tottenham,Arsenal,1,3,A
+43028,E0,2007,2007-09-15,West Ham,Middlesbrough,3,0,H
+43029,E0,2007,2007-09-15,Wigan,Fulham,1,1,D
+43030,E0,2007,2007-09-16,Man City,Aston Villa,1,0,H
+43031,E0,2007,2007-09-17,Derby,Newcastle,1,0,H
+43032,E0,2007,2007-09-22,Arsenal,Derby,5,0,H
+43033,E0,2007,2007-09-22,Fulham,Man City,3,3,D
+43034,E0,2007,2007-09-22,Liverpool,Birmingham,0,0,D
+43035,E0,2007,2007-09-22,Middlesbrough,Sunderland,2,2,D
+43036,E0,2007,2007-09-22,Reading,Wigan,2,1,H
+43037,E0,2007,2007-09-23,Aston Villa,Everton,2,0,H
+43038,E0,2007,2007-09-23,Blackburn,Portsmouth,0,1,A
+43039,E0,2007,2007-09-23,Bolton,Tottenham,1,1,D
+43040,E0,2007,2007-09-23,Man United,Chelsea,2,0,H
+43041,E0,2007,2007-09-23,Newcastle,West Ham,3,1,H
+43042,E0,2007,2007-09-29,Birmingham,Man United,0,1,A
+43043,E0,2007,2007-09-29,Chelsea,Fulham,0,0,D
+43044,E0,2007,2007-09-29,Derby,Bolton,1,1,D
+43045,E0,2007,2007-09-29,Man City,Newcastle,3,1,H
+43046,E0,2007,2007-09-29,Portsmouth,Reading,7,4,H
+43047,E0,2007,2007-09-29,Sunderland,Blackburn,1,2,A
+43048,E0,2007,2007-09-29,West Ham,Arsenal,0,1,A
+43049,E0,2007,2007-09-29,Wigan,Liverpool,0,1,A
+43050,E0,2007,2007-09-30,Everton,Middlesbrough,2,0,H
+43051,E0,2007,2007-10-01,Tottenham,Aston Villa,4,4,D
+43052,E0,2007,2007-10-06,Aston Villa,West Ham,1,0,H
+43053,E0,2007,2007-10-06,Man United,Wigan,4,0,H
+43054,E0,2007,2007-10-07,Arsenal,Sunderland,3,2,H
+43055,E0,2007,2007-10-07,Blackburn,Birmingham,2,1,H
+43056,E0,2007,2007-10-07,Bolton,Chelsea,0,1,A
+43057,E0,2007,2007-10-07,Fulham,Portsmouth,0,2,A
+43058,E0,2007,2007-10-07,Liverpool,Tottenham,2,2,D
+43059,E0,2007,2007-10-07,Man City,Middlesbrough,3,1,H
+43060,E0,2007,2007-10-07,Newcastle,Everton,3,2,H
+43061,E0,2007,2007-10-07,Reading,Derby,1,0,H
+43062,E0,2007,2007-10-20,Arsenal,Bolton,2,0,H
+43063,E0,2007,2007-10-20,Aston Villa,Man United,1,4,A
+43064,E0,2007,2007-10-20,Blackburn,Reading,4,2,H
+43065,E0,2007,2007-10-20,Everton,Liverpool,1,2,A
+43066,E0,2007,2007-10-20,Fulham,Derby,0,0,D
+43067,E0,2007,2007-10-20,Man City,Birmingham,1,0,H
+43068,E0,2007,2007-10-20,Middlesbrough,Chelsea,0,2,A
+43069,E0,2007,2007-10-20,Wigan,Portsmouth,0,2,A
+43070,E0,2007,2007-10-21,West Ham,Sunderland,3,1,H
+43071,E0,2007,2007-10-22,Newcastle,Tottenham,3,1,H
+43072,E0,2007,2007-10-27,Birmingham,Wigan,3,2,H
+43073,E0,2007,2007-10-27,Chelsea,Man City,6,0,H
+43074,E0,2007,2007-10-27,Man United,Middlesbrough,4,1,H
+43075,E0,2007,2007-10-27,Portsmouth,West Ham,0,0,D
+43076,E0,2007,2007-10-27,Reading,Newcastle,2,1,H
+43077,E0,2007,2007-10-27,Sunderland,Fulham,1,1,D
+43078,E0,2007,2007-10-28,Bolton,Aston Villa,1,1,D
+43079,E0,2007,2007-10-28,Derby,Everton,0,2,A
+43080,E0,2007,2007-10-28,Liverpool,Arsenal,1,1,D
+43081,E0,2007,2007-10-28,Tottenham,Blackburn,1,2,A
+43082,E0,2007,2007-11-03,Arsenal,Man United,2,2,D
+43083,E0,2007,2007-11-03,Aston Villa,Derby,2,0,H
+43084,E0,2007,2007-11-03,Blackburn,Liverpool,0,0,D
+43085,E0,2007,2007-11-03,Everton,Birmingham,3,1,H
+43086,E0,2007,2007-11-03,Fulham,Reading,3,1,H
+43087,E0,2007,2007-11-03,Middlesbrough,Tottenham,1,1,D
+43088,E0,2007,2007-11-03,Newcastle,Portsmouth,1,4,A
+43089,E0,2007,2007-11-03,Wigan,Chelsea,0,2,A
+43090,E0,2007,2007-11-04,West Ham,Bolton,1,1,D
+43091,E0,2007,2007-11-05,Man City,Sunderland,1,0,H
+43092,E0,2007,2007-11-10,Derby,West Ham,0,5,A
+43093,E0,2007,2007-11-10,Liverpool,Fulham,2,0,H
+43094,E0,2007,2007-11-10,Sunderland,Newcastle,1,1,D
+43095,E0,2007,2007-11-11,Birmingham,Aston Villa,1,2,A
+43096,E0,2007,2007-11-11,Bolton,Middlesbrough,0,0,D
+43097,E0,2007,2007-11-11,Chelsea,Everton,1,1,D
+43098,E0,2007,2007-11-11,Man United,Blackburn,2,0,H
+43099,E0,2007,2007-11-11,Portsmouth,Man City,0,0,D
+43100,E0,2007,2007-11-11,Tottenham,Wigan,4,0,H
+43101,E0,2007,2007-11-12,Reading,Arsenal,1,3,A
+43102,E0,2007,2007-11-24,Arsenal,Wigan,2,0,H
+43103,E0,2007,2007-11-24,Birmingham,Portsmouth,0,2,A
+43104,E0,2007,2007-11-24,Bolton,Man United,1,0,H
+43105,E0,2007,2007-11-24,Derby,Chelsea,0,2,A
+43106,E0,2007,2007-11-24,Everton,Sunderland,7,1,H
+43107,E0,2007,2007-11-24,Man City,Reading,2,1,H
+43108,E0,2007,2007-11-24,Middlesbrough,Aston Villa,0,3,A
+43109,E0,2007,2007-11-24,Newcastle,Liverpool,0,3,A
+43110,E0,2007,2007-11-25,Fulham,Blackburn,2,2,D
+43111,E0,2007,2007-11-25,West Ham,Tottenham,1,1,D
+43112,E0,2007,2007-11-28,Blackburn,Aston Villa,0,4,A
+43113,E0,2007,2007-12-01,Aston Villa,Arsenal,1,2,A
+43114,E0,2007,2007-12-01,Blackburn,Newcastle,3,1,H
+43115,E0,2007,2007-12-01,Chelsea,West Ham,1,0,H
+43116,E0,2007,2007-12-01,Portsmouth,Everton,0,0,D
+43117,E0,2007,2007-12-01,Reading,Middlesbrough,1,1,D
+43118,E0,2007,2007-12-01,Sunderland,Derby,1,0,H
+43119,E0,2007,2007-12-01,Wigan,Man City,1,1,D
+43120,E0,2007,2007-12-02,Liverpool,Bolton,4,0,H
+43121,E0,2007,2007-12-02,Tottenham,Birmingham,2,3,A
+43122,E0,2007,2007-12-03,Man United,Fulham,2,0,H
+43123,E0,2007,2007-12-05,Newcastle,Arsenal,1,1,D
+43124,E0,2007,2007-12-08,Aston Villa,Portsmouth,1,3,A
+43125,E0,2007,2007-12-08,Chelsea,Sunderland,2,0,H
+43126,E0,2007,2007-12-08,Everton,Fulham,3,0,H
+43127,E0,2007,2007-12-08,Man United,Derby,4,1,H
+43128,E0,2007,2007-12-08,Newcastle,Birmingham,2,1,H
+43129,E0,2007,2007-12-08,Reading,Liverpool,3,1,H
+43130,E0,2007,2007-12-09,Blackburn,West Ham,0,1,A
+43131,E0,2007,2007-12-09,Bolton,Wigan,4,1,H
+43132,E0,2007,2007-12-09,Middlesbrough,Arsenal,2,1,H
+43133,E0,2007,2007-12-09,Tottenham,Man City,2,1,H
+43134,E0,2007,2007-12-15,Birmingham,Reading,1,1,D
+43135,E0,2007,2007-12-15,Derby,Middlesbrough,0,1,A
+43136,E0,2007,2007-12-15,Fulham,Newcastle,0,1,A
+43137,E0,2007,2007-12-15,Man City,Bolton,4,2,H
+43138,E0,2007,2007-12-15,Portsmouth,Tottenham,0,1,A
+43139,E0,2007,2007-12-15,Sunderland,Aston Villa,1,1,D
+43140,E0,2007,2007-12-15,West Ham,Everton,0,2,A
+43141,E0,2007,2007-12-15,Wigan,Blackburn,5,3,H
+43142,E0,2007,2007-12-16,Arsenal,Chelsea,1,0,H
+43143,E0,2007,2007-12-16,Liverpool,Man United,0,1,A
+43144,E0,2007,2007-12-22,Arsenal,Tottenham,2,1,H
+43145,E0,2007,2007-12-22,Aston Villa,Man City,1,1,D
+43146,E0,2007,2007-12-22,Bolton,Birmingham,3,0,H
+43147,E0,2007,2007-12-22,Fulham,Wigan,1,1,D
+43148,E0,2007,2007-12-22,Liverpool,Portsmouth,4,1,H
+43149,E0,2007,2007-12-22,Middlesbrough,West Ham,1,2,A
+43150,E0,2007,2007-12-22,Reading,Sunderland,2,1,H
+43151,E0,2007,2007-12-23,Blackburn,Chelsea,0,1,A
+43152,E0,2007,2007-12-23,Man United,Everton,2,1,H
+43153,E0,2007,2007-12-23,Newcastle,Derby,2,2,D
+43154,E0,2007,2007-12-26,Birmingham,Middlesbrough,3,0,H
+43155,E0,2007,2007-12-26,Chelsea,Aston Villa,4,4,D
+43156,E0,2007,2007-12-26,Derby,Liverpool,1,2,A
+43157,E0,2007,2007-12-26,Everton,Bolton,2,0,H
+43158,E0,2007,2007-12-26,Portsmouth,Arsenal,0,0,D
+43159,E0,2007,2007-12-26,Sunderland,Man United,0,4,A
+43160,E0,2007,2007-12-26,Tottenham,Fulham,5,1,H
+43161,E0,2007,2007-12-26,West Ham,Reading,1,1,D
+43162,E0,2007,2007-12-26,Wigan,Newcastle,1,0,H
+43163,E0,2007,2007-12-27,Man City,Blackburn,2,2,D
+43164,E0,2007,2007-12-29,Birmingham,Fulham,1,1,D
+43165,E0,2007,2007-12-29,Chelsea,Newcastle,2,1,H
+43166,E0,2007,2007-12-29,Everton,Arsenal,1,4,A
+43167,E0,2007,2007-12-29,Portsmouth,Middlesbrough,0,1,A
+43168,E0,2007,2007-12-29,Sunderland,Bolton,3,1,H
+43169,E0,2007,2007-12-29,Tottenham,Reading,6,4,H
+43170,E0,2007,2007-12-29,West Ham,Man United,2,1,H
+43171,E0,2007,2007-12-29,Wigan,Aston Villa,1,2,A
+43172,E0,2007,2007-12-30,Derby,Blackburn,1,2,A
+43173,E0,2007,2007-12-30,Man City,Liverpool,0,0,D
+43174,E0,2007,2008-01-01,Arsenal,West Ham,2,0,H
+43175,E0,2007,2008-01-01,Aston Villa,Tottenham,2,1,H
+43176,E0,2007,2008-01-01,Fulham,Chelsea,1,2,A
+43177,E0,2007,2008-01-01,Man United,Birmingham,1,0,H
+43178,E0,2007,2008-01-01,Middlesbrough,Everton,0,2,A
+43179,E0,2007,2008-01-01,Reading,Portsmouth,0,2,A
+43180,E0,2007,2008-01-02,Blackburn,Sunderland,1,0,H
+43181,E0,2007,2008-01-02,Bolton,Derby,1,0,H
+43182,E0,2007,2008-01-02,Liverpool,Wigan,1,1,D
+43183,E0,2007,2008-01-02,Newcastle,Man City,0,2,A
+43184,E0,2007,2008-01-12,Arsenal,Birmingham,1,1,D
+43185,E0,2007,2008-01-12,Aston Villa,Reading,3,1,H
+43186,E0,2007,2008-01-12,Chelsea,Tottenham,2,0,H
+43187,E0,2007,2008-01-12,Derby,Wigan,0,1,A
+43188,E0,2007,2008-01-12,Everton,Man City,1,0,H
+43189,E0,2007,2008-01-12,Man United,Newcastle,6,0,H
+43190,E0,2007,2008-01-12,Middlesbrough,Liverpool,1,1,D
+43191,E0,2007,2008-01-12,West Ham,Fulham,2,1,H
+43192,E0,2007,2008-01-13,Bolton,Blackburn,1,2,A
+43193,E0,2007,2008-01-13,Sunderland,Portsmouth,2,0,H
+43194,E0,2007,2008-01-19,Birmingham,Chelsea,0,1,A
+43195,E0,2007,2008-01-19,Blackburn,Middlesbrough,1,1,D
+43196,E0,2007,2008-01-19,Fulham,Arsenal,0,3,A
+43197,E0,2007,2008-01-19,Newcastle,Bolton,0,0,D
+43198,E0,2007,2008-01-19,Portsmouth,Derby,3,1,H
+43199,E0,2007,2008-01-19,Reading,Man United,0,2,A
+43200,E0,2007,2008-01-19,Tottenham,Sunderland,2,0,H
+43201,E0,2007,2008-01-20,Man City,West Ham,1,1,D
+43202,E0,2007,2008-01-20,Wigan,Everton,1,2,A
+43203,E0,2007,2008-01-21,Liverpool,Aston Villa,2,2,D
+43204,E0,2007,2008-01-26,Aston Villa,Blackburn,1,1,D
+43205,E0,2007,2008-01-29,Arsenal,Newcastle,3,0,H
+43206,E0,2007,2008-01-29,Bolton,Fulham,0,0,D
+43207,E0,2007,2008-01-29,Middlesbrough,Wigan,1,0,H
+43208,E0,2007,2008-01-29,Sunderland,Birmingham,2,0,H
+43209,E0,2007,2008-01-30,Chelsea,Reading,1,0,H
+43210,E0,2007,2008-01-30,Derby,Man City,1,1,D
+43211,E0,2007,2008-01-30,Everton,Tottenham,0,0,D
+43212,E0,2007,2008-01-30,Man United,Portsmouth,2,0,H
+43213,E0,2007,2008-01-30,West Ham,Liverpool,1,0,H
+43214,E0,2007,2008-02-02,Birmingham,Derby,1,1,D
+43215,E0,2007,2008-02-02,Blackburn,Everton,0,0,D
+43216,E0,2007,2008-02-02,Liverpool,Sunderland,3,0,H
+43217,E0,2007,2008-02-02,Man City,Arsenal,1,3,A
+43218,E0,2007,2008-02-02,Portsmouth,Chelsea,1,1,D
+43219,E0,2007,2008-02-02,Reading,Bolton,0,2,A
+43220,E0,2007,2008-02-02,Tottenham,Man United,1,1,D
+43221,E0,2007,2008-02-02,Wigan,West Ham,1,0,H
+43222,E0,2007,2008-02-03,Fulham,Aston Villa,2,1,H
+43223,E0,2007,2008-02-03,Newcastle,Middlesbrough,1,1,D
+43224,E0,2007,2008-02-09,Aston Villa,Newcastle,4,1,H
+43225,E0,2007,2008-02-09,Bolton,Portsmouth,0,1,A
+43226,E0,2007,2008-02-09,Derby,Tottenham,0,3,A
+43227,E0,2007,2008-02-09,Everton,Reading,1,0,H
+43228,E0,2007,2008-02-09,Middlesbrough,Fulham,1,0,H
+43229,E0,2007,2008-02-09,Sunderland,Wigan,2,0,H
+43230,E0,2007,2008-02-09,West Ham,Birmingham,1,1,D
+43231,E0,2007,2008-02-10,Chelsea,Liverpool,0,0,D
+43232,E0,2007,2008-02-10,Man United,Man City,1,2,A
+43233,E0,2007,2008-02-11,Arsenal,Blackburn,2,0,H
+43234,E0,2007,2008-02-23,Birmingham,Arsenal,2,2,D
+43235,E0,2007,2008-02-23,Fulham,West Ham,0,1,A
+43236,E0,2007,2008-02-23,Liverpool,Middlesbrough,3,2,H
+43237,E0,2007,2008-02-23,Newcastle,Man United,1,5,A
+43238,E0,2007,2008-02-23,Portsmouth,Sunderland,1,0,H
+43239,E0,2007,2008-02-23,Wigan,Derby,2,0,H
+43240,E0,2007,2008-02-24,Blackburn,Bolton,4,1,H
+43241,E0,2007,2008-02-24,Reading,Aston Villa,1,2,A
+43242,E0,2007,2008-02-25,Man City,Everton,0,2,A
+43243,E0,2007,2008-03-01,Arsenal,Aston Villa,1,1,D
+43244,E0,2007,2008-03-01,Birmingham,Tottenham,4,1,H
+43245,E0,2007,2008-03-01,Derby,Sunderland,0,0,D
+43246,E0,2007,2008-03-01,Fulham,Man United,0,3,A
+43247,E0,2007,2008-03-01,Man City,Wigan,0,0,D
+43248,E0,2007,2008-03-01,Middlesbrough,Reading,0,1,A
+43249,E0,2007,2008-03-01,Newcastle,Blackburn,0,1,A
+43250,E0,2007,2008-03-01,West Ham,Chelsea,0,4,A
+43251,E0,2007,2008-03-02,Bolton,Liverpool,1,3,A
+43252,E0,2007,2008-03-02,Everton,Portsmouth,3,1,H
+43253,E0,2007,2008-03-05,Liverpool,West Ham,4,0,H
+43254,E0,2007,2008-03-08,Blackburn,Fulham,1,1,D
+43255,E0,2007,2008-03-08,Liverpool,Newcastle,3,0,H
+43256,E0,2007,2008-03-08,Reading,Man City,2,0,H
+43257,E0,2007,2008-03-09,Sunderland,Everton,0,1,A
+43258,E0,2007,2008-03-09,Tottenham,West Ham,4,0,H
+43259,E0,2007,2008-03-09,Wigan,Arsenal,0,0,D
+43260,E0,2007,2008-03-12,Aston Villa,Middlesbrough,1,1,D
+43261,E0,2007,2008-03-12,Chelsea,Derby,6,1,H
+43262,E0,2007,2008-03-12,Portsmouth,Birmingham,4,2,H
+43263,E0,2007,2008-03-15,Arsenal,Middlesbrough,1,1,D
+43264,E0,2007,2008-03-15,Derby,Man United,0,1,A
+43265,E0,2007,2008-03-15,Liverpool,Reading,2,1,H
+43266,E0,2007,2008-03-15,Portsmouth,Aston Villa,2,0,H
+43267,E0,2007,2008-03-15,Sunderland,Chelsea,0,1,A
+43268,E0,2007,2008-03-15,West Ham,Blackburn,2,1,H
+43269,E0,2007,2008-03-16,Fulham,Everton,1,0,H
+43270,E0,2007,2008-03-16,Man City,Tottenham,2,1,H
+43271,E0,2007,2008-03-16,Wigan,Bolton,1,0,H
+43272,E0,2007,2008-03-17,Birmingham,Newcastle,1,1,D
+43273,E0,2007,2008-03-19,Man United,Bolton,2,0,H
+43274,E0,2007,2008-03-19,Tottenham,Chelsea,4,4,D
+43275,E0,2007,2008-03-22,Aston Villa,Sunderland,0,1,A
+43276,E0,2007,2008-03-22,Blackburn,Wigan,3,1,H
+43277,E0,2007,2008-03-22,Bolton,Man City,0,0,D
+43278,E0,2007,2008-03-22,Everton,West Ham,1,1,D
+43279,E0,2007,2008-03-22,Middlesbrough,Derby,1,0,H
+43280,E0,2007,2008-03-22,Newcastle,Fulham,2,0,H
+43281,E0,2007,2008-03-22,Reading,Birmingham,2,1,H
+43282,E0,2007,2008-03-22,Tottenham,Portsmouth,2,0,H
+43283,E0,2007,2008-03-23,Chelsea,Arsenal,2,1,H
+43284,E0,2007,2008-03-23,Man United,Liverpool,3,0,H
+43285,E0,2007,2008-03-29,Birmingham,Man City,3,1,H
+43286,E0,2007,2008-03-29,Bolton,Arsenal,2,3,A
+43287,E0,2007,2008-03-29,Derby,Fulham,2,2,D
+43288,E0,2007,2008-03-29,Man United,Aston Villa,4,0,H
+43289,E0,2007,2008-03-29,Portsmouth,Wigan,2,0,H
+43290,E0,2007,2008-03-29,Reading,Blackburn,0,0,D
+43291,E0,2007,2008-03-29,Sunderland,West Ham,2,1,H
+43292,E0,2007,2008-03-30,Chelsea,Middlesbrough,1,0,H
+43293,E0,2007,2008-03-30,Liverpool,Everton,1,0,H
+43294,E0,2007,2008-03-30,Tottenham,Newcastle,1,4,A
+43295,E0,2007,2008-04-05,Arsenal,Liverpool,1,1,D
+43296,E0,2007,2008-04-05,Aston Villa,Bolton,4,0,H
+43297,E0,2007,2008-04-05,Blackburn,Tottenham,1,1,D
+43298,E0,2007,2008-04-05,Fulham,Sunderland,1,3,A
+43299,E0,2007,2008-04-05,Man City,Chelsea,0,2,A
+43300,E0,2007,2008-04-05,Newcastle,Reading,3,0,H
+43301,E0,2007,2008-04-05,Wigan,Birmingham,2,0,H
+43302,E0,2007,2008-04-06,Everton,Derby,1,0,H
+43303,E0,2007,2008-04-06,Middlesbrough,Man United,2,2,D
+43304,E0,2007,2008-04-08,West Ham,Portsmouth,0,1,A
+43305,E0,2007,2008-04-12,Birmingham,Everton,1,1,D
+43306,E0,2007,2008-04-12,Bolton,West Ham,1,0,H
+43307,E0,2007,2008-04-12,Derby,Aston Villa,0,6,A
+43308,E0,2007,2008-04-12,Portsmouth,Newcastle,0,0,D
+43309,E0,2007,2008-04-12,Reading,Fulham,0,2,A
+43310,E0,2007,2008-04-12,Sunderland,Man City,1,2,A
+43311,E0,2007,2008-04-12,Tottenham,Middlesbrough,1,1,D
+43312,E0,2007,2008-04-13,Liverpool,Blackburn,3,1,H
+43313,E0,2007,2008-04-13,Man United,Arsenal,2,1,H
+43314,E0,2007,2008-04-14,Chelsea,Wigan,1,1,D
+43315,E0,2007,2008-04-17,Everton,Chelsea,0,1,A
+43316,E0,2007,2008-04-19,Arsenal,Reading,2,0,H
+43317,E0,2007,2008-04-19,Blackburn,Man United,1,1,D
+43318,E0,2007,2008-04-19,Fulham,Liverpool,0,2,A
+43319,E0,2007,2008-04-19,Middlesbrough,Bolton,0,1,A
+43320,E0,2007,2008-04-19,West Ham,Derby,2,1,H
+43321,E0,2007,2008-04-19,Wigan,Tottenham,1,1,D
+43322,E0,2007,2008-04-20,Aston Villa,Birmingham,5,1,H
+43323,E0,2007,2008-04-20,Man City,Portsmouth,3,1,H
+43324,E0,2007,2008-04-20,Newcastle,Sunderland,2,0,H
+43325,E0,2007,2008-04-26,Birmingham,Liverpool,2,2,D
+43326,E0,2007,2008-04-26,Chelsea,Man United,2,1,H
+43327,E0,2007,2008-04-26,Man City,Fulham,2,3,A
+43328,E0,2007,2008-04-26,Sunderland,Middlesbrough,3,2,H
+43329,E0,2007,2008-04-26,Tottenham,Bolton,1,1,D
+43330,E0,2007,2008-04-26,West Ham,Newcastle,2,2,D
+43331,E0,2007,2008-04-26,Wigan,Reading,0,0,D
+43332,E0,2007,2008-04-27,Everton,Aston Villa,2,2,D
+43333,E0,2007,2008-04-27,Portsmouth,Blackburn,0,1,A
+43334,E0,2007,2008-04-28,Derby,Arsenal,2,6,A
+43335,E0,2007,2008-05-03,Aston Villa,Wigan,0,2,A
+43336,E0,2007,2008-05-03,Blackburn,Derby,3,1,H
+43337,E0,2007,2008-05-03,Bolton,Sunderland,2,0,H
+43338,E0,2007,2008-05-03,Fulham,Birmingham,2,0,H
+43339,E0,2007,2008-05-03,Man United,West Ham,4,1,H
+43340,E0,2007,2008-05-03,Middlesbrough,Portsmouth,2,0,H
+43341,E0,2007,2008-05-03,Reading,Tottenham,0,1,A
+43342,E0,2007,2008-05-04,Arsenal,Everton,1,0,H
+43343,E0,2007,2008-05-04,Liverpool,Man City,1,0,H
+43344,E0,2007,2008-05-05,Newcastle,Chelsea,0,2,A
+43345,E0,2007,2008-05-11,Birmingham,Blackburn,4,1,H
+43346,E0,2007,2008-05-11,Chelsea,Bolton,1,1,D
+43347,E0,2007,2008-05-11,Derby,Reading,0,4,A
+43348,E0,2007,2008-05-11,Everton,Newcastle,3,1,H
+43349,E0,2007,2008-05-11,Middlesbrough,Man City,8,1,H
+43350,E0,2007,2008-05-11,Portsmouth,Fulham,0,1,A
+43351,E0,2007,2008-05-11,Sunderland,Arsenal,0,1,A
+43352,E0,2007,2008-05-11,Tottenham,Liverpool,0,2,A
+43353,E0,2007,2008-05-11,West Ham,Aston Villa,2,2,D
+43354,E0,2007,2008-05-11,Wigan,Man United,0,2,A

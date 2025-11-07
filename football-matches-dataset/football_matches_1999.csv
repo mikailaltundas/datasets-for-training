@@ -1,0 +1,993 @@
+Match_ID,Div,Season,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+33817,D1,1999,1999-08-13,Duisburg,Leverkusen,0,0,D
+33818,D1,1999,1999-08-13,Wolfsburg,Munich 1860,2,1,H
+33819,D1,1999,1999-08-14,Bayern Munich,Hamburg,2,2,D
+33820,D1,1999,1999-08-14,Ein Frankfurt,Unterhaching,3,0,H
+33821,D1,1999,1999-08-14,Kaiserslautern,Dortmund,1,0,H
+33822,D1,1999,1999-08-14,Schalke 04,Bielefeld,1,1,D
+33823,D1,1999,1999-08-14,Stuttgart,Werder Bremen,0,0,D
+33824,D1,1999,1999-08-15,Hertha,Hansa Rostock,5,2,H
+33825,D1,1999,1999-08-15,Ulm,Freiburg,1,1,D
+33826,D1,1999,1999-08-20,Bielefeld,Hertha,1,1,D
+33827,D1,1999,1999-08-20,Unterhaching,Duisburg,2,0,H
+33828,D1,1999,1999-08-21,Dortmund,Wolfsburg,2,1,H
+33829,D1,1999,1999-08-21,Freiburg,Ein Frankfurt,2,3,A
+33830,D1,1999,1999-08-21,Hamburg,Stuttgart,3,0,H
+33831,D1,1999,1999-08-21,Munich 1860,Ulm,4,1,H
+33832,D1,1999,1999-08-21,Werder Bremen,Schalke 04,0,1,A
+33833,D1,1999,1999-08-22,Hansa Rostock,Kaiserslautern,4,2,H
+33834,D1,1999,1999-08-22,Leverkusen,Bayern Munich,2,0,H
+33835,D1,1999,1999-08-27,Kaiserslautern,Bielefeld,0,2,A
+33836,D1,1999,1999-08-27,Schalke 04,Hamburg,1,3,A
+33837,D1,1999,1999-08-28,Bayern Munich,Unterhaching,1,0,H
+33838,D1,1999,1999-08-28,Freiburg,Munich 1860,3,0,H
+33839,D1,1999,1999-08-28,Hertha,Werder Bremen,1,1,D
+33840,D1,1999,1999-08-28,Stuttgart,Leverkusen,1,2,A
+33841,D1,1999,1999-08-28,Wolfsburg,Hansa Rostock,2,0,H
+33842,D1,1999,1999-08-29,Ein Frankfurt,Duisburg,2,2,D
+33843,D1,1999,1999-08-29,Ulm,Dortmund,0,1,A
+33844,D1,1999,1999-09-10,Bielefeld,Wolfsburg,0,0,D
+33845,D1,1999,1999-09-10,Hansa Rostock,Ulm,2,1,H
+33846,D1,1999,1999-09-11,Dortmund,Freiburg,1,1,D
+33847,D1,1999,1999-09-11,Duisburg,Bayern Munich,1,2,A
+33848,D1,1999,1999-09-11,Hamburg,Hertha,5,1,H
+33849,D1,1999,1999-09-11,Leverkusen,Schalke 04,3,2,H
+33850,D1,1999,1999-09-11,Unterhaching,Stuttgart,2,0,H
+33851,D1,1999,1999-09-12,Munich 1860,Ein Frankfurt,2,0,H
+33852,D1,1999,1999-09-12,Werder Bremen,Kaiserslautern,5,0,H
+33853,D1,1999,1999-09-17,Freiburg,Hansa Rostock,5,0,H
+33854,D1,1999,1999-09-17,Munich 1860,Dortmund,0,3,A
+33855,D1,1999,1999-09-18,Ein Frankfurt,Bayern Munich,1,2,A
+33856,D1,1999,1999-09-18,Hertha,Leverkusen,0,0,D
+33857,D1,1999,1999-09-18,Schalke 04,Unterhaching,1,0,H
+33858,D1,1999,1999-09-18,Stuttgart,Duisburg,4,2,H
+33859,D1,1999,1999-09-18,Ulm,Bielefeld,2,0,H
+33860,D1,1999,1999-09-19,Kaiserslautern,Hamburg,2,0,H
+33861,D1,1999,1999-09-19,Wolfsburg,Werder Bremen,2,7,A
+33862,D1,1999,1999-09-24,Bayern Munich,Stuttgart,0,1,A
+33863,D1,1999,1999-09-24,Hamburg,Wolfsburg,2,2,D
+33864,D1,1999,1999-09-25,Dortmund,Ein Frankfurt,1,0,H
+33865,D1,1999,1999-09-25,Duisburg,Schalke 04,1,1,D
+33866,D1,1999,1999-09-25,Hansa Rostock,Munich 1860,0,0,D
+33867,D1,1999,1999-09-25,Unterhaching,Hertha,1,1,D
+33868,D1,1999,1999-09-25,Werder Bremen,Ulm,2,2,D
+33869,D1,1999,1999-09-26,Bielefeld,Freiburg,2,1,H
+33870,D1,1999,1999-09-26,Leverkusen,Kaiserslautern,3,1,H
+33871,D1,1999,1999-10-01,Ein Frankfurt,Stuttgart,0,1,A
+33872,D1,1999,1999-10-01,Munich 1860,Bielefeld,5,0,H
+33873,D1,1999,1999-10-02,Dortmund,Hansa Rostock,3,0,H
+33874,D1,1999,1999-10-02,Hertha,Duisburg,2,1,H
+33875,D1,1999,1999-10-02,Schalke 04,Bayern Munich,1,1,D
+33876,D1,1999,1999-10-02,Ulm,Hamburg,1,2,A
+33877,D1,1999,1999-10-02,Wolfsburg,Leverkusen,3,1,H
+33878,D1,1999,1999-10-03,Freiburg,Werder Bremen,2,1,H
+33879,D1,1999,1999-10-03,Kaiserslautern,Unterhaching,4,2,H
+33880,D1,1999,1999-10-15,Bielefeld,Dortmund,0,2,A
+33881,D1,1999,1999-10-15,Leverkusen,Ulm,4,1,H
+33882,D1,1999,1999-10-16,Bayern Munich,Hertha,3,1,H
+33883,D1,1999,1999-10-16,Duisburg,Kaiserslautern,2,2,D
+33884,D1,1999,1999-10-16,Hamburg,Freiburg,2,0,H
+33885,D1,1999,1999-10-16,Hansa Rostock,Ein Frankfurt,3,1,H
+33886,D1,1999,1999-10-16,Werder Bremen,Munich 1860,1,3,A
+33887,D1,1999,1999-10-17,Stuttgart,Schalke 04,0,2,A
+33888,D1,1999,1999-10-17,Unterhaching,Wolfsburg,1,1,D
+33889,D1,1999,1999-10-22,Ein Frankfurt,Schalke 04,0,2,A
+33890,D1,1999,1999-10-22,Hansa Rostock,Bielefeld,2,1,H
+33891,D1,1999,1999-10-23,Freiburg,Leverkusen,0,0,D
+33892,D1,1999,1999-10-23,Hertha,Stuttgart,1,1,D
+33893,D1,1999,1999-10-23,Kaiserslautern,Bayern Munich,0,2,A
+33894,D1,1999,1999-10-23,Munich 1860,Hamburg,0,0,D
+33895,D1,1999,1999-10-23,Ulm,Unterhaching,1,0,H
+33896,D1,1999,1999-10-24,Dortmund,Werder Bremen,1,3,A
+33897,D1,1999,1999-10-24,Wolfsburg,Duisburg,1,0,H
+33898,D1,1999,1999-10-29,Bielefeld,Ein Frankfurt,1,1,D
+33899,D1,1999,1999-10-29,Werder Bremen,Hansa Rostock,2,1,H
+33900,D1,1999,1999-10-30,Bayern Munich,Wolfsburg,5,0,H
+33901,D1,1999,1999-10-30,Duisburg,Ulm,0,0,D
+33902,D1,1999,1999-10-30,Hamburg,Dortmund,1,1,D
+33903,D1,1999,1999-10-30,Leverkusen,Munich 1860,1,1,D
+33904,D1,1999,1999-10-30,Schalke 04,Hertha,1,1,D
+33905,D1,1999,1999-10-31,Stuttgart,Kaiserslautern,0,1,A
+33906,D1,1999,1999-10-31,Unterhaching,Freiburg,1,0,H
+33907,D1,1999,1999-11-05,Freiburg,Duisburg,3,0,H
+33908,D1,1999,1999-11-05,Hansa Rostock,Hamburg,3,3,D
+33909,D1,1999,1999-11-06,Dortmund,Leverkusen,1,1,D
+33910,D1,1999,1999-11-06,Ein Frankfurt,Hertha,4,0,H
+33911,D1,1999,1999-11-06,Munich 1860,Unterhaching,2,1,H
+33912,D1,1999,1999-11-06,Ulm,Bayern Munich,0,1,A
+33913,D1,1999,1999-11-06,Wolfsburg,Stuttgart,0,2,A
+33914,D1,1999,1999-11-07,Bielefeld,Werder Bremen,2,2,D
+33915,D1,1999,1999-11-07,Kaiserslautern,Schalke 04,2,1,H
+33916,D1,1999,1999-11-19,Werder Bremen,Ein Frankfurt,3,1,H
+33917,D1,1999,1999-11-20,Bayern Munich,Freiburg,6,1,H
+33918,D1,1999,1999-11-20,Hertha,Kaiserslautern,0,1,A
+33919,D1,1999,1999-11-20,Leverkusen,Hansa Rostock,1,1,D
+33920,D1,1999,1999-11-20,Schalke 04,Wolfsburg,1,1,D
+33921,D1,1999,1999-11-20,Stuttgart,Ulm,2,0,H
+33922,D1,1999,1999-11-21,Duisburg,Munich 1860,3,0,H
+33923,D1,1999,1999-11-21,Hamburg,Bielefeld,5,0,H
+33924,D1,1999,1999-11-26,Freiburg,Stuttgart,0,2,A
+33925,D1,1999,1999-11-26,Ulm,Schalke 04,1,1,D
+33926,D1,1999,1999-11-27,Bielefeld,Leverkusen,1,2,A
+33927,D1,1999,1999-11-27,Hansa Rostock,Unterhaching,1,1,D
+33928,D1,1999,1999-11-27,Munich 1860,Bayern Munich,1,0,H
+33929,D1,1999,1999-11-27,Wolfsburg,Hertha,2,3,A
+33930,D1,1999,1999-11-28,Dortmund,Duisburg,2,2,D
+33931,D1,1999,1999-11-28,Ein Frankfurt,Kaiserslautern,0,1,A
+33932,D1,1999,1999-11-28,Werder Bremen,Hamburg,2,1,H
+33933,D1,1999,1999-12-01,Unterhaching,Dortmund,1,0,H
+33934,D1,1999,1999-12-03,Duisburg,Hansa Rostock,2,2,D
+33935,D1,1999,1999-12-03,Hamburg,Ein Frankfurt,1,0,H
+33936,D1,1999,1999-12-04,Bayern Munich,Dortmund,1,1,D
+33937,D1,1999,1999-12-04,Hertha,Ulm,3,0,H
+33938,D1,1999,1999-12-04,Leverkusen,Werder Bremen,3,2,H
+33939,D1,1999,1999-12-04,Schalke 04,Freiburg,2,2,D
+33940,D1,1999,1999-12-04,Stuttgart,Munich 1860,1,3,A
+33941,D1,1999,1999-12-05,Kaiserslautern,Wolfsburg,2,2,D
+33942,D1,1999,1999-12-05,Unterhaching,Bielefeld,2,0,H
+33943,D1,1999,1999-12-10,Bielefeld,Duisburg,0,1,A
+33944,D1,1999,1999-12-10,Werder Bremen,Unterhaching,2,2,D
+33945,D1,1999,1999-12-11,Dortmund,Stuttgart,1,1,D
+33946,D1,1999,1999-12-11,Freiburg,Hertha,0,1,A
+33947,D1,1999,1999-12-11,Hansa Rostock,Bayern Munich,0,3,A
+33948,D1,1999,1999-12-11,Munich 1860,Schalke 04,3,3,D
+33949,D1,1999,1999-12-12,Leverkusen,Hamburg,2,2,D
+33950,D1,1999,1999-12-12,Ulm,Kaiserslautern,3,1,H
+33951,D1,1999,1999-12-12,Wolfsburg,Ein Frankfurt,1,0,H
+33952,D1,1999,1999-12-14,Bayern Munich,Bielefeld,2,1,H
+33953,D1,1999,1999-12-14,Duisburg,Werder Bremen,0,1,A
+33954,D1,1999,1999-12-14,Hertha,Munich 1860,1,1,D
+33955,D1,1999,1999-12-14,Stuttgart,Hansa Rostock,3,1,H
+33956,D1,1999,1999-12-15,Ein Frankfurt,Leverkusen,1,2,A
+33957,D1,1999,1999-12-15,Kaiserslautern,Freiburg,0,2,A
+33958,D1,1999,1999-12-15,Schalke 04,Dortmund,0,0,D
+33959,D1,1999,1999-12-15,Unterhaching,Hamburg,1,1,D
+33960,D1,1999,1999-12-15,Wolfsburg,Ulm,1,2,A
+33961,D1,1999,1999-12-17,Bielefeld,Stuttgart,1,2,A
+33962,D1,1999,1999-12-17,Werder Bremen,Bayern Munich,0,2,A
+33963,D1,1999,1999-12-18,Freiburg,Wolfsburg,1,1,D
+33964,D1,1999,1999-12-18,Hamburg,Duisburg,6,1,H
+33965,D1,1999,1999-12-18,Leverkusen,Unterhaching,2,1,H
+33966,D1,1999,1999-12-18,Munich 1860,Kaiserslautern,2,1,H
+33967,D1,1999,1999-12-18,Ulm,Ein Frankfurt,3,0,H
+33968,D1,1999,1999-12-19,Dortmund,Hertha,4,0,H
+33969,D1,1999,1999-12-19,Hansa Rostock,Schalke 04,1,0,H
+33970,D1,1999,2000-02-04,Dortmund,Kaiserslautern,0,1,A
+33971,D1,1999,2000-02-04,Hansa Rostock,Hertha,0,1,A
+33972,D1,1999,2000-02-05,Bielefeld,Schalke 04,1,2,A
+33973,D1,1999,2000-02-05,Freiburg,Ulm,2,0,H
+33974,D1,1999,2000-02-05,Leverkusen,Duisburg,3,0,H
+33975,D1,1999,2000-02-05,Munich 1860,Wolfsburg,1,2,A
+33976,D1,1999,2000-02-05,Werder Bremen,Stuttgart,2,1,H
+33977,D1,1999,2000-02-06,Hamburg,Bayern Munich,0,0,D
+33978,D1,1999,2000-02-06,Unterhaching,Ein Frankfurt,1,0,H
+33979,D1,1999,2000-02-08,Hertha,Bielefeld,2,0,H
+33980,D1,1999,2000-02-08,Kaiserslautern,Hansa Rostock,2,2,D
+33981,D1,1999,2000-02-08,Schalke 04,Werder Bremen,3,1,H
+33982,D1,1999,2000-02-08,Ulm,Munich 1860,3,0,H
+33983,D1,1999,2000-02-09,Bayern Munich,Leverkusen,4,1,H
+33984,D1,1999,2000-02-09,Duisburg,Unterhaching,2,0,H
+33985,D1,1999,2000-02-09,Ein Frankfurt,Freiburg,2,0,H
+33986,D1,1999,2000-02-09,Stuttgart,Hamburg,1,3,A
+33987,D1,1999,2000-02-09,Wolfsburg,Dortmund,1,0,H
+33988,D1,1999,2000-02-11,Bielefeld,Kaiserslautern,1,2,A
+33989,D1,1999,2000-02-11,Werder Bremen,Hertha,4,1,H
+33990,D1,1999,2000-02-12,Dortmund,Ulm,1,1,D
+33991,D1,1999,2000-02-12,Duisburg,Ein Frankfurt,2,3,A
+33992,D1,1999,2000-02-12,Hansa Rostock,Wolfsburg,1,1,D
+33993,D1,1999,2000-02-12,Leverkusen,Stuttgart,1,0,H
+33994,D1,1999,2000-02-12,Unterhaching,Bayern Munich,0,2,A
+33995,D1,1999,2000-02-13,Hamburg,Schalke 04,3,1,H
+33996,D1,1999,2000-02-13,Munich 1860,Freiburg,3,1,H
+33997,D1,1999,2000-02-18,Hertha,Hamburg,2,1,H
+33998,D1,1999,2000-02-18,Schalke 04,Leverkusen,1,1,D
+33999,D1,1999,2000-02-19,Bayern Munich,Duisburg,4,1,H
+34000,D1,1999,2000-02-19,Ein Frankfurt,Munich 1860,3,1,H
+34001,D1,1999,2000-02-19,Freiburg,Dortmund,1,1,D
+34002,D1,1999,2000-02-19,Kaiserslautern,Werder Bremen,4,3,H
+34003,D1,1999,2000-02-19,Stuttgart,Unterhaching,0,2,A
+34004,D1,1999,2000-02-20,Ulm,Hansa Rostock,1,1,D
+34005,D1,1999,2000-02-20,Wolfsburg,Bielefeld,2,0,H
+34006,D1,1999,2000-02-25,Hansa Rostock,Freiburg,1,1,D
+34007,D1,1999,2000-02-26,Bayern Munich,Ein Frankfurt,4,1,H
+34008,D1,1999,2000-02-26,Duisburg,Stuttgart,1,3,A
+34009,D1,1999,2000-02-26,Hamburg,Kaiserslautern,2,1,H
+34010,D1,1999,2000-02-26,Leverkusen,Hertha,3,1,H
+34011,D1,1999,2000-02-26,Werder Bremen,Wolfsburg,2,2,D
+34012,D1,1999,2000-02-27,Dortmund,Munich 1860,1,1,D
+34013,D1,1999,2000-02-27,Unterhaching,Schalke 04,3,1,H
+34014,D1,1999,2000-02-28,Bielefeld,Ulm,4,1,H
+34015,D1,1999,2000-03-03,Freiburg,Bielefeld,1,1,D
+34016,D1,1999,2000-03-03,Wolfsburg,Hamburg,4,4,D
+34017,D1,1999,2000-03-04,Hertha,Unterhaching,2,1,H
+34018,D1,1999,2000-03-04,Kaiserslautern,Leverkusen,1,3,A
+34019,D1,1999,2000-03-04,Munich 1860,Hansa Rostock,4,3,H
+34020,D1,1999,2000-03-04,Schalke 04,Duisburg,3,0,H
+34021,D1,1999,2000-03-04,Stuttgart,Bayern Munich,2,0,H
+34022,D1,1999,2000-03-05,Ein Frankfurt,Dortmund,1,1,D
+34023,D1,1999,2000-03-05,Ulm,Werder Bremen,2,1,H
+34024,D1,1999,2000-03-10,Stuttgart,Ein Frankfurt,0,2,A
+34025,D1,1999,2000-03-10,Unterhaching,Kaiserslautern,1,2,A
+34026,D1,1999,2000-03-11,Bayern Munich,Schalke 04,4,1,H
+34027,D1,1999,2000-03-11,Bielefeld,Munich 1860,2,2,D
+34028,D1,1999,2000-03-11,Duisburg,Hertha,0,0,D
+34029,D1,1999,2000-03-11,Hamburg,Ulm,1,2,A
+34030,D1,1999,2000-03-11,Leverkusen,Wolfsburg,4,1,H
+34031,D1,1999,2000-03-12,Hansa Rostock,Dortmund,1,0,H
+34032,D1,1999,2000-03-12,Werder Bremen,Freiburg,5,2,H
+34033,D1,1999,2000-03-17,Ein Frankfurt,Hansa Rostock,0,0,D
+34034,D1,1999,2000-03-17,Wolfsburg,Unterhaching,2,2,D
+34035,D1,1999,2000-03-18,Freiburg,Hamburg,0,2,A
+34036,D1,1999,2000-03-18,Hertha,Bayern Munich,1,1,D
+34037,D1,1999,2000-03-18,Kaiserslautern,Duisburg,3,2,H
+34038,D1,1999,2000-03-18,Schalke 04,Stuttgart,3,0,H
+34039,D1,1999,2000-03-18,Ulm,Leverkusen,1,9,A
+34040,D1,1999,2000-03-19,Dortmund,Bielefeld,1,3,A
+34041,D1,1999,2000-03-19,Munich 1860,Werder Bremen,1,0,H
+34042,D1,1999,2000-03-24,Bielefeld,Hansa Rostock,2,2,D
+34043,D1,1999,2000-03-24,Unterhaching,Ulm,1,0,H
+34044,D1,1999,2000-03-25,Bayern Munich,Kaiserslautern,2,2,D
+34045,D1,1999,2000-03-25,Duisburg,Wolfsburg,2,3,A
+34046,D1,1999,2000-03-25,Hamburg,Munich 1860,2,0,H
+34047,D1,1999,2000-03-25,Leverkusen,Freiburg,1,1,D
+34048,D1,1999,2000-03-25,Stuttgart,Hertha,1,0,H
+34049,D1,1999,2000-03-26,Schalke 04,Ein Frankfurt,0,0,D
+34050,D1,1999,2000-03-26,Werder Bremen,Dortmund,3,2,H
+34051,D1,1999,2000-03-31,Freiburg,Unterhaching,4,3,H
+34052,D1,1999,2000-03-31,Ulm,Duisburg,0,3,A
+34053,D1,1999,2000-04-01,Dortmund,Hamburg,0,1,A
+34054,D1,1999,2000-04-01,Ein Frankfurt,Bielefeld,2,1,H
+34055,D1,1999,2000-04-01,Hertha,Schalke 04,2,1,H
+34056,D1,1999,2000-04-01,Munich 1860,Leverkusen,1,2,A
+34057,D1,1999,2000-04-01,Wolfsburg,Bayern Munich,1,1,D
+34058,D1,1999,2000-04-02,Hansa Rostock,Werder Bremen,1,1,D
+34059,D1,1999,2000-04-02,Kaiserslautern,Stuttgart,1,2,A
+34060,D1,1999,2000-04-07,Hamburg,Hansa Rostock,1,0,H
+34061,D1,1999,2000-04-07,Unterhaching,Munich 1860,1,1,D
+34062,D1,1999,2000-04-08,Bayern Munich,Ulm,4,0,H
+34063,D1,1999,2000-04-08,Hertha,Ein Frankfurt,1,0,H
+34064,D1,1999,2000-04-08,Leverkusen,Dortmund,3,1,H
+34065,D1,1999,2000-04-08,Schalke 04,Kaiserslautern,1,2,A
+34066,D1,1999,2000-04-08,Stuttgart,Wolfsburg,2,5,A
+34067,D1,1999,2000-04-09,Duisburg,Freiburg,1,2,A
+34068,D1,1999,2000-04-09,Werder Bremen,Bielefeld,3,1,H
+34069,D1,1999,2000-04-11,Dortmund,Unterhaching,1,3,A
+34070,D1,1999,2000-04-11,Kaiserslautern,Hertha,1,2,A
+34071,D1,1999,2000-04-11,Ulm,Stuttgart,1,1,D
+34072,D1,1999,2000-04-11,Wolfsburg,Schalke 04,0,0,D
+34073,D1,1999,2000-04-12,Bielefeld,Hamburg,3,0,H
+34074,D1,1999,2000-04-12,Ein Frankfurt,Werder Bremen,1,0,H
+34075,D1,1999,2000-04-12,Freiburg,Bayern Munich,1,2,A
+34076,D1,1999,2000-04-12,Hansa Rostock,Leverkusen,1,1,D
+34077,D1,1999,2000-04-12,Munich 1860,Duisburg,4,1,H
+34078,D1,1999,2000-04-14,Hertha,Wolfsburg,0,0,D
+34079,D1,1999,2000-04-14,Schalke 04,Ulm,0,0,D
+34080,D1,1999,2000-04-15,Bayern Munich,Munich 1860,1,2,A
+34081,D1,1999,2000-04-15,Duisburg,Dortmund,2,2,D
+34082,D1,1999,2000-04-15,Hamburg,Werder Bremen,0,0,D
+34083,D1,1999,2000-04-15,Kaiserslautern,Ein Frankfurt,1,0,H
+34084,D1,1999,2000-04-15,Stuttgart,Freiburg,1,0,H
+34085,D1,1999,2000-04-16,Leverkusen,Bielefeld,4,1,H
+34086,D1,1999,2000-04-16,Unterhaching,Hansa Rostock,1,1,D
+34087,D1,1999,2000-04-20,Ein Frankfurt,Hamburg,3,0,H
+34088,D1,1999,2000-04-20,Werder Bremen,Leverkusen,1,3,A
+34089,D1,1999,2000-04-22,Freiburg,Schalke 04,2,1,H
+34090,D1,1999,2000-04-22,Hansa Rostock,Duisburg,3,1,H
+34091,D1,1999,2000-04-22,Munich 1860,Stuttgart,1,1,D
+34092,D1,1999,2000-04-22,Ulm,Hertha,0,1,A
+34093,D1,1999,2000-04-22,Wolfsburg,Kaiserslautern,3,2,H
+34094,D1,1999,2000-04-23,Bielefeld,Unterhaching,1,0,H
+34095,D1,1999,2000-04-23,Dortmund,Bayern Munich,0,1,A
+34096,D1,1999,2000-04-27,Duisburg,Bielefeld,0,3,A
+34097,D1,1999,2000-04-28,Ein Frankfurt,Wolfsburg,4,0,H
+34098,D1,1999,2000-04-28,Hertha,Freiburg,0,0,D
+34099,D1,1999,2000-04-29,Bayern Munich,Hansa Rostock,4,1,H
+34100,D1,1999,2000-04-29,Kaiserslautern,Ulm,6,2,H
+34101,D1,1999,2000-04-29,Schalke 04,Munich 1860,2,2,D
+34102,D1,1999,2000-04-29,Stuttgart,Dortmund,1,2,A
+34103,D1,1999,2000-04-30,Hamburg,Leverkusen,0,2,A
+34104,D1,1999,2000-04-30,Unterhaching,Werder Bremen,1,0,H
+34105,D1,1999,2000-05-13,Bielefeld,Bayern Munich,0,3,A
+34106,D1,1999,2000-05-13,Dortmund,Schalke 04,1,1,D
+34107,D1,1999,2000-05-13,Freiburg,Kaiserslautern,2,1,H
+34108,D1,1999,2000-05-13,Hamburg,Unterhaching,3,0,H
+34109,D1,1999,2000-05-13,Hansa Rostock,Stuttgart,1,4,A
+34110,D1,1999,2000-05-13,Leverkusen,Ein Frankfurt,4,1,H
+34111,D1,1999,2000-05-13,Munich 1860,Hertha,2,1,H
+34112,D1,1999,2000-05-13,Ulm,Wolfsburg,2,0,H
+34113,D1,1999,2000-05-13,Werder Bremen,Duisburg,4,0,H
+34114,D1,1999,2000-05-20,Bayern Munich,Werder Bremen,3,1,H
+34115,D1,1999,2000-05-20,Duisburg,Hamburg,1,1,D
+34116,D1,1999,2000-05-20,Ein Frankfurt,Ulm,2,1,H
+34117,D1,1999,2000-05-20,Hertha,Dortmund,0,3,A
+34118,D1,1999,2000-05-20,Kaiserslautern,Munich 1860,1,1,D
+34119,D1,1999,2000-05-20,Schalke 04,Hansa Rostock,0,2,A
+34120,D1,1999,2000-05-20,Stuttgart,Bielefeld,3,3,D
+34121,D1,1999,2000-05-20,Unterhaching,Leverkusen,2,0,H
+34122,D1,1999,2000-05-20,Wolfsburg,Freiburg,2,1,H
+34123,D2,1999,1999-08-13,Chemnitz,M'gladbach,2,0,H
+34124,D2,1999,1999-08-13,Cottbus,F Koln,2,0,H
+34125,D2,1999,1999-08-13,Mainz,Offenbach,1,1,D
+34126,D2,1999,1999-08-13,St Pauli,Greuther Furth,0,0,D
+34127,D2,1999,1999-08-14,FC Koln,Oberhausen,1,0,H
+34128,D2,1999,1999-08-15,Aachen,Stuttgarter K,4,1,H
+34129,D2,1999,1999-08-15,Hannover,TB Berlin,2,3,A
+34130,D2,1999,1999-08-15,Nurnberg,Mannheim,3,0,H
+34131,D2,1999,1999-08-16,Karlsruhe,Bochum,1,3,A
+34132,D2,1999,1999-08-20,Bochum,Aachen,5,0,H
+34133,D2,1999,1999-08-20,Greuther Furth,FC Koln,0,0,D
+34134,D2,1999,1999-08-20,Mannheim,Chemnitz,4,0,H
+34135,D2,1999,1999-08-21,TB Berlin,Karlsruhe,2,2,D
+34136,D2,1999,1999-08-22,F Koln,Mainz,2,1,H
+34137,D2,1999,1999-08-22,M'gladbach,Hannover,2,3,A
+34138,D2,1999,1999-08-22,Oberhausen,Cottbus,0,4,A
+34139,D2,1999,1999-08-22,Stuttgarter K,St Pauli,2,1,H
+34140,D2,1999,1999-08-23,Offenbach,Nurnberg,1,3,A
+34141,D2,1999,1999-08-27,Chemnitz,Offenbach,3,0,H
+34142,D2,1999,1999-08-27,FC Koln,Stuttgarter K,4,1,H
+34143,D2,1999,1999-08-27,Hannover,Mannheim,2,2,D
+34144,D2,1999,1999-08-28,Aachen,TB Berlin,2,2,D
+34145,D2,1999,1999-08-29,Cottbus,Mainz,3,0,H
+34146,D2,1999,1999-08-29,Nurnberg,F Koln,2,1,H
+34147,D2,1999,1999-08-29,Oberhausen,Greuther Furth,3,4,A
+34148,D2,1999,1999-08-29,St Pauli,Bochum,0,0,D
+34149,D2,1999,1999-08-30,Karlsruhe,M'gladbach,3,0,H
+34150,D2,1999,1999-09-10,Mannheim,Karlsruhe,1,1,D
+34151,D2,1999,1999-09-10,Offenbach,Hannover,0,2,A
+34152,D2,1999,1999-09-10,TB Berlin,St Pauli,2,0,H
+34153,D2,1999,1999-09-11,M'gladbach,Aachen,1,2,A
+34154,D2,1999,1999-09-12,F Koln,Chemnitz,1,0,H
+34155,D2,1999,1999-09-12,Greuther Furth,Cottbus,1,0,H
+34156,D2,1999,1999-09-12,Mainz,Nurnberg,1,1,D
+34157,D2,1999,1999-09-12,Stuttgarter K,Oberhausen,2,2,D
+34158,D2,1999,1999-09-13,Bochum,FC Koln,2,3,A
+34159,D2,1999,1999-09-17,Karlsruhe,Offenbach,1,1,D
+34160,D2,1999,1999-09-17,Oberhausen,Bochum,3,0,H
+34161,D2,1999,1999-09-17,St Pauli,M'gladbach,0,2,A
+34162,D2,1999,1999-09-18,Chemnitz,Mainz,1,1,D
+34163,D2,1999,1999-09-19,Aachen,Mannheim,2,1,H
+34164,D2,1999,1999-09-19,Cottbus,Nurnberg,2,0,H
+34165,D2,1999,1999-09-19,Greuther Furth,Stuttgarter K,0,0,D
+34166,D2,1999,1999-09-19,Hannover,F Koln,3,1,H
+34167,D2,1999,1999-09-20,FC Koln,TB Berlin,1,1,D
+34168,D2,1999,1999-09-24,Bochum,Greuther Furth,1,2,A
+34169,D2,1999,1999-09-24,Mainz,Hannover,1,0,H
+34170,D2,1999,1999-09-24,Nurnberg,Chemnitz,1,0,H
+34171,D2,1999,1999-09-25,F Koln,Karlsruhe,2,3,A
+34172,D2,1999,1999-09-26,Mannheim,St Pauli,1,3,A
+34173,D2,1999,1999-09-26,Offenbach,Aachen,1,2,A
+34174,D2,1999,1999-09-26,Stuttgarter K,Cottbus,1,0,H
+34175,D2,1999,1999-09-26,TB Berlin,Oberhausen,1,0,H
+34176,D2,1999,1999-09-27,M'gladbach,FC Koln,3,1,H
+34177,D2,1999,1999-10-01,Aachen,F Koln,1,1,D
+34178,D2,1999,1999-10-01,FC Koln,Mannheim,3,0,H
+34179,D2,1999,1999-10-01,St Pauli,Offenbach,1,1,D
+34180,D2,1999,1999-10-02,Karlsruhe,Mainz,1,2,A
+34181,D2,1999,1999-10-03,Cottbus,Chemnitz,2,4,A
+34182,D2,1999,1999-10-03,Greuther Furth,TB Berlin,2,0,H
+34183,D2,1999,1999-10-03,Oberhausen,M'gladbach,1,1,D
+34184,D2,1999,1999-10-03,Stuttgarter K,Bochum,0,0,D
+34185,D2,1999,1999-10-04,Hannover,Nurnberg,2,0,H
+34186,D2,1999,1999-10-15,F Koln,St Pauli,2,0,H
+34187,D2,1999,1999-10-15,M'gladbach,Greuther Furth,2,0,H
+34188,D2,1999,1999-10-15,Offenbach,FC Koln,0,1,A
+34189,D2,1999,1999-10-16,Bochum,Cottbus,2,4,A
+34190,D2,1999,1999-10-17,Chemnitz,Hannover,2,1,H
+34191,D2,1999,1999-10-17,Mainz,Aachen,4,2,H
+34192,D2,1999,1999-10-17,Mannheim,Oberhausen,2,0,H
+34193,D2,1999,1999-10-17,TB Berlin,Stuttgarter K,2,0,H
+34194,D2,1999,1999-10-18,Nurnberg,Karlsruhe,4,3,H
+34195,D2,1999,1999-10-22,Aachen,Nurnberg,3,1,H
+34196,D2,1999,1999-10-22,Cottbus,Hannover,1,0,H
+34197,D2,1999,1999-10-22,Oberhausen,Offenbach,1,0,H
+34198,D2,1999,1999-10-23,Stuttgarter K,M'gladbach,3,1,H
+34199,D2,1999,1999-10-24,Bochum,TB Berlin,2,6,A
+34200,D2,1999,1999-10-24,Greuther Furth,Mannheim,0,0,D
+34201,D2,1999,1999-10-24,Karlsruhe,Chemnitz,1,2,A
+34202,D2,1999,1999-10-24,St Pauli,Mainz,2,2,D
+34203,D2,1999,1999-10-25,FC Koln,F Koln,3,0,H
+34204,D2,1999,1999-10-29,Mainz,FC Koln,0,0,D
+34205,D2,1999,1999-10-29,Mannheim,Stuttgarter K,4,3,H
+34206,D2,1999,1999-10-29,Nurnberg,St Pauli,2,2,D
+34207,D2,1999,1999-10-30,TB Berlin,Cottbus,1,3,A
+34208,D2,1999,1999-10-31,Chemnitz,Aachen,2,2,D
+34209,D2,1999,1999-10-31,F Koln,Oberhausen,0,0,D
+34210,D2,1999,1999-10-31,Hannover,Karlsruhe,1,1,D
+34211,D2,1999,1999-10-31,Offenbach,Greuther Furth,1,0,H
+34212,D2,1999,1999-11-01,M'gladbach,Bochum,0,1,A
+34213,D2,1999,1999-11-05,Aachen,Hannover,1,2,A
+34214,D2,1999,1999-11-05,Bochum,Mannheim,2,0,H
+34215,D2,1999,1999-11-05,St Pauli,Chemnitz,0,0,D
+34216,D2,1999,1999-11-06,Cottbus,Karlsruhe,3,2,H
+34217,D2,1999,1999-11-07,FC Koln,Nurnberg,6,1,H
+34218,D2,1999,1999-11-07,Greuther Furth,F Koln,0,0,D
+34219,D2,1999,1999-11-07,Oberhausen,Mainz,0,0,D
+34220,D2,1999,1999-11-07,Stuttgarter K,Offenbach,2,1,H
+34221,D2,1999,1999-11-08,TB Berlin,M'gladbach,2,2,D
+34222,D2,1999,1999-11-19,F Koln,Stuttgarter K,1,1,D
+34223,D2,1999,1999-11-19,Hannover,St Pauli,1,2,A
+34224,D2,1999,1999-11-19,Mannheim,TB Berlin,0,0,D
+34225,D2,1999,1999-11-19,Offenbach,Bochum,2,1,H
+34226,D2,1999,1999-11-20,Mainz,Greuther Furth,1,0,H
+34227,D2,1999,1999-11-20,M'gladbach,Cottbus,2,2,D
+34228,D2,1999,1999-11-21,Karlsruhe,Aachen,0,0,D
+34229,D2,1999,1999-11-21,Nurnberg,Oberhausen,2,1,H
+34230,D2,1999,1999-11-22,Chemnitz,FC Koln,1,3,A
+34231,D2,1999,1999-11-26,Cottbus,Aachen,4,1,H
+34232,D2,1999,1999-11-26,FC Koln,Hannover,3,1,H
+34233,D2,1999,1999-11-26,Stuttgarter K,Mainz,3,4,A
+34234,D2,1999,1999-11-27,Bochum,F Koln,3,0,H
+34235,D2,1999,1999-11-28,M'gladbach,Mannheim,2,0,H
+34236,D2,1999,1999-11-28,Oberhausen,Chemnitz,1,0,H
+34237,D2,1999,1999-11-28,St Pauli,Karlsruhe,3,1,H
+34238,D2,1999,1999-11-28,TB Berlin,Offenbach,0,0,D
+34239,D2,1999,1999-11-29,Greuther Furth,Nurnberg,1,1,D
+34240,D2,1999,1999-12-03,Chemnitz,Greuther Furth,5,0,H
+34241,D2,1999,1999-12-03,Hannover,Oberhausen,1,1,D
+34242,D2,1999,1999-12-03,Offenbach,M'gladbach,1,1,D
+34243,D2,1999,1999-12-04,Mannheim,Cottbus,2,1,H
+34244,D2,1999,1999-12-05,Aachen,St Pauli,3,1,H
+34245,D2,1999,1999-12-05,F Koln,TB Berlin,0,0,D
+34246,D2,1999,1999-12-05,Mainz,Bochum,0,1,A
+34247,D2,1999,1999-12-05,Nurnberg,Stuttgarter K,3,2,H
+34248,D2,1999,1999-12-06,Karlsruhe,FC Koln,0,0,D
+34249,D2,1999,1999-12-10,FC Koln,Aachen,4,0,H
+34250,D2,1999,1999-12-10,Greuther Furth,Hannover,0,0,D
+34251,D2,1999,1999-12-10,Stuttgarter K,Chemnitz,2,2,D
+34252,D2,1999,1999-12-10,TB Berlin,Mainz,2,1,H
+34253,D2,1999,1999-12-11,Bochum,Nurnberg,2,1,H
+34254,D2,1999,1999-12-12,M'gladbach,F Koln,0,0,D
+34255,D2,1999,1999-12-12,Offenbach,Mannheim,1,1,D
+34256,D2,1999,1999-12-12,St Pauli,Cottbus,1,0,H
+34257,D2,1999,1999-12-14,Chemnitz,Bochum,3,3,D
+34258,D2,1999,1999-12-14,Hannover,Stuttgarter K,2,1,H
+34259,D2,1999,1999-12-14,Nurnberg,TB Berlin,2,0,H
+34260,D2,1999,1999-12-15,Aachen,Oberhausen,0,0,D
+34261,D2,1999,1999-12-15,Cottbus,Offenbach,5,0,H
+34262,D2,1999,1999-12-15,F Koln,Mannheim,1,5,A
+34263,D2,1999,1999-12-15,Karlsruhe,Greuther Furth,0,1,A
+34264,D2,1999,1999-12-15,Mainz,M'gladbach,0,0,D
+34265,D2,1999,1999-12-15,St Pauli,FC Koln,1,2,A
+34266,D2,1999,1999-12-17,TB Berlin,Chemnitz,0,0,D
+34267,D2,1999,1999-12-18,FC Koln,Cottbus,4,1,H
+34268,D2,1999,1999-12-18,Mannheim,Mainz,2,1,H
+34269,D2,1999,1999-12-19,Oberhausen,St Pauli,2,2,D
+34270,D2,1999,1999-12-19,Offenbach,F Koln,4,3,H
+34271,D2,1999,1999-12-20,M'gladbach,Nurnberg,4,0,H
+34272,D2,1999,2000-02-07,Greuther Furth,Aachen,1,1,D
+34273,D2,1999,2000-02-09,Bochum,Hannover,2,1,H
+34274,D2,1999,2000-02-09,Oberhausen,Karlsruhe,0,0,D
+34275,D2,1999,2000-02-11,Mannheim,Nurnberg,2,1,H
+34276,D2,1999,2000-02-11,M'gladbach,Chemnitz,1,0,H
+34277,D2,1999,2000-02-11,Stuttgarter K,Aachen,1,2,A
+34278,D2,1999,2000-02-12,Offenbach,Mainz,2,2,D
+34279,D2,1999,2000-02-13,F Koln,Cottbus,2,0,H
+34280,D2,1999,2000-02-13,Greuther Furth,St Pauli,0,0,D
+34281,D2,1999,2000-02-13,Oberhausen,FC Koln,1,0,H
+34282,D2,1999,2000-02-13,TB Berlin,Hannover,2,1,H
+34283,D2,1999,2000-02-14,Bochum,Karlsruhe,2,1,H
+34284,D2,1999,2000-02-18,Chemnitz,Mannheim,0,0,D
+34285,D2,1999,2000-02-18,FC Koln,Greuther Furth,2,2,D
+34286,D2,1999,2000-02-18,Nurnberg,Offenbach,1,1,D
+34287,D2,1999,2000-02-19,Hannover,M'gladbach,2,3,A
+34288,D2,1999,2000-02-20,Aachen,Bochum,0,1,A
+34289,D2,1999,2000-02-20,Karlsruhe,TB Berlin,0,0,D
+34290,D2,1999,2000-02-20,Mainz,F Koln,0,0,D
+34291,D2,1999,2000-02-20,St Pauli,Stuttgarter K,2,1,H
+34292,D2,1999,2000-02-21,Cottbus,Oberhausen,0,1,A
+34293,D2,1999,2000-02-25,Bochum,St Pauli,2,0,H
+34294,D2,1999,2000-02-25,Offenbach,Chemnitz,2,0,H
+34295,D2,1999,2000-02-25,TB Berlin,Aachen,1,2,A
+34296,D2,1999,2000-02-26,Mainz,Cottbus,1,0,H
+34297,D2,1999,2000-02-27,F Koln,Nurnberg,1,1,D
+34298,D2,1999,2000-02-27,Greuther Furth,Oberhausen,0,1,A
+34299,D2,1999,2000-02-27,Mannheim,Hannover,2,2,D
+34300,D2,1999,2000-02-27,Stuttgarter K,FC Koln,1,2,A
+34301,D2,1999,2000-02-28,M'gladbach,Karlsruhe,4,1,H
+34302,D2,1999,2000-03-02,Stuttgarter K,Karlsruhe,2,1,H
+34303,D2,1999,2000-03-03,Aachen,M'gladbach,1,1,D
+34304,D2,1999,2000-03-03,Chemnitz,F Koln,2,1,H
+34305,D2,1999,2000-03-03,Cottbus,Greuther Furth,4,2,H
+34306,D2,1999,2000-03-03,FC Koln,Bochum,3,0,H
+34307,D2,1999,2000-03-04,Nurnberg,Mainz,2,0,H
+34308,D2,1999,2000-03-05,Hannover,Offenbach,1,1,D
+34309,D2,1999,2000-03-05,Oberhausen,Stuttgarter K,2,2,D
+34310,D2,1999,2000-03-05,St Pauli,TB Berlin,1,1,D
+34311,D2,1999,2000-03-06,Karlsruhe,Mannheim,1,1,D
+34312,D2,1999,2000-03-10,Mainz,Chemnitz,5,0,H
+34313,D2,1999,2000-03-10,M'gladbach,St Pauli,2,1,H
+34314,D2,1999,2000-03-10,Nurnberg,Cottbus,1,1,D
+34315,D2,1999,2000-03-11,Offenbach,Karlsruhe,1,0,H
+34316,D2,1999,2000-03-12,Bochum,Oberhausen,1,0,H
+34317,D2,1999,2000-03-12,F Koln,Hannover,1,1,D
+34318,D2,1999,2000-03-12,Mannheim,Aachen,1,1,D
+34319,D2,1999,2000-03-12,Stuttgarter K,Greuther Furth,1,5,A
+34320,D2,1999,2000-03-13,TB Berlin,FC Koln,2,0,H
+34321,D2,1999,2000-03-17,Hannover,Mainz,2,1,H
+34322,D2,1999,2000-03-17,St Pauli,Mannheim,1,1,D
+34323,D2,1999,2000-03-18,Greuther Furth,Bochum,2,2,D
+34324,D2,1999,2000-03-19,Aachen,Offenbach,2,1,H
+34325,D2,1999,2000-03-19,Cottbus,Stuttgarter K,1,0,H
+34326,D2,1999,2000-03-19,Karlsruhe,F Koln,2,1,H
+34327,D2,1999,2000-03-19,Oberhausen,TB Berlin,3,0,H
+34328,D2,1999,2000-03-20,FC Koln,M'gladbach,1,1,D
+34329,D2,1999,2000-03-22,Nurnberg,Hannover,5,1,H
+34330,D2,1999,2000-03-24,Offenbach,St Pauli,0,1,A
+34331,D2,1999,2000-03-24,TB Berlin,Greuther Furth,3,1,H
+34332,D2,1999,2000-03-25,Bochum,Stuttgarter K,2,1,H
+34333,D2,1999,2000-03-26,F Koln,Aachen,0,0,D
+34334,D2,1999,2000-03-26,Mainz,Karlsruhe,2,2,D
+34335,D2,1999,2000-03-26,Mannheim,FC Koln,2,1,H
+34336,D2,1999,2000-03-26,M'gladbach,Oberhausen,4,2,H
+34337,D2,1999,2000-03-27,Chemnitz,Cottbus,1,2,A
+34338,D2,1999,2000-03-31,Hannover,Chemnitz,2,0,H
+34339,D2,1999,2000-03-31,Oberhausen,Mannheim,1,1,D
+34340,D2,1999,2000-03-31,Stuttgarter K,TB Berlin,2,0,H
+34341,D2,1999,2000-04-01,FC Koln,Offenbach,1,1,D
+34342,D2,1999,2000-04-02,Aachen,Mainz,1,0,H
+34343,D2,1999,2000-04-02,Greuther Furth,M'gladbach,1,1,D
+34344,D2,1999,2000-04-02,Karlsruhe,Nurnberg,0,1,A
+34345,D2,1999,2000-04-02,St Pauli,F Koln,0,0,D
+34346,D2,1999,2000-04-03,Cottbus,Bochum,1,1,D
+34347,D2,1999,2000-04-07,Hannover,Cottbus,3,2,H
+34348,D2,1999,2000-04-07,Mainz,St Pauli,1,1,D
+34349,D2,1999,2000-04-07,Nurnberg,Aachen,3,1,H
+34350,D2,1999,2000-04-08,M'gladbach,Stuttgarter K,1,1,D
+34351,D2,1999,2000-04-09,Chemnitz,Karlsruhe,3,1,H
+34352,D2,1999,2000-04-09,F Koln,FC Koln,4,1,H
+34353,D2,1999,2000-04-09,Mannheim,Greuther Furth,3,3,D
+34354,D2,1999,2000-04-09,Offenbach,Oberhausen,2,1,H
+34355,D2,1999,2000-04-10,TB Berlin,Bochum,0,4,A
+34356,D2,1999,2000-04-14,Aachen,Chemnitz,0,1,A
+34357,D2,1999,2000-04-14,St Pauli,Nurnberg,0,0,D
+34358,D2,1999,2000-04-14,Stuttgarter K,Mannheim,3,0,H
+34359,D2,1999,2000-04-15,Cottbus,TB Berlin,2,0,H
+34360,D2,1999,2000-04-16,FC Koln,Mainz,1,0,H
+34361,D2,1999,2000-04-16,Greuther Furth,Offenbach,1,1,D
+34362,D2,1999,2000-04-16,Karlsruhe,Hannover,1,3,A
+34363,D2,1999,2000-04-16,Oberhausen,F Koln,4,0,H
+34364,D2,1999,2000-04-17,Bochum,M'gladbach,2,2,D
+34365,D2,1999,2000-04-17,Chemnitz,Nurnberg,1,1,D
+34366,D2,1999,2000-04-20,Hannover,Aachen,3,1,H
+34367,D2,1999,2000-04-20,Mainz,Oberhausen,1,1,D
+34368,D2,1999,2000-04-20,Nurnberg,FC Koln,1,1,D
+34369,D2,1999,2000-04-22,Mannheim,Bochum,4,2,H
+34370,D2,1999,2000-04-22,M'gladbach,TB Berlin,4,2,H
+34371,D2,1999,2000-04-23,F Koln,Greuther Furth,0,1,A
+34372,D2,1999,2000-04-23,Karlsruhe,Cottbus,1,0,H
+34373,D2,1999,2000-04-23,Offenbach,Stuttgarter K,0,4,A
+34374,D2,1999,2000-04-24,Chemnitz,St Pauli,1,3,A
+34375,D2,1999,2000-04-28,Bochum,Offenbach,6,1,H
+34376,D2,1999,2000-04-28,Oberhausen,Nurnberg,1,0,H
+34377,D2,1999,2000-04-28,St Pauli,Hannover,0,2,A
+34378,D2,1999,2000-04-29,TB Berlin,Mannheim,3,1,H
+34379,D2,1999,2000-04-30,Aachen,Karlsruhe,4,1,H
+34380,D2,1999,2000-04-30,FC Koln,Chemnitz,2,1,H
+34381,D2,1999,2000-04-30,Greuther Furth,Mainz,2,0,H
+34382,D2,1999,2000-04-30,Stuttgarter K,F Koln,2,1,H
+34383,D2,1999,2000-05-01,Cottbus,M'gladbach,2,2,D
+34384,D2,1999,2000-05-05,Aachen,Cottbus,1,0,H
+34385,D2,1999,2000-05-05,Karlsruhe,St Pauli,0,0,D
+34386,D2,1999,2000-05-06,F Koln,Bochum,2,3,A
+34387,D2,1999,2000-05-07,Chemnitz,Oberhausen,1,1,D
+34388,D2,1999,2000-05-07,Mainz,Stuttgarter K,2,0,H
+34389,D2,1999,2000-05-07,Nurnberg,Greuther Furth,2,2,D
+34390,D2,1999,2000-05-07,Offenbach,TB Berlin,2,1,H
+34391,D2,1999,2000-05-08,Hannover,FC Koln,3,5,A
+34392,D2,1999,2000-05-10,Mannheim,M'gladbach,2,1,H
+34393,D2,1999,2000-05-12,Oberhausen,Hannover,2,1,H
+34394,D2,1999,2000-05-12,St Pauli,Aachen,2,1,H
+34395,D2,1999,2000-05-12,TB Berlin,F Koln,1,2,A
+34396,D2,1999,2000-05-13,Stuttgarter K,Nurnberg,0,3,A
+34397,D2,1999,2000-05-14,Cottbus,Mannheim,3,2,H
+34398,D2,1999,2000-05-14,FC Koln,Karlsruhe,1,2,A
+34399,D2,1999,2000-05-14,Greuther Furth,Chemnitz,0,1,A
+34400,D2,1999,2000-05-14,M'gladbach,Offenbach,1,0,H
+34401,D2,1999,2000-05-15,Bochum,Mainz,0,1,A
+34402,D2,1999,2000-05-18,Aachen,FC Koln,1,2,A
+34403,D2,1999,2000-05-18,Chemnitz,Stuttgarter K,1,1,D
+34404,D2,1999,2000-05-18,Cottbus,St Pauli,3,2,H
+34405,D2,1999,2000-05-18,F Koln,M'gladbach,1,2,A
+34406,D2,1999,2000-05-18,Hannover,Greuther Furth,1,2,A
+34407,D2,1999,2000-05-18,Karlsruhe,Oberhausen,0,3,A
+34408,D2,1999,2000-05-18,Mainz,TB Berlin,2,1,H
+34409,D2,1999,2000-05-18,Mannheim,Offenbach,2,3,A
+34410,D2,1999,2000-05-18,Nurnberg,Bochum,0,1,A
+34411,D2,1999,2000-05-21,Bochum,Chemnitz,5,1,H
+34412,D2,1999,2000-05-21,FC Koln,St Pauli,6,3,H
+34413,D2,1999,2000-05-21,Greuther Furth,Karlsruhe,2,0,H
+34414,D2,1999,2000-05-21,Mannheim,F Koln,1,3,A
+34415,D2,1999,2000-05-21,M'gladbach,Mainz,6,1,H
+34416,D2,1999,2000-05-21,Oberhausen,Aachen,3,0,H
+34417,D2,1999,2000-05-21,Offenbach,Cottbus,1,2,A
+34418,D2,1999,2000-05-21,Stuttgarter K,Hannover,2,1,H
+34419,D2,1999,2000-05-21,TB Berlin,Nurnberg,1,3,A
+34420,D2,1999,2000-05-25,Aachen,Greuther Furth,2,2,D
+34421,D2,1999,2000-05-25,Chemnitz,TB Berlin,1,0,H
+34422,D2,1999,2000-05-25,Cottbus,FC Koln,2,0,H
+34423,D2,1999,2000-05-25,F Koln,Offenbach,4,1,H
+34424,D2,1999,2000-05-25,Hannover,Bochum,3,3,D
+34425,D2,1999,2000-05-25,Karlsruhe,Stuttgarter K,1,1,D
+34426,D2,1999,2000-05-25,Mainz,Mannheim,2,0,H
+34427,D2,1999,2000-05-25,Nurnberg,M'gladbach,2,1,H
+34428,D2,1999,2000-05-25,St Pauli,Oberhausen,1,1,D
+39935,E0,1999,1999-08-07,Arsenal,Leicester,2,1,H
+39936,E0,1999,1999-08-07,Chelsea,Sunderland,4,0,H
+39937,E0,1999,1999-08-07,Coventry,Southampton,0,1,A
+39938,E0,1999,1999-08-07,Leeds,Derby,0,0,D
+39939,E0,1999,1999-08-07,Middlesbrough,Bradford,0,1,A
+39940,E0,1999,1999-08-07,Newcastle,Aston Villa,0,1,A
+39941,E0,1999,1999-08-07,Sheffield Weds,Liverpool,1,2,A
+39942,E0,1999,1999-08-07,Watford,Wimbledon,2,3,A
+39943,E0,1999,1999-08-07,West Ham,Tottenham,1,0,H
+39944,E0,1999,1999-08-08,Everton,Man United,1,1,D
+39945,E0,1999,1999-08-09,Tottenham,Newcastle,3,1,H
+39946,E0,1999,1999-08-10,Derby,Arsenal,1,2,A
+39947,E0,1999,1999-08-10,Sunderland,Watford,2,0,H
+39948,E0,1999,1999-08-10,Wimbledon,Middlesbrough,2,3,A
+39949,E0,1999,1999-08-11,Aston Villa,Everton,3,0,H
+39950,E0,1999,1999-08-11,Leicester,Coventry,1,0,H
+39951,E0,1999,1999-08-11,Man United,Sheffield Weds,4,0,H
+39952,E0,1999,1999-08-11,Southampton,Leeds,0,3,A
+39953,E0,1999,1999-08-14,Bradford,Sheffield Weds,1,1,D
+39954,E0,1999,1999-08-14,Derby,Middlesbrough,1,3,A
+39955,E0,1999,1999-08-14,Leicester,Chelsea,2,2,D
+39956,E0,1999,1999-08-14,Liverpool,Watford,0,1,A
+39957,E0,1999,1999-08-14,Man United,Leeds,2,0,H
+39958,E0,1999,1999-08-14,Sunderland,Arsenal,0,0,D
+39959,E0,1999,1999-08-14,Tottenham,Everton,3,2,H
+39960,E0,1999,1999-08-14,Wimbledon,Coventry,1,1,D
+39961,E0,1999,1999-08-15,Southampton,Newcastle,4,2,H
+39962,E0,1999,1999-08-16,Aston Villa,West Ham,2,2,D
+39963,E0,1999,1999-08-21,Chelsea,Aston Villa,1,0,H
+39964,E0,1999,1999-08-21,Coventry,Derby,2,0,H
+39965,E0,1999,1999-08-21,Everton,Southampton,4,1,H
+39966,E0,1999,1999-08-21,Leeds,Sunderland,2,1,H
+39967,E0,1999,1999-08-21,Middlesbrough,Liverpool,1,0,H
+39968,E0,1999,1999-08-21,Newcastle,Wimbledon,3,3,D
+39969,E0,1999,1999-08-21,Sheffield Weds,Tottenham,1,2,A
+39970,E0,1999,1999-08-21,Watford,Bradford,1,0,H
+39971,E0,1999,1999-08-21,West Ham,Leicester,2,1,H
+39972,E0,1999,1999-08-22,Arsenal,Man United,1,2,A
+39973,E0,1999,1999-08-23,Leeds,Liverpool,1,2,A
+39974,E0,1999,1999-08-24,Middlesbrough,Leicester,0,3,A
+39975,E0,1999,1999-08-24,Watford,Aston Villa,0,1,A
+39976,E0,1999,1999-08-25,Arsenal,Bradford,2,0,H
+39977,E0,1999,1999-08-25,Coventry,Man United,1,2,A
+39978,E0,1999,1999-08-25,Everton,Wimbledon,4,0,H
+39979,E0,1999,1999-08-25,Newcastle,Sunderland,1,2,A
+39980,E0,1999,1999-08-25,Sheffield Weds,Derby,0,2,A
+39981,E0,1999,1999-08-28,Aston Villa,Middlesbrough,1,0,H
+39982,E0,1999,1999-08-28,Bradford,West Ham,0,3,A
+39983,E0,1999,1999-08-28,Derby,Everton,1,0,H
+39984,E0,1999,1999-08-28,Liverpool,Arsenal,2,0,H
+39985,E0,1999,1999-08-28,Southampton,Sheffield Weds,2,0,H
+39986,E0,1999,1999-08-28,Tottenham,Leeds,1,2,A
+39987,E0,1999,1999-08-28,Wimbledon,Chelsea,0,1,A
+39988,E0,1999,1999-08-29,Sunderland,Coventry,1,1,D
+39989,E0,1999,1999-08-30,Leicester,Watford,1,0,H
+39990,E0,1999,1999-08-30,Man United,Newcastle,5,1,H
+39991,E0,1999,1999-09-11,Arsenal,Aston Villa,3,1,H
+39992,E0,1999,1999-09-11,Chelsea,Newcastle,1,0,H
+39993,E0,1999,1999-09-11,Coventry,Leeds,3,4,A
+39994,E0,1999,1999-09-11,Liverpool,Man United,2,3,A
+39995,E0,1999,1999-09-11,Middlesbrough,Southampton,3,2,H
+39996,E0,1999,1999-09-11,Sheffield Weds,Everton,0,2,A
+39997,E0,1999,1999-09-11,Sunderland,Leicester,2,0,H
+39998,E0,1999,1999-09-11,West Ham,Watford,1,0,H
+39999,E0,1999,1999-09-11,Wimbledon,Derby,2,2,D
+40000,E0,1999,1999-09-12,Bradford,Tottenham,1,1,D
+40001,E0,1999,1999-09-18,Aston Villa,Bradford,1,0,H
+40002,E0,1999,1999-09-18,Derby,Sunderland,0,5,A
+40003,E0,1999,1999-09-18,Leicester,Liverpool,2,2,D
+40004,E0,1999,1999-09-18,Man United,Wimbledon,1,1,D
+40005,E0,1999,1999-09-18,Southampton,Arsenal,0,1,A
+40006,E0,1999,1999-09-18,Watford,Chelsea,1,0,H
+40007,E0,1999,1999-09-19,Everton,West Ham,1,0,H
+40008,E0,1999,1999-09-19,Leeds,Middlesbrough,2,0,H
+40009,E0,1999,1999-09-19,Newcastle,Sheffield Weds,8,0,H
+40010,E0,1999,1999-09-19,Tottenham,Coventry,3,2,H
+40011,E0,1999,1999-09-25,Arsenal,Watford,1,0,H
+40012,E0,1999,1999-09-25,Coventry,West Ham,1,0,H
+40013,E0,1999,1999-09-25,Derby,Bradford,0,1,A
+40014,E0,1999,1999-09-25,Leeds,Newcastle,3,2,H
+40015,E0,1999,1999-09-25,Leicester,Aston Villa,3,1,H
+40016,E0,1999,1999-09-25,Man United,Southampton,3,3,D
+40017,E0,1999,1999-09-25,Middlesbrough,Chelsea,0,1,A
+40018,E0,1999,1999-09-25,Sunderland,Sheffield Weds,1,0,H
+40019,E0,1999,1999-09-26,Wimbledon,Tottenham,1,1,D
+40020,E0,1999,1999-09-27,Liverpool,Everton,0,1,A
+40021,E0,1999,1999-10-02,Aston Villa,Liverpool,0,0,D
+40022,E0,1999,1999-10-02,Bradford,Sunderland,0,4,A
+40023,E0,1999,1999-10-02,Everton,Coventry,1,1,D
+40024,E0,1999,1999-10-02,Sheffield Weds,Wimbledon,5,1,H
+40025,E0,1999,1999-10-03,Chelsea,Man United,5,0,H
+40026,E0,1999,1999-10-03,Newcastle,Middlesbrough,2,1,H
+40027,E0,1999,1999-10-03,Tottenham,Leicester,2,3,A
+40028,E0,1999,1999-10-03,Watford,Leeds,1,2,A
+40029,E0,1999,1999-10-03,West Ham,Arsenal,2,1,H
+40030,E0,1999,1999-10-04,Southampton,Derby,3,3,D
+40031,E0,1999,1999-10-16,Arsenal,Everton,4,1,H
+40032,E0,1999,1999-10-16,Coventry,Newcastle,4,1,H
+40033,E0,1999,1999-10-16,Derby,Tottenham,0,1,A
+40034,E0,1999,1999-10-16,Leeds,Sheffield Weds,2,0,H
+40035,E0,1999,1999-10-16,Leicester,Southampton,2,1,H
+40036,E0,1999,1999-10-16,Liverpool,Chelsea,1,0,H
+40037,E0,1999,1999-10-16,Man United,Watford,4,1,H
+40038,E0,1999,1999-10-16,Wimbledon,Bradford,3,2,H
+40039,E0,1999,1999-10-17,Middlesbrough,West Ham,2,0,H
+40040,E0,1999,1999-10-18,Sunderland,Aston Villa,2,1,H
+40041,E0,1999,1999-10-23,Aston Villa,Wimbledon,1,1,D
+40042,E0,1999,1999-10-23,Bradford,Leicester,3,1,H
+40043,E0,1999,1999-10-23,Chelsea,Arsenal,2,3,A
+40044,E0,1999,1999-10-23,Sheffield Weds,Coventry,0,0,D
+40045,E0,1999,1999-10-23,Southampton,Liverpool,1,1,D
+40046,E0,1999,1999-10-23,Tottenham,Man United,3,1,H
+40047,E0,1999,1999-10-24,Everton,Leeds,4,4,D
+40048,E0,1999,1999-10-24,Watford,Middlesbrough,1,3,A
+40049,E0,1999,1999-10-24,West Ham,Sunderland,1,1,D
+40050,E0,1999,1999-10-25,Newcastle,Derby,2,0,H
+40051,E0,1999,1999-10-27,Liverpool,West Ham,1,0,H
+40052,E0,1999,1999-10-30,Arsenal,Newcastle,0,0,D
+40053,E0,1999,1999-10-30,Derby,Chelsea,3,1,H
+40054,E0,1999,1999-10-30,Leeds,West Ham,1,0,H
+40055,E0,1999,1999-10-30,Leicester,Sheffield Weds,3,0,H
+40056,E0,1999,1999-10-30,Man United,Aston Villa,3,0,H
+40057,E0,1999,1999-10-30,Middlesbrough,Everton,2,1,H
+40058,E0,1999,1999-10-30,Wimbledon,Southampton,1,1,D
+40059,E0,1999,1999-10-31,Coventry,Watford,4,0,H
+40060,E0,1999,1999-10-31,Sunderland,Tottenham,2,1,H
+40061,E0,1999,1999-11-01,Liverpool,Bradford,3,1,H
+40062,E0,1999,1999-11-06,Aston Villa,Southampton,0,1,A
+40063,E0,1999,1999-11-06,Bradford,Coventry,1,1,D
+40064,E0,1999,1999-11-06,Liverpool,Derby,2,0,H
+40065,E0,1999,1999-11-06,Man United,Leicester,2,0,H
+40066,E0,1999,1999-11-06,Middlesbrough,Sunderland,1,1,D
+40067,E0,1999,1999-11-06,Sheffield Weds,Watford,2,2,D
+40068,E0,1999,1999-11-07,Chelsea,West Ham,0,0,D
+40069,E0,1999,1999-11-07,Newcastle,Everton,1,1,D
+40070,E0,1999,1999-11-07,Tottenham,Arsenal,2,1,H
+40071,E0,1999,1999-11-07,Wimbledon,Leeds,2,0,H
+40072,E0,1999,1999-11-20,Arsenal,Middlesbrough,5,1,H
+40073,E0,1999,1999-11-20,Derby,Man United,1,2,A
+40074,E0,1999,1999-11-20,Everton,Chelsea,1,1,D
+40075,E0,1999,1999-11-20,Leeds,Bradford,2,1,H
+40076,E0,1999,1999-11-20,Leicester,Wimbledon,2,1,H
+40077,E0,1999,1999-11-20,Southampton,Tottenham,0,1,A
+40078,E0,1999,1999-11-20,Sunderland,Liverpool,0,2,A
+40079,E0,1999,1999-11-20,Watford,Newcastle,1,1,D
+40080,E0,1999,1999-11-21,West Ham,Sheffield Weds,4,3,H
+40081,E0,1999,1999-11-22,Coventry,Aston Villa,2,1,H
+40082,E0,1999,1999-11-27,Coventry,Leicester,0,1,A
+40083,E0,1999,1999-11-27,Everton,Aston Villa,0,0,D
+40084,E0,1999,1999-11-27,Middlesbrough,Wimbledon,0,0,D
+40085,E0,1999,1999-11-27,Watford,Sunderland,2,3,A
+40086,E0,1999,1999-11-27,West Ham,Liverpool,1,0,H
+40087,E0,1999,1999-11-28,Arsenal,Derby,2,1,H
+40088,E0,1999,1999-11-28,Chelsea,Bradford,1,0,H
+40089,E0,1999,1999-11-28,Leeds,Southampton,1,0,H
+40090,E0,1999,1999-11-28,Newcastle,Tottenham,2,1,H
+40091,E0,1999,1999-12-04,Aston Villa,Newcastle,0,1,A
+40092,E0,1999,1999-12-04,Bradford,Middlesbrough,1,1,D
+40093,E0,1999,1999-12-04,Leicester,Arsenal,0,3,A
+40094,E0,1999,1999-12-04,Man United,Everton,5,1,H
+40095,E0,1999,1999-12-04,Southampton,Coventry,0,0,D
+40096,E0,1999,1999-12-04,Sunderland,Chelsea,4,1,H
+40097,E0,1999,1999-12-04,Wimbledon,Watford,5,0,H
+40098,E0,1999,1999-12-05,Derby,Leeds,0,1,A
+40099,E0,1999,1999-12-05,Liverpool,Sheffield Weds,4,1,H
+40100,E0,1999,1999-12-06,Tottenham,West Ham,0,0,D
+40101,E0,1999,1999-12-18,Arsenal,Wimbledon,1,1,D
+40102,E0,1999,1999-12-18,Aston Villa,Sheffield Weds,2,1,H
+40103,E0,1999,1999-12-18,Bradford,Newcastle,2,0,H
+40104,E0,1999,1999-12-18,Leicester,Derby,0,1,A
+40105,E0,1999,1999-12-18,Liverpool,Coventry,2,0,H
+40106,E0,1999,1999-12-18,Middlesbrough,Tottenham,2,1,H
+40107,E0,1999,1999-12-18,Sunderland,Southampton,2,0,H
+40108,E0,1999,1999-12-18,Watford,Everton,1,3,A
+40109,E0,1999,1999-12-18,West Ham,Man United,2,4,A
+40110,E0,1999,1999-12-19,Chelsea,Leeds,0,2,A
+40111,E0,1999,1999-12-26,Coventry,Arsenal,3,2,H
+40112,E0,1999,1999-12-26,Derby,Aston Villa,0,2,A
+40113,E0,1999,1999-12-26,Everton,Sunderland,5,0,H
+40114,E0,1999,1999-12-26,Leeds,Leicester,2,1,H
+40115,E0,1999,1999-12-26,Man United,Bradford,4,0,H
+40116,E0,1999,1999-12-26,Newcastle,Liverpool,2,2,D
+40117,E0,1999,1999-12-26,Sheffield Weds,Middlesbrough,1,0,H
+40118,E0,1999,1999-12-26,Southampton,Chelsea,1,2,A
+40119,E0,1999,1999-12-26,Tottenham,Watford,4,0,H
+40120,E0,1999,1999-12-26,Wimbledon,West Ham,2,2,D
+40121,E0,1999,1999-12-28,Arsenal,Leeds,2,0,H
+40122,E0,1999,1999-12-28,Bradford,Everton,0,0,D
+40123,E0,1999,1999-12-28,Leicester,Newcastle,1,2,A
+40124,E0,1999,1999-12-28,Liverpool,Wimbledon,3,1,H
+40125,E0,1999,1999-12-28,Sunderland,Man United,2,2,D
+40126,E0,1999,1999-12-28,Watford,Southampton,3,2,H
+40127,E0,1999,1999-12-28,West Ham,Derby,1,1,D
+40128,E0,1999,1999-12-29,Aston Villa,Tottenham,1,1,D
+40129,E0,1999,1999-12-29,Chelsea,Sheffield Weds,3,0,H
+40130,E0,1999,2000-01-03,Derby,Watford,2,0,H
+40131,E0,1999,2000-01-03,Everton,Leicester,2,2,D
+40132,E0,1999,2000-01-03,Leeds,Aston Villa,1,2,A
+40133,E0,1999,2000-01-03,Newcastle,West Ham,2,2,D
+40134,E0,1999,2000-01-03,Sheffield Weds,Arsenal,1,1,D
+40135,E0,1999,2000-01-03,Southampton,Bradford,1,0,H
+40136,E0,1999,2000-01-03,Tottenham,Liverpool,1,0,H
+40137,E0,1999,2000-01-03,Wimbledon,Sunderland,1,0,H
+40138,E0,1999,2000-01-04,Coventry,Chelsea,2,2,D
+40139,E0,1999,2000-01-08,Bradford,Chelsea,1,1,D
+40140,E0,1999,2000-01-12,Chelsea,Tottenham,1,0,H
+40141,E0,1999,2000-01-15,Arsenal,Sunderland,4,1,H
+40142,E0,1999,2000-01-15,Chelsea,Leicester,1,1,D
+40143,E0,1999,2000-01-15,Coventry,Wimbledon,2,0,H
+40144,E0,1999,2000-01-15,Everton,Tottenham,2,2,D
+40145,E0,1999,2000-01-15,Middlesbrough,Derby,1,4,A
+40146,E0,1999,2000-01-15,Sheffield Weds,Bradford,2,0,H
+40147,E0,1999,2000-01-15,Watford,Liverpool,2,3,A
+40148,E0,1999,2000-01-15,West Ham,Aston Villa,1,1,D
+40149,E0,1999,2000-01-16,Newcastle,Southampton,5,0,H
+40150,E0,1999,2000-01-22,Aston Villa,Chelsea,0,0,D
+40151,E0,1999,2000-01-22,Bradford,Watford,3,2,H
+40152,E0,1999,2000-01-22,Derby,Coventry,0,0,D
+40153,E0,1999,2000-01-22,Leicester,West Ham,1,3,A
+40154,E0,1999,2000-01-22,Liverpool,Middlesbrough,0,0,D
+40155,E0,1999,2000-01-22,Southampton,Everton,2,0,H
+40156,E0,1999,2000-01-22,Tottenham,Sheffield Weds,0,1,A
+40157,E0,1999,2000-01-22,Wimbledon,Newcastle,2,0,H
+40158,E0,1999,2000-01-23,Sunderland,Leeds,1,2,A
+40159,E0,1999,2000-01-24,Man United,Arsenal,1,1,D
+40160,E0,1999,2000-01-29,Man United,Middlesbrough,1,0,H
+40161,E0,1999,2000-02-02,Sheffield Weds,Man United,0,1,A
+40162,E0,1999,2000-02-05,Aston Villa,Watford,4,0,H
+40163,E0,1999,2000-02-05,Bradford,Arsenal,2,1,H
+40164,E0,1999,2000-02-05,Derby,Sheffield Weds,3,3,D
+40165,E0,1999,2000-02-05,Leicester,Middlesbrough,2,1,H
+40166,E0,1999,2000-02-05,Liverpool,Leeds,3,1,H
+40167,E0,1999,2000-02-05,Man United,Coventry,3,2,H
+40168,E0,1999,2000-02-05,Southampton,West Ham,2,1,H
+40169,E0,1999,2000-02-05,Sunderland,Newcastle,2,2,D
+40170,E0,1999,2000-02-05,Tottenham,Chelsea,0,1,A
+40171,E0,1999,2000-02-06,Wimbledon,Everton,0,3,A
+40172,E0,1999,2000-02-12,Chelsea,Wimbledon,3,1,H
+40173,E0,1999,2000-02-12,Coventry,Sunderland,3,2,H
+40174,E0,1999,2000-02-12,Everton,Derby,2,1,H
+40175,E0,1999,2000-02-12,Leeds,Tottenham,1,0,H
+40176,E0,1999,2000-02-12,Newcastle,Man United,3,0,H
+40177,E0,1999,2000-02-12,Sheffield Weds,Southampton,0,1,A
+40178,E0,1999,2000-02-12,Watford,Leicester,1,1,D
+40179,E0,1999,2000-02-12,West Ham,Bradford,5,4,H
+40180,E0,1999,2000-02-13,Arsenal,Liverpool,0,1,A
+40181,E0,1999,2000-02-14,Middlesbrough,Aston Villa,0,4,A
+40182,E0,1999,2000-02-19,Middlesbrough,Coventry,2,0,H
+40183,E0,1999,2000-02-20,Leeds,Man United,0,1,A
+40184,E0,1999,2000-02-26,Arsenal,Southampton,3,1,H
+40185,E0,1999,2000-02-26,Bradford,Aston Villa,1,1,D
+40186,E0,1999,2000-02-26,Chelsea,Watford,2,1,H
+40187,E0,1999,2000-02-26,Coventry,Tottenham,0,1,A
+40188,E0,1999,2000-02-26,Middlesbrough,Leeds,0,0,D
+40189,E0,1999,2000-02-26,Sheffield Weds,Newcastle,0,2,A
+40190,E0,1999,2000-02-26,Sunderland,Derby,1,1,D
+40191,E0,1999,2000-02-26,West Ham,Everton,0,4,A
+40192,E0,1999,2000-02-26,Wimbledon,Man United,2,2,D
+40193,E0,1999,2000-03-04,Derby,Wimbledon,4,0,H
+40194,E0,1999,2000-03-04,Everton,Sheffield Weds,1,1,D
+40195,E0,1999,2000-03-04,Man United,Liverpool,1,1,D
+40196,E0,1999,2000-03-04,Newcastle,Chelsea,0,1,A
+40197,E0,1999,2000-03-04,Southampton,Middlesbrough,1,1,D
+40198,E0,1999,2000-03-04,Tottenham,Bradford,1,1,D
+40199,E0,1999,2000-03-04,Watford,West Ham,1,2,A
+40200,E0,1999,2000-03-05,Aston Villa,Arsenal,1,1,D
+40201,E0,1999,2000-03-05,Leeds,Coventry,3,0,H
+40202,E0,1999,2000-03-05,Leicester,Sunderland,5,2,H
+40203,E0,1999,2000-03-08,West Ham,Southampton,2,0,H
+40204,E0,1999,2000-03-11,Aston Villa,Coventry,1,0,H
+40205,E0,1999,2000-03-11,Chelsea,Everton,1,1,D
+40206,E0,1999,2000-03-11,Liverpool,Sunderland,1,1,D
+40207,E0,1999,2000-03-11,Man United,Derby,3,1,H
+40208,E0,1999,2000-03-11,Newcastle,Watford,1,0,H
+40209,E0,1999,2000-03-11,Sheffield Weds,West Ham,3,1,H
+40210,E0,1999,2000-03-11,Tottenham,Southampton,7,2,H
+40211,E0,1999,2000-03-11,Wimbledon,Leicester,2,1,H
+40212,E0,1999,2000-03-12,Bradford,Leeds,1,2,A
+40213,E0,1999,2000-03-12,Middlesbrough,Arsenal,2,1,H
+40214,E0,1999,2000-03-15,Coventry,Everton,1,0,H
+40215,E0,1999,2000-03-15,Liverpool,Aston Villa,0,0,D
+40216,E0,1999,2000-03-18,Coventry,Bradford,4,0,H
+40217,E0,1999,2000-03-18,Derby,Liverpool,0,2,A
+40218,E0,1999,2000-03-18,Leicester,Man United,0,2,A
+40219,E0,1999,2000-03-18,Southampton,Aston Villa,2,0,H
+40220,E0,1999,2000-03-18,Sunderland,Middlesbrough,1,1,D
+40221,E0,1999,2000-03-18,Watford,Sheffield Weds,1,0,H
+40222,E0,1999,2000-03-18,West Ham,Chelsea,0,0,D
+40223,E0,1999,2000-03-19,Arsenal,Tottenham,2,1,H
+40224,E0,1999,2000-03-19,Everton,Newcastle,0,2,A
+40225,E0,1999,2000-03-19,Leeds,Wimbledon,4,1,H
+40226,E0,1999,2000-03-25,Aston Villa,Derby,2,0,H
+40227,E0,1999,2000-03-25,Bradford,Man United,0,4,A
+40228,E0,1999,2000-03-25,Chelsea,Southampton,1,1,D
+40229,E0,1999,2000-03-25,Liverpool,Newcastle,2,1,H
+40230,E0,1999,2000-03-25,Middlesbrough,Sheffield Weds,1,0,H
+40231,E0,1999,2000-03-25,Sunderland,Everton,2,1,H
+40232,E0,1999,2000-03-25,Watford,Tottenham,1,1,D
+40233,E0,1999,2000-03-26,Arsenal,Coventry,3,0,H
+40234,E0,1999,2000-03-26,Leicester,Leeds,2,1,H
+40235,E0,1999,2000-03-26,West Ham,Wimbledon,2,1,H
+40236,E0,1999,2000-04-01,Coventry,Liverpool,0,3,A
+40237,E0,1999,2000-04-01,Everton,Watford,4,2,H
+40238,E0,1999,2000-04-01,Leeds,Chelsea,0,1,A
+40239,E0,1999,2000-04-01,Man United,West Ham,7,1,H
+40240,E0,1999,2000-04-01,Newcastle,Bradford,2,0,H
+40241,E0,1999,2000-04-01,Southampton,Sunderland,1,2,A
+40242,E0,1999,2000-04-01,Wimbledon,Arsenal,1,3,A
+40243,E0,1999,2000-04-02,Derby,Leicester,3,0,H
+40244,E0,1999,2000-04-03,Tottenham,Middlesbrough,2,3,A
+40245,E0,1999,2000-04-05,Sheffield Weds,Aston Villa,0,1,A
+40246,E0,1999,2000-04-08,Bradford,Southampton,1,2,A
+40247,E0,1999,2000-04-08,Leicester,Everton,1,1,D
+40248,E0,1999,2000-04-08,Sunderland,Wimbledon,2,1,H
+40249,E0,1999,2000-04-08,Watford,Derby,0,0,D
+40250,E0,1999,2000-04-09,Aston Villa,Leeds,1,0,H
+40251,E0,1999,2000-04-09,Liverpool,Tottenham,2,0,H
+40252,E0,1999,2000-04-10,Middlesbrough,Man United,3,4,A
+40253,E0,1999,2000-04-12,Chelsea,Coventry,2,1,H
+40254,E0,1999,2000-04-12,West Ham,Newcastle,2,1,H
+40255,E0,1999,2000-04-12,Wimbledon,Sheffield Weds,0,2,A
+40256,E0,1999,2000-04-15,Coventry,Middlesbrough,2,1,H
+40257,E0,1999,2000-04-15,Derby,West Ham,1,2,A
+40258,E0,1999,2000-04-15,Everton,Bradford,4,0,H
+40259,E0,1999,2000-04-15,Man United,Sunderland,4,0,H
+40260,E0,1999,2000-04-15,Newcastle,Leicester,0,2,A
+40261,E0,1999,2000-04-15,Sheffield Weds,Chelsea,1,0,H
+40262,E0,1999,2000-04-15,Southampton,Watford,2,0,H
+40263,E0,1999,2000-04-15,Tottenham,Aston Villa,2,4,A
+40264,E0,1999,2000-04-16,Leeds,Arsenal,0,4,A
+40265,E0,1999,2000-04-16,Wimbledon,Liverpool,1,2,A
+40266,E0,1999,2000-04-19,Leicester,Tottenham,0,1,A
+40267,E0,1999,2000-04-21,Bradford,Derby,4,4,D
+40268,E0,1999,2000-04-21,Everton,Liverpool,0,0,D
+40269,E0,1999,2000-04-22,Aston Villa,Leicester,2,2,D
+40270,E0,1999,2000-04-22,Chelsea,Middlesbrough,1,1,D
+40271,E0,1999,2000-04-22,Sheffield Weds,Sunderland,0,2,A
+40272,E0,1999,2000-04-22,Southampton,Man United,1,3,A
+40273,E0,1999,2000-04-22,Tottenham,Wimbledon,2,0,H
+40274,E0,1999,2000-04-22,West Ham,Coventry,5,0,H
+40275,E0,1999,2000-04-23,Newcastle,Leeds,2,2,D
+40276,E0,1999,2000-04-23,Watford,Arsenal,2,3,A
+40277,E0,1999,2000-04-24,Derby,Southampton,2,0,H
+40278,E0,1999,2000-04-24,Man United,Chelsea,3,2,H
+40279,E0,1999,2000-04-24,Sunderland,Bradford,0,1,A
+40280,E0,1999,2000-04-29,Aston Villa,Sunderland,1,1,D
+40281,E0,1999,2000-04-29,Chelsea,Liverpool,2,0,H
+40282,E0,1999,2000-04-29,Everton,Arsenal,0,1,A
+40283,E0,1999,2000-04-29,Newcastle,Coventry,2,0,H
+40284,E0,1999,2000-04-29,Southampton,Leicester,1,2,A
+40285,E0,1999,2000-04-29,Tottenham,Derby,1,1,D
+40286,E0,1999,2000-04-29,Watford,Man United,2,3,A
+40287,E0,1999,2000-04-29,West Ham,Middlesbrough,0,1,A
+40288,E0,1999,2000-04-30,Bradford,Wimbledon,3,0,H
+40289,E0,1999,2000-04-30,Sheffield Weds,Leeds,0,3,A
+40290,E0,1999,2000-05-02,Arsenal,West Ham,2,1,H
+40291,E0,1999,2000-05-02,Middlesbrough,Newcastle,2,2,D
+40292,E0,1999,2000-05-03,Leeds,Watford,3,1,H
+40293,E0,1999,2000-05-03,Liverpool,Leicester,0,2,A
+40294,E0,1999,2000-05-06,Arsenal,Chelsea,2,1,H
+40295,E0,1999,2000-05-06,Coventry,Sheffield Weds,4,1,H
+40296,E0,1999,2000-05-06,Derby,Newcastle,0,0,D
+40297,E0,1999,2000-05-06,Leicester,Bradford,3,0,H
+40298,E0,1999,2000-05-06,Man United,Tottenham,3,1,H
+40299,E0,1999,2000-05-06,Middlesbrough,Watford,1,1,D
+40300,E0,1999,2000-05-06,Sunderland,West Ham,1,0,H
+40301,E0,1999,2000-05-06,Wimbledon,Aston Villa,2,2,D
+40302,E0,1999,2000-05-07,Liverpool,Southampton,0,0,D
+40303,E0,1999,2000-05-08,Leeds,Everton,1,1,D
+40304,E0,1999,2000-05-09,Arsenal,Sheffield Weds,3,3,D
+40305,E0,1999,2000-05-14,Aston Villa,Man United,0,1,A
+40306,E0,1999,2000-05-14,Bradford,Liverpool,1,0,H
+40307,E0,1999,2000-05-14,Chelsea,Derby,4,0,H
+40308,E0,1999,2000-05-14,Everton,Middlesbrough,0,2,A
+40309,E0,1999,2000-05-14,Newcastle,Arsenal,4,2,H
+40310,E0,1999,2000-05-14,Sheffield Weds,Leicester,4,0,H
+40311,E0,1999,2000-05-14,Southampton,Wimbledon,2,0,H
+40312,E0,1999,2000-05-14,Tottenham,Sunderland,3,1,H
+40313,E0,1999,2000-05-14,Watford,Coventry,1,0,H
+40314,E0,1999,2000-05-14,West Ham,Leeds,0,0,D

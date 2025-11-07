@@ -1,0 +1,1149 @@
+Match_ID,Div,Season,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+30071,D1,1993,1993-08-07,Bayern Munich,Freiburg,3,1,H
+30072,D1,1993,1993-08-07,Dortmund,Karlsruhe,2,1,H
+30073,D1,1993,1993-08-07,Duisburg,Leverkusen,2,2,D
+30074,D1,1993,1993-08-07,FC Koln,Kaiserslautern,0,2,A
+30075,D1,1993,1993-08-07,Hamburg,Nurnberg,5,2,H
+30076,D1,1993,1993-08-07,RB Leipzig,Dresden,3,3,D
+30077,D1,1993,1993-08-07,M'Gladbach,Ein Frankfurt,0,4,A
+30078,D1,1993,1993-08-07,Wattenscheid,Schalke 04,3,0,H
+30079,D1,1993,1993-08-07,Werder Bremen,Stuttgart,5,1,H
+30080,D1,1993,1993-08-14,Dresden,Duisburg,0,1,A
+30081,D1,1993,1993-08-14,Ein Frankfurt,Werder Bremen,2,2,D
+30082,D1,1993,1993-08-14,Freiburg,Wattenscheid,4,1,H
+30083,D1,1993,1993-08-14,Kaiserslautern,M'Gladbach,4,2,H
+30084,D1,1993,1993-08-14,Karlsruhe,Hamburg,2,0,H
+30085,D1,1993,1993-08-14,Leverkusen,Bayern Munich,2,1,H
+30086,D1,1993,1993-08-14,Nurnberg,FC Koln,1,0,H
+30087,D1,1993,1993-08-14,Schalke 04,Dortmund,1,0,H
+30088,D1,1993,1993-08-14,Stuttgart,RB Leipzig,0,0,D
+30089,D1,1993,1993-08-21,Bayern Munich,Dresden,5,0,H
+30090,D1,1993,1993-08-21,Dortmund,Freiburg,3,2,H
+30091,D1,1993,1993-08-21,Duisburg,Stuttgart,2,2,D
+30092,D1,1993,1993-08-21,Ein Frankfurt,Kaiserslautern,1,0,H
+30093,D1,1993,1993-08-21,FC Koln,Karlsruhe,2,1,H
+30094,D1,1993,1993-08-21,Hamburg,Schalke 04,4,1,H
+30095,D1,1993,1993-08-21,M'Gladbach,Nurnberg,2,0,H
+30096,D1,1993,1993-08-21,Wattenscheid,Leverkusen,1,2,A
+30097,D1,1993,1993-08-21,Werder Bremen,RB Leipzig,3,1,H
+30098,D1,1993,1993-08-28,Dresden,Wattenscheid,1,1,D
+30099,D1,1993,1993-08-28,Freiburg,Hamburg,0,1,A
+30100,D1,1993,1993-08-28,Kaiserslautern,Werder Bremen,2,3,A
+30101,D1,1993,1993-08-28,Karlsruhe,M'Gladbach,1,0,H
+30102,D1,1993,1993-08-28,RB Leipzig,Duisburg,1,1,D
+30103,D1,1993,1993-08-28,Leverkusen,Dortmund,2,1,H
+30104,D1,1993,1993-08-28,Nurnberg,Ein Frankfurt,1,5,A
+30105,D1,1993,1993-08-28,Schalke 04,FC Koln,1,2,A
+30106,D1,1993,1993-08-28,Stuttgart,Bayern Munich,2,2,D
+30107,D1,1993,1993-09-01,Bayern Munich,RB Leipzig,3,0,H
+30108,D1,1993,1993-09-01,Dortmund,Dresden,4,0,H
+30109,D1,1993,1993-09-01,Ein Frankfurt,Karlsruhe,3,1,H
+30110,D1,1993,1993-09-01,FC Koln,Freiburg,2,0,H
+30111,D1,1993,1993-09-01,Hamburg,Leverkusen,2,1,H
+30112,D1,1993,1993-09-01,Kaiserslautern,Nurnberg,3,1,H
+30113,D1,1993,1993-09-01,M'Gladbach,Schalke 04,3,2,H
+30114,D1,1993,1993-09-01,Wattenscheid,Stuttgart,2,4,A
+30115,D1,1993,1993-09-01,Werder Bremen,Duisburg,1,5,A
+30116,D1,1993,1993-09-04,Dresden,Hamburg,1,1,D
+30117,D1,1993,1993-09-04,Duisburg,Bayern Munich,2,2,D
+30118,D1,1993,1993-09-04,Freiburg,M'Gladbach,3,3,D
+30119,D1,1993,1993-09-04,Karlsruhe,Kaiserslautern,1,1,D
+30120,D1,1993,1993-09-04,RB Leipzig,Wattenscheid,0,0,D
+30121,D1,1993,1993-09-04,Leverkusen,FC Koln,2,1,H
+30122,D1,1993,1993-09-04,Nurnberg,Werder Bremen,0,1,A
+30123,D1,1993,1993-09-04,Schalke 04,Ein Frankfurt,1,3,A
+30124,D1,1993,1993-09-04,Stuttgart,Dortmund,2,2,D
+30125,D1,1993,1993-09-08,Dortmund,RB Leipzig,0,1,A
+30126,D1,1993,1993-09-08,Ein Frankfurt,Freiburg,3,0,H
+30127,D1,1993,1993-09-08,FC Koln,Dresden,0,1,A
+30128,D1,1993,1993-09-08,Hamburg,Stuttgart,3,2,H
+30129,D1,1993,1993-09-08,Kaiserslautern,Schalke 04,0,0,D
+30130,D1,1993,1993-09-08,M'Gladbach,Leverkusen,2,2,D
+30131,D1,1993,1993-09-08,Nurnberg,Karlsruhe,1,1,D
+30132,D1,1993,1993-09-08,Wattenscheid,Duisburg,0,2,A
+30133,D1,1993,1993-09-08,Werder Bremen,Bayern Munich,1,0,H
+30134,D1,1993,1993-09-18,Bayern Munich,Wattenscheid,3,3,D
+30135,D1,1993,1993-09-18,Dresden,M'Gladbach,2,1,H
+30136,D1,1993,1993-09-18,Duisburg,Dortmund,2,2,D
+30137,D1,1993,1993-09-18,Freiburg,Kaiserslautern,2,3,A
+30138,D1,1993,1993-09-18,Karlsruhe,Werder Bremen,0,3,A
+30139,D1,1993,1993-09-18,RB Leipzig,Hamburg,1,4,A
+30140,D1,1993,1993-09-18,Leverkusen,Ein Frankfurt,2,2,D
+30141,D1,1993,1993-09-18,Schalke 04,Nurnberg,1,2,A
+30142,D1,1993,1993-09-18,Stuttgart,FC Koln,1,1,D
+30143,D1,1993,1993-09-25,Dortmund,Bayern Munich,1,1,D
+30144,D1,1993,1993-09-25,Ein Frankfurt,Dresden,3,2,H
+30145,D1,1993,1993-09-25,FC Koln,RB Leipzig,3,1,H
+30146,D1,1993,1993-09-25,Hamburg,Duisburg,0,1,A
+30147,D1,1993,1993-09-25,Kaiserslautern,Leverkusen,3,2,H
+30148,D1,1993,1993-09-25,Karlsruhe,Schalke 04,0,0,D
+30149,D1,1993,1993-09-25,M'Gladbach,Stuttgart,0,2,A
+30150,D1,1993,1993-09-25,Nurnberg,Freiburg,2,2,D
+30151,D1,1993,1993-09-25,Werder Bremen,Wattenscheid,0,0,D
+30152,D1,1993,1993-10-02,Bayern Munich,Hamburg,4,0,H
+30153,D1,1993,1993-10-02,Dresden,Kaiserslautern,3,1,H
+30154,D1,1993,1993-10-02,Duisburg,FC Koln,0,0,D
+30155,D1,1993,1993-10-02,Freiburg,Karlsruhe,3,3,D
+30156,D1,1993,1993-10-02,RB Leipzig,M'Gladbach,1,1,D
+30157,D1,1993,1993-10-02,Leverkusen,Nurnberg,4,0,H
+30158,D1,1993,1993-10-02,Schalke 04,Werder Bremen,1,1,D
+30159,D1,1993,1993-10-02,Stuttgart,Ein Frankfurt,0,2,A
+30160,D1,1993,1993-10-02,Wattenscheid,Dortmund,1,2,A
+30161,D1,1993,1993-10-09,Ein Frankfurt,RB Leipzig,2,1,H
+30162,D1,1993,1993-10-09,FC Koln,Bayern Munich,0,4,A
+30163,D1,1993,1993-10-09,Hamburg,Wattenscheid,2,1,H
+30164,D1,1993,1993-10-09,Kaiserslautern,Stuttgart,5,0,H
+30165,D1,1993,1993-10-09,Karlsruhe,Leverkusen,2,0,H
+30166,D1,1993,1993-10-09,M'Gladbach,Duisburg,4,1,H
+30167,D1,1993,1993-10-09,Nurnberg,Dresden,3,0,H
+30168,D1,1993,1993-10-09,Schalke 04,Freiburg,1,3,A
+30169,D1,1993,1993-10-09,Werder Bremen,Dortmund,4,0,H
+30170,D1,1993,1993-10-16,Bayern Munich,M'Gladbach,3,1,H
+30171,D1,1993,1993-10-16,Dortmund,Hamburg,2,1,H
+30172,D1,1993,1993-10-16,Dresden,Karlsruhe,1,1,D
+30173,D1,1993,1993-10-16,Duisburg,Ein Frankfurt,1,0,H
+30174,D1,1993,1993-10-16,Freiburg,Werder Bremen,0,0,D
+30175,D1,1993,1993-10-16,RB Leipzig,Kaiserslautern,0,0,D
+30176,D1,1993,1993-10-16,Leverkusen,Schalke 04,5,1,H
+30177,D1,1993,1993-10-16,Stuttgart,Nurnberg,1,0,H
+30178,D1,1993,1993-10-16,Wattenscheid,FC Koln,2,2,D
+30179,D1,1993,1993-10-23,Ein Frankfurt,Bayern Munich,2,2,D
+30180,D1,1993,1993-10-23,FC Koln,Dortmund,2,0,H
+30181,D1,1993,1993-10-23,Freiburg,Leverkusen,1,0,H
+30182,D1,1993,1993-10-23,Kaiserslautern,Duisburg,2,0,H
+30183,D1,1993,1993-10-23,Karlsruhe,Stuttgart,0,0,D
+30184,D1,1993,1993-10-23,M'Gladbach,Wattenscheid,3,3,D
+30185,D1,1993,1993-10-23,Nurnberg,RB Leipzig,5,0,H
+30186,D1,1993,1993-10-23,Schalke 04,Dresden,0,0,D
+30187,D1,1993,1993-10-23,Werder Bremen,Hamburg,0,2,A
+30188,D1,1993,1993-10-30,Bayern Munich,Kaiserslautern,4,0,H
+30189,D1,1993,1993-10-30,Dortmund,M'Gladbach,3,0,H
+30190,D1,1993,1993-10-30,Dresden,Freiburg,1,2,A
+30191,D1,1993,1993-10-30,Duisburg,Nurnberg,1,0,H
+30192,D1,1993,1993-10-30,Hamburg,FC Koln,2,4,A
+30193,D1,1993,1993-10-30,RB Leipzig,Karlsruhe,1,0,H
+30194,D1,1993,1993-10-30,Leverkusen,Werder Bremen,2,2,D
+30195,D1,1993,1993-10-30,Stuttgart,Schalke 04,3,0,H
+30196,D1,1993,1993-10-30,Wattenscheid,Ein Frankfurt,0,0,D
+30197,D1,1993,1993-11-06,Dresden,Leverkusen,1,1,D
+30198,D1,1993,1993-11-06,Ein Frankfurt,Dortmund,2,0,H
+30199,D1,1993,1993-11-06,FC Koln,Werder Bremen,2,0,H
+30200,D1,1993,1993-11-06,Freiburg,Stuttgart,2,1,H
+30201,D1,1993,1993-11-06,Kaiserslautern,Wattenscheid,4,1,H
+30202,D1,1993,1993-11-06,Karlsruhe,Duisburg,5,0,H
+30203,D1,1993,1993-11-06,M'Gladbach,Hamburg,2,2,D
+30204,D1,1993,1993-11-06,Nurnberg,Bayern Munich,2,0,H
+30205,D1,1993,1993-11-06,Schalke 04,RB Leipzig,3,1,H
+30206,D1,1993,1993-11-13,Bayern Munich,Karlsruhe,1,0,H
+30207,D1,1993,1993-11-13,Dortmund,Kaiserslautern,2,1,H
+30208,D1,1993,1993-11-13,Duisburg,Schalke 04,1,0,H
+30209,D1,1993,1993-11-13,FC Koln,M'Gladbach,0,4,A
+30210,D1,1993,1993-11-13,Hamburg,Ein Frankfurt,3,0,H
+30211,D1,1993,1993-11-13,RB Leipzig,Freiburg,2,2,D
+30212,D1,1993,1993-11-13,Stuttgart,Leverkusen,1,4,A
+30213,D1,1993,1993-11-13,Wattenscheid,Nurnberg,2,1,H
+30214,D1,1993,1993-11-13,Werder Bremen,Dresden,0,1,A
+30215,D1,1993,1993-11-20,Dresden,Stuttgart,1,0,H
+30216,D1,1993,1993-11-20,Ein Frankfurt,FC Koln,0,3,A
+30217,D1,1993,1993-11-20,Freiburg,Duisburg,1,2,A
+30218,D1,1993,1993-11-20,Kaiserslautern,Hamburg,3,0,H
+30219,D1,1993,1993-11-20,Karlsruhe,Wattenscheid,2,0,H
+30220,D1,1993,1993-11-20,Leverkusen,RB Leipzig,3,1,H
+30221,D1,1993,1993-11-20,M'Gladbach,Werder Bremen,3,2,H
+30222,D1,1993,1993-11-20,Nurnberg,Dortmund,0,0,D
+30223,D1,1993,1993-11-20,Schalke 04,Bayern Munich,1,1,D
+30224,D1,1993,1993-11-27,Dresden,RB Leipzig,1,0,H
+30225,D1,1993,1993-11-27,Ein Frankfurt,M'Gladbach,0,3,A
+30226,D1,1993,1993-11-27,Freiburg,Bayern Munich,3,1,H
+30227,D1,1993,1993-11-27,Kaiserslautern,FC Koln,3,0,H
+30228,D1,1993,1993-11-27,Karlsruhe,Dortmund,3,3,D
+30229,D1,1993,1993-11-27,Leverkusen,Duisburg,2,1,H
+30230,D1,1993,1993-11-27,Nurnberg,Hamburg,0,1,A
+30231,D1,1993,1993-11-27,Schalke 04,Wattenscheid,4,1,H
+30232,D1,1993,1993-11-27,Stuttgart,Werder Bremen,0,0,D
+30233,D1,1993,1993-12-04,Bayern Munich,Leverkusen,1,1,D
+30234,D1,1993,1993-12-04,Dortmund,Schalke 04,1,1,D
+30235,D1,1993,1993-12-04,Duisburg,Dresden,1,1,D
+30236,D1,1993,1993-12-04,FC Koln,Nurnberg,0,1,A
+30237,D1,1993,1993-12-04,Hamburg,Karlsruhe,1,1,D
+30238,D1,1993,1993-12-04,RB Leipzig,Stuttgart,0,0,D
+30239,D1,1993,1993-12-04,M'Gladbach,Kaiserslautern,3,1,H
+30240,D1,1993,1993-12-04,Wattenscheid,Freiburg,3,1,H
+30241,D1,1993,1993-12-04,Werder Bremen,Ein Frankfurt,1,0,H
+30242,D1,1993,1993-12-11,Dresden,Bayern Munich,1,1,D
+30243,D1,1993,1993-12-11,Freiburg,Dortmund,4,1,H
+30244,D1,1993,1993-12-11,Kaiserslautern,Ein Frankfurt,1,1,D
+30245,D1,1993,1993-12-11,Karlsruhe,FC Koln,2,0,H
+30246,D1,1993,1993-12-11,RB Leipzig,Werder Bremen,1,1,D
+30247,D1,1993,1993-12-11,Leverkusen,Wattenscheid,1,1,D
+30248,D1,1993,1993-12-11,Nurnberg,M'Gladbach,2,4,A
+30249,D1,1993,1993-12-11,Schalke 04,Hamburg,1,0,H
+30250,D1,1993,1993-12-11,Stuttgart,Duisburg,4,0,H
+30251,D1,1993,1994-02-12,Bayern Munich,Stuttgart,1,3,A
+30252,D1,1993,1994-02-12,Dortmund,Leverkusen,1,0,H
+30253,D1,1993,1994-02-12,Duisburg,RB Leipzig,2,1,H
+30254,D1,1993,1994-02-12,Ein Frankfurt,Nurnberg,1,1,D
+30255,D1,1993,1994-02-12,FC Koln,Schalke 04,1,1,D
+30256,D1,1993,1994-02-12,Hamburg,Freiburg,1,1,D
+30257,D1,1993,1994-02-12,M'Gladbach,Karlsruhe,1,2,A
+30258,D1,1993,1994-02-12,Wattenscheid,Dresden,1,1,D
+30259,D1,1993,1994-02-12,Werder Bremen,Kaiserslautern,2,0,H
+30260,D1,1993,1994-02-19,Dresden,Dortmund,3,0,H
+30261,D1,1993,1994-02-19,Duisburg,Werder Bremen,1,0,H
+30262,D1,1993,1994-02-19,Freiburg,FC Koln,2,4,A
+30263,D1,1993,1994-02-19,Karlsruhe,Ein Frankfurt,1,0,H
+30264,D1,1993,1994-02-19,RB Leipzig,Bayern Munich,1,3,A
+30265,D1,1993,1994-02-19,Leverkusen,Hamburg,1,2,A
+30266,D1,1993,1994-02-19,Nurnberg,Kaiserslautern,0,2,A
+30267,D1,1993,1994-02-19,Schalke 04,M'Gladbach,2,1,H
+30268,D1,1993,1994-02-19,Stuttgart,Wattenscheid,3,0,H
+30269,D1,1993,1994-02-26,Bayern Munich,Duisburg,4,0,H
+30270,D1,1993,1994-02-26,Dortmund,Stuttgart,1,2,A
+30271,D1,1993,1994-02-26,Ein Frankfurt,Schalke 04,1,3,A
+30272,D1,1993,1994-02-26,FC Koln,Leverkusen,1,1,D
+30273,D1,1993,1994-02-26,Hamburg,Dresden,1,1,D
+30274,D1,1993,1994-02-26,Kaiserslautern,Karlsruhe,0,0,D
+30275,D1,1993,1994-02-26,M'Gladbach,Freiburg,1,1,D
+30276,D1,1993,1994-02-26,Wattenscheid,RB Leipzig,2,2,D
+30277,D1,1993,1994-02-26,Werder Bremen,Nurnberg,2,2,D
+30278,D1,1993,1994-03-05,Bayern Munich,Werder Bremen,2,0,H
+30279,D1,1993,1994-03-05,Dresden,FC Koln,1,1,D
+30280,D1,1993,1994-03-05,Duisburg,Wattenscheid,2,1,H
+30281,D1,1993,1994-03-05,Freiburg,Ein Frankfurt,1,3,A
+30282,D1,1993,1994-03-05,Karlsruhe,Nurnberg,3,2,H
+30283,D1,1993,1994-03-05,RB Leipzig,Dortmund,2,3,A
+30284,D1,1993,1994-03-05,Leverkusen,M'Gladbach,0,1,A
+30285,D1,1993,1994-03-05,Schalke 04,Kaiserslautern,2,0,H
+30286,D1,1993,1994-03-05,Stuttgart,Hamburg,4,0,H
+30287,D1,1993,1994-03-12,Dortmund,Duisburg,2,1,H
+30288,D1,1993,1994-03-12,Ein Frankfurt,Leverkusen,2,0,H
+30289,D1,1993,1994-03-12,FC Koln,Stuttgart,3,1,H
+30290,D1,1993,1994-03-12,Hamburg,RB Leipzig,3,0,H
+30291,D1,1993,1994-03-12,Kaiserslautern,Freiburg,1,0,H
+30292,D1,1993,1994-03-12,M'Gladbach,Dresden,2,1,H
+30293,D1,1993,1994-03-12,Nurnberg,Schalke 04,1,0,H
+30294,D1,1993,1994-03-12,Wattenscheid,Bayern Munich,1,3,A
+30295,D1,1993,1994-03-12,Werder Bremen,Karlsruhe,0,2,A
+30296,D1,1993,1994-03-19,Bayern Munich,Dortmund,0,0,D
+30297,D1,1993,1994-03-19,Dresden,Ein Frankfurt,0,4,A
+30298,D1,1993,1994-03-19,Duisburg,Hamburg,0,1,A
+30299,D1,1993,1994-03-19,Freiburg,Nurnberg,0,0,D
+30300,D1,1993,1994-03-19,RB Leipzig,FC Koln,2,3,A
+30301,D1,1993,1994-03-19,Leverkusen,Kaiserslautern,3,2,H
+30302,D1,1993,1994-03-19,Schalke 04,Karlsruhe,2,0,H
+30303,D1,1993,1994-03-19,Stuttgart,M'Gladbach,3,0,H
+30304,D1,1993,1994-03-19,Wattenscheid,Werder Bremen,2,2,D
+30305,D1,1993,1994-03-26,Dortmund,Wattenscheid,2,0,H
+30306,D1,1993,1994-03-26,Ein Frankfurt,Stuttgart,0,0,D
+30307,D1,1993,1994-03-26,FC Koln,Duisburg,1,0,H
+30308,D1,1993,1994-03-26,Hamburg,Bayern Munich,1,2,A
+30309,D1,1993,1994-03-26,Kaiserslautern,Dresden,0,0,D
+30310,D1,1993,1994-03-26,Karlsruhe,Freiburg,2,1,H
+30311,D1,1993,1994-03-26,M'Gladbach,RB Leipzig,6,1,H
+30312,D1,1993,1994-03-26,Nurnberg,Leverkusen,2,3,A
+30313,D1,1993,1994-03-26,Werder Bremen,Schalke 04,0,1,A
+30314,D1,1993,1994-04-02,Bayern Munich,FC Koln,1,0,H
+30315,D1,1993,1994-04-02,Dortmund,Werder Bremen,3,2,H
+30316,D1,1993,1994-04-02,Dresden,Nurnberg,1,1,D
+30317,D1,1993,1994-04-02,Duisburg,M'Gladbach,2,0,H
+30318,D1,1993,1994-04-02,Freiburg,Schalke 04,2,3,A
+30319,D1,1993,1994-04-02,RB Leipzig,Ein Frankfurt,1,0,H
+30320,D1,1993,1994-04-02,Leverkusen,Karlsruhe,3,1,H
+30321,D1,1993,1994-04-02,Stuttgart,Kaiserslautern,1,1,D
+30322,D1,1993,1994-04-02,Wattenscheid,Hamburg,3,1,H
+30323,D1,1993,1994-04-03,Bayern Munich,Nurnberg,5,0,H
+30324,D1,1993,1994-04-06,Ein Frankfurt,Duisburg,1,2,A
+30325,D1,1993,1994-04-06,FC Koln,Wattenscheid,3,2,H
+30326,D1,1993,1994-04-06,Hamburg,Dortmund,0,0,D
+30327,D1,1993,1994-04-06,Kaiserslautern,RB Leipzig,1,0,H
+30328,D1,1993,1994-04-06,Karlsruhe,Dresden,1,0,H
+30329,D1,1993,1994-04-06,M'Gladbach,Bayern Munich,2,0,H
+30330,D1,1993,1994-04-06,Nurnberg,Stuttgart,1,0,H
+30331,D1,1993,1994-04-06,Schalke 04,Leverkusen,1,1,D
+30332,D1,1993,1994-04-06,Werder Bremen,Freiburg,3,2,H
+30333,D1,1993,1994-04-09,Bayern Munich,Ein Frankfurt,2,1,H
+30334,D1,1993,1994-04-09,Dortmund,FC Koln,2,1,H
+30335,D1,1993,1994-04-09,Dresden,Schalke 04,1,0,H
+30336,D1,1993,1994-04-09,Duisburg,Kaiserslautern,1,7,A
+30337,D1,1993,1994-04-09,Hamburg,Werder Bremen,1,1,D
+30338,D1,1993,1994-04-09,RB Leipzig,Nurnberg,0,2,A
+30339,D1,1993,1994-04-09,Leverkusen,Freiburg,2,1,H
+30340,D1,1993,1994-04-09,Stuttgart,Karlsruhe,3,0,H
+30341,D1,1993,1994-04-09,Wattenscheid,M'Gladbach,3,1,H
+30342,D1,1993,1994-04-16,Ein Frankfurt,Wattenscheid,5,1,H
+30343,D1,1993,1994-04-16,FC Koln,Hamburg,3,0,H
+30344,D1,1993,1994-04-16,Freiburg,Dresden,0,1,A
+30345,D1,1993,1994-04-16,Kaiserslautern,Bayern Munich,4,0,H
+30346,D1,1993,1994-04-16,Karlsruhe,RB Leipzig,3,2,H
+30347,D1,1993,1994-04-16,M'Gladbach,Dortmund,0,0,D
+30348,D1,1993,1994-04-16,Nurnberg,Duisburg,0,0,D
+30349,D1,1993,1994-04-16,Schalke 04,Stuttgart,0,1,A
+30350,D1,1993,1994-04-16,Werder Bremen,Leverkusen,2,1,H
+30351,D1,1993,1994-04-23,Dortmund,Ein Frankfurt,2,0,H
+30352,D1,1993,1994-04-23,Duisburg,Karlsruhe,1,2,A
+30353,D1,1993,1994-04-23,Hamburg,M'Gladbach,1,3,A
+30354,D1,1993,1994-04-23,RB Leipzig,Schalke 04,2,2,D
+30355,D1,1993,1994-04-23,Leverkusen,Dresden,1,1,D
+30356,D1,1993,1994-04-23,Stuttgart,Freiburg,0,4,A
+30357,D1,1993,1994-04-23,Wattenscheid,Kaiserslautern,0,2,A
+30358,D1,1993,1994-04-23,Werder Bremen,FC Koln,3,1,H
+30359,D1,1993,1994-04-30,Dresden,Werder Bremen,1,0,H
+30360,D1,1993,1994-04-30,Ein Frankfurt,Hamburg,1,1,D
+30361,D1,1993,1994-04-30,Freiburg,RB Leipzig,1,0,H
+30362,D1,1993,1994-04-30,Kaiserslautern,Dortmund,2,0,H
+30363,D1,1993,1994-04-30,Karlsruhe,Bayern Munich,1,1,D
+30364,D1,1993,1994-04-30,Leverkusen,Stuttgart,1,1,D
+30365,D1,1993,1994-04-30,M'Gladbach,FC Koln,4,1,H
+30366,D1,1993,1994-04-30,Nurnberg,Wattenscheid,4,1,H
+30367,D1,1993,1994-04-30,Schalke 04,Duisburg,1,3,A
+30368,D1,1993,1994-05-07,Bayern Munich,Schalke 04,2,0,H
+30369,D1,1993,1994-05-07,Dortmund,Nurnberg,4,1,H
+30370,D1,1993,1994-05-07,Duisburg,Freiburg,0,2,A
+30371,D1,1993,1994-05-07,FC Koln,Ein Frankfurt,2,3,A
+30372,D1,1993,1994-05-07,Hamburg,Kaiserslautern,1,3,A
+30373,D1,1993,1994-05-07,RB Leipzig,Leverkusen,2,3,A
+30374,D1,1993,1994-05-07,Stuttgart,Dresden,3,0,H
+30375,D1,1993,1994-05-07,Wattenscheid,Karlsruhe,5,1,H
+30376,D1,1993,1994-05-07,Werder Bremen,M'Gladbach,4,2,H
+30377,D2,1993,1993-07-28,Chemnitz,Wuppertaler,0,0,D
+30378,D2,1993,1993-07-28,CZ Jena,Hertha,1,1,D
+30379,D2,1993,1993-07-28,Hansa Rostock,Munich 1860,4,0,H
+30380,D2,1993,1993-07-28,Homburg,St Pauli,2,1,H
+30381,D2,1993,1993-07-28,Mannheim,F Koln,1,1,D
+30382,D2,1993,1993-07-28,Meppen,Bochum,0,1,A
+30383,D2,1993,1993-07-28,RW Essen,Saarbrucken,3,1,H
+30384,D2,1993,1993-07-28,Stuttgarter K,Hannover,0,0,D
+30385,D2,1993,1993-07-28,TB Berlin,Mainz,0,1,A
+30386,D2,1993,1993-07-28,Wolfsburg,Uerdingen,3,0,H
+30387,D2,1993,1993-07-31,Bochum,Hansa Rostock,2,0,H
+30388,D2,1993,1993-07-31,F Koln,Wolfsburg,2,0,H
+30389,D2,1993,1993-07-31,Hannover,TB Berlin,0,1,A
+30390,D2,1993,1993-07-31,Hertha,Mannheim,1,0,H
+30391,D2,1993,1993-07-31,Mainz,CZ Jena,2,0,H
+30392,D2,1993,1993-07-31,Munich 1860,RW Essen,1,0,H
+30393,D2,1993,1993-07-31,Saarbrucken,Stuttgarter K,3,0,H
+30394,D2,1993,1993-07-31,St Pauli,Chemnitz,3,0,H
+30395,D2,1993,1993-07-31,Uerdingen,Homburg,0,1,A
+30396,D2,1993,1993-07-31,Wuppertaler,Meppen,0,1,A
+30397,D2,1993,1993-08-07,Chemnitz,Uerdingen,1,4,A
+30398,D2,1993,1993-08-07,CZ Jena,Mannheim,2,2,D
+30399,D2,1993,1993-08-07,Hansa Rostock,Wuppertaler,0,1,A
+30400,D2,1993,1993-08-07,Homburg,F Koln,1,2,A
+30401,D2,1993,1993-08-07,Mainz,Hannover,1,0,H
+30402,D2,1993,1993-08-07,Meppen,St Pauli,1,1,D
+30403,D2,1993,1993-08-07,RW Essen,Bochum,0,2,A
+30404,D2,1993,1993-08-07,Stuttgarter K,Munich 1860,0,2,A
+30405,D2,1993,1993-08-07,TB Berlin,Saarbrucken,0,4,A
+30406,D2,1993,1993-08-07,Wolfsburg,Hertha,1,0,H
+30407,D2,1993,1993-08-14,Bochum,Stuttgarter K,3,1,H
+30408,D2,1993,1993-08-14,F Koln,Chemnitz,0,1,A
+30409,D2,1993,1993-08-14,Hannover,CZ Jena,1,0,H
+30410,D2,1993,1993-08-14,Hertha,Homburg,1,0,H
+30411,D2,1993,1993-08-14,Mannheim,Wolfsburg,1,1,D
+30412,D2,1993,1993-08-14,Munich 1860,TB Berlin,2,1,H
+30413,D2,1993,1993-08-14,Saarbrucken,Mainz,2,0,H
+30414,D2,1993,1993-08-14,St Pauli,Hansa Rostock,2,4,A
+30415,D2,1993,1993-08-14,Uerdingen,Meppen,1,0,H
+30416,D2,1993,1993-08-14,Wuppertaler,RW Essen,0,0,D
+30417,D2,1993,1993-08-21,Chemnitz,Hertha,1,1,D
+30418,D2,1993,1993-08-21,CZ Jena,Wolfsburg,2,0,H
+30419,D2,1993,1993-08-21,Hannover,Saarbrucken,4,1,H
+30420,D2,1993,1993-08-21,Hansa Rostock,Uerdingen,2,0,H
+30421,D2,1993,1993-08-21,Homburg,Mannheim,3,0,H
+30422,D2,1993,1993-08-21,Mainz,Munich 1860,1,1,D
+30423,D2,1993,1993-08-21,Meppen,F Koln,4,2,H
+30424,D2,1993,1993-08-21,RW Essen,St Pauli,0,0,D
+30425,D2,1993,1993-08-21,Stuttgarter K,Wuppertaler,1,0,H
+30426,D2,1993,1993-08-21,TB Berlin,Bochum,1,1,D
+30427,D2,1993,1993-08-28,Bochum,Mainz,2,0,H
+30428,D2,1993,1993-08-28,F Koln,Hansa Rostock,0,0,D
+30429,D2,1993,1993-08-28,Hertha,Meppen,1,1,D
+30430,D2,1993,1993-08-28,Mannheim,Chemnitz,1,0,H
+30431,D2,1993,1993-08-28,Munich 1860,Hannover,2,2,D
+30432,D2,1993,1993-08-28,Saarbrucken,CZ Jena,2,1,H
+30433,D2,1993,1993-08-28,St Pauli,Stuttgarter K,3,0,H
+30434,D2,1993,1993-08-28,Uerdingen,RW Essen,2,0,H
+30435,D2,1993,1993-08-28,Wolfsburg,Homburg,2,0,H
+30436,D2,1993,1993-08-28,Wuppertaler,TB Berlin,1,0,H
+30437,D2,1993,1993-09-04,Chemnitz,Wolfsburg,1,1,D
+30438,D2,1993,1993-09-04,CZ Jena,Homburg,2,1,H
+30439,D2,1993,1993-09-04,Hannover,Bochum,0,0,D
+30440,D2,1993,1993-09-04,Hansa Rostock,Hertha,2,2,D
+30441,D2,1993,1993-09-04,Mainz,Wuppertaler,1,1,D
+30442,D2,1993,1993-09-04,Meppen,Mannheim,1,0,H
+30443,D2,1993,1993-09-04,RW Essen,F Koln,3,0,H
+30444,D2,1993,1993-09-04,Saarbrucken,Munich 1860,0,2,A
+30445,D2,1993,1993-09-04,Stuttgarter K,Uerdingen,0,2,A
+30446,D2,1993,1993-09-04,TB Berlin,St Pauli,0,0,D
+30447,D2,1993,1993-09-18,Bochum,Saarbrucken,4,0,H
+30448,D2,1993,1993-09-18,F Koln,Stuttgarter K,2,1,H
+30449,D2,1993,1993-09-18,Hertha,RW Essen,3,4,A
+30450,D2,1993,1993-09-18,Homburg,Chemnitz,4,0,H
+30451,D2,1993,1993-09-18,Mannheim,Hansa Rostock,3,3,D
+30452,D2,1993,1993-09-18,Munich 1860,CZ Jena,2,0,H
+30453,D2,1993,1993-09-18,St Pauli,Mainz,1,0,H
+30454,D2,1993,1993-09-18,Uerdingen,TB Berlin,3,1,H
+30455,D2,1993,1993-09-18,Wolfsburg,Meppen,3,2,H
+30456,D2,1993,1993-09-18,Wuppertaler,Hannover,0,0,D
+30457,D2,1993,1993-09-25,CZ Jena,Chemnitz,0,2,A
+30458,D2,1993,1993-09-25,Hannover,St Pauli,4,1,H
+30459,D2,1993,1993-09-25,Hansa Rostock,Wolfsburg,2,0,H
+30460,D2,1993,1993-09-25,Mainz,Uerdingen,1,1,D
+30461,D2,1993,1993-09-25,Meppen,Homburg,2,1,H
+30462,D2,1993,1993-09-25,Munich 1860,Bochum,4,1,H
+30463,D2,1993,1993-09-25,RW Essen,Mannheim,2,0,H
+30464,D2,1993,1993-09-25,Saarbrucken,Wuppertaler,1,0,H
+30465,D2,1993,1993-09-25,Stuttgarter K,Hertha,1,1,D
+30466,D2,1993,1993-09-25,TB Berlin,F Koln,0,1,A
+30467,D2,1993,1993-10-02,Bochum,CZ Jena,3,0,H
+30468,D2,1993,1993-10-02,Chemnitz,Meppen,2,1,H
+30469,D2,1993,1993-10-02,F Koln,Mainz,1,2,A
+30470,D2,1993,1993-10-02,Hertha,TB Berlin,3,0,H
+30471,D2,1993,1993-10-02,Homburg,Hansa Rostock,0,2,A
+30472,D2,1993,1993-10-02,Mannheim,Stuttgarter K,0,1,A
+30473,D2,1993,1993-10-02,St Pauli,Saarbrucken,1,1,D
+30474,D2,1993,1993-10-02,Uerdingen,Hannover,3,2,H
+30475,D2,1993,1993-10-02,Wolfsburg,RW Essen,2,2,D
+30476,D2,1993,1993-10-02,Wuppertaler,Munich 1860,5,2,H
+30477,D2,1993,1993-10-09,Bochum,Wuppertaler,1,0,H
+30478,D2,1993,1993-10-09,CZ Jena,Meppen,0,0,D
+30479,D2,1993,1993-10-09,Hannover,F Koln,0,2,A
+30480,D2,1993,1993-10-09,Hansa Rostock,Chemnitz,2,0,H
+30481,D2,1993,1993-10-09,Mainz,Hertha,1,1,D
+30482,D2,1993,1993-10-09,Munich 1860,St Pauli,1,0,H
+30483,D2,1993,1993-10-09,RW Essen,Homburg,3,3,D
+30484,D2,1993,1993-10-09,Saarbrucken,Uerdingen,2,1,H
+30485,D2,1993,1993-10-09,Stuttgarter K,Wolfsburg,0,0,D
+30486,D2,1993,1993-10-09,TB Berlin,Mannheim,0,1,A
+30487,D2,1993,1993-10-16,Chemnitz,RW Essen,2,1,H
+30488,D2,1993,1993-10-16,F Koln,Saarbrucken,7,4,H
+30489,D2,1993,1993-10-16,Hertha,Hannover,0,0,D
+30490,D2,1993,1993-10-16,Homburg,Stuttgarter K,3,2,H
+30491,D2,1993,1993-10-16,Mannheim,Mainz,1,0,H
+30492,D2,1993,1993-10-16,Meppen,Hansa Rostock,4,1,H
+30493,D2,1993,1993-10-16,St Pauli,Bochum,1,1,D
+30494,D2,1993,1993-10-16,Uerdingen,Munich 1860,1,0,H
+30495,D2,1993,1993-10-16,Wolfsburg,TB Berlin,2,1,H
+30496,D2,1993,1993-10-16,Wuppertaler,CZ Jena,0,5,A
+30497,D2,1993,1993-10-23,Bochum,Uerdingen,0,0,D
+30498,D2,1993,1993-10-23,CZ Jena,Hansa Rostock,0,0,D
+30499,D2,1993,1993-10-23,Hannover,Mannheim,1,1,D
+30500,D2,1993,1993-10-23,Mainz,Wolfsburg,1,2,A
+30501,D2,1993,1993-10-23,Munich 1860,F Koln,2,1,H
+30502,D2,1993,1993-10-23,RW Essen,Meppen,4,1,H
+30503,D2,1993,1993-10-23,Saarbrucken,Hertha,4,2,H
+30504,D2,1993,1993-10-23,Stuttgarter K,Chemnitz,2,0,H
+30505,D2,1993,1993-10-23,TB Berlin,Homburg,0,1,A
+30506,D2,1993,1993-10-23,Wuppertaler,St Pauli,2,1,H
+30507,D2,1993,1993-10-30,Chemnitz,TB Berlin,1,0,H
+30508,D2,1993,1993-10-30,F Koln,Bochum,1,2,A
+30509,D2,1993,1993-10-30,Hansa Rostock,RW Essen,0,2,A
+30510,D2,1993,1993-10-30,Hertha,Munich 1860,0,1,A
+30511,D2,1993,1993-10-30,Homburg,Mainz,1,0,H
+30512,D2,1993,1993-10-30,Mannheim,Saarbrucken,3,0,H
+30513,D2,1993,1993-10-30,Meppen,Stuttgarter K,2,2,D
+30514,D2,1993,1993-10-30,St Pauli,CZ Jena,2,1,H
+30515,D2,1993,1993-10-30,Uerdingen,Wuppertaler,1,1,D
+30516,D2,1993,1993-10-30,Wolfsburg,Hannover,0,0,D
+30517,D2,1993,1993-11-06,Bochum,Hertha,3,1,H
+30518,D2,1993,1993-11-06,CZ Jena,RW Essen,2,0,H
+30519,D2,1993,1993-11-06,Hannover,Homburg,1,3,A
+30520,D2,1993,1993-11-06,Mainz,Chemnitz,5,1,H
+30521,D2,1993,1993-11-06,Munich 1860,Mannheim,3,1,H
+30522,D2,1993,1993-11-06,Saarbrucken,Wolfsburg,2,1,H
+30523,D2,1993,1993-11-06,St Pauli,Uerdingen,0,0,D
+30524,D2,1993,1993-11-06,Stuttgarter K,Hansa Rostock,3,2,H
+30525,D2,1993,1993-11-06,TB Berlin,Meppen,1,1,D
+30526,D2,1993,1993-11-06,Wuppertaler,F Koln,1,2,A
+30527,D2,1993,1993-11-13,Chemnitz,Hannover,1,0,H
+30528,D2,1993,1993-11-13,F Koln,St Pauli,1,2,A
+30529,D2,1993,1993-11-13,Hansa Rostock,TB Berlin,2,1,H
+30530,D2,1993,1993-11-13,Hertha,Wuppertaler,0,3,A
+30531,D2,1993,1993-11-13,Homburg,Saarbrucken,2,2,D
+30532,D2,1993,1993-11-13,Mannheim,Bochum,1,0,H
+30533,D2,1993,1993-11-13,Meppen,Mainz,1,1,D
+30534,D2,1993,1993-11-13,RW Essen,Stuttgarter K,0,0,D
+30535,D2,1993,1993-11-13,Uerdingen,CZ Jena,0,0,D
+30536,D2,1993,1993-11-13,Wolfsburg,Munich 1860,0,0,D
+30537,D2,1993,1993-11-20,Bochum,Wolfsburg,2,0,H
+30538,D2,1993,1993-11-20,Hannover,Meppen,1,1,D
+30539,D2,1993,1993-11-20,Mainz,Hansa Rostock,3,1,H
+30540,D2,1993,1993-11-20,Munich 1860,Homburg,1,0,H
+30541,D2,1993,1993-11-20,Saarbrucken,Chemnitz,1,0,H
+30542,D2,1993,1993-11-20,St Pauli,Hertha,1,0,H
+30543,D2,1993,1993-11-20,Stuttgarter K,CZ Jena,0,2,A
+30544,D2,1993,1993-11-20,TB Berlin,RW Essen,2,2,D
+30545,D2,1993,1993-11-20,Uerdingen,F Koln,0,2,A
+30546,D2,1993,1993-11-20,Wuppertaler,Mannheim,1,1,D
+30547,D2,1993,1993-11-27,Chemnitz,Munich 1860,1,1,D
+30548,D2,1993,1993-11-27,CZ Jena,F Koln,2,2,D
+30549,D2,1993,1993-11-27,Hansa Rostock,Hannover,3,1,H
+30550,D2,1993,1993-11-27,Hertha,Uerdingen,1,1,D
+30551,D2,1993,1993-11-27,Homburg,Bochum,0,0,D
+30552,D2,1993,1993-11-27,Mannheim,St Pauli,0,0,D
+30553,D2,1993,1993-11-27,Meppen,Saarbrucken,3,0,H
+30554,D2,1993,1993-11-27,RW Essen,Mainz,0,0,D
+30555,D2,1993,1993-11-27,Stuttgarter K,TB Berlin,3,1,H
+30556,D2,1993,1993-11-27,Wolfsburg,Wuppertaler,2,1,H
+30557,D2,1993,1993-12-04,Bochum,Chemnitz,3,2,H
+30558,D2,1993,1993-12-04,F Koln,Hertha,1,3,A
+30559,D2,1993,1993-12-04,Hannover,RW Essen,2,0,H
+30560,D2,1993,1993-12-04,Mainz,Stuttgarter K,4,0,H
+30561,D2,1993,1993-12-04,Munich 1860,Meppen,1,2,A
+30562,D2,1993,1993-12-04,Saarbrucken,Hansa Rostock,4,0,H
+30563,D2,1993,1993-12-04,St Pauli,Wolfsburg,1,0,H
+30564,D2,1993,1993-12-04,TB Berlin,CZ Jena,0,0,D
+30565,D2,1993,1993-12-04,Uerdingen,Mannheim,1,2,A
+30566,D2,1993,1993-12-04,Wuppertaler,Homburg,1,1,D
+30567,D2,1993,1994-02-19,Bochum,Meppen,4,0,H
+30568,D2,1993,1994-02-19,F Koln,Mannheim,0,0,D
+30569,D2,1993,1994-02-19,Hannover,Stuttgarter K,1,0,H
+30570,D2,1993,1994-02-19,Hertha,CZ Jena,0,0,D
+30571,D2,1993,1994-02-19,Mainz,TB Berlin,1,4,A
+30572,D2,1993,1994-02-19,Munich 1860,Hansa Rostock,1,2,A
+30573,D2,1993,1994-02-19,Saarbrucken,RW Essen,3,1,H
+30574,D2,1993,1994-02-19,St Pauli,Homburg,3,0,H
+30575,D2,1993,1994-02-19,Uerdingen,Wolfsburg,0,0,D
+30576,D2,1993,1994-02-19,Wuppertaler,Chemnitz,2,2,D
+30577,D2,1993,1994-02-26,Chemnitz,St Pauli,0,0,D
+30578,D2,1993,1994-02-26,CZ Jena,Mainz,2,0,H
+30579,D2,1993,1994-02-26,Hansa Rostock,Bochum,2,1,H
+30580,D2,1993,1994-02-26,Homburg,Uerdingen,0,1,A
+30581,D2,1993,1994-02-26,Mannheim,Hertha,2,2,D
+30582,D2,1993,1994-02-26,Stuttgarter K,Saarbrucken,2,2,D
+30583,D2,1993,1994-02-26,TB Berlin,Hannover,1,2,A
+30584,D2,1993,1994-03-05,Bochum,RW Essen,2,0,H
+30585,D2,1993,1994-03-05,F Koln,Homburg,2,1,H
+30586,D2,1993,1994-03-05,Hannover,Mainz,1,1,D
+30587,D2,1993,1994-03-05,Hertha,Wolfsburg,4,0,H
+30588,D2,1993,1994-03-05,Mannheim,CZ Jena,2,0,H
+30589,D2,1993,1994-03-05,Munich 1860,Stuttgarter K,1,3,A
+30590,D2,1993,1994-03-05,Saarbrucken,TB Berlin,2,2,D
+30591,D2,1993,1994-03-05,St Pauli,Meppen,1,0,H
+30592,D2,1993,1994-03-05,Uerdingen,Chemnitz,2,0,H
+30593,D2,1993,1994-03-05,Wuppertaler,Hansa Rostock,4,1,H
+30594,D2,1993,1994-03-12,Chemnitz,F Koln,1,0,H
+30595,D2,1993,1994-03-12,CZ Jena,Hannover,2,2,D
+30596,D2,1993,1994-03-12,Homburg,Hertha,1,1,D
+30597,D2,1993,1994-03-12,Mainz,Saarbrucken,1,1,D
+30598,D2,1993,1994-03-12,Meppen,Uerdingen,0,2,A
+30599,D2,1993,1994-03-12,RW Essen,Wuppertaler,0,0,D
+30600,D2,1993,1994-03-12,Stuttgarter K,Bochum,0,0,D
+30601,D2,1993,1994-03-12,TB Berlin,Munich 1860,1,0,H
+30602,D2,1993,1994-03-12,Wolfsburg,Mannheim,2,2,D
+30603,D2,1993,1994-03-19,Bochum,TB Berlin,5,1,H
+30604,D2,1993,1994-03-19,F Koln,Meppen,1,1,D
+30605,D2,1993,1994-03-19,Hertha,Chemnitz,1,2,A
+30606,D2,1993,1994-03-19,Mannheim,Homburg,2,1,H
+30607,D2,1993,1994-03-19,Munich 1860,Mainz,0,2,A
+30608,D2,1993,1994-03-19,Saarbrucken,Hannover,0,4,A
+30609,D2,1993,1994-03-19,St Pauli,RW Essen,1,0,H
+30610,D2,1993,1994-03-19,Uerdingen,Hansa Rostock,2,1,H
+30611,D2,1993,1994-03-19,Wolfsburg,CZ Jena,5,1,H
+30612,D2,1993,1994-03-26,Chemnitz,Mannheim,0,0,D
+30613,D2,1993,1994-03-26,CZ Jena,Saarbrucken,1,2,A
+30614,D2,1993,1994-03-26,Hannover,Munich 1860,1,4,A
+30615,D2,1993,1994-03-26,Hansa Rostock,F Koln,1,1,D
+30616,D2,1993,1994-03-26,Homburg,Wolfsburg,0,0,D
+30617,D2,1993,1994-03-26,Mainz,Bochum,3,2,H
+30618,D2,1993,1994-03-26,Meppen,Hertha,1,0,H
+30619,D2,1993,1994-03-26,RW Essen,Uerdingen,0,2,A
+30620,D2,1993,1994-03-26,Stuttgarter K,St Pauli,1,1,D
+30621,D2,1993,1994-03-26,TB Berlin,Wuppertaler,1,1,D
+30622,D2,1993,1994-04-02,Bochum,Hannover,2,2,D
+30623,D2,1993,1994-04-02,F Koln,RW Essen,0,1,A
+30624,D2,1993,1994-04-02,Hertha,Hansa Rostock,0,1,A
+30625,D2,1993,1994-04-02,Homburg,CZ Jena,2,1,H
+30626,D2,1993,1994-04-02,Mannheim,Meppen,2,1,H
+30627,D2,1993,1994-04-02,Munich 1860,Saarbrucken,2,0,H
+30628,D2,1993,1994-04-02,St Pauli,TB Berlin,2,1,H
+30629,D2,1993,1994-04-02,Uerdingen,Stuttgarter K,1,1,D
+30630,D2,1993,1994-04-02,Wolfsburg,Chemnitz,2,0,H
+30631,D2,1993,1994-04-02,Wuppertaler,Mainz,1,3,A
+30632,D2,1993,1994-04-06,Chemnitz,Homburg,2,1,H
+30633,D2,1993,1994-04-06,CZ Jena,Munich 1860,1,1,D
+30634,D2,1993,1994-04-06,Hannover,Wuppertaler,2,0,H
+30635,D2,1993,1994-04-06,Hansa Rostock,Mannheim,1,0,H
+30636,D2,1993,1994-04-06,Mainz,St Pauli,0,1,A
+30637,D2,1993,1994-04-06,Meppen,Wolfsburg,2,1,H
+30638,D2,1993,1994-04-06,RW Essen,Hertha,2,0,H
+30639,D2,1993,1994-04-06,Saarbrucken,Bochum,0,1,A
+30640,D2,1993,1994-04-06,Stuttgarter K,F Koln,0,0,D
+30641,D2,1993,1994-04-06,TB Berlin,Uerdingen,1,1,D
+30642,D2,1993,1994-04-09,Bochum,Munich 1860,2,0,H
+30643,D2,1993,1994-04-09,Chemnitz,CZ Jena,0,0,D
+30644,D2,1993,1994-04-09,F Koln,TB Berlin,3,1,H
+30645,D2,1993,1994-04-09,Hertha,Stuttgarter K,0,0,D
+30646,D2,1993,1994-04-09,Homburg,Meppen,5,0,H
+30647,D2,1993,1994-04-09,Mannheim,RW Essen,2,2,D
+30648,D2,1993,1994-04-09,St Pauli,Hannover,2,1,H
+30649,D2,1993,1994-04-09,Uerdingen,Mainz,3,0,H
+30650,D2,1993,1994-04-09,Wolfsburg,Hansa Rostock,1,1,D
+30651,D2,1993,1994-04-09,Wuppertaler,Saarbrucken,4,0,H
+30652,D2,1993,1994-04-16,Hannover,Uerdingen,2,1,H
+30653,D2,1993,1994-04-16,Hansa Rostock,Homburg,3,2,H
+30654,D2,1993,1994-04-16,Mainz,F Koln,0,3,A
+30655,D2,1993,1994-04-16,Meppen,Chemnitz,2,1,H
+30656,D2,1993,1994-04-16,Munich 1860,Wuppertaler,3,1,H
+30657,D2,1993,1994-04-16,RW Essen,Wolfsburg,0,1,A
+30658,D2,1993,1994-04-16,Saarbrucken,St Pauli,1,1,D
+30659,D2,1993,1994-04-16,Stuttgarter K,Mannheim,4,2,H
+30660,D2,1993,1994-04-18,Hansa Rostock,St Pauli,0,1,A
+30661,D2,1993,1994-04-18,RW Essen,Munich 1860,1,4,A
+30662,D2,1993,1994-04-18,Wolfsburg,F Koln,2,1,H
+30663,D2,1993,1994-04-23,Chemnitz,Hansa Rostock,3,0,H
+30664,D2,1993,1994-04-23,F Koln,Hannover,4,1,H
+30665,D2,1993,1994-04-23,Hertha,Mainz,5,0,H
+30666,D2,1993,1994-04-23,Homburg,RW Essen,1,1,D
+30667,D2,1993,1994-04-23,Mannheim,TB Berlin,2,2,D
+30668,D2,1993,1994-04-23,Meppen,CZ Jena,1,1,D
+30669,D2,1993,1994-04-23,St Pauli,Munich 1860,2,1,H
+30670,D2,1993,1994-04-23,Uerdingen,Saarbrucken,1,3,A
+30671,D2,1993,1994-04-23,Wolfsburg,Stuttgarter K,1,0,H
+30672,D2,1993,1994-04-23,Wuppertaler,Bochum,3,1,H
+30673,D2,1993,1994-04-30,Bochum,St Pauli,1,1,D
+30674,D2,1993,1994-04-30,CZ Jena,Wuppertaler,2,1,H
+30675,D2,1993,1994-04-30,Hannover,Hertha,0,2,A
+30676,D2,1993,1994-04-30,Hansa Rostock,Meppen,1,1,D
+30677,D2,1993,1994-04-30,Mainz,Mannheim,2,1,H
+30678,D2,1993,1994-04-30,Munich 1860,Uerdingen,0,0,D
+30679,D2,1993,1994-04-30,RW Essen,Chemnitz,0,1,A
+30680,D2,1993,1994-04-30,Saarbrucken,F Koln,4,1,H
+30681,D2,1993,1994-04-30,Stuttgarter K,Homburg,2,3,A
+30682,D2,1993,1994-04-30,TB Berlin,Wolfsburg,3,2,H
+30683,D2,1993,1994-05-02,TB Berlin,Hertha,1,2,A
+30684,D2,1993,1994-05-02,Wuppertaler,Stuttgarter K,0,1,A
+30685,D2,1993,1994-05-07,Chemnitz,Stuttgarter K,1,0,H
+30686,D2,1993,1994-05-07,F Koln,Munich 1860,0,0,D
+30687,D2,1993,1994-05-07,Hansa Rostock,CZ Jena,0,0,D
+30688,D2,1993,1994-05-07,Hertha,Saarbrucken,3,1,H
+30689,D2,1993,1994-05-07,Homburg,TB Berlin,0,2,A
+30690,D2,1993,1994-05-07,Meppen,RW Essen,2,1,H
+30691,D2,1993,1994-05-07,St Pauli,Wuppertaler,1,2,A
+30692,D2,1993,1994-05-07,Wolfsburg,Mainz,2,0,H
+30693,D2,1993,1994-05-09,Mannheim,Hannover,1,1,D
+30694,D2,1993,1994-05-09,Meppen,Wuppertaler,2,1,H
+30695,D2,1993,1994-05-14,Bochum,F Koln,1,0,H
+30696,D2,1993,1994-05-14,CZ Jena,St Pauli,1,0,H
+30697,D2,1993,1994-05-14,Hannover,Wolfsburg,2,0,H
+30698,D2,1993,1994-05-14,Mainz,Homburg,1,1,D
+30699,D2,1993,1994-05-14,RW Essen,Hansa Rostock,2,0,H
+30700,D2,1993,1994-05-14,Saarbrucken,Mannheim,1,1,D
+30701,D2,1993,1994-05-14,Stuttgarter K,Meppen,1,0,H
+30702,D2,1993,1994-05-14,TB Berlin,Chemnitz,0,0,D
+30703,D2,1993,1994-05-14,Wuppertaler,Uerdingen,1,3,A
+30704,D2,1993,1994-05-16,CZ Jena,Bochum,0,0,D
+30705,D2,1993,1994-05-16,Munich 1860,Hertha,1,0,H
+30706,D2,1993,1994-05-21,Chemnitz,Mainz,0,0,D
+30707,D2,1993,1994-05-21,F Koln,Wuppertaler,3,0,H
+30708,D2,1993,1994-05-21,Hansa Rostock,Stuttgarter K,2,0,H
+30709,D2,1993,1994-05-21,Hertha,Bochum,1,1,D
+30710,D2,1993,1994-05-21,Homburg,Hannover,2,0,H
+30711,D2,1993,1994-05-21,Mannheim,Munich 1860,1,1,D
+30712,D2,1993,1994-05-21,Meppen,TB Berlin,2,1,H
+30713,D2,1993,1994-05-21,RW Essen,CZ Jena,0,5,A
+30714,D2,1993,1994-05-21,Uerdingen,St Pauli,3,0,H
+30715,D2,1993,1994-05-21,Wolfsburg,Saarbrucken,3,1,H
+30716,D2,1993,1994-05-25,Bochum,Mannheim,0,1,A
+30717,D2,1993,1994-05-25,CZ Jena,Uerdingen,0,2,A
+30718,D2,1993,1994-05-25,Hannover,Chemnitz,0,0,D
+30719,D2,1993,1994-05-25,Mainz,Meppen,3,0,H
+30720,D2,1993,1994-05-25,Munich 1860,Wolfsburg,4,0,H
+30721,D2,1993,1994-05-25,Saarbrucken,Homburg,0,0,D
+30722,D2,1993,1994-05-25,St Pauli,F Koln,3,2,H
+30723,D2,1993,1994-05-25,Stuttgarter K,RW Essen,4,2,H
+30724,D2,1993,1994-05-25,TB Berlin,Hansa Rostock,0,0,D
+30725,D2,1993,1994-05-25,Wuppertaler,Hertha,1,2,A
+30726,D2,1993,1994-05-28,Chemnitz,Saarbrucken,3,1,H
+30727,D2,1993,1994-05-28,CZ Jena,Stuttgarter K,0,0,D
+30728,D2,1993,1994-05-28,F Koln,Uerdingen,0,1,A
+30729,D2,1993,1994-05-28,Hansa Rostock,Mainz,2,3,A
+30730,D2,1993,1994-05-28,Hertha,St Pauli,2,1,H
+30731,D2,1993,1994-05-28,Homburg,Munich 1860,0,0,D
+30732,D2,1993,1994-05-28,Mannheim,Wuppertaler,2,0,H
+30733,D2,1993,1994-05-28,Meppen,Hannover,4,1,H
+30734,D2,1993,1994-05-28,RW Essen,TB Berlin,4,6,A
+30735,D2,1993,1994-05-28,Wolfsburg,Bochum,0,1,A
+30736,D2,1993,1994-05-30,Uerdingen,Bochum,3,0,H
+30737,D2,1993,1994-06-04,Bochum,Homburg,1,4,A
+30738,D2,1993,1994-06-04,F Koln,CZ Jena,1,1,D
+30739,D2,1993,1994-06-04,Hannover,Hansa Rostock,5,0,H
+30740,D2,1993,1994-06-04,Mainz,RW Essen,1,1,D
+30741,D2,1993,1994-06-04,Munich 1860,Chemnitz,3,1,H
+30742,D2,1993,1994-06-04,Saarbrucken,Meppen,1,1,D
+30743,D2,1993,1994-06-04,St Pauli,Mannheim,4,1,H
+30744,D2,1993,1994-06-04,TB Berlin,Stuttgarter K,2,2,D
+30745,D2,1993,1994-06-04,Uerdingen,Hertha,0,0,D
+30746,D2,1993,1994-06-04,Wuppertaler,Wolfsburg,2,1,H
+30747,D2,1993,1994-06-11,Chemnitz,Bochum,1,0,H
+30748,D2,1993,1994-06-11,CZ Jena,TB Berlin,0,2,A
+30749,D2,1993,1994-06-11,Hansa Rostock,Saarbrucken,3,1,H
+30750,D2,1993,1994-06-11,Hertha,F Koln,1,1,D
+30751,D2,1993,1994-06-11,Homburg,Wuppertaler,2,2,D
+30752,D2,1993,1994-06-11,Mannheim,Uerdingen,2,0,H
+30753,D2,1993,1994-06-11,Meppen,Munich 1860,0,1,A
+30754,D2,1993,1994-06-11,RW Essen,Hannover,0,2,A
+30755,D2,1993,1994-06-11,Stuttgarter K,Mainz,4,1,H
+30756,D2,1993,1994-06-11,Wolfsburg,St Pauli,4,1,H
+37491,E0,1993,1993-08-14,Arsenal,Coventry,0,3,A
+37492,E0,1993,1993-08-14,Aston Villa,QPR,4,1,H
+37493,E0,1993,1993-08-14,Chelsea,Blackburn,1,2,A
+37494,E0,1993,1993-08-14,Liverpool,Sheffield Weds,2,0,H
+37495,E0,1993,1993-08-14,Man City,Leeds,1,1,D
+37496,E0,1993,1993-08-14,Newcastle,Tottenham,0,1,A
+37497,E0,1993,1993-08-14,Oldham,Ipswich,0,3,A
+37498,E0,1993,1993-08-14,Sheffield United,Swindon,3,1,H
+37499,E0,1993,1993-08-14,Southampton,Everton,0,2,A
+37500,E0,1993,1993-08-14,West Ham,Wimbledon,0,2,A
+37501,E0,1993,1993-08-15,Norwich,Man United,0,2,A
+37502,E0,1993,1993-08-16,Tottenham,Arsenal,0,1,A
+37503,E0,1993,1993-08-17,Everton,Man City,1,0,H
+37504,E0,1993,1993-08-17,Ipswich,Southampton,1,0,H
+37505,E0,1993,1993-08-17,Leeds,West Ham,1,0,H
+37506,E0,1993,1993-08-17,Wimbledon,Chelsea,1,1,D
+37507,E0,1993,1993-08-18,Blackburn,Norwich,2,3,A
+37508,E0,1993,1993-08-18,Coventry,Newcastle,2,1,H
+37509,E0,1993,1993-08-18,Man United,Sheffield United,3,0,H
+37510,E0,1993,1993-08-18,QPR,Liverpool,1,3,A
+37511,E0,1993,1993-08-18,Sheffield Weds,Aston Villa,0,0,D
+37512,E0,1993,1993-08-18,Swindon,Oldham,0,1,A
+37513,E0,1993,1993-08-21,Blackburn,Oldham,1,0,H
+37514,E0,1993,1993-08-21,Coventry,West Ham,1,1,D
+37515,E0,1993,1993-08-21,Everton,Sheffield United,4,2,H
+37516,E0,1993,1993-08-21,Ipswich,Chelsea,1,0,H
+37517,E0,1993,1993-08-21,Leeds,Norwich,0,4,A
+37518,E0,1993,1993-08-21,Man United,Newcastle,1,1,D
+37519,E0,1993,1993-08-21,QPR,Southampton,2,1,H
+37520,E0,1993,1993-08-21,Sheffield Weds,Arsenal,0,1,A
+37521,E0,1993,1993-08-21,Tottenham,Man City,1,0,H
+37522,E0,1993,1993-08-21,Wimbledon,Aston Villa,2,2,D
+37523,E0,1993,1993-08-22,Swindon,Liverpool,0,5,A
+37524,E0,1993,1993-08-23,Aston Villa,Man United,1,2,A
+37525,E0,1993,1993-08-24,Arsenal,Leeds,2,1,H
+37526,E0,1993,1993-08-24,Man City,Blackburn,0,2,A
+37527,E0,1993,1993-08-24,Oldham,Coventry,3,3,D
+37528,E0,1993,1993-08-24,Sheffield United,Wimbledon,2,1,H
+37529,E0,1993,1993-08-25,Chelsea,QPR,2,0,H
+37530,E0,1993,1993-08-25,Liverpool,Tottenham,1,2,A
+37531,E0,1993,1993-08-25,Newcastle,Everton,1,0,H
+37532,E0,1993,1993-08-25,Norwich,Ipswich,1,0,H
+37533,E0,1993,1993-08-25,Southampton,Swindon,5,1,H
+37534,E0,1993,1993-08-25,West Ham,Sheffield Weds,2,0,H
+37535,E0,1993,1993-08-27,Man City,Coventry,1,1,D
+37536,E0,1993,1993-08-28,Arsenal,Everton,2,0,H
+37537,E0,1993,1993-08-28,Aston Villa,Tottenham,1,0,H
+37538,E0,1993,1993-08-28,Chelsea,Sheffield Weds,1,1,D
+37539,E0,1993,1993-08-28,Liverpool,Leeds,2,0,H
+37540,E0,1993,1993-08-28,Norwich,Swindon,0,0,D
+37541,E0,1993,1993-08-28,Oldham,Wimbledon,1,1,D
+37542,E0,1993,1993-08-28,Sheffield United,Ipswich,1,1,D
+37543,E0,1993,1993-08-28,Southampton,Man United,1,3,A
+37544,E0,1993,1993-08-28,West Ham,QPR,0,4,A
+37545,E0,1993,1993-08-29,Newcastle,Blackburn,1,1,D
+37546,E0,1993,1993-08-30,Leeds,Oldham,1,0,H
+37547,E0,1993,1993-08-31,Everton,Aston Villa,0,1,A
+37548,E0,1993,1993-08-31,Ipswich,Newcastle,1,1,D
+37549,E0,1993,1993-08-31,Wimbledon,Southampton,1,0,H
+37550,E0,1993,1993-09-01,Blackburn,Arsenal,1,1,D
+37551,E0,1993,1993-09-01,Coventry,Liverpool,1,0,H
+37552,E0,1993,1993-09-01,Man United,West Ham,3,0,H
+37553,E0,1993,1993-09-01,QPR,Sheffield United,2,1,H
+37554,E0,1993,1993-09-01,Sheffield Weds,Norwich,3,3,D
+37555,E0,1993,1993-09-01,Swindon,Man City,1,3,A
+37556,E0,1993,1993-09-01,Tottenham,Chelsea,1,1,D
+37557,E0,1993,1993-09-11,Arsenal,Ipswich,4,0,H
+37558,E0,1993,1993-09-11,Aston Villa,Coventry,0,0,D
+37559,E0,1993,1993-09-11,Chelsea,Man United,1,0,H
+37560,E0,1993,1993-09-11,Man City,QPR,3,0,H
+37561,E0,1993,1993-09-11,Norwich,Wimbledon,0,1,A
+37562,E0,1993,1993-09-11,Oldham,Everton,0,1,A
+37563,E0,1993,1993-09-11,Sheffield United,Tottenham,2,2,D
+37564,E0,1993,1993-09-11,Southampton,Leeds,0,2,A
+37565,E0,1993,1993-09-11,West Ham,Swindon,0,0,D
+37566,E0,1993,1993-09-12,Liverpool,Blackburn,0,1,A
+37567,E0,1993,1993-09-13,Newcastle,Sheffield Weds,4,2,H
+37568,E0,1993,1993-09-18,Blackburn,West Ham,0,2,A
+37569,E0,1993,1993-09-18,Coventry,Chelsea,1,1,D
+37570,E0,1993,1993-09-18,Everton,Liverpool,2,0,H
+37571,E0,1993,1993-09-18,Ipswich,Aston Villa,1,2,A
+37572,E0,1993,1993-09-18,Leeds,Sheffield United,2,1,H
+37573,E0,1993,1993-09-18,QPR,Norwich,2,2,D
+37574,E0,1993,1993-09-18,Sheffield Weds,Southampton,2,0,H
+37575,E0,1993,1993-09-18,Swindon,Newcastle,2,2,D
+37576,E0,1993,1993-09-18,Tottenham,Oldham,5,0,H
+37577,E0,1993,1993-09-19,Man United,Arsenal,1,0,H
+37578,E0,1993,1993-09-20,Wimbledon,Man City,1,0,H
+37579,E0,1993,1993-09-25,Arsenal,Southampton,1,0,H
+37580,E0,1993,1993-09-25,Blackburn,Sheffield Weds,1,1,D
+37581,E0,1993,1993-09-25,Chelsea,Liverpool,1,0,H
+37582,E0,1993,1993-09-25,Coventry,Leeds,0,2,A
+37583,E0,1993,1993-09-25,Everton,Norwich,1,5,A
+37584,E0,1993,1993-09-25,Man United,Swindon,4,2,H
+37585,E0,1993,1993-09-25,Newcastle,West Ham,2,0,H
+37586,E0,1993,1993-09-25,Oldham,Aston Villa,1,1,D
+37587,E0,1993,1993-09-25,Sheffield United,Man City,0,1,A
+37588,E0,1993,1993-09-26,Ipswich,Tottenham,2,2,D
+37589,E0,1993,1993-09-27,Wimbledon,QPR,1,1,D
+37590,E0,1993,1993-10-02,Aston Villa,Newcastle,0,2,A
+37591,E0,1993,1993-10-02,Leeds,Wimbledon,4,0,H
+37592,E0,1993,1993-10-02,Liverpool,Arsenal,0,0,D
+37593,E0,1993,1993-10-02,Norwich,Coventry,1,0,H
+37594,E0,1993,1993-10-02,QPR,Ipswich,3,0,H
+37595,E0,1993,1993-10-02,Sheffield Weds,Man United,2,3,A
+37596,E0,1993,1993-10-02,Southampton,Sheffield United,3,3,D
+37597,E0,1993,1993-10-02,Swindon,Blackburn,1,3,A
+37598,E0,1993,1993-10-02,West Ham,Chelsea,1,0,H
+37599,E0,1993,1993-10-03,Tottenham,Everton,3,2,H
+37600,E0,1993,1993-10-04,Man City,Oldham,1,1,D
+37601,E0,1993,1993-10-16,Arsenal,Man City,0,0,D
+37602,E0,1993,1993-10-16,Chelsea,Norwich,1,2,A
+37603,E0,1993,1993-10-16,Coventry,Southampton,1,1,D
+37604,E0,1993,1993-10-16,Liverpool,Oldham,2,1,H
+37605,E0,1993,1993-10-16,Man United,Tottenham,2,1,H
+37606,E0,1993,1993-10-16,Newcastle,QPR,1,2,A
+37607,E0,1993,1993-10-16,Sheffield Weds,Wimbledon,2,2,D
+37608,E0,1993,1993-10-16,Swindon,Everton,1,1,D
+37609,E0,1993,1993-10-16,West Ham,Aston Villa,0,0,D
+37610,E0,1993,1993-10-17,Ipswich,Leeds,0,0,D
+37611,E0,1993,1993-10-18,Blackburn,Sheffield United,0,0,D
+37612,E0,1993,1993-10-23,Aston Villa,Chelsea,1,0,H
+37613,E0,1993,1993-10-23,Everton,Man United,0,1,A
+37614,E0,1993,1993-10-23,Leeds,Blackburn,3,3,D
+37615,E0,1993,1993-10-23,Man City,Liverpool,1,1,D
+37616,E0,1993,1993-10-23,Norwich,West Ham,0,0,D
+37617,E0,1993,1993-10-23,Oldham,Arsenal,0,0,D
+37618,E0,1993,1993-10-23,QPR,Coventry,5,1,H
+37619,E0,1993,1993-10-23,Sheffield United,Sheffield Weds,1,1,D
+37620,E0,1993,1993-10-23,Tottenham,Swindon,1,1,D
+37621,E0,1993,1993-10-24,Southampton,Newcastle,2,1,H
+37622,E0,1993,1993-10-25,Wimbledon,Ipswich,0,2,A
+37623,E0,1993,1993-10-30,Arsenal,Norwich,0,0,D
+37624,E0,1993,1993-10-30,Blackburn,Tottenham,1,0,H
+37625,E0,1993,1993-10-30,Chelsea,Oldham,0,1,A
+37626,E0,1993,1993-10-30,Ipswich,Everton,0,2,A
+37627,E0,1993,1993-10-30,Liverpool,Southampton,4,2,H
+37628,E0,1993,1993-10-30,Man United,QPR,2,1,H
+37629,E0,1993,1993-10-30,Newcastle,Wimbledon,4,0,H
+37630,E0,1993,1993-10-30,Sheffield Weds,Leeds,3,3,D
+37631,E0,1993,1993-10-30,Swindon,Aston Villa,1,2,A
+37632,E0,1993,1993-10-31,Coventry,Sheffield United,0,0,D
+37633,E0,1993,1993-11-01,West Ham,Man City,3,1,H
+37634,E0,1993,1993-11-06,Arsenal,Aston Villa,1,2,A
+37635,E0,1993,1993-11-06,Coventry,Everton,2,1,H
+37636,E0,1993,1993-11-06,Ipswich,Sheffield Weds,1,4,A
+37637,E0,1993,1993-11-06,Leeds,Chelsea,4,1,H
+37638,E0,1993,1993-11-06,Liverpool,West Ham,2,0,H
+37639,E0,1993,1993-11-06,QPR,Blackburn,1,0,H
+37640,E0,1993,1993-11-06,Sheffield United,Norwich,1,2,A
+37641,E0,1993,1993-11-06,Southampton,Tottenham,1,0,H
+37642,E0,1993,1993-11-06,Wimbledon,Swindon,3,0,H
+37643,E0,1993,1993-11-07,Man City,Man United,2,3,A
+37644,E0,1993,1993-11-08,Oldham,Newcastle,1,3,A
+37645,E0,1993,1993-11-20,Aston Villa,Sheffield United,1,0,H
+37646,E0,1993,1993-11-20,Blackburn,Southampton,2,0,H
+37647,E0,1993,1993-11-20,Chelsea,Arsenal,0,2,A
+37648,E0,1993,1993-11-20,Everton,QPR,0,3,A
+37649,E0,1993,1993-11-20,Man United,Wimbledon,3,1,H
+37650,E0,1993,1993-11-20,Norwich,Man City,1,1,D
+37651,E0,1993,1993-11-20,Sheffield Weds,Coventry,0,0,D
+37652,E0,1993,1993-11-20,Swindon,Ipswich,2,2,D
+37653,E0,1993,1993-11-20,Tottenham,Leeds,1,1,D
+37654,E0,1993,1993-11-20,West Ham,Oldham,2,0,H
+37655,E0,1993,1993-11-21,Newcastle,Liverpool,3,0,H
+37656,E0,1993,1993-11-22,Chelsea,Man City,0,0,D
+37657,E0,1993,1993-11-23,Blackburn,Coventry,2,1,H
+37658,E0,1993,1993-11-23,Everton,Leeds,1,1,D
+37659,E0,1993,1993-11-24,Aston Villa,Southampton,0,2,A
+37660,E0,1993,1993-11-24,Man United,Ipswich,0,0,D
+37661,E0,1993,1993-11-24,Newcastle,Sheffield United,4,0,H
+37662,E0,1993,1993-11-24,Sheffield Weds,Oldham,3,0,H
+37663,E0,1993,1993-11-24,Swindon,QPR,1,0,H
+37664,E0,1993,1993-11-24,Tottenham,Wimbledon,1,1,D
+37665,E0,1993,1993-11-24,West Ham,Arsenal,0,0,D
+37666,E0,1993,1993-11-27,Arsenal,Newcastle,2,1,H
+37667,E0,1993,1993-11-27,Coventry,Man United,0,1,A
+37668,E0,1993,1993-11-27,Ipswich,Blackburn,1,0,H
+37669,E0,1993,1993-11-27,Leeds,Swindon,3,0,H
+37670,E0,1993,1993-11-27,Man City,Sheffield Weds,1,3,A
+37671,E0,1993,1993-11-27,Oldham,Norwich,2,1,H
+37672,E0,1993,1993-11-27,QPR,Tottenham,1,1,D
+37673,E0,1993,1993-11-27,Sheffield United,Chelsea,1,0,H
+37674,E0,1993,1993-11-27,Wimbledon,Everton,1,1,D
+37675,E0,1993,1993-11-28,Liverpool,Aston Villa,2,1,H
+37676,E0,1993,1993-11-29,Southampton,West Ham,0,2,A
+37677,E0,1993,1993-12-04,Coventry,Arsenal,1,0,H
+37678,E0,1993,1993-12-04,Everton,Southampton,1,0,H
+37679,E0,1993,1993-12-04,Ipswich,Oldham,0,0,D
+37680,E0,1993,1993-12-04,Leeds,Man City,3,2,H
+37681,E0,1993,1993-12-04,Man United,Norwich,2,2,D
+37682,E0,1993,1993-12-04,QPR,Aston Villa,2,2,D
+37683,E0,1993,1993-12-04,Sheffield Weds,Liverpool,3,1,H
+37684,E0,1993,1993-12-04,Swindon,Sheffield United,0,0,D
+37685,E0,1993,1993-12-04,Tottenham,Newcastle,1,2,A
+37686,E0,1993,1993-12-04,Wimbledon,West Ham,1,2,A
+37687,E0,1993,1993-12-05,Blackburn,Chelsea,2,0,H
+37688,E0,1993,1993-12-06,Arsenal,Tottenham,1,1,D
+37689,E0,1993,1993-12-07,Oldham,Swindon,2,1,H
+37690,E0,1993,1993-12-07,Sheffield United,Man United,0,3,A
+37691,E0,1993,1993-12-08,Aston Villa,Sheffield Weds,2,2,D
+37692,E0,1993,1993-12-08,Liverpool,QPR,3,2,H
+37693,E0,1993,1993-12-08,Man City,Everton,1,0,H
+37694,E0,1993,1993-12-08,Southampton,Ipswich,0,1,A
+37695,E0,1993,1993-12-08,West Ham,Leeds,0,1,A
+37696,E0,1993,1993-12-11,Aston Villa,Wimbledon,0,1,A
+37697,E0,1993,1993-12-11,Chelsea,Ipswich,1,1,D
+37698,E0,1993,1993-12-11,Liverpool,Swindon,2,2,D
+37699,E0,1993,1993-12-11,Man City,Tottenham,0,2,A
+37700,E0,1993,1993-12-11,Newcastle,Man United,1,1,D
+37701,E0,1993,1993-12-11,Oldham,Blackburn,1,2,A
+37702,E0,1993,1993-12-11,Sheffield United,Everton,0,0,D
+37703,E0,1993,1993-12-11,Southampton,QPR,0,1,A
+37704,E0,1993,1993-12-11,West Ham,Coventry,3,2,H
+37705,E0,1993,1993-12-12,Arsenal,Sheffield Weds,1,0,H
+37706,E0,1993,1993-12-13,Norwich,Leeds,2,1,H
+37707,E0,1993,1993-12-18,Blackburn,Man City,2,0,H
+37708,E0,1993,1993-12-18,Coventry,Oldham,1,1,D
+37709,E0,1993,1993-12-18,Everton,Newcastle,0,2,A
+37710,E0,1993,1993-12-18,Ipswich,Norwich,2,1,H
+37711,E0,1993,1993-12-18,Leeds,Arsenal,2,1,H
+37712,E0,1993,1993-12-18,Sheffield Weds,West Ham,5,0,H
+37713,E0,1993,1993-12-18,Swindon,Southampton,2,1,H
+37714,E0,1993,1993-12-18,Tottenham,Liverpool,3,3,D
+37715,E0,1993,1993-12-18,Wimbledon,Sheffield United,2,0,H
+37716,E0,1993,1993-12-19,Man United,Aston Villa,3,1,H
+37717,E0,1993,1993-12-22,Newcastle,Leeds,1,1,D
+37718,E0,1993,1993-12-26,Man United,Blackburn,1,1,D
+37719,E0,1993,1993-12-26,Sheffield United,Liverpool,0,0,D
+37720,E0,1993,1993-12-26,Wimbledon,Coventry,1,2,A
+37721,E0,1993,1993-12-27,Everton,Sheffield Weds,0,2,A
+37722,E0,1993,1993-12-27,Ipswich,West Ham,1,1,D
+37723,E0,1993,1993-12-27,QPR,Oldham,2,0,H
+37724,E0,1993,1993-12-27,Southampton,Chelsea,3,1,H
+37725,E0,1993,1993-12-27,Swindon,Arsenal,0,4,A
+37726,E0,1993,1993-12-27,Tottenham,Norwich,1,3,A
+37727,E0,1993,1993-12-28,Chelsea,Newcastle,1,0,H
+37728,E0,1993,1993-12-28,Liverpool,Wimbledon,1,1,D
+37729,E0,1993,1993-12-28,Man City,Southampton,1,1,D
+37730,E0,1993,1993-12-28,West Ham,Tottenham,1,3,A
+37731,E0,1993,1993-12-29,Arsenal,Sheffield United,3,0,H
+37732,E0,1993,1993-12-29,Blackburn,Everton,2,0,H
+37733,E0,1993,1993-12-29,Leeds,QPR,1,1,D
+37734,E0,1993,1993-12-29,Norwich,Aston Villa,1,2,A
+37735,E0,1993,1993-12-29,Oldham,Man United,2,5,A
+37736,E0,1993,1993-12-29,Sheffield Weds,Swindon,3,3,D
+37737,E0,1993,1994-01-01,Aston Villa,Blackburn,0,1,A
+37738,E0,1993,1994-01-01,Everton,West Ham,0,1,A
+37739,E0,1993,1994-01-01,Ipswich,Liverpool,1,2,A
+37740,E0,1993,1994-01-01,Man United,Leeds,0,0,D
+37741,E0,1993,1994-01-01,Newcastle,Man City,2,0,H
+37742,E0,1993,1994-01-01,QPR,Sheffield Weds,1,2,A
+37743,E0,1993,1994-01-01,Sheffield United,Oldham,2,1,H
+37744,E0,1993,1994-01-01,Southampton,Norwich,0,1,A
+37745,E0,1993,1994-01-01,Swindon,Chelsea,1,3,A
+37746,E0,1993,1994-01-01,Tottenham,Coventry,1,2,A
+37747,E0,1993,1994-01-01,Wimbledon,Arsenal,0,3,A
+37748,E0,1993,1994-01-03,Arsenal,QPR,0,0,D
+37749,E0,1993,1994-01-03,Chelsea,Everton,4,2,H
+37750,E0,1993,1994-01-03,Coventry,Swindon,1,1,D
+37751,E0,1993,1994-01-03,Sheffield Weds,Tottenham,1,0,H
+37752,E0,1993,1994-01-03,West Ham,Sheffield United,0,0,D
+37753,E0,1993,1994-01-04,Liverpool,Man United,3,3,D
+37754,E0,1993,1994-01-04,Norwich,Newcastle,1,2,A
+37755,E0,1993,1994-01-15,Aston Villa,West Ham,3,1,H
+37756,E0,1993,1994-01-15,Everton,Swindon,6,2,H
+37757,E0,1993,1994-01-15,Leeds,Ipswich,0,0,D
+37758,E0,1993,1994-01-15,Man City,Arsenal,0,0,D
+37759,E0,1993,1994-01-15,Norwich,Chelsea,1,1,D
+37760,E0,1993,1994-01-15,Oldham,Liverpool,0,3,A
+37761,E0,1993,1994-01-15,Sheffield United,Blackburn,1,2,A
+37762,E0,1993,1994-01-15,Southampton,Coventry,1,0,H
+37763,E0,1993,1994-01-15,Tottenham,Man United,0,1,A
+37764,E0,1993,1994-01-15,Wimbledon,Sheffield Weds,2,1,H
+37765,E0,1993,1994-01-16,QPR,Newcastle,1,2,A
+37766,E0,1993,1994-01-22,Arsenal,Oldham,1,1,D
+37767,E0,1993,1994-01-22,Chelsea,Aston Villa,1,1,D
+37768,E0,1993,1994-01-22,Coventry,QPR,0,1,A
+37769,E0,1993,1994-01-22,Ipswich,Wimbledon,0,0,D
+37770,E0,1993,1994-01-22,Liverpool,Man City,2,1,H
+37771,E0,1993,1994-01-22,Man United,Everton,1,0,H
+37772,E0,1993,1994-01-22,Newcastle,Southampton,1,2,A
+37773,E0,1993,1994-01-22,Sheffield Weds,Sheffield United,3,1,H
+37774,E0,1993,1994-01-22,Swindon,Tottenham,2,1,H
+37775,E0,1993,1994-01-23,Blackburn,Leeds,2,1,H
+37776,E0,1993,1994-01-24,West Ham,Norwich,3,3,D
+37777,E0,1993,1994-02-02,Coventry,Ipswich,1,0,H
+37778,E0,1993,1994-02-05,Blackburn,Wimbledon,3,0,H
+37779,E0,1993,1994-02-05,Everton,Chelsea,4,2,H
+37780,E0,1993,1994-02-05,Man City,Ipswich,2,1,H
+37781,E0,1993,1994-02-05,Norwich,Liverpool,2,2,D
+37782,E0,1993,1994-02-05,Oldham,Southampton,2,1,H
+37783,E0,1993,1994-02-05,QPR,Man United,2,3,A
+37784,E0,1993,1994-02-05,Swindon,Coventry,3,1,H
+37785,E0,1993,1994-02-05,Tottenham,Sheffield Weds,1,3,A
+37786,E0,1993,1994-02-06,Aston Villa,Leeds,1,0,H
+37787,E0,1993,1994-02-12,Aston Villa,Swindon,5,0,H
+37788,E0,1993,1994-02-12,Everton,Ipswich,0,0,D
+37789,E0,1993,1994-02-12,Man City,West Ham,0,0,D
+37790,E0,1993,1994-02-12,Oldham,Chelsea,2,1,H
+37791,E0,1993,1994-02-12,Sheffield United,Coventry,0,0,D
+37792,E0,1993,1994-02-12,Tottenham,Blackburn,0,2,A
+37793,E0,1993,1994-02-12,Wimbledon,Newcastle,4,2,H
+37794,E0,1993,1994-02-13,Norwich,Arsenal,1,1,D
+37795,E0,1993,1994-02-14,Southampton,Liverpool,4,2,H
+37796,E0,1993,1994-02-19,Blackburn,Newcastle,1,0,H
+37797,E0,1993,1994-02-19,Coventry,Man City,4,0,H
+37798,E0,1993,1994-02-19,Everton,Arsenal,1,1,D
+37799,E0,1993,1994-02-19,Leeds,Liverpool,2,0,H
+37800,E0,1993,1994-02-19,Swindon,Norwich,3,3,D
+37801,E0,1993,1994-02-22,Aston Villa,Man City,0,0,D
+37802,E0,1993,1994-02-22,Norwich,Blackburn,2,2,D
+37803,E0,1993,1994-02-23,Newcastle,Coventry,4,0,H
+37804,E0,1993,1994-02-26,Arsenal,Blackburn,1,0,H
+37805,E0,1993,1994-02-26,Ipswich,Sheffield United,3,2,H
+37806,E0,1993,1994-02-26,Liverpool,Coventry,1,0,H
+37807,E0,1993,1994-02-26,Man City,Swindon,2,1,H
+37808,E0,1993,1994-02-26,Norwich,Sheffield Weds,1,1,D
+37809,E0,1993,1994-02-26,Southampton,Wimbledon,1,0,H
+37810,E0,1993,1994-02-26,West Ham,Man United,2,2,D
+37811,E0,1993,1994-02-27,Chelsea,Tottenham,4,3,H
+37812,E0,1993,1994-02-28,Oldham,Leeds,1,1,D
+37813,E0,1993,1994-03-02,Tottenham,Aston Villa,1,1,D
+37814,E0,1993,1994-03-05,Blackburn,Liverpool,2,0,H
+37815,E0,1993,1994-03-05,Everton,Oldham,2,1,H
+37816,E0,1993,1994-03-05,Ipswich,Arsenal,1,5,A
+37817,E0,1993,1994-03-05,Leeds,Southampton,0,0,D
+37818,E0,1993,1994-03-05,Man United,Chelsea,0,1,A
+37819,E0,1993,1994-03-05,QPR,Man City,1,1,D
+37820,E0,1993,1994-03-05,Sheffield Weds,Newcastle,0,1,A
+37821,E0,1993,1994-03-05,Swindon,West Ham,1,1,D
+37822,E0,1993,1994-03-05,Tottenham,Sheffield United,2,2,D
+37823,E0,1993,1994-03-05,Wimbledon,Norwich,3,1,H
+37824,E0,1993,1994-03-06,Coventry,Aston Villa,0,1,A
+37825,E0,1993,1994-03-12,Aston Villa,Ipswich,0,1,A
+37826,E0,1993,1994-03-12,Man City,Wimbledon,0,1,A
+37827,E0,1993,1994-03-12,Newcastle,Swindon,7,1,H
+37828,E0,1993,1994-03-12,Norwich,QPR,3,4,A
+37829,E0,1993,1994-03-12,Southampton,Sheffield Weds,1,1,D
+37830,E0,1993,1994-03-13,Liverpool,Everton,2,1,H
+37831,E0,1993,1994-03-13,Sheffield United,Leeds,2,2,D
+37832,E0,1993,1994-03-16,Chelsea,Wimbledon,2,0,H
+37833,E0,1993,1994-03-16,Leeds,Aston Villa,2,0,H
+37834,E0,1993,1994-03-16,Man United,Sheffield Weds,5,0,H
+37835,E0,1993,1994-03-16,Sheffield United,QPR,1,1,D
+37836,E0,1993,1994-03-19,Aston Villa,Oldham,1,2,A
+37837,E0,1993,1994-03-19,Leeds,Coventry,1,0,H
+37838,E0,1993,1994-03-19,Liverpool,Chelsea,2,1,H
+37839,E0,1993,1994-03-19,Man City,Sheffield United,0,0,D
+37840,E0,1993,1994-03-19,QPR,Wimbledon,1,0,H
+37841,E0,1993,1994-03-19,Southampton,Arsenal,0,4,A
+37842,E0,1993,1994-03-19,Swindon,Man United,2,2,D
+37843,E0,1993,1994-03-19,Tottenham,Ipswich,1,1,D
+37844,E0,1993,1994-03-19,West Ham,Newcastle,2,4,A
+37845,E0,1993,1994-03-20,Sheffield Weds,Blackburn,1,2,A
+37846,E0,1993,1994-03-21,Norwich,Everton,3,0,H
+37847,E0,1993,1994-03-22,Arsenal,Man United,2,2,D
+37848,E0,1993,1994-03-22,Newcastle,Ipswich,2,0,H
+37849,E0,1993,1994-03-26,Arsenal,Liverpool,1,0,H
+37850,E0,1993,1994-03-26,Blackburn,Swindon,3,1,H
+37851,E0,1993,1994-03-26,Chelsea,West Ham,2,0,H
+37852,E0,1993,1994-03-26,Coventry,Norwich,2,1,H
+37853,E0,1993,1994-03-26,Everton,Tottenham,0,1,A
+37854,E0,1993,1994-03-26,Ipswich,QPR,1,3,A
+37855,E0,1993,1994-03-26,Oldham,Man City,0,0,D
+37856,E0,1993,1994-03-26,Sheffield United,Southampton,0,0,D
+37857,E0,1993,1994-03-27,Wimbledon,Leeds,1,0,H
+37858,E0,1993,1994-03-28,Sheffield United,West Ham,3,2,H
+37859,E0,1993,1994-03-29,Ipswich,Man City,2,2,D
+37860,E0,1993,1994-03-29,Newcastle,Norwich,3,0,H
+37861,E0,1993,1994-03-29,Wimbledon,Blackburn,4,1,H
+37862,E0,1993,1994-03-30,Aston Villa,Everton,0,0,D
+37863,E0,1993,1994-03-30,Man United,Liverpool,1,0,H
+37864,E0,1993,1994-03-30,Sheffield Weds,Chelsea,3,1,H
+37865,E0,1993,1994-03-30,Southampton,Oldham,1,3,A
+37866,E0,1993,1994-04-01,Leeds,Newcastle,1,1,D
+37867,E0,1993,1994-04-02,Arsenal,Swindon,1,1,D
+37868,E0,1993,1994-04-02,Blackburn,Man United,2,0,H
+37869,E0,1993,1994-04-02,Chelsea,Southampton,2,0,H
+37870,E0,1993,1994-04-02,Coventry,Wimbledon,1,2,A
+37871,E0,1993,1994-04-02,Liverpool,Sheffield United,1,2,A
+37872,E0,1993,1994-04-02,Man City,Aston Villa,3,0,H
+37873,E0,1993,1994-04-02,Norwich,Tottenham,1,2,A
+37874,E0,1993,1994-04-02,Oldham,QPR,4,1,H
+37875,E0,1993,1994-04-02,Sheffield Weds,Everton,5,1,H
+37876,E0,1993,1994-04-02,West Ham,Ipswich,2,1,H
+37877,E0,1993,1994-04-04,Aston Villa,Norwich,0,0,D
+37878,E0,1993,1994-04-04,Everton,Blackburn,0,3,A
+37879,E0,1993,1994-04-04,Ipswich,Coventry,0,2,A
+37880,E0,1993,1994-04-04,Man United,Oldham,3,2,H
+37881,E0,1993,1994-04-04,Newcastle,Chelsea,0,0,D
+37882,E0,1993,1994-04-04,QPR,Leeds,0,4,A
+37883,E0,1993,1994-04-04,Sheffield United,Arsenal,1,1,D
+37884,E0,1993,1994-04-04,Southampton,Man City,0,1,A
+37885,E0,1993,1994-04-04,Swindon,Sheffield Weds,0,1,A
+37886,E0,1993,1994-04-04,Tottenham,West Ham,1,4,A
+37887,E0,1993,1994-04-04,Wimbledon,Liverpool,1,1,D
+37888,E0,1993,1994-04-09,Coventry,Tottenham,1,0,H
+37889,E0,1993,1994-04-09,Liverpool,Ipswich,1,0,H
+37890,E0,1993,1994-04-09,Man City,Newcastle,2,1,H
+37891,E0,1993,1994-04-09,Norwich,Southampton,4,5,A
+37892,E0,1993,1994-04-09,Sheffield Weds,QPR,3,1,H
+37893,E0,1993,1994-04-09,West Ham,Everton,0,1,A
+37894,E0,1993,1994-04-11,Blackburn,Aston Villa,1,0,H
+37895,E0,1993,1994-04-13,QPR,Chelsea,1,1,D
+37896,E0,1993,1994-04-16,Arsenal,Chelsea,1,0,H
+37897,E0,1993,1994-04-16,Coventry,Sheffield Weds,1,1,D
+37898,E0,1993,1994-04-16,Ipswich,Swindon,1,1,D
+37899,E0,1993,1994-04-16,Liverpool,Newcastle,0,2,A
+37900,E0,1993,1994-04-16,Man City,Norwich,1,1,D
+37901,E0,1993,1994-04-16,Oldham,West Ham,1,2,A
+37902,E0,1993,1994-04-16,QPR,Everton,2,1,H
+37903,E0,1993,1994-04-16,Sheffield United,Aston Villa,1,2,A
+37904,E0,1993,1994-04-16,Southampton,Blackburn,3,1,H
+37905,E0,1993,1994-04-16,Wimbledon,Man United,1,0,H
+37906,E0,1993,1994-04-17,Leeds,Tottenham,2,0,H
+37907,E0,1993,1994-04-19,Arsenal,Wimbledon,1,1,D
+37908,E0,1993,1994-04-23,Aston Villa,Arsenal,1,2,A
+37909,E0,1993,1994-04-23,Chelsea,Leeds,1,1,D
+37910,E0,1993,1994-04-23,Everton,Coventry,0,0,D
+37911,E0,1993,1994-04-23,Man United,Man City,2,0,H
+37912,E0,1993,1994-04-23,Newcastle,Oldham,3,2,H
+37913,E0,1993,1994-04-23,Norwich,Sheffield United,0,1,A
+37914,E0,1993,1994-04-23,Sheffield Weds,Ipswich,5,0,H
+37915,E0,1993,1994-04-23,Swindon,Wimbledon,2,4,A
+37916,E0,1993,1994-04-23,Tottenham,Southampton,3,0,H
+37917,E0,1993,1994-04-23,West Ham,Liverpool,1,2,A
+37918,E0,1993,1994-04-24,Blackburn,QPR,1,1,D
+37919,E0,1993,1994-04-26,Wimbledon,Oldham,3,0,H
+37920,E0,1993,1994-04-27,Chelsea,Swindon,2,0,H
+37921,E0,1993,1994-04-27,Leeds,Man United,0,2,A
+37922,E0,1993,1994-04-27,Newcastle,Aston Villa,5,1,H
+37923,E0,1993,1994-04-27,QPR,Arsenal,1,1,D
+37924,E0,1993,1994-04-27,West Ham,Blackburn,1,2,A
+37925,E0,1993,1994-04-30,Arsenal,West Ham,0,2,A
+37926,E0,1993,1994-04-30,Leeds,Everton,3,0,H
+37927,E0,1993,1994-04-30,Liverpool,Norwich,0,1,A
+37928,E0,1993,1994-04-30,Man City,Chelsea,2,2,D
+37929,E0,1993,1994-04-30,Oldham,Sheffield Weds,0,0,D
+37930,E0,1993,1994-04-30,QPR,Swindon,1,3,A
+37931,E0,1993,1994-04-30,Sheffield United,Newcastle,2,0,H
+37932,E0,1993,1994-04-30,Southampton,Aston Villa,4,1,H
+37933,E0,1993,1994-04-30,Wimbledon,Tottenham,2,1,H
+37934,E0,1993,1994-05-01,Ipswich,Man United,1,2,A
+37935,E0,1993,1994-05-02,Coventry,Blackburn,2,1,H
+37936,E0,1993,1994-05-03,Leeds,Sheffield Weds,2,2,D
+37937,E0,1993,1994-05-03,Oldham,Sheffield United,1,1,D
+37938,E0,1993,1994-05-03,QPR,West Ham,0,0,D
+37939,E0,1993,1994-05-04,Chelsea,Coventry,1,2,A
+37940,E0,1993,1994-05-04,Man United,Southampton,2,0,H
+37941,E0,1993,1994-05-05,Oldham,Tottenham,0,2,A
+37942,E0,1993,1994-05-07,Aston Villa,Liverpool,2,1,H
+37943,E0,1993,1994-05-07,Blackburn,Ipswich,0,0,D
+37944,E0,1993,1994-05-07,Chelsea,Sheffield United,3,2,H
+37945,E0,1993,1994-05-07,Everton,Wimbledon,3,2,H
+37946,E0,1993,1994-05-07,Newcastle,Arsenal,2,0,H
+37947,E0,1993,1994-05-07,Norwich,Oldham,1,1,D
+37948,E0,1993,1994-05-07,Sheffield Weds,Man City,1,1,D
+37949,E0,1993,1994-05-07,Swindon,Leeds,0,5,A
+37950,E0,1993,1994-05-07,Tottenham,QPR,1,2,A
+37951,E0,1993,1994-05-07,West Ham,Southampton,3,3,D
+37952,E0,1993,1994-05-08,Man United,Coventry,0,0,D

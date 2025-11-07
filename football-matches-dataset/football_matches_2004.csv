@@ -1,0 +1,993 @@
+Match_ID,Div,Season,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+36878,D1,2004,2004-08-06,Werder Bremen,Schalke 04,1,0,H
+36879,D1,2004,2004-08-07,Dortmund,Wolfsburg,1,2,A
+36880,D1,2004,2004-08-07,Freiburg,Hansa Rostock,0,0,D
+36881,D1,2004,2004-08-07,Hamburg,Bayern Munich,0,2,A
+36882,D1,2004,2004-08-07,Hertha,Bochum,2,2,D
+36883,D1,2004,2004-08-07,Kaiserslautern,Nurnberg,1,3,A
+36884,D1,2004,2004-08-07,Leverkusen,Hannover,2,1,H
+36885,D1,2004,2004-08-08,Bielefeld,M'gladbach,0,0,D
+36886,D1,2004,2004-08-08,Stuttgart,Mainz,4,2,H
+36887,D1,2004,2004-08-14,Bayern Munich,Hertha,1,1,D
+36888,D1,2004,2004-08-14,Hansa Rostock,Werder Bremen,0,4,A
+36889,D1,2004,2004-08-14,Mainz,Hamburg,2,1,H
+36890,D1,2004,2004-08-14,M'gladbach,Dortmund,2,3,A
+36891,D1,2004,2004-08-14,Nurnberg,Stuttgart,1,1,D
+36892,D1,2004,2004-08-14,Schalke 04,Kaiserslautern,2,1,H
+36893,D1,2004,2004-08-15,Bochum,Leverkusen,2,2,D
+36894,D1,2004,2004-08-15,Wolfsburg,Freiburg,0,1,A
+36895,D1,2004,2004-08-28,Bielefeld,Bochum,1,2,A
+36896,D1,2004,2004-08-28,Freiburg,M'gladbach,1,1,D
+36897,D1,2004,2004-08-28,Hamburg,Nurnberg,4,3,H
+36898,D1,2004,2004-08-28,Hertha,Mainz,1,1,D
+36899,D1,2004,2004-08-28,Kaiserslautern,Stuttgart,2,3,A
+36900,D1,2004,2004-08-28,Leverkusen,Bayern Munich,4,1,H
+36901,D1,2004,2004-08-28,Schalke 04,Hansa Rostock,0,2,A
+36902,D1,2004,2004-08-29,Dortmund,Hannover,1,1,D
+36903,D1,2004,2004-08-29,Werder Bremen,Wolfsburg,1,2,A
+36904,D1,2004,2004-09-11,Bayern Munich,Bielefeld,1,0,H
+36905,D1,2004,2004-09-11,Bochum,Dortmund,2,2,D
+36906,D1,2004,2004-09-11,Mainz,Leverkusen,2,0,H
+36907,D1,2004,2004-09-11,M'gladbach,Werder Bremen,3,1,H
+36908,D1,2004,2004-09-11,Nurnberg,Hertha,0,0,D
+36909,D1,2004,2004-09-11,Stuttgart,Hamburg,2,0,H
+36910,D1,2004,2004-09-11,Wolfsburg,Schalke 04,3,0,H
+36911,D1,2004,2004-09-12,Hannover,Freiburg,2,2,D
+36912,D1,2004,2004-09-12,Hansa Rostock,Kaiserslautern,2,3,A
+36913,D1,2004,2004-09-18,Bielefeld,Mainz,1,1,D
+36914,D1,2004,2004-09-18,Dortmund,Bayern Munich,2,2,D
+36915,D1,2004,2004-09-18,Hansa Rostock,Wolfsburg,1,2,A
+36916,D1,2004,2004-09-18,Kaiserslautern,Hamburg,2,1,H
+36917,D1,2004,2004-09-18,Leverkusen,Nurnberg,2,2,D
+36918,D1,2004,2004-09-18,Schalke 04,M'gladbach,3,2,H
+36919,D1,2004,2004-09-18,Werder Bremen,Hannover,3,0,H
+36920,D1,2004,2004-09-19,Freiburg,Bochum,1,1,D
+36921,D1,2004,2004-09-19,Hertha,Stuttgart,0,0,D
+36922,D1,2004,2004-09-25,Bayern Munich,Freiburg,3,1,H
+36923,D1,2004,2004-09-25,Bochum,Werder Bremen,1,4,A
+36924,D1,2004,2004-09-25,Hannover,Schalke 04,1,0,H
+36925,D1,2004,2004-09-25,M'gladbach,Hansa Rostock,2,2,D
+36926,D1,2004,2004-09-25,Nurnberg,Bielefeld,1,2,A
+36927,D1,2004,2004-09-25,Stuttgart,Leverkusen,3,0,H
+36928,D1,2004,2004-09-25,Wolfsburg,Kaiserslautern,2,1,H
+36929,D1,2004,2004-09-26,Hamburg,Hertha,2,1,H
+36930,D1,2004,2004-09-26,Mainz,Dortmund,1,1,D
+36931,D1,2004,2004-09-28,Hannover,Bielefeld,0,1,A
+36932,D1,2004,2004-10-02,Dortmund,Nurnberg,2,2,D
+36933,D1,2004,2004-10-02,Freiburg,Mainz,1,2,A
+36934,D1,2004,2004-10-02,Hansa Rostock,Hannover,1,3,A
+36935,D1,2004,2004-10-02,Kaiserslautern,Hertha,0,2,A
+36936,D1,2004,2004-10-02,Leverkusen,Hamburg,3,0,H
+36937,D1,2004,2004-10-02,Werder Bremen,Bayern Munich,1,2,A
+36938,D1,2004,2004-10-02,Wolfsburg,M'gladbach,2,1,H
+36939,D1,2004,2004-10-03,Bielefeld,Stuttgart,0,2,A
+36940,D1,2004,2004-10-03,Schalke 04,Bochum,3,2,H
+36941,D1,2004,2004-10-16,Bayern Munich,Schalke 04,0,1,A
+36942,D1,2004,2004-10-16,Bochum,Hansa Rostock,0,1,A
+36943,D1,2004,2004-10-16,Hamburg,Bielefeld,0,2,A
+36944,D1,2004,2004-10-16,Hertha,Leverkusen,3,1,H
+36945,D1,2004,2004-10-16,Mainz,Werder Bremen,2,1,H
+36946,D1,2004,2004-10-16,Nurnberg,Freiburg,3,0,H
+36947,D1,2004,2004-10-16,Stuttgart,Dortmund,2,0,H
+36948,D1,2004,2004-10-17,Hannover,Wolfsburg,3,0,H
+36949,D1,2004,2004-10-17,M'gladbach,Kaiserslautern,2,0,H
+36950,D1,2004,2004-10-23,Bielefeld,Hertha,1,0,H
+36951,D1,2004,2004-10-23,Dortmund,Hamburg,0,2,A
+36952,D1,2004,2004-10-23,Hansa Rostock,Bayern Munich,0,2,A
+36953,D1,2004,2004-10-23,Kaiserslautern,Leverkusen,0,0,D
+36954,D1,2004,2004-10-23,M'gladbach,Hannover,0,2,A
+36955,D1,2004,2004-10-23,Werder Bremen,Nurnberg,4,1,H
+36956,D1,2004,2004-10-23,Wolfsburg,Bochum,3,0,H
+36957,D1,2004,2004-10-24,Freiburg,Stuttgart,2,0,H
+36958,D1,2004,2004-10-24,Schalke 04,Mainz,2,1,H
+36959,D1,2004,2004-10-26,Bayern Munich,Wolfsburg,2,0,H
+36960,D1,2004,2004-10-26,Bochum,M'gladbach,3,0,H
+36961,D1,2004,2004-10-26,Hannover,Kaiserslautern,3,1,H
+36962,D1,2004,2004-10-26,Hertha,Dortmund,0,1,A
+36963,D1,2004,2004-10-27,Hamburg,Freiburg,4,0,H
+36964,D1,2004,2004-10-27,Leverkusen,Bielefeld,3,2,H
+36965,D1,2004,2004-10-27,Mainz,Hansa Rostock,3,1,H
+36966,D1,2004,2004-10-27,Nurnberg,Schalke 04,0,2,A
+36967,D1,2004,2004-10-27,Stuttgart,Werder Bremen,1,2,A
+36968,D1,2004,2004-10-30,Dortmund,Leverkusen,1,0,H
+36969,D1,2004,2004-10-30,Freiburg,Hertha,1,3,A
+36970,D1,2004,2004-10-30,Hannover,Bochum,3,0,H
+36971,D1,2004,2004-10-30,M'gladbach,Bayern Munich,2,0,H
+36972,D1,2004,2004-10-30,Schalke 04,Stuttgart,3,2,H
+36973,D1,2004,2004-10-30,Werder Bremen,Hamburg,1,1,D
+36974,D1,2004,2004-10-30,Wolfsburg,Mainz,4,3,H
+36975,D1,2004,2004-10-31,Hansa Rostock,Nurnberg,0,2,A
+36976,D1,2004,2004-10-31,Kaiserslautern,Bielefeld,2,1,H
+36977,D1,2004,2004-11-06,Bayern Munich,Hannover,3,0,H
+36978,D1,2004,2004-11-06,Bielefeld,Dortmund,1,0,H
+36979,D1,2004,2004-11-06,Bochum,Kaiserslautern,1,1,D
+36980,D1,2004,2004-11-06,Hertha,Werder Bremen,1,1,D
+36981,D1,2004,2004-11-06,Leverkusen,Freiburg,4,1,H
+36982,D1,2004,2004-11-06,Mainz,M'gladbach,1,1,D
+36983,D1,2004,2004-11-06,Nurnberg,Wolfsburg,4,0,H
+36984,D1,2004,2004-11-07,Hamburg,Schalke 04,1,2,A
+36985,D1,2004,2004-11-07,Stuttgart,Hansa Rostock,4,0,H
+36986,D1,2004,2004-11-13,Freiburg,Bielefeld,2,3,A
+36987,D1,2004,2004-11-13,Hannover,Mainz,2,0,H
+36988,D1,2004,2004-11-13,Kaiserslautern,Dortmund,1,0,H
+36989,D1,2004,2004-11-13,M'gladbach,Nurnberg,2,1,H
+36990,D1,2004,2004-11-13,Schalke 04,Hertha,1,3,A
+36991,D1,2004,2004-11-13,Werder Bremen,Leverkusen,2,2,D
+36992,D1,2004,2004-11-13,Wolfsburg,Stuttgart,3,0,H
+36993,D1,2004,2004-11-14,Bochum,Bayern Munich,1,3,A
+36994,D1,2004,2004-11-14,Hansa Rostock,Hamburg,0,6,A
+36995,D1,2004,2004-11-20,Bayern Munich,Kaiserslautern,3,1,H
+36996,D1,2004,2004-11-20,Bielefeld,Werder Bremen,2,1,H
+36997,D1,2004,2004-11-20,Dortmund,Freiburg,2,0,H
+36998,D1,2004,2004-11-20,Hertha,Hansa Rostock,1,1,D
+36999,D1,2004,2004-11-20,Leverkusen,Schalke 04,0,3,A
+37000,D1,2004,2004-11-20,Mainz,Bochum,1,0,H
+37001,D1,2004,2004-11-20,Stuttgart,M'gladbach,1,0,H
+37002,D1,2004,2004-11-21,Hamburg,Wolfsburg,3,1,H
+37003,D1,2004,2004-11-21,Nurnberg,Hannover,1,1,D
+37004,D1,2004,2004-11-27,Bayern Munich,Mainz,4,2,H
+37005,D1,2004,2004-11-27,Bochum,Nurnberg,3,1,H
+37006,D1,2004,2004-11-27,Hansa Rostock,Leverkusen,0,2,A
+37007,D1,2004,2004-11-27,Kaiserslautern,Freiburg,3,0,H
+37008,D1,2004,2004-11-27,M'gladbach,Hamburg,1,3,A
+37009,D1,2004,2004-11-27,Werder Bremen,Dortmund,2,0,H
+37010,D1,2004,2004-11-27,Wolfsburg,Hertha,2,3,A
+37011,D1,2004,2004-11-28,Hannover,Stuttgart,0,0,D
+37012,D1,2004,2004-11-28,Schalke 04,Bielefeld,2,1,H
+37013,D1,2004,2004-12-04,Bielefeld,Hansa Rostock,1,1,D
+37014,D1,2004,2004-12-04,Freiburg,Werder Bremen,0,6,A
+37015,D1,2004,2004-12-04,Hamburg,Hannover,0,2,A
+37016,D1,2004,2004-12-04,Hertha,M'gladbach,6,0,H
+37017,D1,2004,2004-12-04,Leverkusen,Wolfsburg,2,1,H
+37018,D1,2004,2004-12-04,Nurnberg,Bayern Munich,2,2,D
+37019,D1,2004,2004-12-04,Stuttgart,Bochum,5,2,H
+37020,D1,2004,2004-12-05,Dortmund,Schalke 04,0,1,A
+37021,D1,2004,2004-12-05,Kaiserslautern,Mainz,2,0,H
+37022,D1,2004,2004-12-11,Bayern Munich,Stuttgart,2,2,D
+37023,D1,2004,2004-12-11,Bochum,Hamburg,1,2,A
+37024,D1,2004,2004-12-11,Hannover,Hertha,0,1,A
+37025,D1,2004,2004-12-11,Hansa Rostock,Dortmund,1,1,D
+37026,D1,2004,2004-12-11,Mainz,Nurnberg,0,1,A
+37027,D1,2004,2004-12-11,Schalke 04,Freiburg,1,1,D
+37028,D1,2004,2004-12-11,Werder Bremen,Kaiserslautern,1,1,D
+37029,D1,2004,2004-12-12,M'gladbach,Leverkusen,1,1,D
+37030,D1,2004,2004-12-12,Wolfsburg,Bielefeld,5,0,H
+37031,D1,2004,2005-01-21,Bayern Munich,Hamburg,3,0,H
+37032,D1,2004,2005-01-22,Hansa Rostock,Freiburg,0,0,D
+37033,D1,2004,2005-01-22,Mainz,Stuttgart,2,3,A
+37034,D1,2004,2005-01-22,M'gladbach,Bielefeld,1,0,H
+37035,D1,2004,2005-01-22,Nurnberg,Kaiserslautern,1,3,A
+37036,D1,2004,2005-01-22,Schalke 04,Werder Bremen,2,1,H
+37037,D1,2004,2005-01-22,Wolfsburg,Dortmund,1,2,A
+37038,D1,2004,2005-01-23,Bochum,Hertha,2,2,D
+37039,D1,2004,2005-01-23,Hannover,Leverkusen,0,3,A
+37040,D1,2004,2005-01-29,Bielefeld,Hannover,0,1,A
+37041,D1,2004,2005-01-29,Dortmund,M'gladbach,1,1,D
+37042,D1,2004,2005-01-29,Freiburg,Wolfsburg,1,0,H
+37043,D1,2004,2005-01-29,Hamburg,Mainz,2,1,H
+37044,D1,2004,2005-01-29,Kaiserslautern,Schalke 04,2,0,H
+37045,D1,2004,2005-01-29,Leverkusen,Bochum,4,0,H
+37046,D1,2004,2005-01-29,Stuttgart,Nurnberg,2,4,A
+37047,D1,2004,2005-01-30,Hertha,Bayern Munich,0,0,D
+37048,D1,2004,2005-01-30,Werder Bremen,Hansa Rostock,3,2,H
+37049,D1,2004,2005-02-05,Bayern Munich,Leverkusen,2,0,H
+37050,D1,2004,2005-02-05,Bochum,Bielefeld,1,1,D
+37051,D1,2004,2005-02-05,Hannover,Dortmund,1,3,A
+37052,D1,2004,2005-02-05,Hansa Rostock,Schalke 04,2,2,D
+37053,D1,2004,2005-02-05,Mainz,Hertha,0,3,A
+37054,D1,2004,2005-02-05,Nurnberg,Hamburg,1,3,A
+37055,D1,2004,2005-02-05,Stuttgart,Kaiserslautern,1,1,D
+37056,D1,2004,2005-02-06,M'gladbach,Freiburg,3,2,H
+37057,D1,2004,2005-02-06,Wolfsburg,Werder Bremen,2,3,A
+37058,D1,2004,2005-02-12,Dortmund,Bochum,1,0,H
+37059,D1,2004,2005-02-12,Freiburg,Hannover,0,0,D
+37060,D1,2004,2005-02-12,Hamburg,Stuttgart,2,1,H
+37061,D1,2004,2005-02-12,Hertha,Nurnberg,2,1,H
+37062,D1,2004,2005-02-12,Kaiserslautern,Hansa Rostock,2,1,H
+37063,D1,2004,2005-02-12,Schalke 04,Wolfsburg,3,0,H
+37064,D1,2004,2005-02-12,Werder Bremen,M'gladbach,2,0,H
+37065,D1,2004,2005-02-13,Bielefeld,Bayern Munich,3,1,H
+37066,D1,2004,2005-02-13,Leverkusen,Mainz,2,0,H
+37067,D1,2004,2005-02-19,Bayern Munich,Dortmund,5,0,H
+37068,D1,2004,2005-02-19,Bochum,Freiburg,3,1,H
+37069,D1,2004,2005-02-19,Hamburg,Kaiserslautern,2,1,H
+37070,D1,2004,2005-02-19,Hannover,Werder Bremen,1,4,A
+37071,D1,2004,2005-02-19,Mainz,Bielefeld,0,0,D
+37072,D1,2004,2005-02-19,Nurnberg,Leverkusen,2,4,A
+37073,D1,2004,2005-02-19,Wolfsburg,Hansa Rostock,4,0,H
+37074,D1,2004,2005-02-20,M'gladbach,Schalke 04,1,3,A
+37075,D1,2004,2005-02-20,Stuttgart,Hertha,1,0,H
+37076,D1,2004,2005-02-26,Bielefeld,Nurnberg,3,1,H
+37077,D1,2004,2005-02-26,Dortmund,Mainz,3,0,H
+37078,D1,2004,2005-02-26,Freiburg,Bayern Munich,0,1,A
+37079,D1,2004,2005-02-26,Hansa Rostock,M'gladbach,0,0,D
+37080,D1,2004,2005-02-26,Hertha,Hamburg,4,1,H
+37081,D1,2004,2005-02-26,Kaiserslautern,Wolfsburg,0,0,D
+37082,D1,2004,2005-02-26,Werder Bremen,Bochum,4,0,H
+37083,D1,2004,2005-02-27,Leverkusen,Stuttgart,1,1,D
+37084,D1,2004,2005-02-27,Schalke 04,Hannover,1,0,H
+37085,D1,2004,2005-03-05,Bayern Munich,Werder Bremen,1,0,H
+37086,D1,2004,2005-03-05,Bochum,Schalke 04,0,2,A
+37087,D1,2004,2005-03-05,Hamburg,Leverkusen,1,0,H
+37088,D1,2004,2005-03-05,Hannover,Hansa Rostock,0,1,A
+37089,D1,2004,2005-03-05,Mainz,Freiburg,5,0,H
+37090,D1,2004,2005-03-05,M'gladbach,Wolfsburg,1,0,H
+37091,D1,2004,2005-03-05,Stuttgart,Bielefeld,2,1,H
+37092,D1,2004,2005-03-06,Hertha,Kaiserslautern,1,1,D
+37093,D1,2004,2005-03-06,Nurnberg,Dortmund,2,2,D
+37094,D1,2004,2005-03-12,Bielefeld,Hamburg,3,4,A
+37095,D1,2004,2005-03-12,Freiburg,Nurnberg,2,3,A
+37096,D1,2004,2005-03-12,Hansa Rostock,Bochum,3,1,H
+37097,D1,2004,2005-03-12,Kaiserslautern,M'gladbach,1,0,H
+37098,D1,2004,2005-03-12,Leverkusen,Hertha,3,3,D
+37099,D1,2004,2005-03-12,Werder Bremen,Mainz,0,0,D
+37100,D1,2004,2005-03-12,Wolfsburg,Hannover,1,0,H
+37101,D1,2004,2005-03-13,Dortmund,Stuttgart,0,2,A
+37102,D1,2004,2005-03-13,Schalke 04,Bayern Munich,1,0,H
+37103,D1,2004,2005-03-19,Bayern Munich,Hansa Rostock,3,1,H
+37104,D1,2004,2005-03-19,Bochum,Wolfsburg,5,1,H
+37105,D1,2004,2005-03-19,Hamburg,Dortmund,2,3,A
+37106,D1,2004,2005-03-19,Hannover,M'gladbach,2,1,H
+37107,D1,2004,2005-03-19,Hertha,Bielefeld,3,0,H
+37108,D1,2004,2005-03-19,Leverkusen,Kaiserslautern,2,0,H
+37109,D1,2004,2005-03-19,Nurnberg,Werder Bremen,1,2,A
+37110,D1,2004,2005-03-20,Mainz,Schalke 04,2,1,H
+37111,D1,2004,2005-03-20,Stuttgart,Freiburg,1,0,H
+37112,D1,2004,2005-04-02,Bielefeld,Leverkusen,1,0,H
+37113,D1,2004,2005-04-02,Freiburg,Hamburg,1,1,D
+37114,D1,2004,2005-04-02,Hansa Rostock,Mainz,2,0,H
+37115,D1,2004,2005-04-02,Kaiserslautern,Hannover,0,2,A
+37116,D1,2004,2005-04-02,Schalke 04,Nurnberg,4,1,H
+37117,D1,2004,2005-04-02,Werder Bremen,Stuttgart,1,2,A
+37118,D1,2004,2005-04-02,Wolfsburg,Bayern Munich,0,3,A
+37119,D1,2004,2005-04-03,Dortmund,Hertha,2,1,H
+37120,D1,2004,2005-04-03,M'gladbach,Bochum,2,2,D
+37121,D1,2004,2005-04-09,Bayern Munich,M'gladbach,2,1,H
+37122,D1,2004,2005-04-09,Bochum,Hannover,1,0,H
+37123,D1,2004,2005-04-09,Hamburg,Werder Bremen,1,2,A
+37124,D1,2004,2005-04-09,Hertha,Freiburg,3,1,H
+37125,D1,2004,2005-04-09,Leverkusen,Dortmund,0,1,A
+37126,D1,2004,2005-04-09,Mainz,Wolfsburg,0,2,A
+37127,D1,2004,2005-04-09,Stuttgart,Schalke 04,3,0,H
+37128,D1,2004,2005-04-10,Bielefeld,Kaiserslautern,0,2,A
+37129,D1,2004,2005-04-10,Nurnberg,Hansa Rostock,3,0,H
+37130,D1,2004,2005-04-16,Dortmund,Bielefeld,1,1,D
+37131,D1,2004,2005-04-16,Freiburg,Leverkusen,1,3,A
+37132,D1,2004,2005-04-16,Hannover,Bayern Munich,0,1,A
+37133,D1,2004,2005-04-16,Hansa Rostock,Stuttgart,2,1,H
+37134,D1,2004,2005-04-16,M'gladbach,Mainz,1,1,D
+37135,D1,2004,2005-04-16,Schalke 04,Hamburg,1,2,A
+37136,D1,2004,2005-04-16,Werder Bremen,Hertha,0,1,A
+37137,D1,2004,2005-04-17,Kaiserslautern,Bochum,1,2,A
+37138,D1,2004,2005-04-17,Wolfsburg,Nurnberg,0,1,A
+37139,D1,2004,2005-04-23,Bayern Munich,Bochum,3,1,H
+37140,D1,2004,2005-04-23,Bielefeld,Freiburg,3,1,H
+37141,D1,2004,2005-04-23,Dortmund,Kaiserslautern,4,2,H
+37142,D1,2004,2005-04-23,Hamburg,Hansa Rostock,3,0,H
+37143,D1,2004,2005-04-23,Hertha,Schalke 04,4,1,H
+37144,D1,2004,2005-04-23,Mainz,Hannover,2,0,H
+37145,D1,2004,2005-04-23,Stuttgart,Wolfsburg,0,0,D
+37146,D1,2004,2005-04-24,Leverkusen,Werder Bremen,2,1,H
+37147,D1,2004,2005-04-24,Nurnberg,M'gladbach,0,0,D
+37148,D1,2004,2005-04-30,Bochum,Mainz,2,6,A
+37149,D1,2004,2005-04-30,Freiburg,Dortmund,2,2,D
+37150,D1,2004,2005-04-30,Hansa Rostock,Hertha,2,1,H
+37151,D1,2004,2005-04-30,Kaiserslautern,Bayern Munich,0,4,A
+37152,D1,2004,2005-04-30,M'gladbach,Stuttgart,2,0,H
+37153,D1,2004,2005-04-30,Schalke 04,Leverkusen,3,3,D
+37154,D1,2004,2005-04-30,Werder Bremen,Bielefeld,3,0,H
+37155,D1,2004,2005-05-01,Hannover,Nurnberg,1,0,H
+37156,D1,2004,2005-05-01,Wolfsburg,Hamburg,1,0,H
+37157,D1,2004,2005-05-07,Bielefeld,Schalke 04,0,2,A
+37158,D1,2004,2005-05-07,Freiburg,Kaiserslautern,1,2,A
+37159,D1,2004,2005-05-07,Hertha,Wolfsburg,3,1,H
+37160,D1,2004,2005-05-07,Leverkusen,Hansa Rostock,3,0,H
+37161,D1,2004,2005-05-07,Mainz,Bayern Munich,2,4,A
+37162,D1,2004,2005-05-07,Nurnberg,Bochum,2,1,H
+37163,D1,2004,2005-05-07,Stuttgart,Hannover,1,0,H
+37164,D1,2004,2005-05-08,Dortmund,Werder Bremen,1,0,H
+37165,D1,2004,2005-05-08,Hamburg,M'gladbach,0,0,D
+37166,D1,2004,2005-05-14,Bayern Munich,Nurnberg,6,3,H
+37167,D1,2004,2005-05-14,Bochum,Stuttgart,2,0,H
+37168,D1,2004,2005-05-14,Hannover,Hamburg,2,1,H
+37169,D1,2004,2005-05-14,Hansa Rostock,Bielefeld,1,1,D
+37170,D1,2004,2005-05-14,Mainz,Kaiserslautern,3,2,H
+37171,D1,2004,2005-05-14,M'gladbach,Hertha,0,0,D
+37172,D1,2004,2005-05-14,Schalke 04,Dortmund,1,2,A
+37173,D1,2004,2005-05-14,Werder Bremen,Freiburg,4,1,H
+37174,D1,2004,2005-05-14,Wolfsburg,Leverkusen,2,2,D
+37175,D1,2004,2005-05-21,Bielefeld,Wolfsburg,1,2,A
+37176,D1,2004,2005-05-21,Dortmund,Hansa Rostock,2,1,H
+37177,D1,2004,2005-05-21,Freiburg,Schalke 04,2,3,A
+37178,D1,2004,2005-05-21,Hamburg,Bochum,0,1,A
+37179,D1,2004,2005-05-21,Hertha,Hannover,0,0,D
+37180,D1,2004,2005-05-21,Kaiserslautern,Werder Bremen,1,2,A
+37181,D1,2004,2005-05-21,Leverkusen,M'gladbach,5,1,H
+37182,D1,2004,2005-05-21,Nurnberg,Mainz,1,2,A
+37183,D1,2004,2005-05-21,Stuttgart,Bayern Munich,1,3,A
+37184,D2,2004,2004-08-07,Dresden,Duisburg,3,1,H
+37185,D2,2004,2004-08-07,RW Essen,Erzgebirge Aue,1,5,A
+37186,D2,2004,2004-08-07,Karlsruhe,Burghausen,1,1,D
+37187,D2,2004,2004-08-08,FC Koln,Cottbus,0,0,D
+37188,D2,2004,2004-08-08,Greuther Furth,Ahlen,1,0,H
+37189,D2,2004,2004-08-08,Munich 1860,Unterhaching,2,2,D
+37190,D2,2004,2004-08-08,Oberhausen,Ein Trier,1,1,D
+37191,D2,2004,2004-08-08,Saarbrucken,Erfurt,0,2,A
+37192,D2,2004,2004-08-09,Aachen,Ein Frankfurt,1,1,D
+37193,D2,2004,2004-08-13,Burghausen,FC Koln,4,2,H
+37194,D2,2004,2004-08-13,Duisburg,Saarbrucken,2,1,H
+37195,D2,2004,2004-08-13,Erzgebirge Aue,Munich 1860,3,1,H
+37196,D2,2004,2004-08-15,Ahlen,Aachen,1,1,D
+37197,D2,2004,2004-08-15,Ein Frankfurt,Karlsruhe,2,1,H
+37198,D2,2004,2004-08-15,Ein Trier,RW Essen,1,1,D
+37199,D2,2004,2004-08-15,Erfurt,Oberhausen,1,1,D
+37200,D2,2004,2004-08-15,Unterhaching,Greuther Furth,1,2,A
+37201,D2,2004,2004-08-16,Cottbus,Dresden,2,1,H
+37202,D2,2004,2004-08-27,Aachen,Karlsruhe,4,0,H
+37203,D2,2004,2004-08-27,RW Essen,Erfurt,0,0,D
+37204,D2,2004,2004-08-27,Munich 1860,Ein Trier,2,0,H
+37205,D2,2004,2004-08-29,Ahlen,Unterhaching,1,2,A
+37206,D2,2004,2004-08-29,Dresden,Burghausen,1,1,D
+37207,D2,2004,2004-08-29,Greuther Furth,Erzgebirge Aue,1,0,H
+37208,D2,2004,2004-08-29,Oberhausen,Duisburg,0,2,A
+37209,D2,2004,2004-08-29,Saarbrucken,Cottbus,0,0,D
+37210,D2,2004,2004-08-30,FC Koln,Ein Frankfurt,2,0,H
+37211,D2,2004,2004-09-10,Burghausen,Saarbrucken,1,2,A
+37212,D2,2004,2004-09-10,Cottbus,Oberhausen,1,0,H
+37213,D2,2004,2004-09-10,Ein Frankfurt,Dresden,2,1,H
+37214,D2,2004,2004-09-12,Duisburg,RW Essen,1,0,H
+37215,D2,2004,2004-09-12,Ein Trier,Greuther Furth,0,0,D
+37216,D2,2004,2004-09-12,Erzgebirge Aue,Ahlen,0,0,D
+37217,D2,2004,2004-09-12,Karlsruhe,FC Koln,0,1,A
+37218,D2,2004,2004-09-12,Unterhaching,Aachen,0,2,A
+37219,D2,2004,2004-09-13,Erfurt,Munich 1860,0,0,D
+37220,D2,2004,2004-09-17,Ahlen,Ein Trier,2,2,D
+37221,D2,2004,2004-09-17,Dresden,Karlsruhe,1,2,A
+37222,D2,2004,2004-09-17,Munich 1860,Duisburg,1,0,H
+37223,D2,2004,2004-09-19,Aachen,FC Koln,2,3,A
+37224,D2,2004,2004-09-19,RW Essen,Cottbus,4,2,H
+37225,D2,2004,2004-09-19,Greuther Furth,Erfurt,2,0,H
+37226,D2,2004,2004-09-19,Oberhausen,Burghausen,1,2,A
+37227,D2,2004,2004-09-19,Saarbrucken,Ein Frankfurt,3,0,H
+37228,D2,2004,2004-09-19,Unterhaching,Erzgebirge Aue,4,1,H
+37229,D2,2004,2004-09-24,Burghausen,RW Essen,3,2,H
+37230,D2,2004,2004-09-24,Erfurt,Ahlen,1,1,D
+37231,D2,2004,2004-09-24,Karlsruhe,Saarbrucken,1,1,D
+37232,D2,2004,2004-09-26,Duisburg,Greuther Furth,1,0,H
+37233,D2,2004,2004-09-26,Ein Frankfurt,Oberhausen,6,2,H
+37234,D2,2004,2004-09-26,Ein Trier,Unterhaching,2,0,H
+37235,D2,2004,2004-09-26,Erzgebirge Aue,Aachen,1,1,D
+37236,D2,2004,2004-09-26,FC Koln,Dresden,3,2,H
+37237,D2,2004,2004-09-27,Cottbus,Munich 1860,1,1,D
+37238,D2,2004,2004-10-01,Ahlen,Duisburg,2,0,H
+37239,D2,2004,2004-10-01,RW Essen,Ein Frankfurt,4,4,D
+37240,D2,2004,2004-10-01,Unterhaching,Erfurt,4,0,H
+37241,D2,2004,2004-10-03,Erzgebirge Aue,Ein Trier,1,2,A
+37242,D2,2004,2004-10-03,Greuther Furth,Cottbus,2,0,H
+37243,D2,2004,2004-10-03,Munich 1860,Burghausen,2,4,A
+37244,D2,2004,2004-10-03,Oberhausen,Karlsruhe,1,0,H
+37245,D2,2004,2004-10-03,Saarbrucken,FC Koln,2,0,H
+37246,D2,2004,2004-10-04,Aachen,Dresden,5,1,H
+37247,D2,2004,2004-10-15,Duisburg,Unterhaching,3,1,H
+37248,D2,2004,2004-10-15,Erfurt,Erzgebirge Aue,0,3,A
+37249,D2,2004,2004-10-15,Karlsruhe,RW Essen,4,1,H
+37250,D2,2004,2004-10-17,Burghausen,Greuther Furth,0,1,A
+37251,D2,2004,2004-10-17,Cottbus,Ahlen,0,0,D
+37252,D2,2004,2004-10-17,Dresden,Saarbrucken,2,1,H
+37253,D2,2004,2004-10-17,Ein Trier,Aachen,0,4,A
+37254,D2,2004,2004-10-17,FC Koln,Oberhausen,3,2,H
+37255,D2,2004,2004-10-18,Ein Frankfurt,Munich 1860,1,2,A
+37256,D2,2004,2004-10-22,RW Essen,FC Koln,2,2,D
+37257,D2,2004,2004-10-22,Greuther Furth,Ein Frankfurt,2,1,H
+37258,D2,2004,2004-10-22,Munich 1860,Karlsruhe,1,1,D
+37259,D2,2004,2004-10-22,Unterhaching,Cottbus,2,1,H
+37260,D2,2004,2004-10-24,Aachen,Saarbrucken,3,1,H
+37261,D2,2004,2004-10-24,Ein Trier,Erfurt,2,0,H
+37262,D2,2004,2004-10-24,Erzgebirge Aue,Duisburg,1,3,A
+37263,D2,2004,2004-10-24,Oberhausen,Dresden,2,0,H
+37264,D2,2004,2004-10-26,Burghausen,Unterhaching,2,0,H
+37265,D2,2004,2004-10-26,Ein Frankfurt,Ahlen,2,3,A
+37266,D2,2004,2004-10-26,FC Koln,Munich 1860,2,0,H
+37267,D2,2004,2004-10-26,Karlsruhe,Greuther Furth,2,2,D
+37268,D2,2004,2004-10-27,Dresden,RW Essen,1,0,H
+37269,D2,2004,2004-10-27,Duisburg,Ein Trier,4,3,H
+37270,D2,2004,2004-10-27,Erfurt,Aachen,1,0,H
+37271,D2,2004,2004-10-27,Saarbrucken,Oberhausen,3,0,H
+37272,D2,2004,2004-10-28,Cottbus,Erzgebirge Aue,1,0,H
+37273,D2,2004,2004-10-29,Ahlen,Karlsruhe,2,2,D
+37274,D2,2004,2004-10-29,Greuther Furth,FC Koln,0,1,A
+37275,D2,2004,2004-10-29,Unterhaching,Ein Frankfurt,2,0,H
+37276,D2,2004,2004-10-31,Aachen,Oberhausen,2,1,H
+37277,D2,2004,2004-10-31,Ein Trier,Cottbus,2,1,H
+37278,D2,2004,2004-10-31,Erfurt,Duisburg,0,0,D
+37279,D2,2004,2004-10-31,Erzgebirge Aue,Burghausen,2,0,H
+37280,D2,2004,2004-10-31,RW Essen,Saarbrucken,2,0,H
+37281,D2,2004,2004-11-01,Munich 1860,Dresden,2,0,H
+37282,D2,2004,2004-11-05,Burghausen,Ein Trier,0,0,D
+37283,D2,2004,2004-11-05,Ein Frankfurt,Erzgebirge Aue,2,0,H
+37284,D2,2004,2004-11-05,Karlsruhe,Unterhaching,1,0,H
+37285,D2,2004,2004-11-07,Cottbus,Erfurt,3,0,H
+37286,D2,2004,2004-11-07,Dresden,Greuther Furth,2,2,D
+37287,D2,2004,2004-11-07,FC Koln,Ahlen,3,0,H
+37288,D2,2004,2004-11-07,Oberhausen,RW Essen,1,1,D
+37289,D2,2004,2004-11-07,Saarbrucken,Munich 1860,4,1,H
+37290,D2,2004,2004-11-08,Duisburg,Aachen,1,0,H
+37291,D2,2004,2004-11-12,Erfurt,Burghausen,1,0,H
+37292,D2,2004,2004-11-12,Greuther Furth,Saarbrucken,2,0,H
+37293,D2,2004,2004-11-12,Munich 1860,Oberhausen,5,1,H
+37294,D2,2004,2004-11-14,Aachen,RW Essen,1,1,D
+37295,D2,2004,2004-11-14,Ahlen,Dresden,2,0,H
+37296,D2,2004,2004-11-14,Duisburg,Cottbus,2,0,H
+37297,D2,2004,2004-11-14,Ein Trier,Ein Frankfurt,2,2,D
+37298,D2,2004,2004-11-14,Erzgebirge Aue,Karlsruhe,1,0,H
+37299,D2,2004,2004-11-15,Unterhaching,FC Koln,1,3,A
+37300,D2,2004,2004-11-19,Ein Frankfurt,Erfurt,2,1,H
+37301,D2,2004,2004-11-19,FC Koln,Erzgebirge Aue,1,0,H
+37302,D2,2004,2004-11-19,Oberhausen,Greuther Furth,1,0,H
+37303,D2,2004,2004-11-19,Saarbrucken,Ahlen,0,0,D
+37304,D2,2004,2004-11-21,Burghausen,Duisburg,0,0,D
+37305,D2,2004,2004-11-21,Dresden,Unterhaching,1,0,H
+37306,D2,2004,2004-11-21,Karlsruhe,Ein Trier,1,0,H
+37307,D2,2004,2004-11-22,Cottbus,Aachen,1,2,A
+37308,D2,2004,2004-11-24,RW Essen,Munich 1860,0,0,D
+37309,D2,2004,2004-11-26,Ahlen,Oberhausen,0,1,A
+37310,D2,2004,2004-11-26,Duisburg,Ein Frankfurt,1,1,D
+37311,D2,2004,2004-11-26,Ein Trier,FC Koln,0,0,D
+37312,D2,2004,2004-11-28,Aachen,Munich 1860,5,1,H
+37313,D2,2004,2004-11-28,Erfurt,Karlsruhe,4,2,H
+37314,D2,2004,2004-11-28,Erzgebirge Aue,Dresden,4,1,H
+37315,D2,2004,2004-11-28,Greuther Furth,RW Essen,3,2,H
+37316,D2,2004,2004-11-28,Unterhaching,Saarbrucken,1,3,A
+37317,D2,2004,2004-11-29,Cottbus,Burghausen,0,2,A
+37318,D2,2004,2004-12-03,RW Essen,Ahlen,1,0,H
+37319,D2,2004,2004-12-03,Karlsruhe,Duisburg,0,3,A
+37320,D2,2004,2004-12-03,Saarbrucken,Erzgebirge Aue,2,1,H
+37321,D2,2004,2004-12-05,Aachen,Burghausen,3,1,H
+37322,D2,2004,2004-12-05,Dresden,Ein Trier,4,1,H
+37323,D2,2004,2004-12-05,Ein Frankfurt,Cottbus,3,1,H
+37324,D2,2004,2004-12-05,FC Koln,Erfurt,1,1,D
+37325,D2,2004,2004-12-05,Oberhausen,Unterhaching,3,1,H
+37326,D2,2004,2004-12-06,Munich 1860,Greuther Furth,2,1,H
+37327,D2,2004,2004-12-10,Burghausen,Ein Frankfurt,0,3,A
+37328,D2,2004,2004-12-10,Cottbus,Karlsruhe,4,1,H
+37329,D2,2004,2004-12-10,Greuther Furth,Aachen,3,2,H
+37330,D2,2004,2004-12-12,Ahlen,Munich 1860,1,0,H
+37331,D2,2004,2004-12-12,Duisburg,FC Koln,1,0,H
+37332,D2,2004,2004-12-12,Ein Trier,Saarbrucken,2,1,H
+37333,D2,2004,2004-12-12,Erfurt,Dresden,1,1,D
+37334,D2,2004,2004-12-12,Erzgebirge Aue,Oberhausen,2,0,H
+37335,D2,2004,2004-12-12,Unterhaching,RW Essen,4,0,H
+37336,D2,2004,2005-01-22,Burghausen,Karlsruhe,1,1,D
+37337,D2,2004,2005-01-22,Ein Trier,Oberhausen,2,2,D
+37338,D2,2004,2005-01-22,Erzgebirge Aue,RW Essen,1,1,D
+37339,D2,2004,2005-01-23,Ahlen,Greuther Furth,2,4,A
+37340,D2,2004,2005-01-23,Cottbus,FC Koln,3,5,A
+37341,D2,2004,2005-01-23,Duisburg,Dresden,4,2,H
+37342,D2,2004,2005-01-23,Erfurt,Saarbrucken,0,1,A
+37343,D2,2004,2005-01-23,Unterhaching,Munich 1860,1,1,D
+37344,D2,2004,2005-01-24,Ein Frankfurt,Aachen,1,0,H
+37345,D2,2004,2005-01-28,RW Essen,Ein Trier,2,2,D
+37346,D2,2004,2005-01-28,FC Koln,Burghausen,8,1,H
+37347,D2,2004,2005-01-28,Munich 1860,Erzgebirge Aue,1,0,H
+37348,D2,2004,2005-01-30,Aachen,Ahlen,0,2,A
+37349,D2,2004,2005-01-30,Greuther Furth,Unterhaching,3,1,H
+37350,D2,2004,2005-01-30,Karlsruhe,Ein Frankfurt,3,0,H
+37351,D2,2004,2005-01-30,Oberhausen,Erfurt,4,3,H
+37352,D2,2004,2005-01-30,Saarbrucken,Duisburg,4,1,H
+37353,D2,2004,2005-01-31,Dresden,Cottbus,0,1,A
+37354,D2,2004,2005-02-04,Cottbus,Saarbrucken,1,1,D
+37355,D2,2004,2005-02-04,Duisburg,Oberhausen,4,1,H
+37356,D2,2004,2005-02-04,Ein Frankfurt,FC Koln,1,0,H
+37357,D2,2004,2005-02-06,Ein Trier,Munich 1860,2,2,D
+37358,D2,2004,2005-02-06,Erfurt,RW Essen,1,1,D
+37359,D2,2004,2005-02-06,Erzgebirge Aue,Greuther Furth,2,1,H
+37360,D2,2004,2005-02-06,Karlsruhe,Aachen,0,1,A
+37361,D2,2004,2005-02-06,Unterhaching,Ahlen,2,1,H
+37362,D2,2004,2005-02-07,Burghausen,Dresden,2,1,H
+37363,D2,2004,2005-02-11,Aachen,Unterhaching,2,3,A
+37364,D2,2004,2005-02-11,Dresden,Ein Frankfurt,2,1,H
+37365,D2,2004,2005-02-11,Oberhausen,Cottbus,0,1,A
+37366,D2,2004,2005-02-13,Ahlen,Erzgebirge Aue,1,2,A
+37367,D2,2004,2005-02-13,RW Essen,Duisburg,1,0,H
+37368,D2,2004,2005-02-13,Greuther Furth,Ein Trier,3,3,D
+37369,D2,2004,2005-02-13,Munich 1860,Erfurt,3,1,H
+37370,D2,2004,2005-02-13,Saarbrucken,Burghausen,2,4,A
+37371,D2,2004,2005-02-14,FC Koln,Karlsruhe,2,2,D
+37372,D2,2004,2005-02-18,Cottbus,RW Essen,0,0,D
+37373,D2,2004,2005-02-18,Ein Trier,Ahlen,2,0,H
+37374,D2,2004,2005-02-18,Karlsruhe,Dresden,1,1,D
+37375,D2,2004,2005-02-20,Burghausen,Oberhausen,2,2,D
+37376,D2,2004,2005-02-20,Ein Frankfurt,Saarbrucken,3,0,H
+37377,D2,2004,2005-02-20,Erfurt,Greuther Furth,1,2,A
+37378,D2,2004,2005-02-20,Erzgebirge Aue,Unterhaching,1,0,H
+37379,D2,2004,2005-02-20,FC Koln,Aachen,1,0,H
+37380,D2,2004,2005-02-21,Duisburg,Munich 1860,0,1,A
+37381,D2,2004,2005-02-25,RW Essen,Burghausen,1,2,A
+37382,D2,2004,2005-02-25,Munich 1860,Cottbus,1,0,H
+37383,D2,2004,2005-02-27,Aachen,Erzgebirge Aue,1,5,A
+37384,D2,2004,2005-02-27,Ahlen,Erfurt,2,3,A
+37385,D2,2004,2005-02-27,Oberhausen,Ein Frankfurt,0,3,A
+37386,D2,2004,2005-02-27,Unterhaching,Ein Trier,1,0,H
+37387,D2,2004,2005-02-28,Greuther Furth,Duisburg,1,3,A
+37388,D2,2004,2005-03-04,Burghausen,Munich 1860,0,3,A
+37389,D2,2004,2005-03-04,Dresden,Aachen,2,0,H
+37390,D2,2004,2005-03-04,Duisburg,Ahlen,1,0,H
+37391,D2,2004,2005-03-06,Cottbus,Greuther Furth,2,0,H
+37392,D2,2004,2005-03-06,Ein Frankfurt,RW Essen,1,0,H
+37393,D2,2004,2005-03-06,Ein Trier,Erzgebirge Aue,1,0,H
+37394,D2,2004,2005-03-07,FC Koln,Saarbrucken,3,1,H
+37395,D2,2004,2005-03-11,Erzgebirge Aue,Erfurt,3,2,H
+37396,D2,2004,2005-03-11,Oberhausen,FC Koln,0,3,A
+37397,D2,2004,2005-03-11,Saarbrucken,Dresden,0,1,A
+37398,D2,2004,2005-03-13,Aachen,Ein Trier,2,0,H
+37399,D2,2004,2005-03-13,Ahlen,Cottbus,3,1,H
+37400,D2,2004,2005-03-13,RW Essen,Karlsruhe,2,1,H
+37401,D2,2004,2005-03-13,Unterhaching,Duisburg,0,1,A
+37402,D2,2004,2005-03-14,Munich 1860,Ein Frankfurt,2,1,H
+37403,D2,2004,2005-03-16,Dresden,FC Koln,2,1,H
+37404,D2,2004,2005-03-16,Saarbrucken,Karlsruhe,3,4,A
+37405,D2,2004,2005-03-18,Burghausen,Ahlen,1,0,H
+37406,D2,2004,2005-03-18,Duisburg,Erzgebirge Aue,1,1,D
+37407,D2,2004,2005-03-18,Erfurt,Ein Trier,3,0,H
+37408,D2,2004,2005-03-20,Cottbus,Unterhaching,0,0,D
+37409,D2,2004,2005-03-20,Dresden,Oberhausen,3,1,H
+37410,D2,2004,2005-03-20,FC Koln,RW Essen,0,0,D
+37411,D2,2004,2005-03-20,Karlsruhe,Munich 1860,1,1,D
+37412,D2,2004,2005-03-20,Saarbrucken,Aachen,1,2,A
+37413,D2,2004,2005-03-21,Ein Frankfurt,Greuther Furth,1,0,H
+37414,D2,2004,2005-04-01,Aachen,Erfurt,5,1,H
+37415,D2,2004,2005-04-01,Erzgebirge Aue,Cottbus,2,0,H
+37416,D2,2004,2005-04-01,RW Essen,Dresden,2,1,H
+37417,D2,2004,2005-04-03,Ahlen,Ein Frankfurt,3,2,H
+37418,D2,2004,2005-04-03,Greuther Furth,Karlsruhe,1,0,H
+37419,D2,2004,2005-04-03,Munich 1860,FC Koln,0,0,D
+37420,D2,2004,2005-04-03,Oberhausen,Saarbrucken,3,0,H
+37421,D2,2004,2005-04-03,Unterhaching,Burghausen,0,1,A
+37422,D2,2004,2005-04-04,Ein Trier,Duisburg,1,0,H
+37423,D2,2004,2005-04-06,Erfurt,Unterhaching,2,0,H
+37424,D2,2004,2005-04-06,Greuther Furth,Burghausen,1,1,D
+37425,D2,2004,2005-04-06,Karlsruhe,Oberhausen,3,0,H
+37426,D2,2004,2005-04-08,Cottbus,Ein Trier,2,1,H
+37427,D2,2004,2005-04-08,Dresden,Munich 1860,0,4,A
+37428,D2,2004,2005-04-08,Saarbrucken,RW Essen,0,0,D
+37429,D2,2004,2005-04-10,Burghausen,Erzgebirge Aue,2,2,D
+37430,D2,2004,2005-04-10,Duisburg,Erfurt,4,0,H
+37431,D2,2004,2005-04-10,Ein Frankfurt,Unterhaching,3,0,H
+37432,D2,2004,2005-04-10,Karlsruhe,Ahlen,0,0,D
+37433,D2,2004,2005-04-10,Oberhausen,Aachen,0,0,D
+37434,D2,2004,2005-04-11,FC Koln,Greuther Furth,3,2,H
+37435,D2,2004,2005-04-15,Erfurt,Cottbus,3,3,D
+37436,D2,2004,2005-04-15,RW Essen,Oberhausen,2,2,D
+37437,D2,2004,2005-04-15,Greuther Furth,Dresden,0,1,A
+37438,D2,2004,2005-04-17,Ahlen,FC Koln,1,0,H
+37439,D2,2004,2005-04-17,Ein Trier,Burghausen,0,2,A
+37440,D2,2004,2005-04-17,Erzgebirge Aue,Ein Frankfurt,0,5,A
+37441,D2,2004,2005-04-17,Munich 1860,Saarbrucken,1,1,D
+37442,D2,2004,2005-04-17,Unterhaching,Karlsruhe,2,0,H
+37443,D2,2004,2005-04-18,Aachen,Duisburg,0,0,D
+37444,D2,2004,2005-04-22,Ein Frankfurt,Ein Trier,2,0,H
+37445,D2,2004,2005-04-22,RW Essen,Aachen,0,2,A
+37446,D2,2004,2005-04-22,Karlsruhe,Erzgebirge Aue,0,1,A
+37447,D2,2004,2005-04-24,Burghausen,Erfurt,0,2,A
+37448,D2,2004,2005-04-24,Cottbus,Duisburg,1,0,H
+37449,D2,2004,2005-04-24,Dresden,Ahlen,3,1,H
+37450,D2,2004,2005-04-24,Oberhausen,Munich 1860,0,0,D
+37451,D2,2004,2005-04-24,Saarbrucken,Greuther Furth,2,1,H
+37452,D2,2004,2005-04-25,FC Koln,Unterhaching,1,0,H
+37453,D2,2004,2005-04-27,Ahlen,Burghausen,1,3,A
+37454,D2,2004,2005-04-29,Erfurt,Ein Frankfurt,0,3,A
+37455,D2,2004,2005-04-29,Greuther Furth,Oberhausen,3,2,H
+37456,D2,2004,2005-04-29,Unterhaching,Dresden,1,0,H
+37457,D2,2004,2005-05-01,Aachen,Cottbus,4,0,H
+37458,D2,2004,2005-05-01,Ahlen,Saarbrucken,2,3,A
+37459,D2,2004,2005-05-01,Duisburg,Burghausen,4,3,H
+37460,D2,2004,2005-05-01,Ein Trier,Karlsruhe,0,2,A
+37461,D2,2004,2005-05-01,Munich 1860,RW Essen,0,0,D
+37462,D2,2004,2005-05-02,Erzgebirge Aue,FC Koln,1,2,A
+37463,D2,2004,2005-05-06,Dresden,Erzgebirge Aue,1,0,H
+37464,D2,2004,2005-05-06,FC Koln,Ein Trier,1,2,A
+37465,D2,2004,2005-05-06,Karlsruhe,Erfurt,2,0,H
+37466,D2,2004,2005-05-08,Burghausen,Cottbus,0,0,D
+37467,D2,2004,2005-05-08,RW Essen,Greuther Furth,0,2,A
+37468,D2,2004,2005-05-08,Munich 1860,Aachen,3,0,H
+37469,D2,2004,2005-05-08,Oberhausen,Ahlen,2,2,D
+37470,D2,2004,2005-05-08,Saarbrucken,Unterhaching,0,1,A
+37471,D2,2004,2005-05-09,Ein Frankfurt,Duisburg,0,1,A
+37472,D2,2004,2005-05-15,Ahlen,RW Essen,3,1,H
+37473,D2,2004,2005-05-15,Burghausen,Aachen,2,3,A
+37474,D2,2004,2005-05-15,Cottbus,Ein Frankfurt,0,3,A
+37475,D2,2004,2005-05-15,Duisburg,Karlsruhe,1,4,A
+37476,D2,2004,2005-05-15,Ein Trier,Dresden,2,4,A
+37477,D2,2004,2005-05-15,Erfurt,FC Koln,0,1,A
+37478,D2,2004,2005-05-15,Erzgebirge Aue,Saarbrucken,2,0,H
+37479,D2,2004,2005-05-15,Greuther Furth,Munich 1860,2,3,A
+37480,D2,2004,2005-05-15,Unterhaching,Oberhausen,0,2,A
+37481,D2,2004,2005-05-22,Aachen,Greuther Furth,0,1,A
+37482,D2,2004,2005-05-22,Dresden,Erfurt,2,1,H
+37483,D2,2004,2005-05-22,Ein Frankfurt,Burghausen,3,0,H
+37484,D2,2004,2005-05-22,RW Essen,Unterhaching,0,1,A
+37485,D2,2004,2005-05-22,FC Koln,Duisburg,4,0,H
+37486,D2,2004,2005-05-22,Karlsruhe,Cottbus,3,2,H
+37487,D2,2004,2005-05-22,Munich 1860,Ahlen,3,4,A
+37488,D2,2004,2005-05-22,Oberhausen,Erzgebirge Aue,1,1,D
+37489,D2,2004,2005-05-22,Saarbrucken,Ein Trier,1,1,D
+41835,E0,2004,2004-08-14,Aston Villa,Southampton,2,0,H
+41836,E0,2004,2004-08-14,Blackburn,West Brom,1,1,D
+41837,E0,2004,2004-08-14,Bolton,Charlton,4,1,H
+41838,E0,2004,2004-08-14,Man City,Fulham,1,1,D
+41839,E0,2004,2004-08-14,Middlesbrough,Newcastle,2,2,D
+41840,E0,2004,2004-08-14,Norwich,Crystal Palace,1,1,D
+41841,E0,2004,2004-08-14,Portsmouth,Birmingham,1,1,D
+41842,E0,2004,2004-08-14,Tottenham,Liverpool,1,1,D
+41843,E0,2004,2004-08-15,Chelsea,Man United,1,0,H
+41844,E0,2004,2004-08-15,Everton,Arsenal,1,4,A
+41845,E0,2004,2004-08-21,Birmingham,Chelsea,0,1,A
+41846,E0,2004,2004-08-21,Charlton,Portsmouth,2,1,H
+41847,E0,2004,2004-08-21,Crystal Palace,Everton,1,3,A
+41848,E0,2004,2004-08-21,Fulham,Bolton,2,0,H
+41849,E0,2004,2004-08-21,Liverpool,Man City,2,1,H
+41850,E0,2004,2004-08-21,Man United,Norwich,2,1,H
+41851,E0,2004,2004-08-21,Newcastle,Tottenham,0,1,A
+41852,E0,2004,2004-08-21,Southampton,Blackburn,3,2,H
+41853,E0,2004,2004-08-22,Arsenal,Middlesbrough,5,3,H
+41854,E0,2004,2004-08-22,West Brom,Aston Villa,1,1,D
+41855,E0,2004,2004-08-24,Birmingham,Man City,1,0,H
+41856,E0,2004,2004-08-24,Crystal Palace,Chelsea,0,2,A
+41857,E0,2004,2004-08-25,Arsenal,Blackburn,3,0,H
+41858,E0,2004,2004-08-25,Charlton,Aston Villa,3,0,H
+41859,E0,2004,2004-08-25,Fulham,Middlesbrough,0,2,A
+41860,E0,2004,2004-08-25,Newcastle,Norwich,2,2,D
+41861,E0,2004,2004-08-25,Southampton,Bolton,1,2,A
+41862,E0,2004,2004-08-25,West Brom,Tottenham,1,1,D
+41863,E0,2004,2004-08-28,Aston Villa,Newcastle,4,2,H
+41864,E0,2004,2004-08-28,Blackburn,Man United,1,1,D
+41865,E0,2004,2004-08-28,Chelsea,Southampton,2,1,H
+41866,E0,2004,2004-08-28,Everton,West Brom,2,1,H
+41867,E0,2004,2004-08-28,Man City,Charlton,4,0,H
+41868,E0,2004,2004-08-28,Middlesbrough,Crystal Palace,2,1,H
+41869,E0,2004,2004-08-28,Norwich,Arsenal,1,4,A
+41870,E0,2004,2004-08-28,Tottenham,Birmingham,1,0,H
+41871,E0,2004,2004-08-29,Bolton,Liverpool,1,0,H
+41872,E0,2004,2004-08-30,Man United,Everton,0,0,D
+41873,E0,2004,2004-08-30,Portsmouth,Fulham,4,3,H
+41874,E0,2004,2004-09-11,Aston Villa,Chelsea,0,0,D
+41875,E0,2004,2004-09-11,Bolton,Man United,2,2,D
+41876,E0,2004,2004-09-11,Fulham,Arsenal,0,3,A
+41877,E0,2004,2004-09-11,Liverpool,West Brom,3,0,H
+41878,E0,2004,2004-09-11,Man City,Everton,0,1,A
+41879,E0,2004,2004-09-11,Middlesbrough,Birmingham,2,1,H
+41880,E0,2004,2004-09-11,Newcastle,Blackburn,3,0,H
+41881,E0,2004,2004-09-11,Portsmouth,Crystal Palace,3,1,H
+41882,E0,2004,2004-09-12,Tottenham,Norwich,0,0,D
+41883,E0,2004,2004-09-13,Charlton,Southampton,0,0,D
+41884,E0,2004,2004-09-18,Arsenal,Bolton,2,2,D
+41885,E0,2004,2004-09-18,Birmingham,Charlton,1,1,D
+41886,E0,2004,2004-09-18,Blackburn,Portsmouth,1,0,H
+41887,E0,2004,2004-09-18,Crystal Palace,Man City,1,2,A
+41888,E0,2004,2004-09-18,Norwich,Aston Villa,0,0,D
+41889,E0,2004,2004-09-18,West Brom,Fulham,1,1,D
+41890,E0,2004,2004-09-19,Chelsea,Tottenham,0,0,D
+41891,E0,2004,2004-09-19,Everton,Middlesbrough,1,0,H
+41892,E0,2004,2004-09-19,Southampton,Newcastle,1,2,A
+41893,E0,2004,2004-09-20,Man United,Liverpool,2,1,H
+41894,E0,2004,2004-09-25,Aston Villa,Crystal Palace,1,1,D
+41895,E0,2004,2004-09-25,Bolton,Birmingham,1,1,D
+41896,E0,2004,2004-09-25,Fulham,Southampton,1,0,H
+41897,E0,2004,2004-09-25,Liverpool,Norwich,3,0,H
+41898,E0,2004,2004-09-25,Man City,Arsenal,0,1,A
+41899,E0,2004,2004-09-25,Middlesbrough,Chelsea,0,1,A
+41900,E0,2004,2004-09-25,Newcastle,West Brom,3,1,H
+41901,E0,2004,2004-09-25,Tottenham,Man United,0,1,A
+41902,E0,2004,2004-09-26,Portsmouth,Everton,0,1,A
+41903,E0,2004,2004-09-27,Charlton,Blackburn,1,0,H
+41904,E0,2004,2004-10-02,Arsenal,Charlton,4,0,H
+41905,E0,2004,2004-10-02,Blackburn,Aston Villa,2,2,D
+41906,E0,2004,2004-10-02,Everton,Tottenham,0,1,A
+41907,E0,2004,2004-10-02,Norwich,Portsmouth,2,2,D
+41908,E0,2004,2004-10-02,Southampton,Man City,0,0,D
+41909,E0,2004,2004-10-02,West Brom,Bolton,2,1,H
+41910,E0,2004,2004-10-03,Birmingham,Newcastle,2,2,D
+41911,E0,2004,2004-10-03,Chelsea,Liverpool,1,0,H
+41912,E0,2004,2004-10-03,Man United,Middlesbrough,1,1,D
+41913,E0,2004,2004-10-04,Crystal Palace,Fulham,2,0,H
+41914,E0,2004,2004-10-16,Arsenal,Aston Villa,3,1,H
+41915,E0,2004,2004-10-16,Birmingham,Man United,0,0,D
+41916,E0,2004,2004-10-16,Blackburn,Middlesbrough,0,4,A
+41917,E0,2004,2004-10-16,Bolton,Crystal Palace,1,0,H
+41918,E0,2004,2004-10-16,Everton,Southampton,1,0,H
+41919,E0,2004,2004-10-16,Fulham,Liverpool,2,4,A
+41920,E0,2004,2004-10-16,Man City,Chelsea,1,0,H
+41921,E0,2004,2004-10-16,West Brom,Norwich,0,0,D
+41922,E0,2004,2004-10-17,Charlton,Newcastle,1,1,D
+41923,E0,2004,2004-10-18,Portsmouth,Tottenham,1,0,H
+41924,E0,2004,2004-10-23,Aston Villa,Fulham,2,0,H
+41925,E0,2004,2004-10-23,Chelsea,Blackburn,4,0,H
+41926,E0,2004,2004-10-23,Crystal Palace,West Brom,3,0,H
+41927,E0,2004,2004-10-23,Liverpool,Charlton,2,0,H
+41928,E0,2004,2004-10-23,Norwich,Everton,2,3,A
+41929,E0,2004,2004-10-23,Tottenham,Bolton,1,2,A
+41930,E0,2004,2004-10-24,Man United,Arsenal,2,0,H
+41931,E0,2004,2004-10-24,Middlesbrough,Portsmouth,1,1,D
+41932,E0,2004,2004-10-24,Newcastle,Man City,4,3,H
+41933,E0,2004,2004-10-24,Southampton,Birmingham,0,0,D
+41934,E0,2004,2004-10-30,Arsenal,Southampton,2,2,D
+41935,E0,2004,2004-10-30,Birmingham,Crystal Palace,0,1,A
+41936,E0,2004,2004-10-30,Blackburn,Liverpool,2,2,D
+41937,E0,2004,2004-10-30,Charlton,Middlesbrough,1,2,A
+41938,E0,2004,2004-10-30,Everton,Aston Villa,1,1,D
+41939,E0,2004,2004-10-30,Fulham,Tottenham,2,0,H
+41940,E0,2004,2004-10-30,Portsmouth,Man United,2,0,H
+41941,E0,2004,2004-10-30,West Brom,Chelsea,1,4,A
+41942,E0,2004,2004-10-31,Bolton,Newcastle,2,1,H
+41943,E0,2004,2004-11-01,Man City,Norwich,1,1,D
+41944,E0,2004,2004-11-06,Aston Villa,Portsmouth,3,0,H
+41945,E0,2004,2004-11-06,Chelsea,Everton,1,0,H
+41946,E0,2004,2004-11-06,Crystal Palace,Arsenal,1,1,D
+41947,E0,2004,2004-11-06,Liverpool,Birmingham,0,1,A
+41948,E0,2004,2004-11-06,Norwich,Blackburn,1,1,D
+41949,E0,2004,2004-11-06,Southampton,West Brom,2,2,D
+41950,E0,2004,2004-11-06,Tottenham,Charlton,2,3,A
+41951,E0,2004,2004-11-07,Man United,Man City,0,0,D
+41952,E0,2004,2004-11-07,Middlesbrough,Bolton,1,1,D
+41953,E0,2004,2004-11-07,Newcastle,Fulham,1,4,A
+41954,E0,2004,2004-11-13,Birmingham,Everton,0,1,A
+41955,E0,2004,2004-11-13,Bolton,Aston Villa,1,2,A
+41956,E0,2004,2004-11-13,Charlton,Norwich,4,0,H
+41957,E0,2004,2004-11-13,Fulham,Chelsea,1,4,A
+41958,E0,2004,2004-11-13,Liverpool,Crystal Palace,3,2,H
+41959,E0,2004,2004-11-13,Man City,Blackburn,1,1,D
+41960,E0,2004,2004-11-13,Southampton,Portsmouth,2,1,H
+41961,E0,2004,2004-11-13,Tottenham,Arsenal,4,5,A
+41962,E0,2004,2004-11-14,Newcastle,Man United,1,3,A
+41963,E0,2004,2004-11-14,West Brom,Middlesbrough,1,2,A
+41964,E0,2004,2004-11-20,Arsenal,West Brom,1,1,D
+41965,E0,2004,2004-11-20,Chelsea,Bolton,2,2,D
+41966,E0,2004,2004-11-20,Crystal Palace,Newcastle,0,2,A
+41967,E0,2004,2004-11-20,Everton,Fulham,1,0,H
+41968,E0,2004,2004-11-20,Man United,Charlton,2,0,H
+41969,E0,2004,2004-11-20,Middlesbrough,Liverpool,2,0,H
+41970,E0,2004,2004-11-20,Norwich,Southampton,2,1,H
+41971,E0,2004,2004-11-20,Portsmouth,Man City,1,3,A
+41972,E0,2004,2004-11-21,Blackburn,Birmingham,3,3,D
+41973,E0,2004,2004-11-22,Aston Villa,Tottenham,1,0,H
+41974,E0,2004,2004-11-27,Birmingham,Norwich,1,1,D
+41975,E0,2004,2004-11-27,Bolton,Portsmouth,0,1,A
+41976,E0,2004,2004-11-27,Charlton,Chelsea,0,4,A
+41977,E0,2004,2004-11-27,Fulham,Blackburn,0,2,A
+41978,E0,2004,2004-11-27,Man City,Aston Villa,2,0,H
+41979,E0,2004,2004-11-27,Southampton,Crystal Palace,2,2,D
+41980,E0,2004,2004-11-27,West Brom,Man United,0,3,A
+41981,E0,2004,2004-11-28,Liverpool,Arsenal,2,1,H
+41982,E0,2004,2004-11-28,Newcastle,Everton,1,1,D
+41983,E0,2004,2004-11-28,Tottenham,Middlesbrough,2,0,H
+41984,E0,2004,2004-12-04,Arsenal,Birmingham,3,0,H
+41985,E0,2004,2004-12-04,Aston Villa,Liverpool,1,1,D
+41986,E0,2004,2004-12-04,Blackburn,Tottenham,0,1,A
+41987,E0,2004,2004-12-04,Chelsea,Newcastle,4,0,H
+41988,E0,2004,2004-12-04,Everton,Bolton,3,2,H
+41989,E0,2004,2004-12-04,Man United,Southampton,3,0,H
+41990,E0,2004,2004-12-04,Norwich,Fulham,0,1,A
+41991,E0,2004,2004-12-04,Portsmouth,West Brom,3,2,H
+41992,E0,2004,2004-12-05,Crystal Palace,Charlton,0,1,A
+41993,E0,2004,2004-12-06,Middlesbrough,Man City,3,2,H
+41994,E0,2004,2004-12-11,Crystal Palace,Blackburn,0,0,D
+41995,E0,2004,2004-12-11,Everton,Liverpool,1,0,H
+41996,E0,2004,2004-12-11,Man City,Tottenham,0,1,A
+41997,E0,2004,2004-12-11,Newcastle,Portsmouth,1,1,D
+41998,E0,2004,2004-12-11,Norwich,Bolton,3,2,H
+41999,E0,2004,2004-12-11,Southampton,Middlesbrough,2,2,D
+42000,E0,2004,2004-12-11,West Brom,Charlton,0,1,A
+42001,E0,2004,2004-12-12,Arsenal,Chelsea,2,2,D
+42002,E0,2004,2004-12-12,Aston Villa,Birmingham,1,2,A
+42003,E0,2004,2004-12-13,Fulham,Man United,1,1,D
+42004,E0,2004,2004-12-14,Liverpool,Portsmouth,1,1,D
+42005,E0,2004,2004-12-18,Birmingham,West Brom,4,0,H
+42006,E0,2004,2004-12-18,Blackburn,Everton,0,0,D
+42007,E0,2004,2004-12-18,Bolton,Man City,0,1,A
+42008,E0,2004,2004-12-18,Chelsea,Norwich,4,0,H
+42009,E0,2004,2004-12-18,Man United,Crystal Palace,5,2,H
+42010,E0,2004,2004-12-18,Middlesbrough,Aston Villa,3,0,H
+42011,E0,2004,2004-12-18,Tottenham,Southampton,5,1,H
+42012,E0,2004,2004-12-19,Liverpool,Newcastle,3,1,H
+42013,E0,2004,2004-12-19,Portsmouth,Arsenal,0,1,A
+42014,E0,2004,2004-12-20,Charlton,Fulham,2,1,H
+42015,E0,2004,2004-12-26,Arsenal,Fulham,2,0,H
+42016,E0,2004,2004-12-26,Birmingham,Middlesbrough,2,0,H
+42017,E0,2004,2004-12-26,Blackburn,Newcastle,2,2,D
+42018,E0,2004,2004-12-26,Chelsea,Aston Villa,1,0,H
+42019,E0,2004,2004-12-26,Crystal Palace,Portsmouth,0,1,A
+42020,E0,2004,2004-12-26,Everton,Man City,2,1,H
+42021,E0,2004,2004-12-26,Man United,Bolton,2,0,H
+42022,E0,2004,2004-12-26,Norwich,Tottenham,0,2,A
+42023,E0,2004,2004-12-26,Southampton,Charlton,0,0,D
+42024,E0,2004,2004-12-26,West Brom,Liverpool,0,5,A
+42025,E0,2004,2004-12-28,Aston Villa,Man United,0,1,A
+42026,E0,2004,2004-12-28,Bolton,Blackburn,0,1,A
+42027,E0,2004,2004-12-28,Charlton,Everton,2,0,H
+42028,E0,2004,2004-12-28,Fulham,Birmingham,2,3,A
+42029,E0,2004,2004-12-28,Liverpool,Southampton,1,0,H
+42030,E0,2004,2004-12-28,Man City,West Brom,1,1,D
+42031,E0,2004,2004-12-28,Middlesbrough,Norwich,2,0,H
+42032,E0,2004,2004-12-28,Portsmouth,Chelsea,0,2,A
+42033,E0,2004,2004-12-28,Tottenham,Crystal Palace,1,1,D
+42034,E0,2004,2004-12-29,Newcastle,Arsenal,0,1,A
+42035,E0,2004,2005-01-01,Aston Villa,Blackburn,1,0,H
+42036,E0,2004,2005-01-01,Bolton,West Brom,1,1,D
+42037,E0,2004,2005-01-01,Charlton,Arsenal,1,3,A
+42038,E0,2004,2005-01-01,Fulham,Crystal Palace,3,1,H
+42039,E0,2004,2005-01-01,Liverpool,Chelsea,0,1,A
+42040,E0,2004,2005-01-01,Man City,Southampton,2,1,H
+42041,E0,2004,2005-01-01,Middlesbrough,Man United,0,2,A
+42042,E0,2004,2005-01-01,Newcastle,Birmingham,2,1,H
+42043,E0,2004,2005-01-01,Portsmouth,Norwich,1,1,D
+42044,E0,2004,2005-01-01,Tottenham,Everton,5,2,H
+42045,E0,2004,2005-01-03,Blackburn,Charlton,1,0,H
+42046,E0,2004,2005-01-03,Crystal Palace,Aston Villa,2,0,H
+42047,E0,2004,2005-01-03,Norwich,Liverpool,1,2,A
+42048,E0,2004,2005-01-03,West Brom,Newcastle,0,0,D
+42049,E0,2004,2005-01-04,Arsenal,Man City,1,1,D
+42050,E0,2004,2005-01-04,Birmingham,Bolton,1,2,A
+42051,E0,2004,2005-01-04,Chelsea,Middlesbrough,2,0,H
+42052,E0,2004,2005-01-04,Everton,Portsmouth,2,1,H
+42053,E0,2004,2005-01-04,Man United,Tottenham,0,0,D
+42054,E0,2004,2005-01-05,Southampton,Fulham,3,3,D
+42055,E0,2004,2005-01-15,Aston Villa,Norwich,3,0,H
+42056,E0,2004,2005-01-15,Bolton,Arsenal,1,0,H
+42057,E0,2004,2005-01-15,Charlton,Birmingham,3,1,H
+42058,E0,2004,2005-01-15,Liverpool,Man United,0,1,A
+42059,E0,2004,2005-01-15,Man City,Crystal Palace,3,1,H
+42060,E0,2004,2005-01-15,Newcastle,Southampton,2,1,H
+42061,E0,2004,2005-01-15,Portsmouth,Blackburn,0,1,A
+42062,E0,2004,2005-01-15,Tottenham,Chelsea,0,2,A
+42063,E0,2004,2005-01-16,Fulham,West Brom,1,0,H
+42064,E0,2004,2005-01-16,Middlesbrough,Everton,1,1,D
+42065,E0,2004,2005-01-22,Birmingham,Fulham,1,2,A
+42066,E0,2004,2005-01-22,Chelsea,Portsmouth,3,0,H
+42067,E0,2004,2005-01-22,Crystal Palace,Tottenham,3,0,H
+42068,E0,2004,2005-01-22,Everton,Charlton,0,1,A
+42069,E0,2004,2005-01-22,Man United,Aston Villa,3,1,H
+42070,E0,2004,2005-01-22,Norwich,Middlesbrough,4,4,D
+42071,E0,2004,2005-01-22,Southampton,Liverpool,2,0,H
+42072,E0,2004,2005-01-22,West Brom,Man City,2,0,H
+42073,E0,2004,2005-01-23,Arsenal,Newcastle,1,0,H
+42074,E0,2004,2005-01-24,Blackburn,Bolton,0,1,A
+42075,E0,2004,2005-02-01,Arsenal,Man United,2,4,A
+42076,E0,2004,2005-02-01,Bolton,Tottenham,3,1,H
+42077,E0,2004,2005-02-01,Charlton,Liverpool,1,2,A
+42078,E0,2004,2005-02-01,Portsmouth,Middlesbrough,2,1,H
+42079,E0,2004,2005-02-01,West Brom,Crystal Palace,2,2,D
+42080,E0,2004,2005-02-02,Birmingham,Southampton,2,1,H
+42081,E0,2004,2005-02-02,Blackburn,Chelsea,0,1,A
+42082,E0,2004,2005-02-02,Everton,Norwich,1,0,H
+42083,E0,2004,2005-02-02,Fulham,Aston Villa,1,1,D
+42084,E0,2004,2005-02-02,Man City,Newcastle,1,1,D
+42085,E0,2004,2005-02-05,Aston Villa,Arsenal,1,3,A
+42086,E0,2004,2005-02-05,Crystal Palace,Bolton,0,1,A
+42087,E0,2004,2005-02-05,Liverpool,Fulham,3,1,H
+42088,E0,2004,2005-02-05,Man United,Birmingham,2,0,H
+42089,E0,2004,2005-02-05,Middlesbrough,Blackburn,1,0,H
+42090,E0,2004,2005-02-05,Newcastle,Charlton,1,1,D
+42091,E0,2004,2005-02-05,Norwich,West Brom,3,2,H
+42092,E0,2004,2005-02-05,Tottenham,Portsmouth,3,1,H
+42093,E0,2004,2005-02-06,Chelsea,Man City,0,0,D
+42094,E0,2004,2005-02-06,Southampton,Everton,2,2,D
+42095,E0,2004,2005-02-12,Birmingham,Liverpool,2,0,H
+42096,E0,2004,2005-02-12,Blackburn,Norwich,3,0,H
+42097,E0,2004,2005-02-12,Bolton,Middlesbrough,0,0,D
+42098,E0,2004,2005-02-12,Everton,Chelsea,0,1,A
+42099,E0,2004,2005-02-12,Portsmouth,Aston Villa,1,2,A
+42100,E0,2004,2005-02-13,Man City,Man United,0,2,A
+42101,E0,2004,2005-02-14,Arsenal,Crystal Palace,5,1,H
+42102,E0,2004,2005-02-22,West Brom,Southampton,0,0,D
+42103,E0,2004,2005-02-26,Aston Villa,Everton,1,3,A
+42104,E0,2004,2005-02-26,Crystal Palace,Birmingham,2,0,H
+42105,E0,2004,2005-02-26,Man United,Portsmouth,2,1,H
+42106,E0,2004,2005-02-26,Southampton,Arsenal,1,1,D
+42107,E0,2004,2005-02-26,Tottenham,Fulham,2,0,H
+42108,E0,2004,2005-02-27,Middlesbrough,Charlton,2,2,D
+42109,E0,2004,2005-02-27,Newcastle,Bolton,2,1,H
+42110,E0,2004,2005-02-28,Norwich,Man City,2,3,A
+42111,E0,2004,2005-03-05,Arsenal,Portsmouth,3,0,H
+42112,E0,2004,2005-03-05,Aston Villa,Middlesbrough,2,0,H
+42113,E0,2004,2005-03-05,Crystal Palace,Man United,0,0,D
+42114,E0,2004,2005-03-05,Fulham,Charlton,0,0,D
+42115,E0,2004,2005-03-05,Newcastle,Liverpool,1,0,H
+42116,E0,2004,2005-03-05,Norwich,Chelsea,1,3,A
+42117,E0,2004,2005-03-05,Southampton,Tottenham,1,0,H
+42118,E0,2004,2005-03-06,Everton,Blackburn,0,1,A
+42119,E0,2004,2005-03-06,West Brom,Birmingham,2,0,H
+42120,E0,2004,2005-03-07,Man City,Bolton,0,1,A
+42121,E0,2004,2005-03-15,Chelsea,West Brom,1,0,H
+42122,E0,2004,2005-03-16,Charlton,Tottenham,2,0,H
+42123,E0,2004,2005-03-16,Liverpool,Blackburn,0,0,D
+42124,E0,2004,2005-03-19,Blackburn,Arsenal,0,1,A
+42125,E0,2004,2005-03-19,Bolton,Norwich,1,0,H
+42126,E0,2004,2005-03-19,Charlton,West Brom,1,4,A
+42127,E0,2004,2005-03-19,Chelsea,Crystal Palace,4,1,H
+42128,E0,2004,2005-03-19,Man United,Fulham,1,0,H
+42129,E0,2004,2005-03-19,Portsmouth,Newcastle,1,1,D
+42130,E0,2004,2005-03-19,Tottenham,Man City,2,1,H
+42131,E0,2004,2005-03-20,Birmingham,Aston Villa,2,0,H
+42132,E0,2004,2005-03-20,Liverpool,Everton,2,1,H
+42133,E0,2004,2005-03-20,Middlesbrough,Southampton,1,3,A
+42134,E0,2004,2005-04-02,Arsenal,Norwich,4,1,H
+42135,E0,2004,2005-04-02,Birmingham,Tottenham,1,1,D
+42136,E0,2004,2005-04-02,Charlton,Man City,2,2,D
+42137,E0,2004,2005-04-02,Crystal Palace,Middlesbrough,0,1,A
+42138,E0,2004,2005-04-02,Liverpool,Bolton,1,0,H
+42139,E0,2004,2005-04-02,Man United,Blackburn,0,0,D
+42140,E0,2004,2005-04-02,Newcastle,Aston Villa,0,3,A
+42141,E0,2004,2005-04-02,Southampton,Chelsea,1,3,A
+42142,E0,2004,2005-04-03,Fulham,Portsmouth,3,1,H
+42143,E0,2004,2005-04-03,West Brom,Everton,1,0,H
+42144,E0,2004,2005-04-09,Blackburn,Southampton,3,0,H
+42145,E0,2004,2005-04-09,Bolton,Fulham,3,1,H
+42146,E0,2004,2005-04-09,Chelsea,Birmingham,1,1,D
+42147,E0,2004,2005-04-09,Man City,Liverpool,1,0,H
+42148,E0,2004,2005-04-09,Middlesbrough,Arsenal,0,1,A
+42149,E0,2004,2005-04-09,Norwich,Man United,2,0,H
+42150,E0,2004,2005-04-09,Portsmouth,Charlton,4,2,H
+42151,E0,2004,2005-04-10,Aston Villa,West Brom,1,1,D
+42152,E0,2004,2005-04-10,Everton,Crystal Palace,4,0,H
+42153,E0,2004,2005-04-10,Tottenham,Newcastle,1,0,H
+42154,E0,2004,2005-04-16,Birmingham,Portsmouth,0,0,D
+42155,E0,2004,2005-04-16,Charlton,Bolton,1,2,A
+42156,E0,2004,2005-04-16,Crystal Palace,Norwich,3,3,D
+42157,E0,2004,2005-04-16,Fulham,Man City,1,1,D
+42158,E0,2004,2005-04-16,Liverpool,Tottenham,2,2,D
+42159,E0,2004,2005-04-16,Southampton,Aston Villa,2,3,A
+42160,E0,2004,2005-04-19,Bolton,Southampton,1,1,D
+42161,E0,2004,2005-04-19,Middlesbrough,Fulham,1,1,D
+42162,E0,2004,2005-04-20,Aston Villa,Charlton,0,0,D
+42163,E0,2004,2005-04-20,Blackburn,Crystal Palace,1,0,H
+42164,E0,2004,2005-04-20,Chelsea,Arsenal,0,0,D
+42165,E0,2004,2005-04-20,Everton,Man United,1,0,H
+42166,E0,2004,2005-04-20,Man City,Birmingham,3,0,H
+42167,E0,2004,2005-04-20,Norwich,Newcastle,2,1,H
+42168,E0,2004,2005-04-20,Portsmouth,Liverpool,1,2,A
+42169,E0,2004,2005-04-20,Tottenham,West Brom,1,1,D
+42170,E0,2004,2005-04-23,Aston Villa,Bolton,1,1,D
+42171,E0,2004,2005-04-23,Blackburn,Man City,0,0,D
+42172,E0,2004,2005-04-23,Chelsea,Fulham,3,1,H
+42173,E0,2004,2005-04-23,Crystal Palace,Liverpool,1,0,H
+42174,E0,2004,2005-04-23,Everton,Birmingham,1,1,D
+42175,E0,2004,2005-04-23,Middlesbrough,West Brom,4,0,H
+42176,E0,2004,2005-04-23,Norwich,Charlton,1,0,H
+42177,E0,2004,2005-04-24,Man United,Newcastle,2,1,H
+42178,E0,2004,2005-04-24,Portsmouth,Southampton,4,1,H
+42179,E0,2004,2005-04-25,Arsenal,Tottenham,1,0,H
+42180,E0,2004,2005-04-26,West Brom,Blackburn,1,1,D
+42181,E0,2004,2005-04-27,Newcastle,Middlesbrough,0,0,D
+42182,E0,2004,2005-04-30,Birmingham,Blackburn,2,1,H
+42183,E0,2004,2005-04-30,Bolton,Chelsea,0,2,A
+42184,E0,2004,2005-04-30,Fulham,Everton,2,0,H
+42185,E0,2004,2005-04-30,Liverpool,Middlesbrough,1,1,D
+42186,E0,2004,2005-04-30,Man City,Portsmouth,2,0,H
+42187,E0,2004,2005-04-30,Newcastle,Crystal Palace,0,0,D
+42188,E0,2004,2005-04-30,Southampton,Norwich,4,3,H
+42189,E0,2004,2005-05-01,Charlton,Man United,0,4,A
+42190,E0,2004,2005-05-01,Tottenham,Aston Villa,5,1,H
+42191,E0,2004,2005-05-02,West Brom,Arsenal,0,2,A
+42192,E0,2004,2005-05-04,Fulham,Newcastle,1,3,A
+42193,E0,2004,2005-05-07,Aston Villa,Man City,1,2,A
+42194,E0,2004,2005-05-07,Blackburn,Fulham,1,3,A
+42195,E0,2004,2005-05-07,Chelsea,Charlton,1,0,H
+42196,E0,2004,2005-05-07,Crystal Palace,Southampton,2,2,D
+42197,E0,2004,2005-05-07,Everton,Newcastle,2,0,H
+42198,E0,2004,2005-05-07,Man United,West Brom,1,1,D
+42199,E0,2004,2005-05-07,Middlesbrough,Tottenham,1,0,H
+42200,E0,2004,2005-05-07,Norwich,Birmingham,1,0,H
+42201,E0,2004,2005-05-07,Portsmouth,Bolton,1,1,D
+42202,E0,2004,2005-05-08,Arsenal,Liverpool,3,1,H
+42203,E0,2004,2005-05-10,Man United,Chelsea,1,3,A
+42204,E0,2004,2005-05-11,Arsenal,Everton,7,0,H
+42205,E0,2004,2005-05-15,Birmingham,Arsenal,2,1,H
+42206,E0,2004,2005-05-15,Bolton,Everton,3,2,H
+42207,E0,2004,2005-05-15,Charlton,Crystal Palace,2,2,D
+42208,E0,2004,2005-05-15,Fulham,Norwich,6,0,H
+42209,E0,2004,2005-05-15,Liverpool,Aston Villa,2,1,H
+42210,E0,2004,2005-05-15,Man City,Middlesbrough,1,1,D
+42211,E0,2004,2005-05-15,Newcastle,Chelsea,1,1,D
+42212,E0,2004,2005-05-15,Southampton,Man United,1,2,A
+42213,E0,2004,2005-05-15,Tottenham,Blackburn,0,0,D
+42214,E0,2004,2005-05-15,West Brom,Portsmouth,2,0,H
