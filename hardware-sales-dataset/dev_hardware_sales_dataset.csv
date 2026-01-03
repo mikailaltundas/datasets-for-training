@@ -1,0 +1,766 @@
+DateTime,OrderID,Channel,Category,Product,Quantity,UnitPrice,LineTotal
+2025-01-01 13:55:12,22e29842-aadd-4153-9764-e5a5b2de0e8b,Web,Headsets,Noise-Cancelling Gaming Headset,1,88.17,88.17
+2025-01-01 10:42:19,b8979f6c-5ef8-490a-8ba5-d9306be973e5,Retail,Networking,Gigabit Ethernet Switch,1,53.07,53.07
+2025-01-01 18:50:17,2f123717-57ed-4873-a842-34fc538f24aa,Retail,Mice,Precision Laser Mouse,1,72.0,72.0
+2025-01-01 14:06:58,63cc8611-cf25-4d5d-93fd-1c2c6d0c4273,B2B,Mice,Wireless Bluetooth Mouse,2,35.68,71.36
+2025-01-01 10:34:28,a1e52628-46fa-4094-a4db-99dc0104b923,B2B,Monitors,34-inch Ultrawide Curved Monitor,1,383.52,383.52
+2025-01-01 19:48:02,dd31d128-80a9-43df-b59b-2173c3d87d37,Web,Keyboards,Compact 60% Keyboard,1,62.74,62.74
+2025-01-01 12:15:52,b5f4abf1-1e26-4491-a67c-0196d0932176,B2B,Mice,Optical Gaming Mouse,1,59.77,59.77
+2025-01-02 09:49:19,41b70c9d-d5e2-4d00-a871-7063d502bf43,B2B,Mice,Optical Gaming Mouse,1,44.48,44.48
+2025-01-02 09:51:31,f0baff9a-c70e-4bb2-bb9d-8cc9ac40aabe,Retail,Monitors,24-inch 144Hz Gaming Monitor,1,199.5,199.5
+2025-01-02 11:29:20,f6e92b04-d948-4156-a34b-360bfd8dabe0,B2B,Headsets,Wireless Bluetooth Headphones,1,93.19,93.19
+2025-01-02 17:01:22,c2350cb6-a2f8-4fee-a455-9465cc49b158,Retail,Keyboards,Membrane Office Keyboard,2,24.65,49.3
+2025-01-02 09:53:35,a08fa351-311c-4380-ad38-a8835643017f,Web,Storage,512GB Portable SSD,2,70.41,140.82
+2025-01-02 10:38:51,57fa105b-ed59-44d2-b770-fe620267ae03,B2B,Networking,Powerline Ethernet Adapter,1,54.03,54.03
+2025-01-03 19:29:23,c73b859f-f51f-4956-992c-9a19f69c70fc,B2B,Keyboards,RGB Backlit Keyboard,1,68.43,68.43
+2025-01-03 17:42:40,36bf8b80-6861-4842-9fc7-d8ae54eb2165,B2B,Storage,4TB Desktop HDD,1,103.03,103.03
+2025-01-03 12:25:29,f38a26a8-ae0e-4718-8e7a-ec70261c4bf6,B2B,Headsets,Surround Sound Headphones,2,115.21,230.42
+2025-01-03 15:34:36,4d974b01-b47b-4b07-8fe4-d64603bb0cac,Web,Mice,Precision Laser Mouse,1,56.41,56.41
+2025-01-03 15:54:50,6b40367c-4b2b-4f0b-bfa7-f6122b476a6f,B2B,Headsets,USB Conference Headset,2,49.04,98.08
+2025-01-04 09:27:34,6187c431-d3ec-4322-b1c6-7be43c36f770,B2B,Storage,512GB Portable SSD,1,56.3,56.3
+2025-01-04 18:39:50,b2c525dd-ace1-4667-bb15-1fb7a6a0404b,B2B,Headsets,Wireless Bluetooth Headphones,1,80.67,80.67
+2025-01-04 12:07:02,b4b3fa31-e889-4378-b4da-0eea36826af5,B2B,Headsets,In-Ear Gaming Earbuds,2,33.47,66.94
+2025-01-04 17:58:54,1d437285-88b1-45ad-80e3-8962433f6cd5,B2B,Mice,Vertical Ergonomic Mouse,2,42.26,84.52
+2025-01-04 16:35:36,59ce3a1d-397d-48dc-b8ef-88cc79ef8f52,Retail,Keyboards,Mechanical Gaming Keyboard,1,102.35,102.35
+2025-01-04 15:57:50,3be88242-bffb-4201-b6d3-39644da54976,Retail,Mice,Wireless Bluetooth Mouse,1,33.05,33.05
+2025-01-04 20:40:08,da629a6f-c8ad-405f-86a4-b685b471a960,Web,Mice,Precision Laser Mouse,2,75.05,150.1
+2025-01-05 16:40:43,7796c90c-adb8-4e04-a75e-16803c0d2587,B2B,Mice,Wireless Bluetooth Mouse,2,23.79,47.58
+2025-01-05 12:28:33,9a46df6f-ab02-406c-8cd7-d25c3ad0e318,B2B,Keyboards,Membrane Office Keyboard,1,22.69,22.69
+2025-01-05 20:59:53,ccfec2d8-ed6d-4096-ac5e-a6377b928309,Web,Mice,Optical Gaming Mouse,2,58.33,116.66
+2025-01-05 09:18:57,fc55a1a1-cfac-41ad-b706-eb49ddf3e3df,Retail,Keyboards,Wireless Ergonomic Keyboard,1,67.63,67.63
+2025-01-05 19:06:15,ff85b3af-75cc-417b-a78b-2add6a51b611,Retail,Monitors,24-inch 144Hz Gaming Monitor,1,242.45,242.45
+2025-01-05 10:53:30,4654928b-f529-4654-a537-4ed94d1a839e,Retail,Monitors,15.6-inch Portable USB-C Monitor,2,175.12,350.24
+2025-01-05 13:30:38,1fbb8e12-7313-4702-bafb-4d884cfd68e8,B2B,Monitors,27-inch 4K IPS Monitor,1,305.68,305.68
+2025-01-06 09:33:19,d179a38e-5e28-43b9-bea5-67e0cdc300b2,Retail,Storage,128GB USB Flash Drive,1,11.89,11.89
+2025-01-06 10:21:28,19104e35-dc50-4980-a896-47c655bb62b7,Retail,Headsets,Wireless Bluetooth Headphones,1,100.83,100.83
+2025-01-06 11:07:38,b65f87cd-908b-4204-8df7-2918f3c8f98f,Retail,Monitors,34-inch Ultrawide Curved Monitor,1,395.81,395.81
+2025-01-06 19:08:20,b3fb397e-5a11-4027-8ee8-d1716374f342,B2B,Networking,Gigabit Ethernet Switch,1,50.69,50.69
+2025-01-06 11:16:21,f22e41fc-a30d-4076-a8ae-9a4a68e51bbb,Retail,Headsets,In-Ear Gaming Earbuds,1,35.7,35.7
+2025-01-07 19:01:06,fb2563d6-29b4-47d6-8867-97cf88061a50,Retail,Mice,Wireless Bluetooth Mouse,2,23.79,47.58
+2025-01-07 12:35:26,927c6489-49c0-49cd-bd88-395740a9c056,B2B,Monitors,15.6-inch Portable USB-C Monitor,1,174.89,174.89
+2025-01-07 12:39:08,17094de8-eee4-422f-8c9d-18604b2f49a4,B2B,Storage,512GB Portable SSD,1,54.92,54.92
+2025-01-07 19:56:16,384399cd-d42b-4413-8d2c-8254f94ea74e,B2B,Headsets,Noise-Cancelling Gaming Headset,1,107.64,107.64
+2025-01-07 11:36:26,1d7f8824-9d64-41e4-a019-666cbbd5ec71,Web,Networking,Wireless Mesh Router System,1,186.24,186.24
+2025-01-08 17:58:19,91293a97-083b-4755-a1cd-f2d6d3951936,B2B,Keyboards,Membrane Office Keyboard,1,28.65,28.65
+2025-01-08 20:19:53,6a755fbe-6fc1-43bd-a8e0-bb3ae4a8a1ee,Web,Storage,512GB Portable SSD,1,58.85,58.85
+2025-01-08 15:02:03,706200af-4f95-4c70-8597-5262ce96e4d5,Web,Storage,1TB NVMe SSD,1,75.67,75.67
+2025-01-08 13:54:24,58308293-5e64-4c0f-958f-9e3930bcf247,Web,Monitors,24-inch 144Hz Gaming Monitor,1,161.52,161.52
+2025-01-08 09:36:58,4850016f-63a6-4a1c-adec-17e5c89957c2,Web,Storage,128GB USB Flash Drive,2,18.11,36.22
+2025-01-09 16:56:33,5d39ed5e-53b1-471d-895e-8dabbdee02d4,Retail,Storage,4TB Desktop HDD,2,87.98,175.96
+2025-01-09 16:46:19,c2ed40af-ec4c-42e9-ad8e-6571ab0c91d4,B2B,Storage,4TB Desktop HDD,1,126.51,126.51
+2025-01-09 11:52:45,e50e33a4-c086-4fb9-aa64-d1db406bec15,B2B,Keyboards,Compact 60% Keyboard,1,59.82,59.82
+2025-01-10 15:36:56,b5d5f4b2-f89a-4256-b372-16067729c86f,B2B,Keyboards,RGB Backlit Keyboard,1,77.45,77.45
+2025-01-10 19:34:43,1a9386cd-bd07-41a5-b454-6d6299d84661,Web,Monitors,15.6-inch Portable USB-C Monitor,2,157.39,314.78
+2025-01-10 19:58:16,9df9f97d-05d8-4445-9d4a-09a284da9530,Web,Keyboards,Mechanical Gaming Keyboard,1,105.3,105.3
+2025-01-10 09:26:17,27c6a3e6-864e-408a-9825-673e085b5e3a,Retail,Keyboards,Membrane Office Keyboard,1,28.24,28.24
+2025-01-11 19:58:22,a080a8d1-b85e-4e33-bff0-6a05d6a568af,Retail,Keyboards,Wireless Ergonomic Keyboard,1,71.9,71.9
+2025-01-11 19:54:16,cc1c8e58-452f-49d3-a67e-ce7a6eee8393,Retail,Keyboards,Wireless Ergonomic Keyboard,2,97.37,194.74
+2025-01-11 17:23:44,55b51813-bc4f-45fa-b7f3-d1d9899847cd,Retail,Headsets,In-Ear Gaming Earbuds,2,40.78,81.56
+2025-01-11 17:34:46,76a1403b-1521-4099-bc36-1d01df6d2d42,Retail,Headsets,USB Conference Headset,1,30.01,30.01
+2025-01-11 17:31:59,da749a2c-1358-4fcd-83e6-e5a2a979224e,B2B,Mice,Wireless Bluetooth Mouse,2,39.65,79.3
+2025-01-11 14:10:50,44ba1b70-6712-44d6-a473-cf2ddacda928,B2B,Networking,USB Wi-Fi Adapter,1,27.48,27.48
+2025-01-12 20:17:18,f94e626f-015b-486d-a6c6-053f71e3b0c7,Retail,Monitors,24-inch 144Hz Gaming Monitor,1,167.24,167.24
+2025-01-12 20:09:37,8abcd435-8f94-4434-8fec-67c7540dd17a,Retail,Storage,1TB NVMe SSD,1,103.26,103.26
+2025-01-12 20:41:46,5045e757-7ae6-4b86-bc28-9fc95abe44df,B2B,Mice,Wireless Bluetooth Mouse,2,29.21,58.42
+2025-01-12 16:29:08,ce2bd5b5-e8af-46c6-bdd9-34b959b2f3e2,B2B,Mice,Optical Gaming Mouse,1,59.32,59.32
+2025-01-12 20:51:32,d479656b-ecbb-4113-beff-7a43923a7480,Retail,Mice,Optical Gaming Mouse,2,45.96,91.92
+2025-01-12 15:28:40,b23230c7-bf0d-4acc-b85e-e583a1048cd8,B2B,Networking,Gigabit Ethernet Switch,1,53.84,53.84
+2025-01-12 16:35:18,ec9e741f-91d8-457a-b786-4e71b498509d,Web,Mice,Wireless Bluetooth Mouse,1,35.24,35.24
+2025-01-12 18:15:04,3dfb0a95-f881-441c-b161-89461111588d,Retail,Mice,Precision Laser Mouse,2,66.18,132.36
+2025-01-13 17:37:04,f87b022f-f10d-4521-87b4-4d4df959e5fc,B2B,Keyboards,Mechanical Gaming Keyboard,1,95.28,95.28
+2025-01-13 14:49:54,24794acf-3d51-4bd7-98dc-86568998ca22,B2B,Storage,128GB USB Flash Drive,2,15.27,30.54
+2025-01-13 14:57:24,9dd4641f-b733-4c04-9505-976dec0c0faa,Web,Mice,Vertical Ergonomic Mouse,1,43.27,43.27
+2025-01-13 13:17:03,efa7d168-f556-4334-a47a-5ea7f6159a93,Retail,Storage,1TB NVMe SSD,1,84.99,84.99
+2025-01-13 09:26:54,40ab91ad-e833-48aa-b3d4-df1ebf2ca040,Web,Monitors,24-inch 144Hz Gaming Monitor,2,189.02,378.04
+2025-01-13 19:18:15,4c0bc16a-2fc8-4574-96a9-1d0b9c8c74c2,Retail,Mice,Wireless Bluetooth Mouse,1,40.05,40.05
+2025-01-14 10:40:06,f3d8b62f-9b11-4bd2-90b2-55e9213ae330,Web,Storage,512GB Portable SSD,1,59.16,59.16
+2025-01-14 10:42:32,bde12802-ce93-4261-b144-f5b2d9bb2f93,Retail,Keyboards,Wireless Ergonomic Keyboard,1,63.54,63.54
+2025-01-14 18:13:49,a1201ec4-f1f4-49f2-8a85-9b95f1ae12ff,Retail,Headsets,Wireless Bluetooth Headphones,2,85.42,170.84
+2025-01-14 09:23:54,529d5df2-bb3b-4bbc-b553-fc614ef8a4e7,Web,Keyboards,Mechanical Gaming Keyboard,1,129.76,129.76
+2025-01-15 13:45:42,d355b6db-6a1f-4b83-a7f6-2a1d8962cfd5,Web,Storage,4TB Desktop HDD,2,126.49,252.98
+2025-01-15 16:38:33,4f2c7130-cb8c-43a3-aa24-fac48102de42,B2B,Keyboards,Wireless Ergonomic Keyboard,1,97.53,97.53
+2025-01-15 16:32:39,9e438869-b3a5-485a-a7d5-6bfd5c957b51,B2B,Networking,Powerline Ethernet Adapter,1,51.72,51.72
+2025-01-16 18:27:53,f370131d-cd01-43ef-a45b-2611fe8219b2,Retail,Storage,128GB USB Flash Drive,1,13.79,13.79
+2025-01-16 13:06:55,99b14ade-3d19-4e47-9d90-3dbe068beaff,B2B,Monitors,15.6-inch Portable USB-C Monitor,1,150.09,150.09
+2025-01-16 12:32:58,f2863af6-d5c0-4442-ab65-9b3747d416d9,B2B,Mice,Vertical Ergonomic Mouse,1,48.75,48.75
+2025-01-16 20:38:01,d1ddadf0-a423-41ed-8140-8d18dae95c40,Retail,Keyboards,RGB Backlit Keyboard,2,81.32,162.64
+2025-01-16 18:46:36,7c0b180a-0191-4edc-851c-0b81e330c875,Retail,Mice,Wireless Bluetooth Mouse,1,38.03,38.03
+2025-01-16 16:06:23,038f6d54-b9c1-49f9-a594-390839fb43dd,B2B,Monitors,24-inch 144Hz Gaming Monitor,1,130.89,130.89
+2025-01-16 12:04:41,e0acb687-a596-4c76-94bd-b97c1f52cfcb,Web,Headsets,Wireless Bluetooth Headphones,2,75.71,151.42
+2025-01-16 16:21:57,c95fb77c-7630-458c-823f-e641c44cc4fe,Web,Mice,Precision Laser Mouse,1,46.92,46.92
+2025-01-18 16:03:49,e7f10d9e-d978-4870-899a-9bd67ae76d04,Web,Keyboards,Mechanical Gaming Keyboard,1,119.05,119.05
+2025-01-18 19:03:55,d31992d1-8e24-4475-82ba-84d952f99554,Retail,Monitors,24-inch 144Hz Gaming Monitor,1,178.33,178.33
+2025-01-18 18:44:00,826bd944-49e7-4f7e-950b-26c11669cc7e,Web,Mice,Vertical Ergonomic Mouse,1,35.68,35.68
+2025-01-18 11:46:35,63a0c410-e75c-4bd7-8f38-420e8400adc1,B2B,Headsets,Wireless Bluetooth Headphones,1,96.53,96.53
+2025-01-18 19:10:45,5003539d-e877-48a0-ac59-2a5a2a54d739,Retail,Storage,4TB Desktop HDD,2,93.79,187.58
+2025-01-18 15:58:32,8f2fb840-6d4c-4a13-a6f5-a99694830d0d,Retail,Monitors,15.6-inch Portable USB-C Monitor,1,163.87,163.87
+2025-01-19 09:28:20,accd28f8-05cf-44e6-a7a4-1bc69cbb100d,Web,Headsets,Wireless Bluetooth Headphones,1,76.34,76.34
+2025-01-19 13:55:41,9c6e8540-512c-442b-919c-66ffb680b3c5,B2B,Mice,Wireless Bluetooth Mouse,1,36.77,36.77
+2025-01-19 18:24:42,d3d19fa0-4725-4cf8-a58e-a04635907856,B2B,Mice,Wireless Bluetooth Mouse,1,25.3,25.3
+2025-01-19 19:24:11,130bbd3c-6799-41f1-8a5b-62077095a710,B2B,Monitors,24-inch 144Hz Gaming Monitor,1,171.55,171.55
+2025-01-19 20:53:09,5daba00d-1dd2-4773-9279-d7ebaa26ff8c,Retail,Storage,512GB Portable SSD,2,80.31,160.62
+2025-01-19 14:28:54,c03c5694-de76-485f-8baa-95e4b71c319c,B2B,Networking,Gigabit Ethernet Switch,1,41.61,41.61
+2025-01-19 16:03:20,b5b7a963-1cb3-43ca-9f33-32c6b65b693e,B2B,Monitors,15.6-inch Portable USB-C Monitor,1,152.52,152.52
+2025-01-20 13:17:53,a863a065-43f3-4b85-ac98-6629b134b99b,Retail,Storage,2TB External HDD,1,74.7,74.7
+2025-01-20 18:26:51,67806381-8c0b-43f3-b3e2-d46a8cdd53ca,Retail,Mice,Trackball Mouse,1,83.95,83.95
+2025-01-20 09:45:17,aeae8b2f-4484-4c6a-8a54-da7a5c725292,Web,Mice,Optical Gaming Mouse,2,48.34,96.68
+2025-01-20 11:25:41,58f9ff8d-8657-43fc-a2c0-a59fcc3e19b0,Retail,Mice,Precision Laser Mouse,1,46.02,46.02
+2025-01-20 15:23:47,1dad891f-43de-4622-bd80-5fc5b2e83d97,Web,Headsets,Wireless Bluetooth Headphones,1,102.9,102.9
+2025-01-20 18:41:30,084bb199-d444-432f-a4a8-10c748512367,Retail,Headsets,Wireless Bluetooth Headphones,2,85.87,171.74
+2025-01-21 13:57:55,4f720e9a-30ef-4e0b-9cf9-4bf97df4bd0d,B2B,Headsets,Noise-Cancelling Gaming Headset,2,95.44,190.88
+2025-01-21 09:55:26,b26bc917-d977-4617-b63a-cb2c7e885c14,Retail,Storage,128GB USB Flash Drive,1,20.63,20.63
+2025-01-21 16:14:53,743353fb-1a22-4651-9002-d3c6801c808d,Web,Storage,128GB USB Flash Drive,2,18.42,36.84
+2025-01-21 18:00:31,e38c2b05-4cde-4dfc-a7c7-cc2009499377,Web,Storage,1TB NVMe SSD,1,71.04,71.04
+2025-01-21 11:37:12,83eefb7c-62b3-46c7-8a82-0326deb2c75d,B2B,Keyboards,Wireless Ergonomic Keyboard,1,69.66,69.66
+2025-01-21 09:30:07,f01a3c7d-36db-4dbf-bbe5-be367bc83a9c,Web,Storage,128GB USB Flash Drive,1,19.19,19.19
+2025-01-22 18:40:54,6e301ca2-8214-425b-ab1a-03c489dd37f9,Retail,Monitors,15.6-inch Portable USB-C Monitor,1,143.69,143.69
+2025-01-23 16:17:39,606b1ecc-03b7-4e2e-84eb-d0a4e5dd5aff,Web,Headsets,Noise-Cancelling Gaming Headset,1,109.1,109.1
+2025-01-23 11:38:55,ac1e1ed5-36b0-47cd-858c-0e688545f184,Web,Networking,USB Wi-Fi Adapter,2,22.62,45.24
+2025-01-23 17:19:45,298fb336-9f36-4131-8faa-ecea21c57eb8,B2B,Headsets,Wireless Bluetooth Headphones,1,72.05,72.05
+2025-01-23 17:09:16,3632c4bc-3895-47fe-9fb0-9cc72189aa03,Retail,Storage,512GB Portable SSD,2,49.51,99.02
+2025-01-23 19:27:11,c34af129-4ba7-481e-b10a-34ab69489ed4,Retail,Headsets,Wireless Bluetooth Headphones,1,82.53,82.53
+2025-01-23 11:44:14,1357b827-46e6-42e2-a3b1-49ebe53e6e00,Web,Keyboards,Mechanical Gaming Keyboard,1,85.07,85.07
+2025-01-23 13:31:52,1126ffaf-2877-4e1c-907d-f1043cfd9f8f,Retail,Mice,Vertical Ergonomic Mouse,2,47.83,95.66
+2025-01-24 20:33:04,2f0fa7e3-86d0-4df2-bfec-9a654c80b0bb,B2B,Mice,Wireless Bluetooth Mouse,2,31.11,62.22
+2025-01-24 13:48:53,3a0aa9f9-6e79-4166-b374-4d8abe55bd81,B2B,Mice,Trackball Mouse,1,69.92,69.92
+2025-01-24 12:28:05,c542405a-7500-4460-af6b-0eb91a3a7945,Retail,Headsets,Noise-Cancelling Gaming Headset,2,94.85,189.7
+2025-01-24 13:42:40,3f341788-ee34-443e-87bf-adebbbee74a7,Web,Keyboards,Membrane Office Keyboard,1,21.62,21.62
+2025-01-24 19:15:30,09498fd4-37ea-409e-8f84-bde9f275e71c,Web,Networking,Powerline Ethernet Adapter,1,60.44,60.44
+2025-01-24 10:56:41,f93f0eed-5771-43a5-a538-50b7332c9e58,Web,Storage,128GB USB Flash Drive,1,19.25,19.25
+2025-01-24 18:51:01,700299e3-f34f-43d6-b845-868cb278b197,Retail,Keyboards,Mechanical Gaming Keyboard,1,114.77,114.77
+2025-01-24 13:27:46,fe79406d-c8c9-4238-b2e4-92471cc2bec4,B2B,Mice,Wireless Bluetooth Mouse,2,30.47,60.94
+2025-01-24 14:06:38,5accf10e-8577-4d01-b4d3-b73202a96ace,B2B,Storage,2TB External HDD,2,56.31,112.62
+2025-01-25 18:32:54,f1983818-eebf-41f6-872a-4bfc5591c274,B2B,Networking,Powerline Ethernet Adapter,2,63.37,126.74
+2025-01-25 15:52:59,8c56d7a3-3a72-452c-acf0-c1318ec004fc,Retail,Headsets,Surround Sound Headphones,1,150.64,150.64
+2025-01-25 15:55:46,408e94d7-bfe5-4a8e-bd52-31649161fcec,Web,Mice,Precision Laser Mouse,1,70.04,70.04
+2025-01-25 11:53:38,fc7ef306-1922-4f02-b22b-62b87a8caeb9,Web,Mice,Wireless Bluetooth Mouse,1,45.89,45.89
+2025-01-25 14:47:33,13848c21-e4c0-4a31-b14a-3e52caeed20d,Retail,Storage,2TB External HDD,1,76.33,76.33
+2025-01-26 13:00:02,bcc92685-e661-4de5-8ae5-593773c997b4,Web,Mice,Optical Gaming Mouse,2,35.69,71.38
+2025-01-26 17:55:26,60391d13-f780-4e30-8aaa-407f005e41c3,Retail,Keyboards,RGB Backlit Keyboard,1,63.87,63.87
+2025-01-26 11:43:19,52744b5e-9b58-4886-b539-07da78c81cc8,B2B,Monitors,34-inch Ultrawide Curved Monitor,1,398.08,398.08
+2025-01-27 10:39:17,5b7b2914-c9f2-462d-ad93-7114560968f8,Retail,Monitors,27-inch 4K IPS Monitor,1,326.85,326.85
+2025-01-28 09:05:00,6b7bf3de-1f89-4b11-b85e-f6af61745a21,Retail,Keyboards,Compact 60% Keyboard,2,57.27,114.54
+2025-01-28 13:59:39,df2dc330-5dcd-49f3-8513-6b7889d00e02,Web,Storage,128GB USB Flash Drive,1,15.74,15.74
+2025-01-28 17:20:36,7f0dfd6f-b04c-421d-8746-d214d7f6f426,B2B,Mice,Wireless Bluetooth Mouse,2,26.71,53.42
+2025-01-28 12:39:42,a13eeaab-712e-411f-9546-73dab1f6077a,B2B,Storage,2TB External HDD,1,65.75,65.75
+2025-01-28 11:05:15,00e471e4-f0b1-4048-a05d-1b75a8ae9812,Web,Headsets,Surround Sound Headphones,2,139.79,279.58
+2025-01-29 14:51:15,77983ab9-2da5-47e9-a01c-c3ec57696b1d,Web,Keyboards,Membrane Office Keyboard,1,21.88,21.88
+2025-01-29 09:32:48,8d353797-cc67-436c-8c89-35123fe9213f,Retail,Mice,Optical Gaming Mouse,2,63.48,126.96
+2025-01-29 11:43:45,dcb32a18-b232-4aec-ac62-7bebdec80805,Retail,Mice,Optical Gaming Mouse,2,41.58,83.16
+2025-01-29 10:47:13,879c7e54-923b-4b05-b5b4-5aae71183c0d,B2B,Headsets,In-Ear Gaming Earbuds,1,28.37,28.37
+2025-01-29 15:10:35,7f15c6b2-44f3-47dc-8bcf-627d2e9276fc,Web,Keyboards,Mechanical Gaming Keyboard,1,104.25,104.25
+2025-01-29 14:01:00,61b3b9e2-b4b3-433d-a60b-968ddda16716,Retail,Headsets,Noise-Cancelling Gaming Headset,1,95.77,95.77
+2025-01-29 17:02:57,fc88eb8a-4126-42fa-aef2-574c4ea7e276,B2B,Mice,Wireless Bluetooth Mouse,2,39.36,78.72
+2025-01-29 09:30:54,8660e81d-7e81-4abc-b89e-67bb1151da98,Web,Monitors,15.6-inch Portable USB-C Monitor,1,168.96,168.96
+2025-01-29 17:28:47,cb29e4e7-41e1-47af-808b-cef5e7242d62,Web,Keyboards,Membrane Office Keyboard,1,31.88,31.88
+2025-01-30 11:52:43,7ca7aed0-1c7a-444e-a617-a86c7e5f1a95,Web,Keyboards,Compact 60% Keyboard,1,59.1,59.1
+2025-01-30 20:42:05,fbcc874f-e481-48e3-a6bf-19b2f6ad4efc,Retail,Networking,Network Attached Storage (NAS),1,368.31,368.31
+2025-01-31 13:59:28,3c7c8fb9-b55c-460f-92b1-5e73907cbee8,Retail,Headsets,Wireless Bluetooth Headphones,1,94.49,94.49
+2025-01-31 20:43:26,fab5c959-9c69-4e93-b611-10e731c85e95,Retail,Mice,Optical Gaming Mouse,2,42.41,84.82
+2025-01-31 18:37:34,d9e05c6d-0530-46f5-b8d3-fc4b87dd4077,B2B,Headsets,Wireless Bluetooth Headphones,2,97.25,194.5
+2025-01-31 14:15:32,b6947e7f-7048-46d3-9510-79cb9cc16802,B2B,Keyboards,Membrane Office Keyboard,1,17.84,17.84
+2025-01-31 10:51:11,1e04c0a8-4cbd-44b3-9543-df3d0142db11,B2B,Storage,1TB NVMe SSD,1,67.0,67.0
+2025-01-31 14:28:44,87ebd296-0544-4dc5-9a1c-684fe3169f4e,Web,Storage,2TB External HDD,1,56.19,56.19
+2025-01-31 15:17:51,ae140e05-bc24-4d9c-8b27-b4c453628501,Web,Mice,Wireless Bluetooth Mouse,2,23.79,47.58
+2025-02-01 13:43:17,88edfb33-db72-480c-806e-cea6042d395b,Web,Storage,512GB Portable SSD,1,54.19,54.19
+2025-02-01 09:28:04,25cc839a-d048-412b-afcb-cacc287ca8d5,Retail,Headsets,In-Ear Gaming Earbuds,2,36.66,73.32
+2025-02-01 20:27:36,cc240c70-a2c3-418e-8c78-064d24b364d6,B2B,Monitors,27-inch 4K IPS Monitor,1,259.69,259.69
+2025-02-01 09:24:42,f70454f6-fd90-42ce-af30-ceaee7aa9599,Web,Storage,128GB USB Flash Drive,1,15.19,15.19
+2025-02-01 11:04:24,2f6499b7-2746-4129-8382-6c8f215dae6c,B2B,Keyboards,Compact 60% Keyboard,1,59.31,59.31
+2025-02-01 20:11:31,38426ad7-cf7f-402f-9fcd-95b97f033807,B2B,Headsets,USB Conference Headset,1,41.33,41.33
+2025-02-01 10:48:03,a9e16887-ca9a-4026-beb1-b908147a98ce,B2B,Mice,Optical Gaming Mouse,2,45.53,91.06
+2025-02-01 19:48:26,b86096c0-99ae-48fc-8adf-72314c393bcc,Retail,Networking,Gigabit Ethernet Switch,1,47.85,47.85
+2025-02-02 09:43:35,92dc535b-b663-4fc0-ad63-1ebd238e9558,B2B,Networking,Wireless Mesh Router System,1,261.02,261.02
+2025-02-02 09:33:04,4fd27d67-0e4e-466f-a342-0894f3f14d01,Web,Keyboards,RGB Backlit Keyboard,1,65.16,65.16
+2025-02-02 12:45:25,52d9ab3f-7531-41d0-8157-d328a700b891,Retail,Keyboards,Mechanical Gaming Keyboard,1,131.12,131.12
+2025-02-02 17:41:21,1ad54b89-4a9c-4d99-9d30-653b7fa27877,B2B,Networking,Powerline Ethernet Adapter,1,49.78,49.78
+2025-02-02 12:51:53,1d3aa1ad-9718-42e4-af7a-9f490d4a7b44,Web,Headsets,USB Conference Headset,1,54.12,54.12
+2025-02-02 11:27:54,ebd39fdf-1b33-411b-ac86-fe6a530b5782,B2B,Storage,512GB Portable SSD,1,41.85,41.85
+2025-02-02 12:49:04,c7831e94-46e9-4283-a03b-69b408a57eda,Web,Storage,1TB NVMe SSD,1,89.22,89.22
+2025-02-03 15:32:45,ce9d1c4f-e10d-42cd-a4bf-951f9dfa4706,Web,Storage,512GB Portable SSD,2,41.64,83.28
+2025-02-03 09:04:51,70c4f424-0f88-43a7-af97-f680713bf396,B2B,Headsets,Surround Sound Headphones,1,96.66,96.66
+2025-02-03 20:44:57,2e60e4c3-af37-46ec-bece-421a0c968d90,Web,Mice,Optical Gaming Mouse,2,53.66,107.32
+2025-02-03 18:44:28,d8891be0-2564-4564-9968-d137b3ac901d,Web,Mice,Wireless Bluetooth Mouse,2,34.84,69.68
+2025-02-03 16:33:07,351a774a-1ca5-4a65-b9b7-761113b0c3c0,Web,Headsets,Wireless Bluetooth Headphones,1,91.61,91.61
+2025-02-03 20:15:55,a3013b48-ae54-46fc-857b-cc3604d4c53b,Retail,Keyboards,Compact 60% Keyboard,1,43.12,43.12
+2025-02-03 17:20:39,4a47e7ec-1cc7-460b-8c66-d522f3f3b66a,Web,Storage,128GB USB Flash Drive,2,14.8,29.6
+2025-02-03 13:07:24,80299b31-afea-4e07-b6c0-28c3222d1770,Retail,Mice,Vertical Ergonomic Mouse,2,34.19,68.38
+2025-02-03 09:36:22,b57f010f-2ced-46b7-9f0f-1b5175eff0c7,Web,Mice,Optical Gaming Mouse,2,47.38,94.76
+2025-02-04 17:41:01,5b562e65-0e4d-4435-839d-834eb1844856,B2B,Keyboards,Wireless Ergonomic Keyboard,1,80.53,80.53
+2025-02-04 09:11:01,36dc34d9-1e30-4477-b071-2e17ad6a8a3b,B2B,Storage,128GB USB Flash Drive,1,20.85,20.85
+2025-02-04 09:04:55,c8c00a59-1a02-4225-aac3-5ead7daabae1,Retail,Networking,Gigabit Ethernet Switch,1,48.69,48.69
+2025-02-04 15:05:55,2148ad28-d679-42e8-820c-19443693df07,Retail,Storage,1TB NVMe SSD,2,85.73,171.46
+2025-02-04 09:40:47,d24c7540-7f94-445e-ab51-cafc7f8165da,Web,Mice,Wireless Bluetooth Mouse,1,40.17,40.17
+2025-02-04 17:00:27,bfd68fff-5a31-4e38-b329-06c02c51febc,Web,Storage,2TB External HDD,1,63.51,63.51
+2025-02-04 12:23:01,62a7ea3c-713b-4b4c-9ff6-ade98fdbaa25,Retail,Keyboards,RGB Backlit Keyboard,1,73.08,73.08
+2025-02-05 09:56:57,59d46387-7bca-450d-9c0f-352c19b2721d,Web,Mice,Vertical Ergonomic Mouse,1,37.8,37.8
+2025-02-05 10:13:14,0f221835-c215-4d5e-8973-0974bd6836e6,Web,Monitors,24-inch 144Hz Gaming Monitor,1,176.27,176.27
+2025-02-05 18:53:59,e54fc0ea-bcf1-468c-99d1-e95e86dd7f26,Web,Storage,128GB USB Flash Drive,2,17.39,34.78
+2025-02-05 13:05:40,a9d423b9-5ed4-4117-af59-ffc956ed996f,Retail,Storage,128GB USB Flash Drive,1,14.83,14.83
+2025-02-05 18:03:14,e0141351-21a5-42a0-bcc1-90e570668424,Web,Storage,512GB Portable SSD,1,63.33,63.33
+2025-02-05 14:30:17,910cd369-ecde-4ca5-819b-788815f09071,B2B,Keyboards,Membrane Office Keyboard,2,23.35,46.7
+2025-02-05 20:00:01,36829712-defd-48e4-afd9-f928cefb3430,Retail,Storage,512GB Portable SSD,2,70.42,140.84
+2025-02-05 15:31:23,414d9c45-750a-4696-83fe-df1bffb82158,B2B,Keyboards,Mechanical Gaming Keyboard,1,92.2,92.2
+2025-02-05 13:25:23,17554162-793a-461c-ac99-2bee8e75cf12,Web,Keyboards,Mechanical Gaming Keyboard,2,108.24,216.48
+2025-02-05 13:49:40,9cec1b51-141d-443b-bb82-e04f237bc059,Retail,Networking,Gigabit Ethernet Switch,1,33.84,33.84
+2025-02-05 20:45:18,d2792388-1c77-4287-81a2-e4a39d470f0e,B2B,Mice,Precision Laser Mouse,2,71.92,143.84
+2025-02-06 17:59:38,e13e6d86-7e1a-4673-ac3f-48f59da19da0,B2B,Keyboards,Mechanical Gaming Keyboard,2,110.66,221.32
+2025-02-06 18:07:54,f502d607-3970-4f81-b549-7c56d85b476b,Retail,Headsets,USB Conference Headset,2,45.86,91.72
+2025-02-06 20:37:59,1bb6aaec-85c9-40e0-8964-928b5a581510,Retail,Keyboards,Membrane Office Keyboard,1,25.08,25.08
+2025-02-06 14:51:01,5f288b3c-168c-4025-83fe-ffe0b84fd1c2,Web,Mice,Wireless Bluetooth Mouse,1,28.64,28.64
+2025-02-06 17:40:18,722c574e-6c02-4039-8b78-ab25563b9e53,B2B,Networking,Powerline Ethernet Adapter,1,38.01,38.01
+2025-02-06 15:22:27,a522c043-abb7-4343-b7b8-568dd7e85544,B2B,Headsets,Surround Sound Headphones,1,92.22,92.22
+2025-02-07 12:24:50,a1c76509-d6a2-472e-ac05-31ac2a10f196,Web,Monitors,15.6-inch Portable USB-C Monitor,1,137.75,137.75
+2025-02-07 13:18:50,385c436b-a767-4a6b-bcc3-96164c10a16d,B2B,Keyboards,Compact 60% Keyboard,1,64.47,64.47
+2025-02-07 16:07:43,a5c9bbea-9e88-4fc9-bc50-a975e7f8d09d,Retail,Networking,Gigabit Ethernet Switch,1,40.88,40.88
+2025-02-07 13:23:37,acbef796-2907-4ef4-8f8c-8593f1ca7ee0,Web,Mice,Precision Laser Mouse,1,62.67,62.67
+2025-02-08 15:58:58,562fae71-fd0c-47a7-9684-fe55cfbcb1b7,Retail,Mice,Optical Gaming Mouse,1,43.25,43.25
+2025-02-08 12:26:40,96bf037a-eb9e-4470-8071-a421f059ea7e,B2B,Keyboards,RGB Backlit Keyboard,2,63.02,126.04
+2025-02-08 14:03:41,547fad07-eada-4201-af45-7ea03f34424f,Retail,Headsets,Surround Sound Headphones,1,117.69,117.69
+2025-02-08 19:19:28,15ffc41b-f443-4a75-b35c-9677262e2ab6,Web,Keyboards,Mechanical Gaming Keyboard,1,104.71,104.71
+2025-02-09 12:42:42,9c9c8346-a5e5-4225-8578-8495b42a616f,Retail,Keyboards,Wireless Ergonomic Keyboard,1,70.26,70.26
+2025-02-09 11:34:01,545f1c2a-4294-4c19-9ea4-11cd5138e324,Retail,Networking,Gigabit Ethernet Switch,1,44.18,44.18
+2025-02-09 10:31:23,5d519056-f799-445c-a7db-30ae2943c55c,Web,Mice,Optical Gaming Mouse,2,62.61,125.22
+2025-02-09 14:49:35,1bdbe6c4-1f8d-4325-86c3-1505b00323ea,Web,Mice,Optical Gaming Mouse,1,49.36,49.36
+2025-02-09 18:13:13,39b9c11f-d362-4c3a-9f94-ca9b2a8ddca0,B2B,Storage,2TB External HDD,1,69.93,69.93
+2025-02-10 15:17:46,d727cefc-8015-411e-a1c7-39c4d22180c7,Retail,Headsets,Noise-Cancelling Gaming Headset,1,74.55,74.55
+2025-02-10 15:10:21,c40d054b-b4b5-4b84-889b-d6467bb17915,B2B,Networking,Gigabit Ethernet Switch,1,46.05,46.05
+2025-02-10 14:03:47,4e665409-caee-41e9-b04e-3d20dc5697ae,B2B,Monitors,15.6-inch Portable USB-C Monitor,2,169.39,338.78
+2025-02-10 18:37:36,83449236-9de6-424a-9366-1afc43a6ef47,Retail,Keyboards,Membrane Office Keyboard,1,23.1,23.1
+2025-02-10 18:37:56,35e15ff6-4121-492e-ad24-10903705851e,Retail,Keyboards,Membrane Office Keyboard,2,27.9,55.8
+2025-02-10 14:48:53,e54b81aa-b806-4e58-b691-b008269d3c17,Web,Keyboards,RGB Backlit Keyboard,1,74.14,74.14
+2025-02-10 11:20:43,69b68083-3e24-43ce-8cbf-3f46643f7ca6,Web,Mice,Vertical Ergonomic Mouse,2,37.38,74.76
+2025-02-10 15:21:53,c5c3802e-5e10-4e2a-beb9-6950b4741fee,B2B,Headsets,In-Ear Gaming Earbuds,1,25.54,25.54
+2025-02-10 10:55:53,e0408a07-ebd1-4515-b513-7838c3ca988b,B2B,Headsets,In-Ear Gaming Earbuds,2,29.73,59.46
+2025-02-10 12:51:38,6586232d-fdce-4c51-a7d0-b645fb07ee7b,Web,Storage,512GB Portable SSD,1,69.68,69.68
+2025-02-11 10:47:27,213fdf1e-f692-41a5-bff2-f3c23dd9a6ff,Retail,Monitors,24-inch 144Hz Gaming Monitor,1,164.41,164.41
+2025-02-11 18:09:44,e5a0e8a0-5915-4d98-818b-1fc67b3b185b,Web,Storage,1TB NVMe SSD,1,75.38,75.38
+2025-02-11 16:56:06,dd943e8a-c874-4c07-af55-b15a1d838dd4,Web,Monitors,27-inch 4K IPS Monitor,1,252.2,252.2
+2025-02-11 16:18:58,323247cf-c562-407a-befe-4601cdcbcd4b,Retail,Storage,2TB External HDD,1,75.99,75.99
+2025-02-11 10:56:19,116ed1a7-84c5-4568-b9e0-51363e7662d1,Retail,Mice,Optical Gaming Mouse,1,41.78,41.78
+2025-02-11 17:41:19,a94bbbb6-2a02-4799-848b-f1bffa6bef07,B2B,Mice,Optical Gaming Mouse,1,53.76,53.76
+2025-02-12 15:14:10,463c85f1-8566-4893-a02f-72c490d52603,Web,Storage,1TB NVMe SSD,2,79.39,158.78
+2025-02-12 12:43:55,d9a75bc3-01b0-4f15-8ae4-416e25d8126e,Web,Monitors,24-inch 144Hz Gaming Monitor,1,243.58,243.58
+2025-02-12 09:20:26,3f84b060-31dd-42ae-b5c3-f1a401163aae,Retail,Mice,Trackball Mouse,1,75.11,75.11
+2025-02-12 19:14:19,88fbce3e-962a-442d-bb17-934a714d8f4c,Retail,Keyboards,Membrane Office Keyboard,1,23.96,23.96
+2025-02-12 19:54:14,1ed6871b-05ae-4bba-9c96-bc8bab00974c,B2B,Keyboards,Compact 60% Keyboard,1,44.94,44.94
+2025-02-13 10:37:06,a070051a-a83e-4c44-b25c-710b85862161,Web,Headsets,Wireless Bluetooth Headphones,2,82.1,164.2
+2025-02-13 15:47:15,59a3ea6d-59f4-4a8b-bf59-1ed1dbb98910,B2B,Headsets,Wireless Bluetooth Headphones,1,110.38,110.38
+2025-02-13 16:15:34,07c24a03-1130-431b-9c2e-5a37bbe62526,Web,Keyboards,Mechanical Gaming Keyboard,1,100.66,100.66
+2025-02-13 13:04:12,9322b91d-d842-488e-aa03-255686bf4daf,B2B,Mice,Vertical Ergonomic Mouse,1,41.64,41.64
+2025-02-13 15:47:35,df2fc23a-e184-40c1-ba89-ba53532fcba0,Web,Keyboards,Compact 60% Keyboard,2,59.07,118.14
+2025-02-13 15:59:57,73865529-951c-4346-9ee2-05cae9267ce5,Retail,Keyboards,Membrane Office Keyboard,1,22.0,22.0
+2025-02-14 12:46:22,6bbd03ac-0e67-46d9-9f48-de6f96765bd0,Retail,Mice,Wireless Bluetooth Mouse,1,24.74,24.74
+2025-02-14 13:28:57,b8672e25-642c-438a-a98b-81b6c23a636e,Web,Networking,USB Wi-Fi Adapter,2,34.41,68.82
+2025-02-14 10:49:25,f6f93a2c-4d15-4f73-8c35-7be76036ab83,Retail,Headsets,USB Conference Headset,1,38.42,38.42
+2025-02-14 19:46:01,33c28a01-50b2-489a-8f13-a576ac1c6733,B2B,Keyboards,Mechanical Gaming Keyboard,1,115.71,115.71
+2025-02-14 18:17:14,aaa63817-7106-4459-bbb1-927de19d56c8,Web,Headsets,In-Ear Gaming Earbuds,2,28.56,57.12
+2025-02-14 17:47:56,6e91970c-55e4-474a-b8fb-6a1145f1b105,Retail,Keyboards,RGB Backlit Keyboard,1,65.63,65.63
+2025-02-14 09:33:33,a3253340-2e5c-4026-8676-1d621a6aa242,B2B,Networking,USB Wi-Fi Adapter,1,25.32,25.32
+2025-02-14 19:39:02,e18a9457-7370-4459-871f-2601c3ac49b9,B2B,Storage,2TB External HDD,2,71.82,143.64
+2025-02-14 15:51:45,8ae4570a-1e04-44c0-9d9a-6e228e29506c,B2B,Keyboards,Membrane Office Keyboard,1,21.15,21.15
+2025-02-14 13:44:24,b4298af7-8490-4376-b9b4-10606c134728,B2B,Keyboards,Mechanical Gaming Keyboard,1,116.4,116.4
+2025-02-15 11:37:47,9a70acdb-9629-45be-af8f-d8bc0368f006,B2B,Keyboards,Membrane Office Keyboard,1,26.49,26.49
+2025-02-15 13:21:00,28d84ed5-2dd5-4b6b-9ea4-ba4b0328bba7,Web,Monitors,24-inch 144Hz Gaming Monitor,1,149.51,149.51
+2025-02-15 12:17:36,3f1000df-7ca9-4fb8-b2d6-d36c06271da5,Web,Keyboards,RGB Backlit Keyboard,1,56.34,56.34
+2025-02-15 16:26:16,b3377a33-f546-4470-9ba3-5d21a5b902eb,B2B,Monitors,27-inch 4K IPS Monitor,1,208.24,208.24
+2025-02-15 17:51:06,5cdd61dc-19ee-4978-a7f0-4b2221fb9ad0,Web,Keyboards,Membrane Office Keyboard,1,21.21,21.21
+2025-02-15 16:41:08,1a81a9b3-1865-4eda-b69f-a88fbe3643cf,Web,Networking,Wireless Mesh Router System,1,239.68,239.68
+2025-02-15 10:35:04,dc2fb4c1-bf5b-42d4-ba8a-f31b6bfb6a40,Web,Mice,Precision Laser Mouse,1,42.96,42.96
+2025-02-16 10:58:46,6ccd04dc-267e-4744-9a9a-30af7f816092,B2B,Headsets,Wireless Bluetooth Headphones,1,86.6,86.6
+2025-02-16 09:09:32,d1026c36-6f53-40d1-bb44-7dbc254b32a6,B2B,Headsets,USB Conference Headset,1,35.57,35.57
+2025-02-16 20:43:16,e6129263-ddd9-4924-8942-9e77005796c6,Web,Headsets,Surround Sound Headphones,2,122.06,244.12
+2025-02-17 19:14:38,f2be75fd-c889-4140-afd1-3b8e7761e0c9,Retail,Monitors,24-inch 144Hz Gaming Monitor,2,205.88,411.76
+2025-02-17 18:14:48,2c024920-a88b-45db-b03f-b0253ac80fc8,B2B,Networking,Powerline Ethernet Adapter,1,68.67,68.67
+2025-02-17 16:41:33,3c6a691e-80ba-4644-b54f-8acf711af036,Retail,Keyboards,RGB Backlit Keyboard,1,64.75,64.75
+2025-02-17 12:37:20,e539b0fc-db85-4da7-ae60-ddf444243999,Retail,Mice,Optical Gaming Mouse,1,51.97,51.97
+2025-02-17 11:02:28,9a7c7612-846f-450f-8287-aa926e64ba66,Retail,Keyboards,Membrane Office Keyboard,1,34.41,34.41
+2025-02-18 09:52:44,1201f095-1469-460a-aef3-7f1e0378a4f8,B2B,Mice,Precision Laser Mouse,2,47.17,94.34
+2025-02-18 13:24:31,98bd4f94-a88e-4e79-97bd-82d5d1e74f0b,Web,Keyboards,Mechanical Gaming Keyboard,1,135.14,135.14
+2025-02-18 17:56:00,fc22abb2-fcf1-40ad-8864-85f80189ee50,Retail,Mice,Optical Gaming Mouse,2,49.29,98.58
+2025-02-18 11:02:35,4243d52c-46c2-4473-9881-189a145d6677,Retail,Keyboards,Membrane Office Keyboard,2,22.02,44.04
+2025-02-18 14:25:11,6cd97988-676e-4bd2-a3d0-5ec8594e0e42,Retail,Mice,Optical Gaming Mouse,1,48.8,48.8
+2025-02-18 15:44:04,3905089b-c330-45a2-9a97-d41636b374a4,Web,Headsets,Wireless Bluetooth Headphones,1,94.57,94.57
+2025-02-18 15:01:45,63d04e6c-804e-4122-a739-a86ffed0b2b4,Web,Headsets,Noise-Cancelling Gaming Headset,1,114.22,114.22
+2025-02-18 19:43:21,e963ef39-41f7-4195-8040-5648619800cf,B2B,Monitors,24-inch 144Hz Gaming Monitor,1,130.89,130.89
+2025-02-19 15:25:59,627ba1ee-fc18-4e07-a9e2-dc356850b50b,B2B,Storage,1TB NVMe SSD,2,83.07,166.14
+2025-02-19 10:57:55,a80e1508-e44d-49a0-b5dc-bddaf48dbb40,Retail,Headsets,USB Conference Headset,2,36.37,72.74
+2025-02-19 16:28:30,0e4d5085-6a03-4761-89a3-cf3afea30360,B2B,Storage,1TB NVMe SSD,1,53.54,53.54
+2025-02-19 17:14:26,d64253f3-35e1-4126-b035-10b6aab68c22,B2B,Keyboards,Wireless Ergonomic Keyboard,1,59.77,59.77
+2025-02-19 17:58:44,dd99e46e-234d-48ad-94a0-86ffc0001e80,Retail,Keyboards,Membrane Office Keyboard,1,32.04,32.04
+2025-02-19 12:48:39,6c812910-a161-4ea3-9628-4bf1f38edb9c,Retail,Networking,Wireless Mesh Router System,2,148.74,297.48
+2025-02-19 11:17:17,e6a52cd7-53d6-4d64-9a0a-4ffb2c3a37ca,Web,Mice,Wireless Bluetooth Mouse,1,31.55,31.55
+2025-02-20 10:58:25,6136756d-33c1-45cd-8fb8-3cb6c3b1333c,B2B,Storage,2TB External HDD,2,66.72,133.44
+2025-02-20 11:37:18,f13cffeb-383b-4460-b2bd-a1b94d513409,B2B,Keyboards,Mechanical Gaming Keyboard,1,101.92,101.92
+2025-02-20 20:01:19,93027cb6-5394-4136-bf8a-87e966afc1c2,Retail,Mice,Optical Gaming Mouse,2,38.88,77.76
+2025-02-20 09:32:46,d4f7604d-3a16-4d98-b1a0-c23d66cc546c,Retail,Mice,Precision Laser Mouse,2,47.33,94.66
+2025-02-20 15:49:54,6ab8f1b7-3f7c-41c1-a685-730fe5457d99,B2B,Keyboards,RGB Backlit Keyboard,1,84.93,84.93
+2025-02-20 20:47:32,8a2555de-a9c1-4f52-9918-fd2d4430a65e,Web,Keyboards,Membrane Office Keyboard,1,24.46,24.46
+2025-02-20 12:08:39,76ad0571-de16-451d-ad38-d43fcbcc32cb,Web,Mice,Wireless Bluetooth Mouse,1,30.33,30.33
+2025-02-20 09:04:56,781dbbe2-1d19-494a-b302-ad9496025fd8,Retail,Networking,USB Wi-Fi Adapter,1,23.79,23.79
+2025-02-20 14:20:30,58691dc5-0387-4abd-917d-0ecb53b63434,Retail,Mice,Wireless Bluetooth Mouse,2,34.89,69.78
+2025-02-20 19:31:42,53a10f25-cfde-4194-b78c-5b3b079c719f,Web,Storage,2TB External HDD,1,68.64,68.64
+2025-02-20 14:20:30,84183eae-16c2-40fc-83a4-58c949425a3c,B2B,Mice,Optical Gaming Mouse,1,50.41,50.41
+2025-02-20 15:00:49,b48db4be-3051-4863-977f-664337c7b41a,Retail,Keyboards,Mechanical Gaming Keyboard,1,114.52,114.52
+2025-02-21 09:51:44,22cebb5a-f53c-4386-8da7-e10ae9dd48ac,Retail,Keyboards,Membrane Office Keyboard,1,23.14,23.14
+2025-02-21 15:38:29,eef59731-c28e-43ac-ae20-a20b1819bf43,Web,Storage,1TB NVMe SSD,1,78.92,78.92
+2025-02-22 15:50:01,2f0c0bfa-1983-433e-98a6-9013492d417f,Web,Mice,Precision Laser Mouse,2,50.92,101.84
+2025-02-22 12:55:33,ba643bba-019c-46cb-96e3-71cb1af0a380,B2B,Headsets,In-Ear Gaming Earbuds,1,36.83,36.83
+2025-02-22 20:37:27,d4bf919d-f961-47d3-8aba-df76c6b06a80,Retail,Monitors,27-inch 4K IPS Monitor,1,212.36,212.36
+2025-02-22 20:52:43,98494ac9-31ab-4b2f-bc16-3c21951d7af8,Retail,Keyboards,RGB Backlit Keyboard,1,63.7,63.7
+2025-02-22 17:35:02,fd4db24b-0c36-4779-bb3a-cb624a0bc8e4,Retail,Mice,Wireless Bluetooth Mouse,1,45.89,45.89
+2025-02-22 17:28:16,17448302-7c0e-41f9-87a7-80f48481b9cd,Web,Mice,Vertical Ergonomic Mouse,1,40.6,40.6
+2025-02-22 18:56:15,0a5a8070-720d-4d5a-a8b7-4d4f21c50a9c,B2B,Storage,4TB Desktop HDD,2,81.75,163.5
+2025-02-22 12:56:01,113ae9c2-728d-43f1-9009-070d974b0af2,B2B,Monitors,27-inch 4K IPS Monitor,1,208.24,208.24
+2025-02-22 12:04:43,9d0a7b37-b109-490c-9fcd-114a02e2284d,Web,Keyboards,Membrane Office Keyboard,1,27.7,27.7
+2025-02-23 17:31:08,89c0b747-722b-4d4f-b2f6-bf8893fdf2e2,Web,Networking,USB Wi-Fi Adapter,1,26.82,26.82
+2025-02-23 16:55:33,77e0eeaa-08f5-42da-bf98-c3e2b8f98447,Retail,Networking,Network Attached Storage (NAS),1,408.61,408.61
+2025-02-23 19:43:23,91d21e57-94fd-42f6-9801-0f2937ea7fb1,Web,Keyboards,RGB Backlit Keyboard,1,68.84,68.84
+2025-02-24 20:08:17,9faa3688-b3f3-4572-835c-301bdb0f3a3c,Retail,Storage,4TB Desktop HDD,1,85.74,85.74
+2025-02-24 14:49:28,f8d31e29-2d83-4a59-bc9d-2ecd289f353d,Web,Monitors,27-inch 4K IPS Monitor,1,266.82,266.82
+2025-02-24 09:53:38,c4494424-be3d-48e5-9766-90362b4d3840,Retail,Mice,Wireless Bluetooth Mouse,1,24.74,24.74
+2025-02-24 20:17:57,a18ed306-d077-4134-8f71-8cb0708fb62e,B2B,Mice,Wireless Bluetooth Mouse,1,31.73,31.73
+2025-02-24 15:53:37,452f5ea6-9adc-4eb8-8666-280cc0ed5e38,B2B,Headsets,Wireless Bluetooth Headphones,1,98.84,98.84
+2025-02-24 15:31:17,07af2555-6633-4984-b761-50ae8b462c32,B2B,Storage,512GB Portable SSD,1,70.04,70.04
+2025-02-24 18:25:38,bb34cccf-3ec2-423a-823b-a8f76b18ad42,B2B,Storage,4TB Desktop HDD,1,106.24,106.24
+2025-02-24 13:07:34,c861bb17-7cb3-438f-a3ea-e1efb9ae7993,Retail,Storage,1TB NVMe SSD,1,103.26,103.26
+2025-02-24 18:18:39,5c46ad05-f659-482c-b21b-d5afa5ef1a8d,Retail,Keyboards,Wireless Ergonomic Keyboard,1,75.95,75.95
+2025-02-25 15:04:03,8eee3c1d-4f56-4cb4-a7bf-818de501c588,Retail,Monitors,27-inch 4K IPS Monitor,1,259.38,259.38
+2025-02-25 13:57:03,aaa9564c-f270-4447-888d-8a2d91bab609,Web,Headsets,Wireless Bluetooth Headphones,1,72.01,72.01
+2025-02-25 12:39:07,3e7efcd6-01be-4119-8ef6-8d766125df64,Retail,Networking,USB Wi-Fi Adapter,1,25.92,25.92
+2025-02-25 17:56:01,3ccff328-ba8d-4715-9c9f-f1e54dd56dc5,Retail,Mice,Optical Gaming Mouse,1,61.65,61.65
+2025-02-25 20:07:43,96798fa7-3727-427c-923e-cbb56ec5bb1e,B2B,Networking,Gigabit Ethernet Switch,1,35.6,35.6
+2025-02-25 16:00:57,fac40726-a68b-4901-961a-e0d7cade8d9a,Retail,Storage,1TB NVMe SSD,2,87.22,174.44
+2025-02-25 19:43:39,34c8be93-2471-4a73-ac9d-5d72b30a48f7,B2B,Mice,Optical Gaming Mouse,1,35.69,35.69
+2025-02-25 18:59:30,6df01c5e-265a-4c6b-9c36-6b746ed2d2f9,Retail,Storage,1TB NVMe SSD,1,95.73,95.73
+2025-02-25 12:05:48,fd4b245a-ffdc-437d-a353-dca6b46dede6,Retail,Networking,Powerline Ethernet Adapter,1,42.44,42.44
+2025-02-26 17:26:04,894c8ff6-4ee9-4f29-9f47-56bdb48d49c4,Web,Mice,Trackball Mouse,1,73.94,73.94
+2025-02-26 15:13:50,fa2fe004-5ef0-4ba2-afe6-6c0333fa29a4,Web,Headsets,Surround Sound Headphones,2,128.02,256.04
+2025-02-26 15:08:19,001d8453-46d2-437b-80bc-63eaa70a107f,B2B,Storage,1TB NVMe SSD,1,96.43,96.43
+2025-02-26 18:16:25,5e61ce9f-a28b-4d4a-a4e3-cd8cf1dee377,Retail,Mice,Trackball Mouse,1,69.25,69.25
+2025-02-26 13:17:51,75e81f86-f9d9-47ac-b491-08baef43cd2a,Retail,Mice,Optical Gaming Mouse,1,45.01,45.01
+2025-02-26 13:06:08,cfd17b96-f1b5-48e8-834a-13b777a5c84c,Retail,Keyboards,RGB Backlit Keyboard,1,78.11,78.11
+2025-02-26 09:54:04,9b1a68cb-c34b-4eee-a309-271e710b2f9e,B2B,Storage,1TB NVMe SSD,1,81.25,81.25
+2025-02-26 17:10:34,9f7bc96a-3b17-4e18-9096-8e2c23988aba,Web,Keyboards,Mechanical Gaming Keyboard,1,90.4,90.4
+2025-02-26 14:15:54,40f9f29d-7d11-48c0-8bd4-4f3b0ddc341b,Web,Mice,Precision Laser Mouse,2,49.4,98.8
+2025-02-26 17:27:39,2dfab354-fe5e-4850-ad21-41c1fa9f8f7a,Web,Headsets,Noise-Cancelling Gaming Headset,1,110.17,110.17
+2025-02-27 14:08:51,0875e46a-526b-4aac-af14-525fd864eafb,Retail,Mice,Wireless Bluetooth Mouse,1,35.98,35.98
+2025-02-27 14:40:29,c848333d-223c-4e04-a086-0d368727389a,B2B,Mice,Wireless Bluetooth Mouse,2,26.02,52.04
+2025-02-27 10:41:51,74a1b7a5-870a-4b30-a3eb-7738a37f524c,Retail,Keyboards,Membrane Office Keyboard,1,26.7,26.7
+2025-02-27 20:53:36,f7cfcf14-605e-4b05-99f9-660b358e8379,Web,Storage,2TB External HDD,1,73.19,73.19
+2025-02-27 18:19:57,c0eba622-2d66-4b39-b8d3-c476e8023518,Web,Keyboards,Membrane Office Keyboard,1,21.49,21.49
+2025-02-27 13:50:20,8a19b662-0568-4e03-9026-cf8fe8bce224,Retail,Headsets,Wireless Bluetooth Headphones,2,98.75,197.5
+2025-02-27 11:56:36,2b95a3a5-2b50-4ab5-a9d0-fd7154ff92b8,B2B,Storage,128GB USB Flash Drive,2,13.02,26.04
+2025-02-27 15:18:04,e14375f5-4659-4717-90f8-9aa83794004d,Web,Keyboards,Mechanical Gaming Keyboard,1,127.55,127.55
+2025-02-28 19:27:23,5619a517-4ac2-4d34-89f9-93e39121f74d,Retail,Storage,1TB NVMe SSD,2,89.51,179.02
+2025-02-28 09:14:48,a0567cb3-cedc-4bbd-93f6-3a4f88ef215f,Retail,Storage,2TB External HDD,1,78.74,78.74
+2025-02-28 19:11:27,67e1e6fc-383c-4bcc-a283-91abf6aa1897,B2B,Mice,Optical Gaming Mouse,2,64.33,128.66
+2025-02-28 18:11:45,d5b53c87-5b6c-425b-b004-0695d6867ada,B2B,Networking,Powerline Ethernet Adapter,2,45.05,90.1
+2025-02-28 13:43:13,4401537d-4314-43e6-9c79-49b87626e070,Web,Storage,128GB USB Flash Drive,2,16.83,33.66
+2025-02-28 19:45:52,dd668d17-9d35-4c9b-acbd-11c6dfad446c,B2B,Headsets,Noise-Cancelling Gaming Headset,1,111.61,111.61
+2025-02-28 15:51:47,1d5c7f4e-8f85-49fb-b271-629e0188b37d,Retail,Monitors,24-inch 144Hz Gaming Monitor,1,130.89,130.89
+2025-02-28 12:50:32,210ff17a-3790-45c1-9704-ff14a6e9fe50,B2B,Mice,Wireless Bluetooth Mouse,1,33.08,33.08
+2025-03-01 17:56:08,7a3898eb-00cb-44fa-b626-8f574461b6e7,Web,Monitors,15.6-inch Portable USB-C Monitor,1,180.07,180.07
+2025-03-01 19:59:20,e6485b08-b4be-4004-aed2-14f6e58d6e08,Retail,Storage,512GB Portable SSD,2,72.65,145.3
+2025-03-01 19:40:41,87bd3061-437e-4bd0-8d39-c8b1f5b8b598,Web,Headsets,Noise-Cancelling Gaming Headset,1,109.73,109.73
+2025-03-02 12:48:38,42bddba6-3b0c-4892-b95b-600c2338e447,Retail,Storage,512GB Portable SSD,1,65.73,65.73
+2025-03-02 17:01:44,9fe5e7b3-c392-4ef7-b3d2-dd998add1a13,B2B,Mice,Wireless Bluetooth Mouse,2,41.61,83.22
+2025-03-02 12:06:36,02a3ae37-37b4-4d20-973c-8253d141747e,Web,Mice,Vertical Ergonomic Mouse,1,55.36,55.36
+2025-03-02 12:00:56,a307791b-fa79-450b-ad89-23ff6ab36a4d,B2B,Storage,128GB USB Flash Drive,2,22.57,45.14
+2025-03-02 19:46:48,ff8beb1d-997e-4949-b2dd-925bb75a8329,Web,Monitors,24-inch 144Hz Gaming Monitor,1,200.54,200.54
+2025-03-02 11:56:24,38ced23c-df08-4fbc-b642-68e27832b600,Retail,Keyboards,Compact 60% Keyboard,1,60.46,60.46
+2025-03-02 14:59:46,a153aa7b-7231-4588-a280-bc7983f26386,Web,Networking,Powerline Ethernet Adapter,1,41.29,41.29
+2025-03-02 13:38:31,ea9519a2-5486-49f7-b549-7bdb5581e334,Retail,Mice,Precision Laser Mouse,1,52.54,52.54
+2025-03-03 17:22:48,f003c687-62ba-4f73-bea5-9001e149ff06,Retail,Headsets,Wireless Bluetooth Headphones,1,95.16,95.16
+2025-03-03 09:43:54,e276b074-d083-416c-b037-b2421f684dd0,Retail,Headsets,In-Ear Gaming Earbuds,2,45.31,90.62
+2025-03-03 17:15:38,344652cf-e0e8-4129-8901-cfafe2179b21,Web,Headsets,Wireless Bluetooth Headphones,2,94.93,189.86
+2025-03-03 17:27:52,6d724ab1-d002-4e7c-97ae-73ec16d2614a,B2B,Mice,Vertical Ergonomic Mouse,1,35.56,35.56
+2025-03-03 17:18:25,9b4f7283-acb2-4742-8445-c8ea7ded6a78,B2B,Storage,2TB External HDD,1,59.91,59.91
+2025-03-04 14:43:47,dc3b1846-ec7c-46f5-ac2f-a0dd2eb0b4a2,Retail,Mice,Precision Laser Mouse,2,62.07,124.14
+2025-03-04 11:28:06,8ab4bd14-26d5-4df0-a914-f8788dadcb13,B2B,Networking,USB Wi-Fi Adapter,1,22.02,22.02
+2025-03-04 14:03:50,b202e735-1600-48d0-b459-1bc67b7f2af4,Web,Monitors,27-inch 4K IPS Monitor,1,341.33,341.33
+2025-03-04 09:31:21,05c78fd0-45d2-4a2d-b996-3f9227f6d81d,B2B,Networking,Wireless Mesh Router System,1,253.72,253.72
+2025-03-05 13:58:34,a41625e5-a398-4e34-a16d-fac1616ee0ba,Retail,Mice,Optical Gaming Mouse,2,58.09,116.18
+2025-03-05 13:52:57,254589ba-99be-4a56-92eb-ca1ccee1a6cc,Web,Storage,512GB Portable SSD,1,71.06,71.06
+2025-03-05 10:36:30,ab9d3543-3776-4d9d-8a65-b65b478ac8e4,B2B,Keyboards,Wireless Ergonomic Keyboard,1,76.49,76.49
+2025-03-05 10:11:03,e999f32b-7ae5-45d6-ae34-cfb269197081,Retail,Storage,2TB External HDD,1,67.7,67.7
+2025-03-05 19:41:04,69e678fb-008b-4003-802a-fb5beea0f156,B2B,Storage,2TB External HDD,1,75.67,75.67
+2025-03-06 11:28:21,54a85339-f75b-494a-92b3-bb1d5258f32d,Web,Headsets,Noise-Cancelling Gaming Headset,1,96.9,96.9
+2025-03-06 10:43:57,717fb297-34ae-4d47-88b9-e1b6e3109555,Web,Networking,Gigabit Ethernet Switch,2,32.23,64.46
+2025-03-06 09:04:47,b9732e43-ca16-4069-b61a-7b19cdfcb682,B2B,Mice,Precision Laser Mouse,1,64.54,64.54
+2025-03-06 18:59:02,19642b8c-0a08-4f61-85b2-128d81c93c36,Retail,Keyboards,Wireless Ergonomic Keyboard,1,79.72,79.72
+2025-03-06 20:24:56,828771bd-a864-4484-a1e5-a64a2d222748,B2B,Mice,Precision Laser Mouse,2,57.34,114.68
+2025-03-06 13:09:35,8156fe87-3df8-4f4b-af36-bf012e18a809,Web,Storage,128GB USB Flash Drive,2,16.76,33.52
+2025-03-06 12:08:54,991e5a48-8012-4940-9331-14226c79b037,Retail,Networking,Powerline Ethernet Adapter,1,50.88,50.88
+2025-03-06 10:02:24,cefe6f0d-f081-48e5-96a9-deac1754ad4c,Retail,Keyboards,Wireless Ergonomic Keyboard,2,84.77,169.54
+2025-03-06 16:41:15,8d5b7ef7-3dc8-4c47-b4a3-8fe9d3957e6a,Retail,Headsets,USB Conference Headset,1,45.56,45.56
+2025-03-07 17:46:02,ea389ebd-505a-4aac-a143-07fe6bc040d5,B2B,Storage,1TB NVMe SSD,2,69.37,138.74
+2025-03-07 16:40:55,3c95608c-7732-47b9-9c8f-7caaea6f18a6,B2B,Monitors,15.6-inch Portable USB-C Monitor,1,174.0,174.0
+2025-03-07 19:23:29,6983e625-f038-45d3-918f-c2382822e521,Retail,Storage,2TB External HDD,1,70.48,70.48
+2025-03-07 19:29:55,341ae94b-9ad6-4aec-b462-0ba346305fbf,B2B,Storage,1TB NVMe SSD,1,67.94,67.94
+2025-03-07 13:49:31,fa05abe4-eb91-448a-9825-6ec9494e5ad8,Web,Networking,USB Wi-Fi Adapter,1,32.18,32.18
+2025-03-07 18:45:39,3350afa5-20c5-4d7f-9041-a653659b83c6,B2B,Monitors,27-inch 4K IPS Monitor,1,306.25,306.25
+2025-03-08 12:01:16,ba2e0058-9895-48cd-8ed6-d4b49a0d8bb9,B2B,Monitors,34-inch Ultrawide Curved Monitor,1,444.72,444.72
+2025-03-08 16:54:02,c2050353-ca83-4284-95c0-4c1432203e33,Web,Keyboards,Mechanical Gaming Keyboard,1,111.92,111.92
+2025-03-08 13:28:22,f9b9cee2-1490-4349-9a60-db14c164952b,B2B,Keyboards,Membrane Office Keyboard,1,21.58,21.58
+2025-03-08 15:51:18,1ebab74c-8260-4777-9c94-e38e06119da2,Web,Storage,512GB Portable SSD,1,62.17,62.17
+2025-03-09 11:24:14,802feb82-4a53-4064-8902-ffdd9e8f9c88,Web,Storage,1TB NVMe SSD,1,80.82,80.82
+2025-03-09 13:35:59,162043bc-190c-4209-8ff5-7b736e33bb27,B2B,Networking,Network Attached Storage (NAS),1,237.99,237.99
+2025-03-09 09:34:56,b2f89541-50af-4a97-a190-8239bb165cda,B2B,Storage,1TB NVMe SSD,1,93.61,93.61
+2025-03-09 17:01:19,12b4de1d-6709-48a1-bc27-36ba9db4dbf5,Web,Mice,Wireless Bluetooth Mouse,2,41.29,82.58
+2025-03-09 19:53:49,177489d4-982d-46d0-ab1e-61fe0a24f6b4,Retail,Headsets,Wireless Bluetooth Headphones,2,96.19,192.38
+2025-03-09 20:25:33,18d628be-d3e6-448a-aa2a-a128ae22b564,B2B,Keyboards,RGB Backlit Keyboard,1,73.41,73.41
+2025-03-10 16:07:04,899c9ad9-cc73-46cd-b923-38d632e88d36,Web,Keyboards,Mechanical Gaming Keyboard,1,107.01,107.01
+2025-03-10 17:26:33,1630d626-8277-494a-a478-a37be9af76eb,Retail,Monitors,24-inch 144Hz Gaming Monitor,1,184.83,184.83
+2025-03-10 13:30:56,0cb0caa4-bd96-4463-a903-5555b1c983fd,B2B,Mice,Optical Gaming Mouse,1,43.73,43.73
+2025-03-10 18:21:12,ad979d1b-48ba-4988-bce5-675a72a8cf99,Retail,Monitors,24-inch 144Hz Gaming Monitor,1,170.63,170.63
+2025-03-11 18:53:36,1b64a7ce-b05f-465e-9d0d-81915a437d2c,Retail,Monitors,24-inch 144Hz Gaming Monitor,1,211.8,211.8
+2025-03-11 12:43:53,4f964dd4-9f14-440e-b927-3029548615a0,Web,Headsets,In-Ear Gaming Earbuds,1,35.26,35.26
+2025-03-11 20:10:42,26fb9bb8-305d-4e59-b537-8d50382ce86f,B2B,Monitors,24-inch 144Hz Gaming Monitor,1,181.76,181.76
+2025-03-11 09:06:16,7c9c4a2a-eb2f-41ea-a660-b9e646eb148b,Web,Monitors,15.6-inch Portable USB-C Monitor,1,130.83,130.83
+2025-03-12 19:51:04,58ae7c9c-91cf-44a3-b22f-65b1d62093ad,Web,Mice,Vertical Ergonomic Mouse,1,50.32,50.32
+2025-03-12 20:42:40,1bcbf626-d932-46c7-a6d0-43878e174ac5,Web,Storage,2TB External HDD,2,56.17,112.34
+2025-03-12 14:45:37,fbf179d6-ca59-4edd-a335-08c3ded5c9ac,B2B,Headsets,Noise-Cancelling Gaming Headset,2,103.37,206.74
+2025-03-12 19:41:38,8a4d404e-b8d1-4cbd-93c5-485c94069456,Retail,Networking,Powerline Ethernet Adapter,1,45.91,45.91
+2025-03-12 17:49:18,aba087e4-5fc1-4a25-aad5-bb30942604f1,Web,Keyboards,RGB Backlit Keyboard,1,63.54,63.54
+2025-03-13 19:53:50,bb39e454-0d93-43ff-bb2d-8e08057940ee,Web,Networking,Gigabit Ethernet Switch,1,38.24,38.24
+2025-03-13 18:34:03,34772a99-f39e-4448-bc2e-6e8e1a1e37e0,Web,Mice,Vertical Ergonomic Mouse,1,47.43,47.43
+2025-03-13 18:13:26,d382bcae-76a6-4208-be35-084c71a69246,Retail,Mice,Optical Gaming Mouse,1,48.14,48.14
+2025-03-13 17:31:28,78182d48-c7cf-473f-8338-8dd29c3a98f3,Web,Monitors,34-inch Ultrawide Curved Monitor,1,514.86,514.86
+2025-03-13 13:06:45,fcd9247f-f2f8-461f-85b6-ffdcb046e5d1,Retail,Headsets,Noise-Cancelling Gaming Headset,1,128.05,128.05
+2025-03-14 13:15:01,c546a14c-6b1d-464d-817d-1d8743d24ed8,Retail,Monitors,34-inch Ultrawide Curved Monitor,1,491.34,491.34
+2025-03-14 11:25:33,0115374d-26be-4fda-8c5b-90ae217a79fc,Retail,Mice,Optical Gaming Mouse,2,59.88,119.76
+2025-03-14 20:40:11,34db1339-96b5-4038-aa0f-6b083a15aaea,Retail,Monitors,27-inch 4K IPS Monitor,1,266.73,266.73
+2025-03-15 12:14:06,c993984d-098c-467a-8b30-78dce1dcba14,Web,Storage,4TB Desktop HDD,2,81.97,163.94
+2025-03-15 17:58:29,c39bc845-50e5-486c-a44f-80d4eb92f44c,Retail,Mice,Trackball Mouse,2,47.59,95.18
+2025-03-16 11:19:25,c1dbf412-2726-4069-9494-0a5c90c4f215,Retail,Storage,128GB USB Flash Drive,1,15.15,15.15
+2025-03-16 10:26:37,f750260a-a6b1-4589-8111-040be85c73d7,Retail,Keyboards,Membrane Office Keyboard,1,22.38,22.38
+2025-03-16 20:42:09,d8679fa4-1daf-4aca-8f4b-8c01259f937c,Retail,Monitors,24-inch 144Hz Gaming Monitor,1,193.15,193.15
+2025-03-16 19:29:01,1a2ea74a-f52c-43ac-8e7d-4e945ca799b2,Retail,Storage,1TB NVMe SSD,2,81.19,162.38
+2025-03-16 19:21:45,aff30a8e-1417-4cf5-a411-5219916788e3,Web,Headsets,Surround Sound Headphones,1,101.8,101.8
+2025-03-16 15:19:34,5703bdf5-ad5a-4157-9e47-4c9da2e5fa01,Retail,Headsets,Wireless Bluetooth Headphones,2,75.72,151.44
+2025-03-17 17:11:40,b074ffd0-5333-4b65-97ed-f42eba14e206,Web,Networking,Gigabit Ethernet Switch,1,37.96,37.96
+2025-03-17 17:34:07,fa633be3-146e-4de9-8d29-6063529d10f1,Web,Mice,Precision Laser Mouse,1,65.88,65.88
+2025-03-17 12:19:06,6567ebe1-ca00-4c3d-8988-e3a9e8641857,B2B,Headsets,USB Conference Headset,1,41.28,41.28
+2025-03-17 13:06:06,6d162e81-4788-4ae6-8b1a-03905d968a1d,B2B,Monitors,24-inch 144Hz Gaming Monitor,1,201.95,201.95
+2025-03-17 09:41:06,650289b2-7fc0-4c6b-b39c-cdb683479d52,Retail,Mice,Wireless Bluetooth Mouse,1,26.42,26.42
+2025-03-17 19:10:53,43b3830e-825a-46f4-b612-7c2128f6a36a,B2B,Headsets,In-Ear Gaming Earbuds,2,23.79,47.58
+2025-03-17 14:33:16,f94ce62c-f781-49d9-b3d8-d286b3545db0,B2B,Mice,Wireless Bluetooth Mouse,2,31.42,62.84
+2025-03-18 18:00:53,299a4292-ff92-4925-9368-2fb9d8e1f61c,B2B,Monitors,27-inch 4K IPS Monitor,1,288.61,288.61
+2025-03-18 13:00:58,45cfc6ac-0474-4698-9c58-4a854fdc1bb0,B2B,Headsets,Surround Sound Headphones,2,140.88,281.76
+2025-03-18 17:38:46,a0ff36db-faac-4529-bdf7-ee9f51c25502,B2B,Keyboards,Membrane Office Keyboard,1,27.64,27.64
+2025-03-18 10:38:39,5adbb2b6-2d85-4350-b289-7c7a78ba3b87,Retail,Storage,2TB External HDD,1,61.94,61.94
+2025-03-19 09:59:10,0eb76891-8252-4e22-9260-7433b1778b4e,Retail,Mice,Optical Gaming Mouse,2,54.75,109.5
+2025-03-19 15:02:00,f2c49ca2-8b2c-451c-9704-720e3ca6d67f,Retail,Headsets,In-Ear Gaming Earbuds,1,45.83,45.83
+2025-03-19 17:49:35,55f26a47-7ba1-466a-a3f4-b3e884f44fdd,Web,Headsets,USB Conference Headset,1,44.7,44.7
+2025-03-19 09:00:21,0f4b970c-05ca-4029-9378-991baa795588,Retail,Networking,Gigabit Ethernet Switch,1,34.3,34.3
+2025-03-19 17:47:30,a2c4c6ec-7396-4c21-8cfb-0d8fc8776cbc,B2B,Monitors,24-inch 144Hz Gaming Monitor,1,177.21,177.21
+2025-03-19 19:09:03,7a0062db-7735-4bc8-84a9-cd6ec66a5072,Web,Networking,Gigabit Ethernet Switch,2,57.36,114.72
+2025-03-19 17:04:57,b9e19a20-9104-48f0-934d-2bfa5b3199ad,B2B,Storage,2TB External HDD,1,80.67,80.67
+2025-03-20 20:04:37,fa89e2c6-7118-44bd-8486-332e3c85d2ae,Web,Networking,Powerline Ethernet Adapter,1,54.13,54.13
+2025-03-20 19:57:08,320d8a30-2d6d-4e2f-a974-02a007becbc7,Web,Headsets,Wireless Bluetooth Headphones,1,96.83,96.83
+2025-03-20 18:19:54,45e27f7f-9794-4769-9c08-787344504812,Web,Storage,128GB USB Flash Drive,1,22.46,22.46
+2025-03-20 14:34:49,6343d6e5-4d7e-4a60-9367-2a04fa88d040,Retail,Storage,128GB USB Flash Drive,1,13.63,13.63
+2025-03-20 19:52:34,82cb6b46-38ec-4d9f-894b-c05d84bd77c9,B2B,Headsets,USB Conference Headset,1,48.02,48.02
+2025-03-20 14:22:38,04dbb802-3e34-4e0f-a3ce-e5a886acca6a,B2B,Keyboards,RGB Backlit Keyboard,2,68.91,137.82
+2025-03-20 12:23:23,aec18e68-2905-466d-8dea-5dad359c9e3f,B2B,Storage,128GB USB Flash Drive,2,14.56,29.12
+2025-03-20 11:57:32,a8358f36-807f-4212-9ff9-570ebca7b003,Retail,Monitors,24-inch 144Hz Gaming Monitor,1,195.78,195.78
+2025-03-21 09:44:40,44b0520c-5d64-4cbb-9d47-a024f78eea5b,Retail,Keyboards,Compact 60% Keyboard,2,57.3,114.6
+2025-03-21 09:50:56,519cbe9c-938a-4e6b-8a16-98ff57709b0a,B2B,Monitors,15.6-inch Portable USB-C Monitor,1,119.03,119.03
+2025-03-21 15:29:36,2e5c8148-333b-4a6c-9454-3a1690518b7a,B2B,Mice,Wireless Bluetooth Mouse,2,23.79,47.58
+2025-03-21 17:39:43,274a3dd8-4ace-4b6c-8e87-7bbbe7ee8069,Web,Storage,2TB External HDD,2,71.95,143.9
+2025-03-21 17:05:51,b1535dac-710a-4fb1-b500-a17c54e16e15,B2B,Keyboards,Wireless Ergonomic Keyboard,1,70.52,70.52
+2025-03-21 13:21:50,aa9a2329-f462-419d-a2d6-50cbe2585647,B2B,Headsets,Surround Sound Headphones,1,120.68,120.68
+2025-03-22 15:22:47,17d7d721-8713-434a-88ff-b8e711bda855,Web,Headsets,In-Ear Gaming Earbuds,1,37.36,37.36
+2025-03-22 16:42:11,0fabb65a-796a-4f0e-b4a4-0e3df23afb30,Web,Networking,Powerline Ethernet Adapter,1,45.97,45.97
+2025-03-22 09:05:36,69fbbbd1-3954-4efb-ad89-8e23534935f5,Retail,Networking,Gigabit Ethernet Switch,1,35.71,35.71
+2025-03-22 19:42:20,785f6617-254e-4917-acec-2b277cc9f7a9,B2B,Headsets,Wireless Bluetooth Headphones,2,90.59,181.18
+2025-03-22 14:52:57,2e8561f3-8dd9-4c46-a1e2-eb90909a8b3c,Retail,Storage,1TB NVMe SSD,1,72.82,72.82
+2025-03-22 09:44:44,b67d4a14-106b-43e2-910b-b5e1fe8ab1e1,Retail,Headsets,In-Ear Gaming Earbuds,1,33.95,33.95
+2025-03-22 14:44:41,79933be8-de40-41cb-9c3f-919bc6ced685,Web,Headsets,In-Ear Gaming Earbuds,1,33.68,33.68
+2025-03-22 15:54:09,f06d0f8b-afb0-43f7-bba8-85b1c1aac696,Web,Mice,Wireless Bluetooth Mouse,2,29.16,58.32
+2025-03-22 19:02:00,cf0912b4-b668-4f4d-a49b-3338ec19e8a3,Retail,Keyboards,Compact 60% Keyboard,2,45.87,91.74
+2025-03-22 20:02:25,ab332b17-2a03-4f15-b97f-284effdc4896,Retail,Networking,Gigabit Ethernet Switch,1,40.08,40.08
+2025-03-22 15:03:39,c4df07f6-8ccc-47e1-bb7e-f05d3ddc0d2a,Retail,Networking,USB Wi-Fi Adapter,1,29.26,29.26
+2025-03-22 11:53:18,bf54f6b4-16e6-444d-9f9b-38364b4e2116,Retail,Headsets,Surround Sound Headphones,1,87.26,87.26
+2025-03-22 09:43:34,35724dbc-3410-499c-ac80-da58ca94816d,Retail,Mice,Optical Gaming Mouse,2,64.74,129.48
+2025-03-22 09:39:06,0444de14-d372-4542-844a-d8f2de65a59a,B2B,Storage,128GB USB Flash Drive,2,18.23,36.46
+2025-03-23 14:49:55,2f86d230-f9e5-41ff-8f82-40e4059b92f6,Retail,Headsets,In-Ear Gaming Earbuds,1,36.25,36.25
+2025-03-23 15:35:49,b997ec0b-5551-457c-a48c-77b416b45a64,Web,Monitors,24-inch 144Hz Gaming Monitor,2,244.47,488.94
+2025-03-23 16:24:22,c9c0b344-6ce9-45da-91b4-03d437a5c176,Retail,Networking,USB Wi-Fi Adapter,1,22.87,22.87
+2025-03-23 15:35:20,1ad101c2-2466-4c65-987e-25209d7b95b0,B2B,Networking,USB Wi-Fi Adapter,1,29.25,29.25
+2025-03-23 20:27:48,7d75de25-c0e3-4568-b50c-9b13a96703f8,B2B,Mice,Precision Laser Mouse,1,42.6,42.6
+2025-03-24 14:54:15,7ae96789-22a8-4353-b918-cc95ba92c1c8,Retail,Mice,Optical Gaming Mouse,1,40.6,40.6
+2025-03-24 17:18:18,7f8c756e-70cf-42fe-ba96-5a5807b5f06c,Retail,Headsets,Wireless Bluetooth Headphones,1,75.77,75.77
+2025-03-24 20:44:19,85e864fa-688c-46d0-b3c5-ebed4cd261f8,Retail,Mice,Precision Laser Mouse,1,60.6,60.6
+2025-03-24 15:38:58,3dd84f27-185a-4a43-890d-c9b32e7fa2b3,Web,Mice,Vertical Ergonomic Mouse,1,34.72,34.72
+2025-03-24 18:25:41,9f60c5c8-bc8c-41c4-b469-ffbcae78ddba,B2B,Keyboards,RGB Backlit Keyboard,1,72.97,72.97
+2025-03-24 18:22:20,07bf3ee2-106d-4cb8-ad72-0a37c6d242a7,Web,Headsets,In-Ear Gaming Earbuds,2,29.53,59.06
+2025-03-24 17:06:42,65038212-887d-4b9f-aba3-a8c098dfbfcd,B2B,Keyboards,Membrane Office Keyboard,2,31.08,62.16
+2025-03-24 16:54:56,7dcd1108-6620-4e47-b867-babc0e39814b,Web,Headsets,Wireless Bluetooth Headphones,1,93.75,93.75
+2025-03-25 16:18:52,f0410499-ef87-49f3-bdf1-6eac1ef32d0e,Web,Keyboards,Membrane Office Keyboard,1,17.84,17.84
+2025-03-25 18:33:21,b3f6acf3-2dc7-499b-9a77-0c11a3a3847c,Retail,Monitors,27-inch 4K IPS Monitor,1,259.01,259.01
+2025-03-25 13:14:43,de9231bd-75e3-4fd5-81ce-f6201b79a5e4,Retail,Headsets,Noise-Cancelling Gaming Headset,1,112.37,112.37
+2025-03-25 19:19:49,00bdc727-4d90-457c-9119-83ce9f0b29a0,B2B,Headsets,Wireless Bluetooth Headphones,1,84.93,84.93
+2025-03-25 17:37:13,69c8bffa-33aa-423a-ba75-3be22a284bd7,Retail,Storage,1TB NVMe SSD,2,100.77,201.54
+2025-03-25 19:30:51,f515f395-57cd-4226-8cdf-f5c6f410914c,Retail,Headsets,Wireless Bluetooth Headphones,1,100.55,100.55
+2025-03-26 20:28:53,465acf78-3d5b-4c37-bdba-4c3e7792b31e,Web,Headsets,In-Ear Gaming Earbuds,1,28.03,28.03
+2025-03-26 09:55:20,14d0cca8-85df-45a4-b0d2-c0068599b4a7,Web,Keyboards,Membrane Office Keyboard,2,21.91,43.82
+2025-03-26 20:54:31,21cc6938-3d58-4bda-85a1-07a66ae590d1,Web,Mice,Wireless Bluetooth Mouse,1,37.15,37.15
+2025-03-26 17:48:59,c2e86cc5-1b65-478b-b7a8-0ab0484e4b77,Retail,Mice,Wireless Bluetooth Mouse,1,41.19,41.19
+2025-03-26 18:20:23,da8388cc-2cb0-472b-a42f-838561f9c731,Web,Headsets,In-Ear Gaming Earbuds,1,32.73,32.73
+2025-03-26 15:33:05,ce50dc39-37c4-485f-a9d0-b421a6ce8c68,Retail,Mice,Optical Gaming Mouse,1,54.7,54.7
+2025-03-26 20:44:15,705d288a-0cb4-49aa-acad-edf9f294dabf,Retail,Mice,Vertical Ergonomic Mouse,2,53.97,107.94
+2025-03-27 16:04:58,170b8965-92d4-4e7f-8b7f-069751eecd2c,Retail,Keyboards,RGB Backlit Keyboard,1,55.87,55.87
+2025-03-27 20:29:17,c50811cd-fe67-4f0c-8cd1-026e1037663f,Retail,Storage,512GB Portable SSD,2,49.44,98.88
+2025-03-27 15:12:08,9eeb8997-f2d3-476d-97cf-7f4d85065c71,Web,Headsets,USB Conference Headset,2,37.82,75.64
+2025-03-27 10:29:16,5bc83b0d-620a-4b8f-b946-791f17dac236,Web,Monitors,24-inch 144Hz Gaming Monitor,1,186.58,186.58
+2025-03-27 15:00:49,66e637e7-ea34-4265-94e6-98d529e9cde2,Retail,Monitors,24-inch 144Hz Gaming Monitor,1,176.74,176.74
+2025-03-28 13:04:45,f15dd6b1-e999-4a29-9c40-7f7c9d0a78bb,Web,Mice,Trackball Mouse,1,67.96,67.96
+2025-03-28 16:02:51,b39bc17b-192d-42c0-aead-ab8284e4568e,Web,Keyboards,Membrane Office Keyboard,2,23.92,47.84
+2025-03-28 13:43:40,8f476209-c821-452b-aa62-5e66dc7d0b86,Web,Networking,USB Wi-Fi Adapter,1,17.84,17.84
+2025-03-28 10:30:08,19890ca5-c0bf-42f7-a472-6daac4ed83c0,B2B,Monitors,24-inch 144Hz Gaming Monitor,1,176.86,176.86
+2025-03-28 20:47:50,dd47017f-3bb4-4af3-819c-caaa22e03612,B2B,Monitors,24-inch 144Hz Gaming Monitor,1,186.52,186.52
+2025-03-29 11:16:02,b95a6838-70bf-4498-bde7-8d54cf0abdce,B2B,Networking,Wireless Mesh Router System,1,210.49,210.49
+2025-03-29 12:02:48,422310f7-1350-4480-ab33-670ceebfffa6,Web,Mice,Trackball Mouse,1,67.28,67.28
+2025-03-29 14:41:33,a12dc39b-8a19-451b-adbc-fb0d05636ac9,Web,Networking,Gigabit Ethernet Switch,1,41.98,41.98
+2025-03-29 19:10:12,61266ff0-229f-4cc7-b079-018fbd79a490,B2B,Mice,Optical Gaming Mouse,1,37.79,37.79
+2025-03-29 19:14:14,71167016-56c2-4e1a-a39f-23db9a9d470b,Retail,Mice,Vertical Ergonomic Mouse,1,48.4,48.4
+2025-03-29 18:35:04,d2cfaaf7-9b5b-410a-84fc-540179f1db04,Web,Headsets,Surround Sound Headphones,1,136.35,136.35
+2025-03-29 16:19:33,725f933c-5087-4d0a-9e8a-b5004c9634a9,B2B,Storage,512GB Portable SSD,2,50.07,100.14
+2025-03-29 14:45:23,4506b7b1-a8df-407c-8175-56ed9049de38,Web,Headsets,USB Conference Headset,1,50.51,50.51
+2025-03-30 13:00:19,3defc535-fa1e-4961-9c99-412b844ac22c,Retail,Mice,Optical Gaming Mouse,2,47.97,95.94
+2025-03-30 19:53:25,b3a8ffac-9291-4cf1-9302-27eab5f06be2,Retail,Mice,Vertical Ergonomic Mouse,1,48.11,48.11
+2025-03-30 19:47:02,e0e4b7a2-0520-4c19-86b8-f3e87fbbca72,Retail,Monitors,24-inch 144Hz Gaming Monitor,1,150.75,150.75
+2025-03-30 20:45:45,e02f9417-b0b3-4f90-bef8-ae3024f10621,Web,Keyboards,Compact 60% Keyboard,2,66.35,132.7
+2025-03-30 11:02:16,ec33a2d6-d218-4b04-8eb4-43d2ec34e0d1,Web,Mice,Optical Gaming Mouse,1,35.73,35.73
+2025-03-30 15:54:36,afdfce9c-7377-45f7-a100-06fba1002b74,Web,Headsets,Wireless Bluetooth Headphones,1,73.48,73.48
+2025-03-30 12:24:48,a4cc5ff3-6a0f-4ae6-b502-5f25930db9ff,B2B,Mice,Optical Gaming Mouse,2,56.35,112.7
+2025-03-31 19:54:58,ab5aa91d-6b32-4fd0-a7e1-03c5605b6312,Web,Networking,Network Attached Storage (NAS),1,332.28,332.28
+2025-03-31 13:59:21,5b07b1b2-faae-497f-b799-5c72397f3226,Web,Mice,Wireless Bluetooth Mouse,2,30.46,60.92
+2025-03-31 11:18:15,8626d358-3030-435a-9596-510b798560ec,Web,Keyboards,Mechanical Gaming Keyboard,1,111.14,111.14
+2025-04-01 11:16:42,8f9c4264-5fd0-4c8d-bd40-3030751d04fe,Web,Mice,Optical Gaming Mouse,1,38.72,38.72
+2025-04-01 12:21:14,23004c14-e89d-467c-9acd-cd9715f55ecf,B2B,Storage,2TB External HDD,2,61.38,122.76
+2025-04-01 19:31:26,2403a359-2696-43e5-8d4a-90e78217b2bf,Retail,Keyboards,Membrane Office Keyboard,1,24.36,24.36
+2025-04-01 20:31:51,51a674c3-5ee5-4c23-a862-1c4ed9cb99e0,Web,Mice,Precision Laser Mouse,1,51.78,51.78
+2025-04-01 18:55:29,29aca603-00eb-4154-b5aa-63611ff29c62,Retail,Headsets,Wireless Bluetooth Headphones,2,94.27,188.54
+2025-04-02 12:24:03,d755da59-e7a8-45ea-9e27-b387e9735aeb,Web,Keyboards,Compact 60% Keyboard,1,58.12,58.12
+2025-04-02 16:53:46,02f98e7a-248a-45f5-bc7a-5a67ed6c8c22,Web,Keyboards,Membrane Office Keyboard,1,21.72,21.72
+2025-04-02 12:27:11,64961251-c538-4af1-b843-7325c71a9c74,Retail,Monitors,27-inch 4K IPS Monitor,1,245.28,245.28
+2025-04-02 16:45:28,91de0ea3-29d0-4322-99a5-979a280a0854,Web,Storage,4TB Desktop HDD,1,89.64,89.64
+2025-04-02 20:19:12,29d63f48-e731-4dde-883b-89cf8de7b8ce,Web,Networking,USB Wi-Fi Adapter,1,19.26,19.26
+2025-04-03 10:12:32,e8a4e45b-bcc0-4ded-bb7c-c5388ac8062b,Retail,Networking,USB Wi-Fi Adapter,2,28.32,56.64
+2025-04-03 11:13:21,05314d86-9493-4493-8826-88423bb6f0dd,Web,Monitors,27-inch 4K IPS Monitor,1,285.52,285.52
+2025-04-03 18:55:45,4bfbbeb6-5f07-4702-9ab8-585335381291,Web,Mice,Wireless Bluetooth Mouse,1,34.14,34.14
+2025-04-03 13:19:04,9aa783c9-0458-4c9e-a40f-8ff32e599f1e,Retail,Keyboards,Membrane Office Keyboard,1,30.44,30.44
+2025-04-04 20:14:57,9e271d53-f682-4dc1-ba46-b8204f78f078,B2B,Storage,4TB Desktop HDD,2,123.99,247.98
+2025-04-04 18:44:12,a3e39379-cce7-4777-9094-e49e4284c9c7,Retail,Keyboards,Membrane Office Keyboard,1,21.95,21.95
+2025-04-04 14:59:12,d4956244-baac-428a-9c11-c30da118c218,B2B,Storage,128GB USB Flash Drive,1,19.23,19.23
+2025-04-04 20:33:28,b0980b4b-66d7-4b96-9284-c65f48739cc1,B2B,Headsets,USB Conference Headset,1,40.35,40.35
+2025-04-04 18:05:46,e6f625d3-3507-424a-915f-041dd4fe18a7,B2B,Networking,Gigabit Ethernet Switch,2,42.6,85.2
+2025-04-04 19:47:17,0512e443-cd3c-4e2d-ad33-6548a924d8d7,Retail,Mice,Vertical Ergonomic Mouse,1,44.23,44.23
+2025-04-04 17:44:11,7cd4f6e2-98b2-4476-9f4b-a874c5acb69b,Retail,Mice,Vertical Ergonomic Mouse,2,41.07,82.14
+2025-04-04 09:30:00,05af6c06-39d6-4ea5-819c-55cbd4cfaa1e,Web,Headsets,In-Ear Gaming Earbuds,1,30.32,30.32
+2025-04-04 18:52:19,af172720-e489-4747-9c7f-a50bd0d169fe,Retail,Headsets,USB Conference Headset,1,35.15,35.15
+2025-04-04 19:48:22,c1039a87-9abd-46ce-9b19-a48a66ebdb40,B2B,Keyboards,Membrane Office Keyboard,2,26.78,53.56
+2025-04-04 17:15:47,49ec1412-03ae-46e1-9ba5-7f562ae3bec1,B2B,Mice,Precision Laser Mouse,1,43.05,43.05
+2025-04-04 18:08:42,489bf3a8-e729-4c98-9a5c-588a0f9ce2f8,Retail,Storage,128GB USB Flash Drive,1,14.98,14.98
+2025-04-04 19:00:47,f101ca4c-54f0-462c-8ec8-d59f63f9b2b7,Web,Keyboards,Membrane Office Keyboard,1,20.29,20.29
+2025-04-05 14:22:47,3a884e30-817c-4137-91e6-83bc8dbf8306,B2B,Headsets,Noise-Cancelling Gaming Headset,1,116.43,116.43
+2025-04-05 15:28:26,b1e36910-5381-49fd-bcd9-6a890ecbbc44,B2B,Networking,Gigabit Ethernet Switch,2,46.37,92.74
+2025-04-05 19:59:36,33aef144-2534-45c1-aa7c-7eb9627ba821,Web,Storage,128GB USB Flash Drive,1,16.7,16.7
+2025-04-05 12:27:52,a0514b83-8909-495d-824d-ac68d89ee7b2,Retail,Mice,Optical Gaming Mouse,1,53.15,53.15
+2025-04-05 12:45:09,08a1ece5-0ae7-46f5-bc5b-270891112b30,Retail,Keyboards,Mechanical Gaming Keyboard,1,109.15,109.15
+2025-04-05 15:40:04,7f911041-3715-4313-b8b8-52b05d64cd39,Web,Mice,Wireless Bluetooth Mouse,2,29.19,58.38
+2025-04-05 19:57:57,3f862225-101a-4f4e-a0dc-efd286a9c529,Web,Storage,128GB USB Flash Drive,1,21.11,21.11
+2025-04-05 12:50:07,82695dcf-4797-4804-838a-5b6f2750cf3d,Web,Keyboards,Mechanical Gaming Keyboard,1,97.65,97.65
+2025-04-05 15:34:15,428bb4f8-9bba-4d9e-8c6b-777db757debb,Web,Monitors,24-inch 144Hz Gaming Monitor,1,212.38,212.38
+2025-04-05 20:04:47,59e3b288-fc84-41e8-9422-c990da7ee3c0,Web,Networking,Powerline Ethernet Adapter,1,44.95,44.95
+2025-04-06 15:18:18,ef59af92-4088-4eca-bb91-5b154aa98ea7,Retail,Keyboards,Membrane Office Keyboard,1,25.03,25.03
+2025-04-06 12:02:29,344a6093-2aeb-48fe-a13b-cbb814f6ef7c,B2B,Networking,Powerline Ethernet Adapter,2,35.69,71.38
+2025-04-06 20:04:46,29f40d82-c5e3-49f5-9ea9-b051cc766930,Web,Keyboards,Mechanical Gaming Keyboard,1,107.35,107.35
+2025-04-06 13:33:49,7bb03a27-d608-42b5-a8cb-29659a5d858b,Retail,Keyboards,Mechanical Gaming Keyboard,1,108.53,108.53
+2025-04-06 10:47:32,1a91de3b-064a-4577-9256-7ab8f9d92d50,B2B,Headsets,Wireless Bluetooth Headphones,1,91.39,91.39
+2025-04-06 09:01:17,a7a80854-e16a-4aac-a092-a0356777e356,Web,Mice,Optical Gaming Mouse,1,51.55,51.55
+2025-04-06 11:44:12,1c5a49f9-0772-4a7f-b66a-3e33fd08bc96,B2B,Storage,1TB NVMe SSD,1,72.02,72.02
+2025-04-06 18:11:01,85afe0da-ef79-4374-a4e8-a1938c2ac9bc,B2B,Mice,Wireless Bluetooth Mouse,2,32.0,64.0
+2025-04-06 13:05:08,b1de1318-bd21-4136-8c4d-eeacdd9b24eb,Retail,Keyboards,Wireless Ergonomic Keyboard,1,78.28,78.28
+2025-04-07 12:04:01,142f789d-b0bd-403e-8c06-590ba771bf5f,Retail,Storage,512GB Portable SSD,1,51.33,51.33
+2025-04-07 16:35:20,697011c9-8661-4c3e-b18b-13cc865801fa,Retail,Keyboards,Mechanical Gaming Keyboard,2,122.15,244.3
+2025-04-07 15:28:51,21ae29fb-ef25-4fc8-9f06-fea9a6622801,Web,Mice,Vertical Ergonomic Mouse,2,44.7,89.4
+2025-04-07 14:25:01,4617aa56-a208-4c00-a9f6-6739ed1e505f,Web,Headsets,In-Ear Gaming Earbuds,1,45.89,45.89
+2025-04-07 11:59:29,1ecace76-2adc-412a-af85-efe83ef7b847,B2B,Headsets,Wireless Bluetooth Headphones,2,79.91,159.82
+2025-04-07 15:07:06,c6939919-8275-4f9b-9669-d55ed541ace2,Web,Networking,USB Wi-Fi Adapter,2,28.57,57.14
+2025-04-07 20:27:11,5bd2d574-1e95-4ef3-98f4-c5618aeec2f3,Retail,Storage,4TB Desktop HDD,1,102.2,102.2
+2025-04-07 13:07:02,af9e8a5e-7134-4bda-a362-b760801afae5,B2B,Mice,Trackball Mouse,1,53.87,53.87
+2025-04-07 09:40:16,f29e098d-6f70-40e7-9ba4-eedf3a72fa1a,Retail,Networking,USB Wi-Fi Adapter,2,24.03,48.06
+2025-04-07 20:02:31,8b5ec5b1-08d9-4f48-be73-e9f76699190b,Web,Keyboards,Membrane Office Keyboard,2,28.19,56.38
+2025-04-07 09:28:09,5950323a-7ce8-457d-98f9-02af6d921759,Web,Mice,Wireless Bluetooth Mouse,1,29.29,29.29
+2025-04-07 11:19:59,0a79ebce-1eef-40b6-a6d0-978b1d817bf6,B2B,Keyboards,Mechanical Gaming Keyboard,1,128.97,128.97
+2025-04-08 18:15:50,45961e41-8bb5-4f1a-bbfd-0f0ba0227188,B2B,Keyboards,Wireless Ergonomic Keyboard,1,69.15,69.15
+2025-04-08 20:53:17,4269d02b-08b3-4371-b7a6-abcd21ef743c,Web,Storage,512GB Portable SSD,1,53.37,53.37
+2025-04-08 20:55:39,100449a6-313b-44b0-a074-96ad2d491d9f,B2B,Headsets,Wireless Bluetooth Headphones,2,84.75,169.5
+2025-04-08 18:08:42,7a47c29c-5b4f-4314-9217-a1c51bb11531,B2B,Storage,1TB NVMe SSD,2,83.31,166.62
+2025-04-08 10:21:45,911bf036-2d8b-43ec-9256-6855e977595b,Retail,Monitors,27-inch 4K IPS Monitor,1,263.5,263.5
+2025-04-08 14:16:40,4f54f049-936e-4b33-aa15-d550dbe2123b,B2B,Keyboards,Membrane Office Keyboard,1,29.66,29.66
+2025-04-09 15:53:27,51643606-0902-451c-8fa9-2b6f8560ebdd,B2B,Networking,Wireless Mesh Router System,2,245.73,491.46
+2025-04-09 11:36:40,d8cf6ca9-307e-4c0b-83ce-511a425c531d,B2B,Storage,1TB NVMe SSD,1,82.22,82.22
+2025-04-09 13:12:01,51005044-b233-453e-b26f-d4c02fdceefc,Retail,Storage,2TB External HDD,1,69.03,69.03
+2025-04-10 09:32:39,42ae17f5-bd8a-444c-ab05-50175a7b5c2d,B2B,Storage,512GB Portable SSD,1,64.11,64.11
+2025-04-10 20:48:06,74979267-a06f-40b6-ba0c-b38d56138449,Retail,Networking,Powerline Ethernet Adapter,1,45.5,45.5
+2025-04-10 09:35:11,f4ec338b-1b95-4574-a49e-463d1cb46384,Retail,Monitors,15.6-inch Portable USB-C Monitor,1,164.96,164.96
+2025-04-10 11:01:05,fb89e54f-ffcf-43d3-90a5-94202de3128d,Web,Headsets,Wireless Bluetooth Headphones,1,73.88,73.88
+2025-04-10 14:46:07,fc8bb706-7d52-451e-8dcc-5b1c2b4e5bbb,Retail,Monitors,15.6-inch Portable USB-C Monitor,1,159.18,159.18
+2025-04-10 19:35:58,70885819-aab2-4f11-b67d-f24b6e35880e,B2B,Storage,4TB Desktop HDD,1,97.81,97.81
+2025-04-10 10:54:01,c52c95d2-4071-4ee0-9949-fe6134cb2c14,Web,Headsets,In-Ear Gaming Earbuds,1,27.05,27.05
+2025-04-10 11:42:41,04d93341-08b4-4296-a062-27aaf414c0b8,Retail,Monitors,15.6-inch Portable USB-C Monitor,1,123.34,123.34
+2025-04-10 16:13:48,f0df4e0a-71be-4aa8-bf3c-03c5ebf568f6,B2B,Headsets,Noise-Cancelling Gaming Headset,1,109.93,109.93
+2025-04-11 16:27:00,d5fc7464-974a-4210-8c88-898c2011f608,Retail,Storage,512GB Portable SSD,1,62.25,62.25
+2025-04-11 09:43:38,0f375841-cae6-423a-a2a4-2454add5e65b,Web,Keyboards,Wireless Ergonomic Keyboard,2,76.96,153.92
+2025-04-11 19:39:11,19aa0691-abe4-4676-ac86-b90dab8eb656,B2B,Mice,Vertical Ergonomic Mouse,1,45.52,45.52
+2025-04-11 14:57:27,1225f88f-3f49-427b-a2ba-5024f7f3e7ff,Retail,Networking,Gigabit Ethernet Switch,1,35.55,35.55
+2025-04-11 18:36:47,e088bcf3-9b96-47a0-b22d-4e1cdff2dd0b,Web,Mice,Wireless Bluetooth Mouse,1,28.09,28.09
+2025-04-11 14:00:44,a20764ff-eaf6-497b-b23e-86ead19efac9,B2B,Keyboards,Membrane Office Keyboard,1,27.59,27.59
+2025-04-11 18:39:02,f8d4cdec-ed4e-497d-adef-159edc3e781c,Web,Headsets,Noise-Cancelling Gaming Headset,1,103.39,103.39
+2025-04-11 20:57:57,a52e1aea-8cb8-4593-ad7c-5c16b72f1969,B2B,Mice,Wireless Bluetooth Mouse,2,25.95,51.9
+2025-04-11 13:39:00,59ba3ed3-a107-4c6f-a369-eb437b8893c5,Web,Mice,Optical Gaming Mouse,1,57.56,57.56
+2025-04-11 10:49:30,299eb40f-4c89-4540-9bfd-a9ba18d2cd36,Retail,Headsets,Noise-Cancelling Gaming Headset,1,81.57,81.57
+2025-04-11 20:42:50,6da042eb-07a3-415c-a1a9-d28134da1639,Web,Keyboards,Mechanical Gaming Keyboard,1,96.81,96.81
+2025-04-11 20:55:06,f864dd80-00b1-4cc1-82bd-ce82aecdb016,Retail,Mice,Vertical Ergonomic Mouse,1,54.15,54.15
+2025-04-12 16:18:35,f4b87db3-828f-4e97-8729-6e344398971a,Retail,Headsets,Noise-Cancelling Gaming Headset,1,121.57,121.57
+2025-04-12 16:23:54,1ccdded9-0748-4c63-a2e2-1db1883320d5,Retail,Keyboards,Membrane Office Keyboard,1,27.95,27.95
+2025-04-12 19:44:31,5d1bb694-49a1-48c9-86c9-0e79672d3aab,B2B,Mice,Wireless Bluetooth Mouse,1,30.68,30.68
+2025-04-12 17:06:10,36971639-4759-4339-9e2e-bbf3c671d3ce,B2B,Keyboards,Wireless Ergonomic Keyboard,2,77.57,155.14
+2025-04-12 16:34:05,8c193846-b5d2-48f0-a1c4-f96095350924,Web,Storage,128GB USB Flash Drive,2,16.3,32.6
+2025-04-12 09:32:09,89eb4567-aa45-40ce-88e5-912c79160baf,Retail,Storage,128GB USB Flash Drive,1,13.2,13.2
+2025-04-12 18:01:36,da9a1229-b548-4884-9877-dac8e41220ed,Retail,Headsets,Wireless Bluetooth Headphones,1,94.66,94.66
+2025-04-12 17:51:50,c78f861c-2741-477e-add8-332f9c17dc7f,Retail,Mice,Vertical Ergonomic Mouse,1,35.66,35.66
+2025-04-13 20:57:56,fe647938-942e-4604-a3b2-5f1bbc3c23a4,Web,Mice,Trackball Mouse,1,72.37,72.37
+2025-04-13 16:44:53,7a48526e-0f00-40e2-a2f4-d68b8d2b571b,Web,Networking,Wireless Mesh Router System,1,230.79,230.79
+2025-04-13 09:21:17,e824c8da-5f72-404d-a65e-c1b8fb57dd93,Web,Storage,512GB Portable SSD,2,59.32,118.64
+2025-04-13 19:19:54,e5511a18-5623-40d6-bb36-6339471181a3,Retail,Storage,512GB Portable SSD,1,53.07,53.07
+2025-04-13 10:45:33,4227ed8b-545d-4cc1-b9d7-f7a86afd3812,Retail,Monitors,27-inch 4K IPS Monitor,1,336.97,336.97
+2025-04-13 18:36:57,03cf19e6-eca4-4169-9d20-b3d9848e9ba7,Web,Mice,Optical Gaming Mouse,1,35.69,35.69
+2025-04-14 13:19:16,6a33260f-ab5e-4a3f-aae9-100f1b90dfc9,B2B,Mice,Optical Gaming Mouse,1,48.22,48.22
+2025-04-14 16:57:14,916dbb20-4bbf-41c2-bf6f-03ca5217d339,B2B,Mice,Precision Laser Mouse,1,66.4,66.4
+2025-04-14 16:21:14,dc55ad18-35ef-4bef-9555-579eb1edb1e5,Retail,Storage,512GB Portable SSD,1,49.41,49.41
+2025-04-14 12:06:33,c3cae1fb-c9ae-418a-a75d-6f492fec8709,B2B,Storage,1TB NVMe SSD,2,83.94,167.88
+2025-04-14 18:10:41,533d1deb-6ff6-4ff6-a75d-08d6f1cf5f4c,Retail,Headsets,USB Conference Headset,2,42.89,85.78
+2025-04-14 12:18:25,73862df2-59dd-4991-94ae-fb463640cc82,B2B,Storage,1TB NVMe SSD,1,103.26,103.26
+2025-04-15 17:59:38,a916a0a1-f980-47e6-b7cd-d7c9af80f5d7,Web,Headsets,Noise-Cancelling Gaming Headset,2,96.28,192.56
+2025-04-15 15:55:20,46d11a7e-d8ad-4799-a816-c4a5c4b58ffa,B2B,Headsets,USB Conference Headset,1,37.82,37.82
+2025-04-15 11:47:23,173e6045-cefd-4949-b625-f51eb02ba08e,Retail,Storage,128GB USB Flash Drive,1,12.21,12.21
+2025-04-15 12:35:52,e33ee730-00b4-4d0d-9ddc-b210e5ceb04c,B2B,Mice,Vertical Ergonomic Mouse,2,36.61,73.22
+2025-04-15 19:21:01,38b8d0b1-da96-4072-bdd8-ea1d9dbfed42,B2B,Storage,1TB NVMe SSD,1,59.34,59.34
+2025-04-15 12:47:16,59689548-2cfe-4ec8-a38a-602fd1ed59df,Retail,Mice,Precision Laser Mouse,2,65.24,130.48
+2025-04-15 18:33:25,2449ba12-e605-4102-8c81-ed64e08a8a61,Web,Networking,Powerline Ethernet Adapter,1,56.37,56.37
+2025-04-15 15:50:21,6498546f-7f9d-495b-835e-677e1748b954,Web,Networking,Powerline Ethernet Adapter,1,49.18,49.18
+2025-04-15 10:22:42,bfcb0a16-31d8-4c86-b532-fe6470d6ce0f,Web,Networking,USB Wi-Fi Adapter,1,21.98,21.98
+2025-04-15 16:57:38,b7706e22-541c-4326-bfad-090345ba5abd,Web,Storage,512GB Portable SSD,1,55.14,55.14
+2025-04-16 12:59:17,fb63ee67-b70a-4c54-87ee-5d5020939d15,Web,Storage,128GB USB Flash Drive,2,13.08,26.16
+2025-04-16 13:22:17,cab6b394-7ba1-4d5a-8575-b46b83d145dd,B2B,Storage,2TB External HDD,2,59.14,118.28
+2025-04-16 17:33:06,fb21b8fd-5da7-49c1-b02b-ac82bcd08de1,Retail,Mice,Wireless Bluetooth Mouse,1,37.87,37.87
+2025-04-16 16:51:58,bea12a5f-f811-476a-9c32-b312ffd4f980,B2B,Mice,Wireless Bluetooth Mouse,2,38.97,77.94
+2025-04-16 12:38:22,b0ffee18-4b6c-4529-8cd7-d7fb24a688ee,Web,Storage,128GB USB Flash Drive,1,13.62,13.62
+2025-04-16 16:55:21,355d89d9-d360-4302-a575-cfc5e78eb1da,Web,Mice,Vertical Ergonomic Mouse,1,45.0,45.0
+2025-04-16 20:20:30,89ccf2dd-66d3-4539-8788-e43c2c4e0a27,B2B,Storage,512GB Portable SSD,1,56.07,56.07
+2025-04-16 15:54:28,fa64a20a-b5b4-481c-b070-b46ebee79f3b,Retail,Mice,Optical Gaming Mouse,2,38.97,77.94
+2025-04-16 13:30:17,34055395-1efe-4254-9073-fe979978cb64,Retail,Keyboards,Wireless Ergonomic Keyboard,1,85.57,85.57
+2025-04-16 12:09:39,71872fdf-da9a-4672-88b2-94f751eb0da7,Retail,Mice,Wireless Bluetooth Mouse,1,38.0,38.0
+2025-04-16 17:56:49,0074599e-caef-4a67-965f-c1f066f8967a,B2B,Storage,512GB Portable SSD,2,53.41,106.82
+2025-04-16 17:21:04,ab8b1259-0d19-4d48-84eb-5aad098a1454,Web,Headsets,Wireless Bluetooth Headphones,1,74.16,74.16
+2025-04-16 19:23:47,9ab9221a-c2b7-4110-b5cc-855cd73a866b,Web,Headsets,USB Conference Headset,2,38.49,76.98
+2025-04-16 15:01:05,60b42b78-98d2-4a73-a37e-b3194dc7c5c8,Retail,Headsets,USB Conference Headset,1,45.94,45.94
+2025-04-16 18:24:19,9267c8a1-4329-486b-9518-67d5e7682e5f,B2B,Keyboards,Mechanical Gaming Keyboard,2,118.22,236.44
+2025-04-16 14:26:43,735188fd-8525-4dbb-91c1-145f106c1f99,Web,Headsets,USB Conference Headset,1,34.43,34.43
+2025-04-17 16:30:24,2c3a2742-bbf3-4b62-a005-fbb877ca2a50,Web,Mice,Vertical Ergonomic Mouse,2,44.2,88.4
+2025-04-17 16:48:07,8b05e37c-6fe9-4036-92ee-e547c8f4bdc2,Web,Mice,Wireless Bluetooth Mouse,1,33.57,33.57
+2025-04-17 11:34:41,0ae49f6c-eeb5-4965-bf6e-17e09518380b,Retail,Storage,512GB Portable SSD,1,58.51,58.51
+2025-04-17 19:49:27,65299f3e-eed8-4ebe-84a8-0373e36a52a4,Web,Networking,USB Wi-Fi Adapter,1,29.73,29.73
+2025-04-17 14:24:11,f77b5af9-0860-49cf-a595-0eccbc15751a,Retail,Headsets,Wireless Bluetooth Headphones,1,78.56,78.56
+2025-04-17 13:00:14,936af0eb-7c96-48d0-8e95-78c6b7cd8ec9,B2B,Storage,512GB Portable SSD,1,72.75,72.75
+2025-04-17 18:28:23,caf6de0e-5ca3-4a55-9bdc-c17744137577,Retail,Monitors,34-inch Ultrawide Curved Monitor,1,417.92,417.92
+2025-04-17 19:19:40,4c162673-f23f-413a-854f-f0057b3b6a87,Web,Networking,USB Wi-Fi Adapter,1,27.95,27.95
+2025-04-19 20:55:38,d2dadd42-53a5-4d56-b861-d61afb7b0e34,Retail,Keyboards,Membrane Office Keyboard,2,26.21,52.42
+2025-04-19 12:32:34,82ba5344-58ae-4c07-928c-194ebd731f9e,B2B,Mice,Vertical Ergonomic Mouse,2,29.85,59.7
+2025-04-19 14:49:44,b5abc985-d147-4ed0-80ce-be68548645d6,Retail,Headsets,Surround Sound Headphones,1,129.1,129.1
+2025-04-19 19:49:17,7b44ae99-f5f1-428e-a273-1134b260df88,Web,Mice,Optical Gaming Mouse,1,41.47,41.47
+2025-04-19 12:35:20,5752bdda-e414-4231-897b-ed543f5916e9,Web,Mice,Wireless Bluetooth Mouse,2,23.79,47.58
+2025-04-19 18:57:49,7eb634fa-aa8b-4f94-a582-a55ed4c7628d,B2B,Mice,Optical Gaming Mouse,1,41.77,41.77
+2025-04-19 20:46:56,51785a56-ce94-462f-a13b-cda33e0b0689,B2B,Monitors,34-inch Ultrawide Curved Monitor,1,462.99,462.99
+2025-04-20 20:28:25,a797de08-9e1b-4689-ad64-852d41cdd0d6,Retail,Keyboards,Membrane Office Keyboard,1,26.67,26.67
+2025-04-20 16:51:29,632d08b7-1aeb-414a-a0cd-de89f3c058e6,Retail,Keyboards,RGB Backlit Keyboard,1,72.53,72.53
+2025-04-20 16:12:30,d822d7e0-0f27-475b-b1e7-17ae72363190,B2B,Storage,512GB Portable SSD,2,74.66,149.32
+2025-04-20 11:04:47,fd742388-529c-4f55-bb87-8650143ac0e0,Retail,Headsets,USB Conference Headset,1,52.3,52.3
+2025-04-20 10:15:47,e362a005-c935-4dbd-9208-83d976c9f4c6,Retail,Headsets,Surround Sound Headphones,2,112.16,224.32
+2025-04-20 12:57:04,0dac3002-390c-4b42-a924-58910ffa20e7,Web,Headsets,In-Ear Gaming Earbuds,1,42.89,42.89
+2025-04-20 15:55:49,6c6d3960-84c0-4703-a5e7-fa1cf7ed157f,Retail,Storage,1TB NVMe SSD,2,67.12,134.24
+2025-04-20 17:33:46,ea18bf4b-7813-4ca7-a9ed-75a70629856a,B2B,Headsets,In-Ear Gaming Earbuds,1,27.0,27.0
+2025-04-20 15:11:59,c8425e98-82b8-434e-aeb9-40039f65df43,B2B,Storage,2TB External HDD,1,54.97,54.97
+2025-04-21 15:41:56,cba3e431-bdb9-43e7-8183-556fe74303d3,Retail,Networking,Gigabit Ethernet Switch,1,37.43,37.43
+2025-04-21 19:29:06,9cf63401-3ae0-4125-ba92-04ff0eea05b6,Retail,Mice,Trackball Mouse,2,63.12,126.24
+2025-04-21 18:09:21,16de7c05-f044-42bd-a57e-af68e33e5f14,Retail,Headsets,Wireless Bluetooth Headphones,1,74.61,74.61
+2025-04-22 16:15:16,937e42ea-062e-4c4b-a4ee-83f1738bb909,Web,Mice,Vertical Ergonomic Mouse,1,44.02,44.02
+2025-04-22 10:04:22,868ddb03-db0b-4263-9158-eb0dc8cca9be,B2B,Storage,4TB Desktop HDD,1,122.58,122.58
+2025-04-22 18:21:05,b122ed49-1462-4511-9beb-9fb24dac1093,B2B,Headsets,Wireless Bluetooth Headphones,1,79.83,79.83
+2025-04-22 16:52:01,fd5c8f0e-8b0f-4627-bbd1-7e5198ddd21f,Retail,Headsets,Noise-Cancelling Gaming Headset,1,122.61,122.61
+2025-04-22 10:13:06,22475cae-d6b5-4755-9e07-ef4f4727b122,Retail,Storage,512GB Portable SSD,1,57.33,57.33
+2025-04-22 12:35:12,d67c491f-d8a7-4e5d-b922-a54e18b3fc3e,Retail,Keyboards,Membrane Office Keyboard,2,25.25,50.5
+2025-04-22 12:23:15,2d87e976-958b-4c25-a44d-c9867fe0b756,B2B,Mice,Optical Gaming Mouse,1,51.97,51.97
+2025-04-22 20:05:02,3d9c2c29-9c72-48fe-8723-b1f97d7f9e21,Retail,Keyboards,RGB Backlit Keyboard,1,65.01,65.01
+2025-04-23 12:06:44,bcbecd2c-041b-4991-8773-b99fdccc9dc4,Web,Storage,128GB USB Flash Drive,1,16.49,16.49
+2025-04-23 12:11:02,85be4490-369d-42e5-bcfd-9d6776684367,Retail,Keyboards,Wireless Ergonomic Keyboard,1,66.81,66.81
+2025-04-23 12:21:19,f30ab39d-0625-42ee-b220-b07c8f85480d,Web,Mice,Precision Laser Mouse,1,50.33,50.33
+2025-04-23 12:27:32,60c4d1b7-abeb-4d8d-b17c-02b8f64367a5,Retail,Headsets,Noise-Cancelling Gaming Headset,1,89.72,89.72
+2025-04-23 13:42:19,422ee47c-447d-4787-8d4c-745296d03025,B2B,Storage,1TB NVMe SSD,1,60.97,60.97
+2025-04-23 12:48:08,ae825118-8683-485c-9ea9-92b374e4da38,Retail,Storage,512GB Portable SSD,1,41.64,41.64
+2025-04-23 19:01:24,9a6989d3-1e2d-44e7-9348-a3e5729515c6,Web,Storage,128GB USB Flash Drive,2,15.32,30.64
+2025-04-23 18:55:08,fb2afb36-d560-4b55-870d-4cb71469590b,Web,Storage,2TB External HDD,1,65.2,65.2
+2025-04-23 16:16:13,9aaad4ff-1acd-4c8d-b548-d4d2348406a0,B2B,Monitors,24-inch 144Hz Gaming Monitor,1,141.46,141.46
+2025-04-23 17:57:10,342b5ec3-5860-46f4-9f11-a042f6e4bd7e,B2B,Keyboards,Wireless Ergonomic Keyboard,1,82.83,82.83
+2025-04-23 17:30:08,839f4065-0440-498d-8aa1-9df10fd9883c,Web,Storage,4TB Desktop HDD,2,74.81,149.62
+2025-04-24 13:31:27,4e1d713d-8e1c-4dbc-a06a-a37fa22c322e,B2B,Keyboards,Wireless Ergonomic Keyboard,1,89.8,89.8
+2025-04-24 15:32:02,825bb7e8-1cb1-48ee-b2f5-7006e1d40f67,Web,Networking,USB Wi-Fi Adapter,1,28.17,28.17
+2025-04-24 09:00:55,9352260b-0c04-42f1-b10c-93164bc65d5c,B2B,Networking,Network Attached Storage (NAS),1,331.06,331.06
+2025-04-24 09:05:51,780df804-21ef-4885-ac2a-c5d02f2f8a47,Web,Storage,1TB NVMe SSD,2,89.69,179.38
+2025-04-25 19:41:39,3a1861ff-9410-4327-8d50-61368f523e27,Web,Keyboards,Compact 60% Keyboard,1,63.22,63.22
+2025-04-25 16:38:47,9798629f-8d71-4388-baaa-b2a87e7ba033,B2B,Networking,USB Wi-Fi Adapter,1,34.41,34.41
+2025-04-25 19:03:38,7e7f1c1a-9aa6-442a-99b1-da56a7975306,Web,Storage,4TB Desktop HDD,2,100.04,200.08
+2025-04-25 19:26:20,4fd0a5f5-ee14-4d1b-a8cd-62b3fa28e67d,B2B,Networking,USB Wi-Fi Adapter,2,33.51,67.02
+2025-04-25 18:19:34,361fc65d-b2b6-4a53-b204-bb938096cc2b,Retail,Monitors,24-inch 144Hz Gaming Monitor,1,152.47,152.47
+2025-04-26 09:39:24,fdb4fc63-7e38-47df-8155-a028fefd337e,B2B,Mice,Wireless Bluetooth Mouse,2,35.75,71.5
+2025-04-26 12:41:17,cc52324d-8087-4c39-b6da-484500a9e8a7,Retail,Networking,Gigabit Ethernet Switch,2,57.36,114.72
+2025-04-26 15:02:07,054f65c0-4d47-4a70-957e-96e95e723fa8,Retail,Mice,Precision Laser Mouse,2,66.67,133.34
+2025-04-26 09:22:14,be2bcf09-cf73-44a9-8d7e-d091326493b4,Retail,Keyboards,Membrane Office Keyboard,1,25.19,25.19
+2025-04-26 19:35:34,b8834509-2931-4092-a662-de402b70725d,B2B,Storage,2TB External HDD,1,47.59,47.59
+2025-04-26 17:01:55,db1e8f13-455d-4ab6-a4f4-3496755b4186,B2B,Storage,512GB Portable SSD,1,56.02,56.02
+2025-04-27 20:18:02,f1c754aa-70dd-4626-96e7-4e92d001f11a,B2B,Storage,128GB USB Flash Drive,1,14.21,14.21
+2025-04-27 10:05:58,48111b65-9b4e-4633-823f-25bb1df3a942,Web,Monitors,24-inch 144Hz Gaming Monitor,1,134.62,134.62
+2025-04-27 18:06:40,677402a1-8d0a-4a70-a9e5-5bf16c6dd169,B2B,Keyboards,Mechanical Gaming Keyboard,1,93.26,93.26
+2025-04-27 15:31:28,10a05789-0469-4196-b999-652253414514,B2B,Storage,1TB NVMe SSD,1,67.13,67.13
+2025-04-27 11:04:32,a4d7a6ff-18cf-416a-8fdf-66daf94181af,Retail,Networking,Gigabit Ethernet Switch,1,47.39,47.39
+2025-04-27 20:02:16,c3358875-7379-4169-8c49-3be201d72810,Web,Storage,1TB NVMe SSD,1,66.45,66.45
+2025-04-27 09:02:50,95cb2d25-e732-43bf-ac3a-2294266e7581,B2B,Headsets,USB Conference Headset,1,48.52,48.52
+2025-04-27 17:53:40,43bc02e9-8c1b-44d6-8511-e81152f9dc40,B2B,Mice,Wireless Bluetooth Mouse,1,33.5,33.5
+2025-04-27 17:02:12,f1dc683a-e4db-412d-981e-d748740dea51,Web,Headsets,Wireless Bluetooth Headphones,1,86.43,86.43
+2025-04-27 09:23:35,9c59600d-2708-4257-99e4-651af7e46f56,Retail,Storage,512GB Portable SSD,1,63.57,63.57
+2025-04-27 17:22:13,24a360e9-b34b-4b54-8230-b323ed4431c2,Retail,Storage,1TB NVMe SSD,2,54.66,109.32
+2025-04-28 09:00:02,2b6cde23-9681-436f-98fc-1cc563a34290,B2B,Networking,USB Wi-Fi Adapter,1,22.99,22.99
+2025-04-28 20:54:49,dd88a4f8-ffa5-4c89-a249-71e592a70a12,Web,Networking,USB Wi-Fi Adapter,1,32.52,32.52
+2025-04-28 19:16:32,9e62b832-8231-407a-a110-ad93d46ed8ff,Web,Networking,Gigabit Ethernet Switch,1,31.38,31.38
+2025-04-28 11:20:20,2754541a-34c0-4c64-a95c-c0dc5268cc8f,B2B,Networking,Wireless Mesh Router System,1,180.72,180.72
+2025-04-28 11:20:53,aa6b44f6-1001-43a3-9692-2e8096703def,Web,Mice,Vertical Ergonomic Mouse,2,52.19,104.38
+2025-04-28 20:49:46,f2233c9e-43bd-4661-a8e3-497b2e1ca849,B2B,Networking,Powerline Ethernet Adapter,1,68.84,68.84
+2025-04-28 10:58:53,0c9611a9-5207-4aef-a86d-b27efddc4d03,Web,Keyboards,Wireless Ergonomic Keyboard,1,80.63,80.63
+2025-04-28 13:06:31,d19f3bc5-9312-45f0-b5f7-2e420ef6a345,Web,Storage,128GB USB Flash Drive,2,18.31,36.62
+2025-04-28 13:32:14,735f0e28-4fb0-44e1-86fa-4e802cbeb7f7,B2B,Keyboards,Membrane Office Keyboard,2,22.25,44.5
+2025-04-28 11:59:43,f495140b-2f65-4f7b-8b21-9ab13889e097,Web,Headsets,Noise-Cancelling Gaming Headset,1,109.78,109.78
+2025-04-29 20:36:19,040032be-52ad-44ca-b383-84bbb8440513,B2B,Headsets,Surround Sound Headphones,1,125.31,125.31
+2025-04-29 11:45:13,cf4cb032-2ca7-441f-85bb-e557b0e5303f,B2B,Mice,Optical Gaming Mouse,2,52.25,104.5
+2025-04-29 18:52:24,0ce62d50-273d-4f95-a0e6-021fbe5283d6,Retail,Mice,Vertical Ergonomic Mouse,1,37.51,37.51
+2025-04-29 12:35:46,f0eb5724-ddac-48e3-904e-6639dbc170b6,Web,Monitors,24-inch 144Hz Gaming Monitor,1,192.61,192.61
+2025-04-29 13:06:18,5e48a5ed-7d9d-4b8a-be7b-428416e70bf7,Retail,Mice,Optical Gaming Mouse,1,51.57,51.57
+2025-04-30 20:36:49,62893d99-29f6-49aa-aa78-1977249e3ff4,Retail,Monitors,24-inch 144Hz Gaming Monitor,1,155.45,155.45
+2025-04-30 20:17:10,ec922258-4149-41fb-9287-67a5898ceae5,Web,Headsets,Surround Sound Headphones,1,136.39,136.39
+2025-04-30 12:25:09,ac285903-d62d-44e8-bf32-25656928b29f,Retail,Mice,Vertical Ergonomic Mouse,2,40.06,80.12
+2025-04-30 16:18:59,ec53d346-ab19-4fa1-8b34-524bd1f20099,Web,Keyboards,Compact 60% Keyboard,1,50.1,50.1
